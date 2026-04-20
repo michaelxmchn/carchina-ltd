@@ -6,3 +6,5 @@ data/
 test*.js
 cn_replacement.txt
 test_syntax.js
+
+.vercel
