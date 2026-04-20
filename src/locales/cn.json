@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "vehicles": "车辆",
+    "services": "服务",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "优质中国二手车，出口全球市场",
+    "subtitle": "您值得信赖的二手车出口合作伙伴，覆盖俄罗斯、中东、非洲及东南亚",
+    "cta_browse": "浏览库存",
+    "cta_quote": "获取报价"
+  },
+  "stats": {
+    "years": "年出口经验",
+    "vehicles": "出口车辆",
+    "countries": "覆盖国家",
+    "satisfaction": "客户满意度"
+  },
+  "vehicles": {
+    "title": "精选车辆",
+    "view_details": "查看详情",
+    "year": "年份",
+    "mileage": "里程",
+    "fuel": "燃料",
+    "transmission": "变速箱",
+    "price": "价格"
+  },
+  "services": {
+    "title": "为什么选择我们",
+    "sourcing_title": "车辆采购",
+    "sourcing_desc": "覆盖全中国的10,000+车辆资源",
+    "inspection_title": "质量检测",
+    "inspection_desc": "150项专业检测",
+    "shipping_title": "全球物流",
+    "shipping_desc": "全球港口配送",
+    "docs_title": "出口文件",
+    "docs_desc": "全套清关服务支持"
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "您的姓名",
+    "email": "电子邮箱",
+    "phone": "联系电话",
+    "message": "您的留言",
+    "submit": "发送消息"
+  },
+  "footer": {
+    "description": "您值得信赖的中国二手车出口合作伙伴",
+    "quick_links": "快速链接",
+    "contact_info": "联系方式",
+    "copyright": "版权所有"
+  },
+  "seo": {
+    "title": "Global Envoy - 优质中国二手车出口",
+    "description": "出口优质二手车到俄罗斯、中东、非洲和东南亚。150项检测、全球物流、全套文件支持。",
+    "keywords": "二手车出口，中国车辆出口，汽车出口俄罗斯，二手车出口中东"
+  }
+}

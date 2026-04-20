@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "vehicles": "Vehicles",
+    "services": "Services", 
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Chinese Used Vehicles for Global Markets",
+    "subtitle": "Your trusted partner in vehicle exports to Russia, Middle East, Africa & Southeast Asia",
+    "cta_browse": "Browse Inventory",
+    "cta_quote": "Get Quote"
+  },
+  "stats": {
+    "years": "Years in Business",
+    "vehicles": "Vehicles Exported",
+    "countries": "Countries Served",
+    "satisfaction": "Client Satisfaction"
+  },
+  "vehicles": {
+    "title": "Featured Inventory",
+    "view_details": "View Details",
+    "year": "Year",
+    "mileage": "Mileage",
+    "fuel": "Fuel",
+    "transmission": "Transmission",
+    "price": "Price"
+  },
+  "services": {
+    "title": "Why Choose Us",
+    "sourcing_title": "Vehicle Sourcing",
+    "sourcing_desc": "Access to 10,000+ vehicles across China",
+    "inspection_title": "Quality Inspection",
+    "inspection_desc": "150-point professional inspection",
+    "shipping_title": "Global Shipping",
+    "shipping_desc": "Worldwide port delivery",
+    "docs_title": "Export Documentation",
+    "docs_desc": "Complete customs clearance support"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "submit": "Send Message"
+  },
+  "footer": {
+    "description": "Your trusted partner in Chinese vehicle exports",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Info",
+    "copyright": "All rights reserved"
+  },
+  "seo": {
+    "title": "CARCHINA.LTD - Premium Chinese Used Vehicles Export",
+    "description": "Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support.",
+    "keywords": "used cars export, China vehicle export, car export Russia, automotive export China"
+  }
+}
+

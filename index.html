@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>CARCHINA.LTD - Premium Chinese Used Vehicles Export</title>
+<meta name="description" content="Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support."/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<style>
+.material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+.editorial-gradient { background: linear-gradient(135deg, #002045 0%, #1a365d 100%); }
+.glass-nav { backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); }
+html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
+.page { display: none; }
+.page.active { display: block; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-['Inter',sans-serif]">
+
+<!-- Navigation -->
+<nav class="fixed top-0 w-full z-50 bg-slate-50/90 glass-nav shadow-lg">
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-4">
+<div class="flex justify-between items-center">
+<div class="text-xl md:text-2xl font-black tracking-tighter text-blue-900 font-['Montserrat'] cursor-pointer" onclick="showPage('home')">CARCHINA.LTD</div>
+<div class="hidden md:flex items-center gap-6 lg:gap-8">
+<a class="nav-link text-blue-900 font-bold border-b-2 border-yellow-500 pb-1 cursor-pointer" data-page="home" onclick="showPage('home')" data-i18n="nav.home">Home</a>
+<a class="nav-link text-slate-500 font-medium hover:text-blue-900 transition-colors cursor-pointer" data-page="vehicles" onclick="showPage('vehicles')" data-i18n="nav.vehicles">Vehicles</a>
+<a class="nav-link text-slate-500 font-medium hover:text-blue-900 transition-colors cursor-pointer" data-page="services" onclick="showPage('services')" data-i18n="nav.services">Services</a>
+<a class="nav-link text-slate-500 font-medium hover:text-blue-900 transition-colors cursor-pointer" data-page="about" onclick="showPage('about')" data-i18n="nav.about">About</a>
+<a class="nav-link text-slate-500 font-medium hover:text-blue-900 transition-colors cursor-pointer" data-page="contact" onclick="showPage('contact')" data-i18n="nav.contact">Contact</a>
+</div>
+<div class="flex items-center gap-3">
+<div class="relative">
+<button id="langBtn" class="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-slate-200 transition-colors" onclick="toggleLangDropdown()">
+<span class="material-symbols-outlined text-xl">language</span>
+<span class="text-sm font-medium hidden md:inline" id="currentLang">EN</span>
+</button>
+<div id="langDropdown" class="hidden absolute right-0 mt-2 bg-white rounded-xl shadow-xl border border-slate-200 py-2 min-w-[140px] z-50">
+<div class="px-4 py-2 hover:bg-slate-100 cursor-pointer text-sm" onclick="setLanguage('en')">🇬🇧 English</div>
+<div class="px-4 py-2 hover:bg-slate-100 cursor-pointer text-sm" onclick="setLanguage('cn')">🇨🇳 中文</div>
+<div class="px-4 py-2 hover:bg-slate-100 cursor-pointer text-sm" onclick="setLanguage('ru')">🇷🇺 Русский</div>
+<div class="px-4 py-2 hover:bg-slate-100 cursor-pointer text-sm" onclick="setLanguage('ar')">🇸🇦 العربية</div>
+</div>
+</div>
+<button onclick="showPage('admin')" class="p-2 rounded-lg hover:bg-slate-200 transition-colors" title="Admin">
+<span class="material-symbols-outlined">settings</span>
+</button>
+</div>
+<button class="md:hidden p-2" onclick="toggleMobileMenu()">
+<span class="material-symbols-outlined">menu</span>
+</button>
+</div>
+</div>
+</nav>
+
+<!-- Mobile Menu -->
+<div id="mobileMenu" class="fixed inset-0 z-40 bg-white hidden flex-col pt-20 px-6">
+<div class="flex flex-col gap-4">
+<a class="text-xl font-bold text-blue-900 py-3 border-b border-slate-200 cursor-pointer" onclick="showPage('home'); toggleMobileMenu()">Home</a>
+<a class="text-xl font-medium text-slate-600 py-3 border-b border-slate-200 cursor-pointer" onclick="showPage('vehicles'); toggleMobileMenu()">Vehicles</a>
+<a class="text-xl font-medium text-slate-600 py-3 border-b border-slate-200 cursor-pointer" onclick="showPage('services'); toggleMobileMenu()">Services</a>
+<a class="text-xl font-medium text-slate-600 py-3 border-b border-slate-200 cursor-pointer" onclick="showPage('about'); toggleMobileMenu()">About</a>
+<a class="text-xl font-medium text-slate-600 py-3 border-b border-slate-200 cursor-pointer" onclick="showPage('contact'); toggleMobileMenu()">Contact</a>
+</div>
+</div>
+
+<main class="pt-20">
+
+<!-- HOME PAGE -->
+<div id="page-home" class="page active">
+<section class="relative min-h-[80vh] flex items-center justify-center editorial-gradient overflow-hidden">
+<div class="absolute inset-0 bg-black/40"></div>
+<img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1920" alt="Luxury Cars" class="absolute inset-0 w-full h-full object-cover"/>
+<div class="relative z-10 max-w-7xl mx-auto px-4 md:px-8 py-20 text-center text-white">
+<h1 class="text-4xl md:text-6xl lg:text-7xl font-black font-['Montserrat'] mb-6" data-i18n="hero.title">Premium Chinese Used Vehicles for Global Markets</h1>
+<p class="text-lg md:text-xl lg:text-2xl mb-10 opacity-90 max-w-3xl mx-auto" data-i18n="hero.subtitle">Your trusted partner in vehicle exports to Russia, Middle East, Africa & Southeast Asia</p>
+<div class="flex flex-col sm:flex-row gap-4 justify-center">
+<button onclick="showPage('vehicles')" class="bg-red-600 hover:bg-red-700 text-white font-bold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105" data-i18n="hero.cta_browse">Browse Inventory</button>
+<button onclick="showPage('contact')" class="bg-white/20 hover:bg-white/30 backdrop-blur text-white font-bold px-8 py-4 rounded-xl text-lg border-2 border-white/50 transition-all" data-i18n="hero.cta_quote">Get Quote</button>
+</div>
+</div>
+</section>
+
+<section class="bg-blue-900 text-white py-8">
+<div class="max-w-7xl mx-auto px-4 md:px-8">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+<div><div class="text-3xl md:text-5xl font-black font-['Montserrat']">15+</div><div class="text-sm md:text-base opacity-80 mt-2" data-i18n="stats.years">Years in Business</div></div>
+<div><div class="text-3xl md:text-5xl font-black font-['Montserrat']">50K+</div><div class="text-sm md:text-base opacity-80 mt-2" data-i18n="stats.vehicles">Vehicles Exported</div></div>
+<div><div class="text-3xl md:text-5xl font-black font-['Montserrat']">45+</div><div class="text-sm md:text-base opacity-80 mt-2" data-i18n="stats.countries">Countries Served</div></div>
+<div><div class="text-3xl md:text-5xl font-black font-['Montserrat']">98%</div><div class="text-sm md:text-base opacity-80 mt-2" data-i18n="stats.satisfaction">Client Satisfaction</div></div>
+</div>
+</div>
+</section>
+
+<section class="py-16 md:py-24 bg-slate-50">
+<div class="max-w-7xl mx-auto px-4 md:px-8">
+<h2 class="text-3xl md:text-4xl font-black font-['Montserrat'] text-blue-900 mb-12 text-center" data-i18n="featured.title">Featured Inventory</h2>
+<div id="featuredVehicles" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
+</div>
+</section>
+
+<section class="py-16 md:py-24 bg-slate-100">
+<div class="max-w-7xl mx-auto px-4 md:px-8">
+<h2 class="text-3xl md:text-4xl font-black font-['Montserrat'] text-blue-900 mb-12 text-center" data-i18n="services.title">Why Choose Us</h2>
+<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow hover:-translate-y-1">
+<div class="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center mb-6"><span class="material-symbols-outlined text-3xl text-blue-900">search</span></div>
+<h3 class="text-xl font-bold text-blue-900 mb-3" data-i18n="services.sourcing">Vehicle Sourcing</h3>
+<p class="text-slate-600" data-i18n="services.sourcing_desc">Access to 10,000+ vehicles across China</p>
+</div>
+<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow hover:-translate-y-1">
+<div class="w-16 h-16 bg-yellow-100 rounded-2xl flex items-center justify-center mb-6"><span class="material-symbols-outlined text-3xl text-yellow-600">verified_user</span></div>
+<h3 class="text-xl font-bold text-blue-900 mb-3" data-i18n="services.inspection">Quality Inspection</h3>
+<p class="text-slate-600" data-i18n="services.inspection_desc">150-point professional inspection</p>
+</div>
+<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow hover:-translate-y-1">
+<div class="w-16 h-16 bg-green-100 rounded-2xl flex items-center justify-center mb-6"><span class="material-symbols-outlined text-3xl text-green-600">local_shipping</span></div>
+<h3 class="text-xl font-bold text-blue-900 mb-3" data-i18n="services.shipping">Global Shipping</h3>
+<p class="text-slate-600" data-i18n="services.shipping_desc">Worldwide port delivery</p>
+</div>
+<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow hover:-translate-y-1">
+<div class="w-16 h-16 bg-purple-100 rounded-2xl flex items-center justify-center mb-6"><span class="material-symbols-outlined text-3xl text-purple-600">description</span></div>
+<h3 class="text-xl font-bold text-blue-900 mb-3" data-i18n="services.docs">Export Documentation</h3>
+<p class="text-slate-600" data-i18n="services.docs_desc">Complete customs clearance support</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="editorial-gradient py-20 text-center text-white">
+<div class="max-w-4xl mx-auto px-4">
+<h2 class="text-3xl md:text-4xl font-black font-['Montserrat'] mb-6" data-i18n="cta.title">Ready to Source Your Next Vehicle Inventory?</h2>
+<p class="text-lg opacity-90 mb-8" data-i18n="cta.subtitle">Join thousands of satisfied clients worldwide</p>
+<button onclick="showPage('contact')" class="bg-red-600 hover:bg-red-700 text-white font-bold px-10 py-4 rounded-xl text-lg transition-all hover:scale-105" data-i18n="cta.button">Contact Us Today</button>
+</div>
+</section>
+</div>
+
+<!-- VEHICLES PAGE -->
+<div id="page-vehicles" class="page">
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-12">
+<div class="mb-8">
+<h1 class="text-4xl font-black font-['Montserrat'] text-blue-900 mb-4" data-i18n="vehicles.page_title">Vehicle Inventory</h1>
+<p class="text-slate-600" data-i18n="vehicles.page_desc">Browse our selection of quality vehicles ready for export</p>
+</div>
+<div class="bg-slate-100 rounded-2xl p-6 mb-8">
+<div class="grid md:grid-cols-4 gap-4">
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.brand">Brand</label>
+<select id="filterBrand" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
+<option value="">All Brands</option><option value="toyota">Toyota</option><option value="honda">Honda</option><option value="bmw">BMW</option><option value="mercedes">Mercedes-Benz</option><option value="byd">BYD</option></select>
+</div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.body">Body Type</label>
+<select id="filterBody" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
+<option value="">All Types</option><option value="sedan">Sedan</option><option value="suv">SUV</option><option value="truck">Truck</option></select>
+</div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.year">Year</label>
+<select id="filterYear" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
+<option value="">All Years</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option></select>
+</div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.price">Max Price (USD)</label>
+<select id="filterPrice" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
+<option value="">Any Price</option><option value="15000">Under $15,000</option><option value="25000">Under $25,000</option><option value="50000">Under $50,000</option></select>
+</div>
+</div>
+</div>
+<div id="vehicleGrid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
+<div id="emptyState" class="hidden text-center py-16">
+<span class="material-symbols-outlined text-6xl text-slate-300">directions_car</span>
+<p class="text-slate-500 mt-4 text-lg" data-i18n="vehicles.no_results">No vehicles match your filters</p>
+<button onclick="clearFilters()" class="mt-4 text-blue-900 font-medium hover:underline" data-i18n="vehicles.clear_filters">Clear Filters</button>
+</div>
+</div>
+</div>
+
+<!-- SERVICES PAGE -->
+<div id="page-services" class="page">
+<div class="editorial-gradient text-white py-20 text-center">
+<div class="max-w-4xl mx-auto px-4">
+<h1 class="text-4xl md:text-5xl font-black font-['Montserrat'] mb-6" data-i18n="services.page_title">Complete Export Solutions</h1>
+<p class="text-xl opacity-90" data-i18n="services.page_subtitle">From sourcing to delivery, we handle everything</p>
+</div>
+</div>
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-16">
+<div class="grid md:grid-cols-2 gap-8 mb-16">
+<div class="bg-slate-100 rounded-2xl p-8"><div class="flex items-start gap-6"><div class="w-20 h-20 bg-blue-900 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-4xl text-white">search</span></div><div><h3 class="text-2xl font-bold text-blue-900 mb-4" data-i18n="services.s1_title">Vehicle Sourcing</h3><p class="text-slate-600" data-i18n="services.s1_desc">Finding the right vehicles in the Chinese market.</p></div></div></div>
+<div class="bg-slate-100 rounded-2xl p-8"><div class="flex items-start gap-6"><div class="w-20 h-20 bg-yellow-500 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-4xl text-white">verified_user</span></div><div><h3 class="text-2xl font-bold text-blue-900 mb-4" data-i18n="services.s2_title">Quality Inspection</h3><p class="text-slate-600" data-i18n="services.s2_desc">150-point comprehensive inspection by certified experts.</p></div></div></div>
+<div class="bg-slate-100 rounded-2xl p-8"><div class="flex items-start gap-6"><div class="w-20 h-20 bg-green-600 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-4xl text-white">local_shipping</span></div><div><h3 class="text-2xl font-bold text-blue-900 mb-4" data-i18n="services.s3_title">Shipping & Logistics</h3><p class="text-slate-600" data-i18n="services.s3_desc">Global port delivery with real-time tracking.</p></div></div></div>
+<div class="bg-slate-100 rounded-2xl p-8"><div class="flex items-start gap-6"><div class="w-20 h-20 bg-purple-600 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-4xl text-white">description</span></div><div><h3 class="text-2xl font-bold text-blue-900 mb-4" data-i18n="services.s4_title">Export Documentation</h3><p class="text-slate-600" data-i18n="services.s4_desc">Complete customs and export documentation service.</p></div></div></div>
+</div>
+<div class="text-center mb-12"><h2 class="text-3xl font-black font-['Montserrat'] text-blue-900 mb-4" data-i18n="process.title">How It Works</h2></div>
+<div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+<div class="text-center"><div class="w-16 h-16 bg-blue-900 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-bold">1</div><p class="font-bold text-blue-900" data-i18n="process.step1">Select Vehicle</p></div>
+<div class="text-center"><div class="w-16 h-16 bg-blue-900 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-bold">2</div><p class="font-bold text-blue-900" data-i18n="process.step2">Inspection</p></div>
+<div class="text-center"><div class="w-16 h-16 bg-blue-900 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-bold">3</div><p class="font-bold text-blue-900" data-i18n="process.step3">Payment</p></div>
+<div class="text-center"><div class="w-16 h-16 bg-blue-900 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-bold">4</div><p class="font-bold text-blue-900" data-i18n="process.step4">Shipping</p></div>
+<div class="text-center"><div class="w-16 h-16 bg-yellow-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-bold">5</div><p class="font-bold text-blue-900" data-i18n="process.step5">Delivery</p></div>
+</div>
+</div>
+</div>
+
+<!-- ABOUT PAGE -->
+<div id="page-about" class="page">
+<div class="editorial-gradient text-white py-20 text-center">
+<div class="max-w-4xl mx-auto px-4">
+<h1 class="text-4xl md:text-5xl font-black font-['Montserrat'] mb-6" data-i18n="about.page_title">About CARCHINA.LTD</h1>
+<p class="text-xl opacity-90" data-i18n="about.page_subtitle">Your Trusted Partner in Chinese Vehicle Exports</p>
+</div>
+</div>
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-16">
+<div class="grid md:grid-cols-2 gap-12 mb-16">
+<div><h2 class="text-3xl font-black font-['Montserrat'] text-blue-900 mb-6" data-i18n="about.story_title">Our Story</h2>
+<p class="text-slate-600 mb-4" data-i18n="about.story_p1">Founded in 2010, CARCHINA.LTD has grown from a small local dealer to one of China's leading vehicle export companies.</p>
+<p class="text-slate-600 mb-4" data-i18n="about.story_p2">With over 15 years of experience, we've helped thousands of international clients source quality vehicles from China at competitive prices.</p>
+<p class="text-slate-600" data-i18n="about.story_p3">Our commitment to quality, transparency, and customer satisfaction has made us the trusted choice for vehicle exports worldwide.</p></div>
+<div class="bg-slate-100 rounded-2xl p-8"><h3 class="text-2xl font-bold text-blue-900 mb-6" data-i18n="about.milestones">Milestones</h3>
+<div class="space-y-4">
+<div class="flex gap-4"><span class="font-bold text-yellow-500">2010</span><span data-i18n="about.m1">Company founded</span></div>
+<div class="flex gap-4"><span class="font-bold text-yellow-500">2015</span><span data-i18n="about.m2">First Russia shipment</span></div>
+<div class="flex gap-4"><span class="font-bold text-yellow-500">2018</span><span data-i18n="about.m3">Middle East expansion</span></div>
+<div class="flex gap-4"><span class="font-bold text-yellow-500">2021</span><span data-i18n="about.m4">50,000 vehicles milestone</span></div>
+<div class="flex gap-4"><span class="font-bold text-yellow-500">2024</span><span data-i18n="about.m5">45+ countries served</span></div>
+</div></div>
+</div>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+<div class="bg-blue-900 text-white rounded-2xl p-8 text-center"><div class="text-4xl font-black mb-2">15+</div><div class="opacity-80" data-i18n="about.stat1">Years Experience</div></div>
+<div class="bg-yellow-500 text-white rounded-2xl p-8 text-center"><div class="text-4xl font-black mb-2">50K+</div><div class="opacity-90" data-i18n="about.stat2">Vehicles Exported</div></div>
+<div class="bg-green-600 text-white rounded-2xl p-8 text-center"><div class="text-4xl font-black mb-2">45+</div><div class="opacity-90" data-i18n="about.stat3">Countries</div></div>
+<div class="bg-purple-600 text-white rounded-2xl p-8 text-center"><div class="text-4xl font-black mb-2">200+</div><div class="opacity-90" data-i18n="about.stat4">Team Members</div></div>
+</div>
+</div>
+</div>
+
+<!-- CONTACT PAGE -->
+<div id="page-contact" class="page">
+<div class="editorial-gradient text-white py-20 text-center">
+<div class="max-w-4xl mx-auto px-4">
+<h1 class="text-4xl md:text-5xl font-black font-['Montserrat'] mb-6" data-i18n="contact.page_title">Get in Touch</h1>
+<p class="text-xl opacity-90" data-i18n="contact.page_subtitle">We're here to help with your vehicle export needs</p>
+</div>
+</div>
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-16">
+<div class="grid lg:grid-cols-2 gap-12">
+<div class="bg-slate-100 rounded-2xl p-8">
+<h2 class="text-2xl font-bold text-blue-900 mb-6" data-i18n="contact.form_title">Send us a Message</h2>
+<form id="contactForm" onsubmit="submitContactForm(event)">
+<div class="mb-4"><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="contact.name">Full Name</label><input type="text" name="name" required class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white focus:ring-2 focus:ring-blue-900 outline-none"/></div>
+<div class="mb-4"><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="contact.email">Email Address</label><input type="email" name="email" required class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white focus:ring-2 focus:ring-blue-900 outline-none"/></div>
+<div class="mb-4"><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="contact.phone">Phone Number</label><input type="tel" name="phone" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white focus:ring-2 focus:ring-blue-900 outline-none"/></div>
+<div class="mb-6"><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="contact.message">Message</label><textarea name="message" rows="4" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white focus:ring-2 focus:ring-blue-900 outline-none resize-none"></textarea></div>
+<button type="submit" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all" data-i18n="contact.submit">Send Message</button>
+</form>
+<div id="formSuccess" class="hidden mt-6 p-4 bg-green-100 text-green-800 rounded-xl text-center">
+<span class="material-symbols-outlined align-middle mr-2">check_circle</span>
+<span data-i18n="contact.success">Thank you! We'll respond within 24 hours.</span>
+</div>
+</div>
+<div class="space-y-6">
+<div class="bg-slate-100 rounded-2xl p-8"><h3 class="text-xl font-bold text-blue-900 mb-4" data-i18n="contact.info_title">Contact Information</h3>
+<div class="space-y-4">
+<div class="flex items-start gap-4"><span class="material-symbols-outlined text-2xl text-blue-900">email</span><div><p class="font-medium">Email</p><p class="text-slate-600">info@carchina.ltd</p></div></div>
+<div class="flex items-start gap-4"><span class="material-symbols-outlined text-2xl text-blue-900">phone</span><div><p class="font-medium">WhatsApp</p><p class="text-slate-600">+86 138 8888 8888</p></div></div>
+<div class="flex items-start gap-4"><span class="material-symbols-outlined text-2xl text-blue-900">schedule</span><div><p class="font-medium" data-i18n="contact.hours">Business Hours</p><p class="text-slate-600">Mon-Fri: 9:00 - 18:00 (UTC+8)</p></div></div>
+</div></div>
+<div class="space-y-4">
+<h3 class="text-xl font-bold text-blue-900" data-i18n="contact.social_title">Connect With Us</h3>
+<div class="grid grid-cols-3 sm:grid-cols-4 gap-3">
+<a href="https://wa.me/8613888888888" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="material-symbols-outlined text-2xl">chat</span>
+WhatsApp
+</a>
+<a href="https://instagram.com/carchina_export" target="_blank" class="bg-gradient-to-br from-purple-600 via-pink-500 to-orange-400 hover:opacity-90 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="material-symbols-outlined text-2xl">photo_camera</span>
+Instagram
+</a>
+<a href="https://twitter.com/carchina_export" target="_blank" class="bg-black hover:bg-gray-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+X (Twitter)
+</a>
+<a href="https://reddit.com/r/carchina_export" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="material-symbols-outlined text-2xl">forum</span>
+Reddit
+</a>
+<a href="https://t.me/carchina_export" target="_blank" class="bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="material-symbols-outlined text-2xl">send</span>
+Telegram
+</a>
+<a href="https://vk.com/carchina_export" target="_blank" class="bg-blue-700 hover:bg-blue-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="material-symbols-outlined text-2xl">group</span>
+VK
+</a>
+<a href="https://zalo.me/8613888888888" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
+<span class="text-lg font-bold">Z</span>
+Zalo
+</a>
+</div>
+<div class="mt-4 pt-4 border-t border-slate-200">
+<h4 class="text-sm font-bold text-slate-500 mb-3">Regional Favorites</h4>
+<div class="flex flex-wrap gap-2">
+<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇨🇳 WeChat</span>
+<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇹🇭 LINE</span>
+<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇻🇳 Zalo</span>
+<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇷🇺 VK, Telegram</span>
+<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇸🇦 WhatsApp</span>
+</div>
+</div>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-6">
+<a href="https://wa.me/8613888888888" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-4 rounded-xl flex items-center justify-center gap-3 font-bold transition-all"><span class="material-symbols-outlined">chat</span> WhatsApp</a>
+<a href="mailto:info@carchina.ltd" class="bg-blue-900 hover:bg-blue-800 text-white p-4 rounded-xl flex items-center justify-center gap-3 font-bold transition-all"><span class="material-symbols-outlined">email</span> Email Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- ADMIN PAGE -->
+<div id="page-admin" class="page">
+<div class="max-w-7xl mx-auto px-4 md:px-8 py-12">
+<div class="flex justify-between items-center mb-8">
+<h1 class="text-4xl font-black font-['Montserrat'] text-blue-900" data-i18n="admin.title">Vehicle Management</h1>
+</div>
+<div class="bg-blue-900/10 border border-blue-900/20 rounded-2xl p-8 mb-8">
+<div class="flex items-start gap-6">
+<div class="w-16 h-16 bg-blue-900 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-3xl text-white">api</span></div>
+<div>
+<h2 class="text-2xl font-bold text-blue-900 mb-4">AI Upload API</h2>
+<p class="text-slate-600 mb-4">Vehicle upload via AI (Hermes Agent) calling the API.</p>
+<div class="bg-slate-900 text-green-400 p-4 rounded-xl font-mono text-sm overflow-x-auto">
+<pre>POST http://localhost:3001/api/vehicles
+{
+  "brand": "Toyota",
+  "model": "Land Cruiser",
+  "year": 2023,
+  "price": 55000,
+  "image": "https://...jpg"
+}</pre>
+</div>
+<div class="mt-4 flex gap-4">
+<span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Status: Online</span>
+<span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">Vehicles: <span id="adminVehicleCount">-</span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-slate-100 rounded-2xl overflow-hidden">
+<div class="overflow-x-auto">
+<table class="w-full">
+<thead class="bg-blue-900 text-white">
+<tr><th class="px-6 py-4 text-left font-bold" data-i18n="table.image">Image</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.vehicle">Vehicle</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.year">Year</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.price">Price</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.status">Status</th></tr>
+</thead>
+<tbody id="adminTableBody"><tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">Loading...</td></tr></tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+
+</main>
+
+<footer class="bg-blue-900 text-white py-16 mt-auto">
+<div class="max-w-7xl mx-auto px-4 md:px-8">
+<div class="grid md:grid-cols-4 gap-12 mb-12">
+<div><h3 class="text-xl font-black font-['Montserrat'] mb-4">CARCHINA.LTD</h3><p class="text-blue-200 opacity-80" data-i18n="footer.description">Your trusted partner in Chinese vehicle exports</p></div>
+<div><h4 class="font-bold mb-4" data-i18n="footer.links">Quick Links</h4><ul class="space-y-2 text-blue-200 opacity-80"><li><a href="#" onclick="showPage('vehicles')" class="hover:text-white cursor-pointer">Vehicles</a></li><li><a href="#" onclick="showPage('services')" class="hover:text-white cursor-pointer">Services</a></li><li><a href="#" onclick="showPage('about')" class="hover:text-white cursor-pointer">About</a></li><li><a href="#" onclick="showPage('contact')" class="hover:text-white cursor-pointer">Contact</a></li></ul></div>
+<div><h4 class="font-bold mb-4" data-i18n="footer.services">Services</h4><ul class="space-y-2 text-blue-200 opacity-80"><li data-i18n="footer.s1">Vehicle Sourcing</li><li data-i18n="footer.s2">Quality Inspection</li><li data-i18n="footer.s3">Global Shipping</li><li data-i18n="footer.s4">Export Documentation</li></ul></div>
+<div><h4 class="font-bold mb-4" data-i18n="footer.contact">Contact</h4><ul class="space-y-2 text-blue-200 opacity-80"><li>info@carchina.ltd</li><li>WhatsApp: +86 138 8888 8888</li></ul></div>
+</div>
+<div class="border-t border-blue-800 pt-8 text-center text-blue-200 opacity-60">
+<p data-i18n="footer.copyright">© 2024 CARCHINA.LTD. All rights reserved.</p>
+</div>
+</div>
+</footer>
+
+<script>
+const translations = {
+en: {
+"nav.home": "Home", "nav.vehicles": "Vehicles", "nav.services": "Services", "nav.about": "About", "nav.contact": "Contact",
+"hero.title": "Premium Chinese Used Vehicles for Global Markets",
+"hero.subtitle": "Your trusted partner in vehicle exports to Russia, Middle East, Africa & Southeast Asia",
+"hero.cta_browse": "Browse Inventory", "hero.cta_quote": "Get Quote",
+"stats.years": "Years in Business", "stats.vehicles": "Vehicles Exported", "stats.countries": "Countries Served", "stats.satisfaction": "Client Satisfaction",
+"featured.title": "Featured Inventory",
+"services.title": "Why Choose Us",
+"services.sourcing": "Vehicle Sourcing", "services.sourcing_desc": "Access to 10,000+ vehicles across China",
+"services.inspection": "Quality Inspection", "services.inspection_desc": "150-point professional inspection",
+"services.shipping": "Global Shipping", "services.shipping_desc": "Worldwide port delivery",
+"services.docs": "Export Documentation", "services.docs_desc": "Complete customs clearance support",
+"services.page_title": "Complete Export Solutions", "services.page_subtitle": "From sourcing to delivery, we handle everything",
+"services.s1_title": "Vehicle Sourcing", "services.s1_desc": "Finding the right vehicles in the Chinese market.",
+"services.s2_title": "Quality Inspection", "services.s2_desc": "150-point comprehensive inspection by certified experts.",
+"services.s3_title": "Shipping & Logistics", "services.s3_desc": "Global port delivery with real-time tracking.",
+"services.s4_title": "Export Documentation", "services.s4_desc": "Complete customs and export documentation service.",
+"process.title": "How It Works", "process.step1": "Select Vehicle", "process.step2": "Inspection", "process.step3": "Payment", "process.step4": "Shipping", "process.step5": "Delivery",
+"cta.title": "Ready to Source Your Next Vehicle Inventory?", "cta.subtitle": "Join thousands of satisfied clients worldwide", "cta.button": "Contact Us Today",
+"about.page_title": "About CARCHINA.LTD", "about.page_subtitle": "Your Trusted Partner in Chinese Vehicle Exports",
+"about.story_title": "Our Story", "about.story_p1": "Founded in 2010, CARCHINA.LTD has grown from a small local dealer to one of China's leading vehicle export companies.",
+"about.story_p2": "With over 15 years of experience, we've helped thousands of international clients source quality vehicles from China at competitive prices.",
+"about.story_p3": "Our commitment to quality, transparency, and customer satisfaction has made us the trusted choice.",
+"about.milestones": "Milestones", "about.m1": "Company founded", "about.m2": "First Russia shipment", "about.m3": "Middle East expansion", "about.m4": "50,000 vehicles milestone", "about.m5": "45+ countries served",
+"about.stat1": "Years Experience", "about.stat2": "Vehicles Exported", "about.stat3": "Countries", "about.stat4": "Team Members",
+"vehicles.page_title": "Vehicle Inventory", "vehicles.page_desc": "Browse our selection of quality vehicles ready for export",
+"vehicles.no_results": "No vehicles match your filters", "vehicles.clear_filters": "Clear Filters",
+"filter.brand": "Brand", "filter.body": "Body Type", "filter.year": "Year", "filter.price": "Max Price (USD)",
+"contact.page_title": "Get in Touch", "contact.page_subtitle": "We're here to help with your vehicle export needs",
+"contact.form_title": "Send us a Message", "contact.name": "Full Name", "contact.email": "Email Address",
+"contact.phone": "Phone Number", "contact.message": "Your Message",
+"contact.submit": "Send Message", "contact.success": "Thank you! We'll respond within 24 hours.",
+"contact.info_title": "Contact Information", "contact.hours": "Business Hours", "contact.social_title": "Connect With Us",
+"admin.title": "Vehicle Management",
+"table.image": "Image", "table.vehicle": "Vehicle", "table.year": "Year", "table.price": "Price", "table.status": "Status",
+"footer.description": "Your trusted partner in Chinese vehicle exports",
+"footer.links": "Quick Links", "footer.services": "Services", "footer.contact": "Contact",
+"footer.s1": "Vehicle Sourcing", "footer.s2": "Quality Inspection", "footer.s3": "Global Shipping", "footer.s4": "Export Documentation",
+"footer.copyright": "© 2024 CARCHINA.LTD. All rights reserved."
+},
+cn: {
+"nav.home": "首页", "nav.vehicles": "车辆", "nav.services": "服务", "nav.about": "关于我们", "nav.contact": "联系我们",
+"hero.title": "优质中国二手车，出口全球市场",
+"hero.subtitle": "您值得信赖的二手车出口合作伙伴，覆盖俄罗斯、中东、非洲及东南亚",
+"hero.cta_browse": "浏览库存", "hero.cta_quote": "获取报价",
+"stats.years": "年出口经验", "stats.vehicles": "出口车辆", "stats.countries": "覆盖国家", "stats.satisfaction": "客户满意度",
+"featured.title": "精选车辆",
+"services.title": "为什么选择我们",
+"services.sourcing": "车辆采购", "services.sourcing_desc": "覆盖全中国的10,000+车辆资源",
+"services.inspection": "质量检测", "services.inspection_desc": "150项专业检测认证",
+"services.shipping": "全球物流", "services.shipping_desc": "全球港口配送",
+"services.docs": "出口文件", "services.docs_desc": "全套清关服务支持",
+"services.page_title": "全套出口服务", "services.page_subtitle": "从采购到交付，我们全程处理",
+"services.s1_title": "车辆采购", "services.s1_desc": "在中国市场寻找合适的车辆",
+"services.s2_title": "质量检测", "services.s2_desc": "150项全面专业检测",
+"services.s3_title": "运输与物流", "services.s3_desc": "全球港口配送，实时追踪",
+"services.s4_title": "出口文件", "services.s4_desc": "完整的海关和出口文件服务",
+"process.title": "工作流程", "process.step1": "选择车辆", "process.step2": "检测", "process.step3": "付款", "process.step4": "运输", "process.step5": "交付",
+"cta.title": "准备好采购您的下一批车辆了吗？", "cta.subtitle": "加入全球数千名满意客户的行列", "cta.button": "立即联系",
+"about.page_title": "关于CARCHINA.LTD", "about.page_subtitle": "您值得信赖的中国二手车出口合作伙伴",
+"about.story_title": "我们的故事", "about.story_p1": "CARCHINA.LTD成立于2010年，从一家小型本地经销商发展成为中国领先的汽车出口公司之一",
+"about.story_p2": "凭借超过15年的经验，我们帮助数千名国际客户以有竞争力的价格从中国采购优质车辆",
+"about.story_p3": "我们对质量、透明度和客户满意度的承诺，使我们成为全球车辆出口的可信赖选择",
+"about.milestones": "里程碑", "about.m1": "公司成立", "about.m2": "首次俄罗斯发货", "about.m3": "拓展中东市场", "about.m4": "50,000台车辆里程碑", "about.m5": "服务45+国家",
+"about.stat1": "年经验", "about.stat2": "出口车辆", "about.stat3": "国家", "about.stat4": "团队成员",
+"vehicles.page_title": "车辆库存", "vehicles.page_desc": "浏览我们的优质出口车辆",
+"vehicles.no_results": "没有符合筛选条件的车辆", "vehicles.clear_filters": "清除筛选条件",
+"filter.brand": "品牌", "filter.body": "车型", "filter.year": "年份", "filter.price": "最高价格(美元)",
+"contact.page_title": "联系我们", "contact.page_subtitle": "我们随时为您提供车辆出口方面的帮助",
+"contact.form_title": "发送消息", "contact.name": "您的姓名", "contact.email": "电子邮箱",
+"contact.phone": "联系电话", "contact.message": "您的留言",
+"contact.submit": "发送消息", "contact.success": "谢谢！我们将在24小时内回复",
+"contact.info_title": "联系信息", "contact.hours": "营业时间", "contact.social_title": "联系我们",
+"admin.title": "车辆管理",
+"table.image": "图片", "table.vehicle": "车辆", "table.year": "年份", "table.price": "价格", "table.status": "状态",
+"footer.description": "您值得信赖的中国二手车出口合作伙伴",
+"footer.links": "快速链接", "footer.services": "服务", "footer.contact": "联系方式",
+"footer.s1": "车辆采购", "footer.s2": "质量检测", "footer.s3": "全球物流", "footer.s4": "出口文件",
+"footer.copyright": "© 2024 CARCHINA.LTD. 版权所有"
+},
+ru: {
+"nav.home": "Главная", "nav.vehicles": "Автомобили", "nav.services": "Услуги", "nav.about": "О нас", "nav.contact": "Контакты",
+"hero.title": "Премиальные автомобили из Китая для мировых рынков",
+"hero.subtitle": "Ваш надежный партнер по экспорту в Россию, на Ближний Восток, в Африку и ЮВА",
+"hero.cta_browse": "Смотреть каталог", "hero.cta_quote": "Получить расчет",
+"stats.years": "Лет опыта", "stats.vehicles": "Экспортировано", "stats.countries": "Стран", "stats.satisfaction": "Довольных клиентов",
+"featured.title": "Рекомендуемые",
+"services.title": "Почему выбирают нас",
+"services.sourcing": "Поиск автомобилей", "services.sourcing_desc": "Доступ к 10 000+ автомобилям",
+"services.inspection": "Проверка качества", "services.inspection_desc": "Профессиональная проверка 150 пунктов",
+"services.shipping": "Глобальная доставка", "services.shipping_desc": "Доставка в порты по всему миру",
+"services.docs": "Документация", "services.docs_desc": "Полное таможенное оформление",
+"services.page_title": "Комплексные решения", "services.page_subtitle": "От поиска до доставки",
+"services.s1_title": "Поиск автомобилей", "services.s1_desc": "Находим нужные автомобили",
+"services.s2_title": "Проверка качества", "services.s2_desc": "Комплексная проверка 150 пунктов",
+"services.s3_title": "Логистика", "services.s3_desc": "Доставка в порты с отслеживанием",
+"services.s4_title": "Документация", "services.s4_desc": "Полное таможенное оформление",
+"process.title": "Как это работает", "process.step1": "Выбор", "process.step2": "Проверка", "process.step3": "Оплата", "process.step4": "Доставка", "process.step5": "Получение",
+"cta.title": "Готовы найти автомобили?", "cta.subtitle": "Присоединяйтесь к тысячам довольных клиентов", "cta.button": "Связаться с нами",
+"about.page_title": "О CARCHINA.LTD", "about.page_subtitle": "Ваш надежный партнер по экспорту авто из Китая",
+"about.story_title": "Наша история", "about.story_p1": "Основана в 2010 году, CARCHINA.LTD выросла из малого дилера в ведущего экспортера.",
+"about.story_p2": "За 15+ лет мы помогли тысячам клиентов получить качественные авто.",
+"about.story_p3": "Наша приверженность качеству сделала нас выбором №1.",
+"about.milestones": "Вехи", "about.m1": "Основание компании", "about.m2": "Первая отправка в Россию", "about.m3": "Выход на Ближний Восток", "about.m4": "50 000 автомобилей", "about.m5": "45+ стран",
+"about.stat1": "Лет опыта", "about.stat2": "Экспортировано", "about.stat3": "Стран", "about.stat4": "Сотрудников",
+"vehicles.page_title": "Каталог автомобилей", "vehicles.page_desc": "Выберите качественные автомобили для экспорта",
+"vehicles.no_results": "Нет автомобилей по вашим критериям", "vehicles.clear_filters": "Очистить фильтры",
+"filter.brand": "Марка", "filter.body": "Кузов", "filter.year": "Год", "filter.price": "Макс. цена (USD)",
+"contact.page_title": "Свяжитесь с нами", "contact.page_subtitle": "Мы поможем с экспортом автомобилей",
+"contact.form_title": "Написать нам", "contact.name": "Ваше имя", "contact.email": "Email",
+"contact.phone": "Телефон", "contact.message": "Сообщение",
+"contact.submit": "Отправить", "contact.success": "Спасибо! Мы ответим в течение 24 часов.",
+"contact.info_title": "Контакты", "contact.hours": "Часы работы", "contact.social_title": "Связаться с нами",
+"admin.title": "Управление",
+"table.image": "Фото", "table.vehicle": "Автомобиль", "table.year": "Год", "table.price": "Цена", "table.status": "Статус",
+"footer.description": "Ваш надежный партнер по экспорту авто из Китая",
+"footer.links": "Ссылки", "footer.services": "Услуги", "footer.contact": "Контакты",
+"footer.s1": "Поиск авто", "footer.s2": "Проверка", "footer.s3": "Доставка", "footer.s4": "Документы",
+"footer.copyright": "© 2024 CARCHINA.LTD. Все права защищены."
+},
+ar: {
+"nav.home": "الرئيسية", "nav.vehicles": "المركبات", "nav.services": "الخدمات", "nav.about": "من نحن", "nav.contact": "اتصل بنا",
+"hero.title": "مركبات صينية مستعملة عالية الجودة للأسواق العالمية",
+"hero.subtitle": "شريكك الموثوق في التصدير إلى روسيا والشرق الأوسط وأفريقيا وجنوب شرق آسيا",
+"hero.cta_browse": "تصفح المخزون", "hero.cta_quote": "احصل على عرض",
+"stats.years": "سنوات الخبرة", "stats.vehicles": "مركبات مصدرة", "stats.countries": "دولة", "stats.satisfaction": "رضا العملاء",
+"featured.title": "المركبات المميزة",
+"services.title": "لماذا نحن",
+"services.sourcing": "البحث عن المركبات", "services.sourcing_desc": "الوصول إلى أكثر من 10,000 مركبة",
+"services.inspection": "فحص الجودة", "services.inspection_desc": "فحص احترافي 150 نقطة",
+"services.shipping": "الشحن العالمي", "services.shipping_desc": "التوصيل إلى الموانئ العالمية",
+"services.docs": "الوثائق", "services.docs_desc": "دعم كامل للتخليص الجمركي",
+"services.page_title": "حلول التصدير الشاملة", "services.page_subtitle": "من البحث إلى التسليم",
+"services.s1_title": "البحث عن المركبات", "services.s1_desc": " نجد المركبات المناسبة",
+"services.s2_title": "فحص الجودة", "services.s2_desc": "فحص شامل 150 نقطة",
+"services.s3_title": "الشحن والخدمات اللوجستية", "services.s3_desc": "توصيل مع التتبع",
+"services.s4_title": "الوثائق", "services.s4_desc": "خدمات التخليص الكاملة",
+"process.title": "كيف يعمل", "process.step1": "الاختيار", "process.step2": "الفحص", "process.step3": "الدفع", "process.step4": "الشحن", "process.step5": "الاستلام",
+"cta.title": "هل أنت مستعد للحصول على مركباتك؟", "cta.subtitle": "انضم إلى آلاف العملاء الراضين", "cta.button": "تواصل معنا",
+"about.page_title": "عن CARCHINA.LTD", "about.page_subtitle": "شريكك الموثوق في تصدير المركبات الصينية",
+"about.story_title": "قصتنا", "about.story_p1": "تأسست CARCHINA.LTD في عام 2010 ونمت لتصبح من أبرز مصدري السيارات.",
+"about.story_p2": "على مدار 15 عامًا، ساعدنا آلاف العملاء.",
+"about.story_p3": "التزامنا بالجودة جعلنا الخيار الأول للتصدير.",
+"about.milestones": "المحطات", "about.m1": "تأسيس الشركة", "about.m2": "أول شحنة لروسيا", "about.m3": "التوسع في الشرق الأوسط", "about.m4": "50,000 مركبة", "about.m5": "45+ دولة",
+"about.stat1": "سنوات الخبرة", "about.stat2": "مركبات مصدرة", "about.stat3": "دولة", "about.stat4": "عضو فريق",
+"vehicles.page_title": "مخزون المركبات", "vehicles.page_desc": "تصفح مجموعتنا من المركبات",
+"vehicles.no_results": "لا توجد مركبات مطابقة", "vehicles.clear_filters": "مسح المعايير",
+"filter.brand": "العلامة", "filter.body": "النوع", "filter.year": "السنة", "filter.price": "الحد الأقصى للسعر",
+"contact.page_title": "تواصل معنا", "contact.page_subtitle": "نحن هنا لمساعدتك",
+"contact.form_title": "أرسل رسالة", "contact.name": "الاسم الكامل", "contact.email": "البريد الإلكتروني",
+"contact.phone": "رقم الهاتف", "contact.message": "رسالتك",
+"contact.submit": "إرسال", "contact.success": "شكراً! سنرد خلال 24 ساعة.",
+"contact.info_title": "معلومات الاتصال", "contact.hours": "ساعات العمل", "contact.social_title": "تواصل معنا",
+"admin.title": "إدارة المركبات",
+"table.image": "صورة", "table.vehicle": "مركبة", "table.year": "سنة", "table.price": "سعر", "table.status": "حالة",
+"footer.description": "شريكك الموثوق في تصدير المركبات الصينية",
+"footer.links": "روابط سريعة", "footer.services": "الخدمات", "footer.contact": "اتصل بنا",
+"footer.s1": "البحث عن المركبات", "footer.s2": "فحص الجودة", "footer.s3": "الشحن العالمي", "footer.s4": "الوثائق",
+"footer.copyright": "© 2024 CARCHINA.LTD. جميع الحقوق محفوظة."
+}
+};
+
+const API_BASE = 'http://localhost:3001/api';
+let vehicles = [];
+let currentLang = localStorage.getItem('lang') || 'en';
+
+async function loadVehicles() {
+    try {
+        const res = await fetch(API_BASE + '/vehicles');
+        const data = await res.json();
+        vehicles = data.vehicles || [];
+    } catch (e) {
+        try {
+            const res = await fetch('./data/vehicles.json');
+            vehicles = await res.json();
+        } catch (e2) {
+            vehicles = [];
+        }
+    }
+    return vehicles;
+}
+
+function showPage(page) {
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    document.getElementById('page-' + page).classList.add('active');
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.classList.remove('text-blue-900', 'font-bold', 'border-b-2', 'border-yellow-500');
+        link.classList.add('text-slate-500', 'font-medium');
+    });
+    const activeLink = document.querySelector('[data-page="' + page + '"]');
+    if (activeLink) {
+        activeLink.classList.add('text-blue-900', 'font-bold', 'border-b-2', 'border-yellow-500');
+        activeLink.classList.remove('text-slate-500', 'font-medium');
+    }
+    window.scrollTo(0, 0);
+    if (page === 'vehicles') renderVehicles();
+    if (page === 'admin') renderAdminTable();
+    if (page === 'home') renderFeaturedVehicles();
+}
+
+function toggleLangDropdown() {
+    document.getElementById('langDropdown').classList.toggle('hidden');
+}
+
+function toggleMobileMenu() {
+    document.getElementById('mobileMenu').classList.toggle('hidden');
+    document.getElementById('mobileMenu').classList.toggle('flex');
+}
+
+function setLanguage(lang) {
+    currentLang = lang;
+    localStorage.setItem('lang', lang);
+    document.getElementById('currentLang').textContent = lang.toUpperCase();
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+    const t = translations[lang];
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (t[key]) el.textContent = t[key];
+    });
+    document.getElementById('langDropdown').classList.add('hidden');
+}
+
+async function renderVehicles() {
+    await loadVehicles();
+    const brand = document.getElementById('filterBrand').value;
+    const body = document.getElementById('filterBody').value;
+    const year = document.getElementById('filterYear').value;
+    const maxPrice = parseInt(document.getElementById('filterPrice').value) || Infinity;
+    const filtered = vehicles.filter(v => {
+        if (brand && v.brand.toLowerCase() !== brand) return false;
+        if (body && v.bodyType !== body) return false;
+        if (year && v.year.toString() !== year) return false;
+        if (v.price > maxPrice) return false;
+        return true;
+    });
+    const grid = document.getElementById('vehicleGrid');
+    const empty = document.getElementById('emptyState');
+    if (filtered.length === 0) {
+        grid.innerHTML = '';
+        empty.classList.remove('hidden');
+    } else {
+        empty.classList.add('hidden');
+        grid.innerHTML = filtered.map(v => createVehicleCard(v)).join('');
+    }
+}
+
+async function renderFeaturedVehicles() {
+    await loadVehicles();
+    const featured = vehicles.filter(v => v.featured).slice(0, 3);
+    const container = document.getElementById('featuredVehicles');
+    container.innerHTML = featured.map(v => createVehicleCard(v)).join('');
+}
+
+function createVehicleCard(v) {
+    return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
+        '<div class="relative aspect-[16/10] overflow-hidden">' +
+        '<img src="' + v.image + '" alt="' + v.brand + ' ' + v.model + '" class="w-full h-full object-cover"/>' +
+        '<div class="absolute top-4 left-4 bg-blue-900 text-white px-3 py-1 rounded-full text-xs font-bold">' + v.brand + '</div>' +
+        '</div>' +
+        '<div class="p-6">' +
+        '<h3 class="text-xl font-bold text-blue-900 mb-2">' + v.year + ' ' + v.brand + ' ' + v.model + '</h3>' +
+        '<div class="flex flex-wrap gap-2 mb-4">' +
+        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs">' + v.mileage.toLocaleString() + ' km</span>' +
+        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs capitalize">' + v.fuel + '</span>' +
+        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs capitalize">' + v.transmission + '</span>' +
+        '</div>' +
+        '<div class="flex justify-between items-center">' +
+        '<div class="text-2xl font-black text-blue-900">$' + v.price.toLocaleString() + '</div>' +
+        '<button class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all" onclick="event.stopPropagation(); showVehicleDetail(' + v.id + ')">Details</button>' +
+        '</div></div></div>';
+}
+
+function showVehicleDetail(id) {
+    const vehicle = vehicles.find(v => v.id === id);
+    if (!vehicle) return;
+    const detailHtml = `
+    <div class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onclick="closeVehicleDetail()">
+        <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto" onclick="event.stopPropagation()">
+            <div class="relative">
+                <img src="${vehicle.image}" alt="${vehicle.brand} ${vehicle.model}" class="w-full h-64 md:h-80 object-cover"/>
+                <button onclick="closeVehicleDetail()" class="absolute top-4 right-4 bg-white/90 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg">
+                    <span class="material-symbols-outlined">close</span>
+                </button>
+            </div>
+            <div class="p-6 md:p-8">
+                <div class="flex flex-wrap items-start justify-between gap-4 mb-6">
+                    <div>
+                        <h2 class="text-2xl md:text-3xl font-black text-blue-900 mb-2">${vehicle.year} ${vehicle.brand} ${vehicle.model}</h2>
+                        <span class="bg-blue-900 text-white px-4 py-1 rounded-full text-sm font-bold">${vehicle.brand}</span>
+                    </div>
+                    <div class="text-right">
+                        <div class="text-3xl font-black text-blue-900">$${vehicle.price.toLocaleString()}</div>
+                        <div class="text-slate-500 text-sm">${vehicle.status || 'Available'}</div>
+                    </div>
+                </div>
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Mileage</div><div class="font-bold">${vehicle.mileage.toLocaleString()} km</div></div>
+                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Fuel</div><div class="font-bold capitalize">${vehicle.fuel}</div></div>
+                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Transmission</div><div class="font-bold capitalize">${vehicle.transmission}</div></div>
+                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Year</div><div class="font-bold">${vehicle.year}</div></div>
+                </div>
+                ${vehicle.description ? '<p class="text-slate-600 mb-6">' + vehicle.description + '</p>' : ''}
+                <div class="flex flex-col sm:flex-row gap-4">
+                    <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all">Inquire Now</button>
+                    <a href="https://wa.me/8613888888888" target="_blank" class="flex-1 bg-green-500 hover:bg-green-600 text-white font-bold py-4 rounded-xl text-center transition-all">WhatsApp</a>
+                </div>
+            </div>
+        </div>
+    </div>`;
+    document.body.insertAdjacentHTML('beforeend', '<div id="vehicleDetailModal">' + detailHtml + '</div>');
+}
+
+function closeVehicleDetail() {
+    const modal = document.getElementById('vehicleDetailModal');
+    if (modal) modal.remove();
+}
+
+function filterVehicles() { renderVehicles(); }
+
+function clearFilters() {
+    document.getElementById('filterBrand').value = '';
+    document.getElementById('filterBody').value = '';
+    document.getElementById('filterYear').value = '';
+    document.getElementById('filterPrice').value = '';
+    renderVehicles();
+}
+
+async function renderAdminTable() {
+    await loadVehicles();
+    const tbody = document.getElementById('adminTableBody');
+    const countEl = document.getElementById('adminVehicleCount');
+    countEl.textContent = vehicles.length;
+    if (vehicles.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">No vehicles. Use the API to add vehicles.</td></tr>';
+        return;
+    }
+    tbody.innerHTML = vehicles.map(v => 
+        '<tr class="border-b border-slate-200 hover:bg-slate-50">' +
+        '<td class="px-6 py-4"><img src="' + v.image + '" alt="' + v.brand + '" class="w-16 h-12 object-cover rounded-lg"/></td>' +
+        '<td class="px-6 py-4 font-bold text-blue-900">' + v.year + ' ' + v.brand + ' ' + v.model + '</td>' +
+        '<td class="px-6 py-4">' + v.year + '</td>' +
+        '<td class="px-6 py-4 font-bold">$' + v.price.toLocaleString() + '</td>' +
+        '<td class="px-6 py-4"><span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs font-bold capitalize">' + v.status + '</span></td>' +
+        '</tr>'
+    ).join('');
+}
+
+function submitContactForm(e) {
+    e.preventDefault();
+    document.getElementById('formSuccess').classList.remove('hidden');
+    e.target.reset();
+    setTimeout(() => document.getElementById('formSuccess').classList.add('hidden'), 5000);
+}
+
+document.addEventListener('click', (e) => {
+    if (!e.target.closest('#langBtn') && !e.target.closest('#langDropdown')) {
+        document.getElementById('langDropdown').classList.add('hidden');
+    }
+});
+
+setLanguage(currentLang);
+renderFeaturedVehicles();
+</script>
+</body>
+</html>

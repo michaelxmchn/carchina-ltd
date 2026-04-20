@@ -1,0 +1,21 @@
+{
+  "name": "carchina-ltd",
+  "version": "1.0.0",
+  "description": "China Used Car Export Portal - CARCHINA.LTD",
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "seo": "node src/seo-api.js",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "used-car",
+    "export",
+    "china",
+    "automotive"
+  ],
+  "author": "Global Envoy Team",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
