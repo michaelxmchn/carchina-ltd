@@ -634,14 +634,24 @@ async function renderFeaturedVehicles() {
     container.innerHTML = featured.map(v => createVehicleCard(v)).join('');
 }
 
+function getText(obj, lang) {
+    if (typeof obj === 'string') return obj;
+    if (typeof obj === 'object' && obj !== null) {
+        return obj[lang] || obj['en'] || '';
+    }
+    return '';
+}
+
 function createVehicleCard(v) {
+    const brand = getText(v.brand, currentLang);
+    const model = getText(v.model, currentLang);
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
-        '<img src="' + v.image + '" alt="' + v.brand + ' ' + v.model + '" class="w-full h-full object-cover"/>' +
-        '<div class="absolute top-4 left-4 bg-blue-900 text-white px-3 py-1 rounded-full text-xs font-bold">' + v.brand + '</div>' +
+        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" class="w-full h-full object-cover"/>' +
+        '<div class="absolute top-4 left-4 bg-blue-900 text-white px-3 py-1 rounded-full text-xs font-bold">' + brand + '</div>' +
         '</div>' +
         '<div class="p-6">' +
-        '<h3 class="text-xl font-bold text-blue-900 mb-2">' + v.year + ' ' + v.brand + ' ' + v.model + '</h3>' +
+        '<h3 class="text-xl font-bold text-blue-900 mb-2">' + v.year + ' ' + brand + ' ' + model + '</h3>' +
         '<div class="flex flex-wrap gap-2 mb-4">' +
         '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs">' + v.mileage.toLocaleString() + ' km</span>' +
         '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs capitalize">' + v.fuel + '</span>' +
@@ -656,11 +666,14 @@ function createVehicleCard(v) {
 function showVehicleDetail(id) {
     const vehicle = vehicles.find(v => v.id === id);
     if (!vehicle) return;
+    const brand = getText(vehicle.brand, currentLang);
+    const model = getText(vehicle.model, currentLang);
+    const desc = getText(vehicle.description, currentLang);
     const detailHtml = `
     <div class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onclick="closeVehicleDetail()">
         <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto" onclick="event.stopPropagation()">
             <div class="relative">
-                <img src="${vehicle.image}" alt="${vehicle.brand} ${vehicle.model}" class="w-full h-64 md:h-80 object-cover"/>
+                <img src="${vehicle.image}" alt="${brand} ${model}" class="w-full h-64 md:h-80 object-cover"/>
                 <button onclick="closeVehicleDetail()" class="absolute top-4 right-4 bg-white/90 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg">
                     <span class="material-symbols-outlined">close</span>
                 </button>
@@ -668,8 +681,8 @@ function showVehicleDetail(id) {
             <div class="p-6 md:p-8">
                 <div class="flex flex-wrap items-start justify-between gap-4 mb-6">
                     <div>
-                        <h2 class="text-2xl md:text-3xl font-black text-blue-900 mb-2">${vehicle.year} ${vehicle.brand} ${vehicle.model}</h2>
-                        <span class="bg-blue-900 text-white px-4 py-1 rounded-full text-sm font-bold">${vehicle.brand}</span>
+                        <h2 class="text-2xl md:text-3xl font-black text-blue-900 mb-2">${vehicle.year} ${brand} ${model}</h2>
+                        <span class="bg-blue-900 text-white px-4 py-1 rounded-full text-sm font-bold">${brand}</span>
                     </div>
                     <div class="text-right">
                         <div class="text-3xl font-black text-blue-900">$${vehicle.price.toLocaleString()}</div>
@@ -682,7 +695,7 @@ function showVehicleDetail(id) {
                     <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Transmission</div><div class="font-bold capitalize">${vehicle.transmission}</div></div>
                     <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Year</div><div class="font-bold">${vehicle.year}</div></div>
                 </div>
-                ${vehicle.description ? '<p class="text-slate-600 mb-6">' + vehicle.description + '</p>' : ''}
+                ${desc ? '<p class="text-slate-600 mb-6">' + desc + '</p>' : ''}
                 <div class="flex flex-col sm:flex-row gap-4">
                     <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all">Inquire Now</button>
                     <a href="https://wa.me/8613888888888" target="_blank" class="flex-1 bg-green-500 hover:bg-green-600 text-white font-bold py-4 rounded-xl text-center transition-all">WhatsApp</a>
