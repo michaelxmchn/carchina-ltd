@@ -540,7 +540,7 @@ let currentLang = localStorage.getItem('lang') || 'en';
 
 async function loadVehicles() {
     // 优先从GitHub读取车辆数据（支持多设备同步）
-    const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/main/data/vehicles.json';
+    const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json';
     try {
         const res = await fetch(GITHUB_RAW);
         if (res.ok) {
