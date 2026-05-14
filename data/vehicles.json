@@ -1,1 +1,500 @@
-{"vehicles": [{"id": 1, "brand": {"en": "Toyota", "cn": "丰田", "ru": "Тойота", "ar": "تويوتا"}, "model": {"en": "Camry", "cn": "凯美瑞", "ru": "Камри", "ar": "كامري"}, "year": 2024, "price": 28500, "image": "https://i.imgur.com/8VZkZQj.jpg", "mileage": 15000, "fuel": "Petrol", "transmission": "Automatic", "bodyType": "Sedan", "color": "Pearl White", "status": "Available", "featured": true, "description": {"en": "Premium sedan with reliability and comfort.", "cn": "高端轿车，可靠舒适。", "ru": "Премиальный седан с надежностью и комфортом.", "ar": "سيارة سيدان فاخرة مع الموثوقية والراحة."}}, {"id": 2, "brand": {"en": "BYD", "cn": "比亚迪", "ru": "BYD", "ar": "بي واي دي"}, "model": {"en": "Seal", "cn": "海豹", "ru": "Сил", "ar": "سيل"}, "year": 2024, "price": 32000, "image": "https://i.imgur.com/YFJPmVb.jpg", "mileage": 8000, "fuel": "Electric", "transmission": "Automatic", "bodyType": "Sedan", "color": "Blue", "status": "Available", "featured": true, "description": {"en": "Advanced EV sedan with 700km range.", "cn": "先进纯电轿车，续航700公里。", "ru": "Продвинутый электроседан с запасом хода 700км.", "ar": "سيارة سيدان كهربائية متقدمة بمدى 700 كم."}}, {"id": 3, "brand": {"en": "Geely", "cn": "吉利", "ru": "Джили", "ar": "جيكلي"}, "model": {"en": "Coolray", "cn": "Coolray", "ru": "Кулрэй", "ar": "كولراي"}, "year": 2024, "price": 22000, "image": "https://i.imgur.com/K5X7YZW.jpg", "mileage": 5000, "fuel": "Petrol", "transmission": "Automatic", "bodyType": "SUV", "color": "Red", "status": "Available", "featured": false, "description": {"en": "Compact SUV perfect for city driving.", "cn": "紧凑型SUV，城市出行首选。", "ru": "Компактный внедорожник для города.", "ar": "SUV صغير مثالي للقيادة في المدينة."}}, {"id": 4, "brand": {"en": "NIO", "cn": "蔚来", "ru": "NIO", "ar": "نيو"}, "model": {"en": "ES6", "cn": "ES6", "ru": "ЕС6", "ar": "إس 6"}, "year": 2024, "price": 45000, "image": "https://i.imgur.com/P3ZbnXQ.jpg", "mileage": 10000, "fuel": "Electric", "transmission": "Automatic", "bodyType": "SUV", "color": "Black", "status": "Available", "featured": true, "description": {"en": "Luxury electric SUV with battery swap.", "cn": "豪华纯电SUV，支持换电。", "ru": "Люксовый электровнедорожник с заменой батареи.", "ar": "SUV كهربائي فاخر مع تبديل البطارية."}}, {"id": 5, "brand": {"en": "BMW", "cn": "宝马", "ru": "БМВ", "ar": "بي إم دبليو"}, "model": {"en": "X5", "cn": "X5", "ru": "Х5", "ar": "إكس 5"}, "year": 2023, "price": 62000, "image": "https://i.imgur.com/WJkdL8M.jpg", "mileage": 20000, "fuel": "Petrol", "transmission": "Automatic", "bodyType": "SUV", "color": "Gray", "status": "Available", "featured": false, "description": {"en": "Luxury SUV with powerful performance.", "cn": "豪华SUV，性能强劲。", "ru": "Люксовый внедорожник с мощной динамикой.", "ar": "SUV فاخر مع أداء قوي."}}, {"id": 6, "brand": {"en": "Honda", "cn": "本田", "ru": "Хонда", "ar": "هوندا"}, "model": {"en": "Accord", "cn": "雅阁", "ru": "Аккорд", "ar": "أكورد"}, "year": 2024, "price": 26800, "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800", "mileage": 12000, "fuel": "Petrol", "transmission": "Automatic", "bodyType": "Sedan", "color": "Silver", "status": "Available", "featured": false, "description": {"en": "Elegant sedan with fuel efficiency and modern features.", "cn": "优雅轿车，燃油经济，配置现代。", "ru": "Элегантный седан с экономией топлива и современными функциями.", "ar": "سيدان أنيق مع كفاءة الوقود وميزات حديثة."}}]}
+{
+  "vehicles": [
+    {
+      "brand": {
+        "en": "Lexus",
+        "ru": "Лексус",
+        "ar": "لكزس",
+        "cn": "雷克萨斯"
+      },
+      "model": {
+        "en": "ES ES200 2.0 CVT Premium Edition",
+        "cn": "ES ES200 2.0 无级 臻享版",
+        "ru": "ES ES200 2.0 CVT Премиум",
+        "ar": "ES ES200 2.0 CVT بريميوم"
+      },
+      "year": 2025,
+      "price": 28600,
+      "mileage": 12000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "First owner, no transfer history, original factory paint all over plus paint protection film, zero insurance claims, zero scratches, zero flaws! Full payment vehicle, can transfer ownership anytime!",
+        "cn": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！",
+        "ru": "Первый владелец, без переоформления, весь кузов в заводской краске плюс защитная плёнка, нулевые страховые случаи, нулевые царапины, нулевые дефекты! Автомобиль за полную стоимость, возможна перерегистрация в любое время!",
+        "ar": "المالك الأول، لم يتم نقل الملكية، الطلاء الأصلي بالكامل بالإضافة إلى غطاء حماية، لا حوادث تأمين، لا خدوش، لا عيوب! سيارة نقدًا، يمكن نقل الملكية في أي وقت!"
+      },
+      "image": "https://img.jytche.com/user/176414/car/image/69fdcbf7e01e9/1778240503870N9124_718957.jpg",
+      "id": 7
+    },
+    {
+      "brand": {
+        "en": "BMW",
+        "ru": "БМВ",
+        "ar": "بي إم دبليو",
+        "cn": "宝马"
+      },
+      "model": {
+        "en": "X6 xDrive35i 3.0T Sport",
+        "cn": "X6 X6 xDrive35i 3.0T 运动型",
+        "ru": "X6 xDrive35i 3.0T Спорт",
+        "ar": "X6 xDrive35i 3.0T سبورت"
+      },
+      "year": 2014,
+      "price": 10312,
+      "mileage": 130000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Actual mileage, ChaDoctor S-class inspection.",
+        "cn": "实表，查博士S级，",
+        "ru": "Реальные показания одометра, проверка ChaDoctor класс S.",
+        "ar": "عداد حقيقي، فحص ChaDoctor درجة S."
+      },
+      "image": "https://img.jytche.com/user/4340811/car/image/6a054bbef13b8/1778731966947_096_app_M_333.58K-333.58K_parse.jpeg",
+      "id": 8
+    },
+    {
+      "brand": {
+        "en": "Toyota",
+        "ru": "Тойота",
+        "ar": "تويوتا",
+        "cn": "丰田"
+      },
+      "model": {
+        "en": "Vios FS 1.5 CVT Fengchi Edition",
+        "cn": "威驰FS 1.5 无级 锋驰版",
+        "ru": "Виос FS 1.5 CVT Фэнчи",
+        "ar": "فيوس FS 1.5 CVT فينتشي"
+      },
+      "year": 2017,
+      "price": 5843,
+      "mileage": 19000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original condition, first owner, over 10,000 km, one panel repainted.",
+        "cn": "原版 一手 1万多公里 一面漆",
+        "ru": "Оригинальное состояние, первый владелец, более 10 000 км, одна деталь перекрашена.",
+        "ar": "حالة أصلية، مالك أول، أكثر من 10,000 كم، تم طلاء جزء واحد."
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69ead0cd990b5/1776996557647K8675_539277.jpg",
+      "id": 9
+    },
+    {
+      "brand": {
+        "en": "Volkswagen",
+        "ru": "Фольксваген",
+        "ar": "فولكس فاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "Tiguan L 2.0TSI 330TSI Front-wheel drive Luxury Edition",
+        "cn": "途观L 2.0TSI 330TSI 两驱豪华版",
+        "ru": "Тигуан L 2.0TSI 330TSI передний привод Люкс",
+        "ar": "تيغوان L 2.0TSI 330TSI دفع أمامي فاخر"
+      },
+      "year": 2018,
+      "price": 7699,
+      "mileage": 230000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "Gold",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Left front fender and left headlight replaced, high mileage.",
+        "cn": "左前叶 左前灯 换  公里数大",
+        "ru": "Заменены левое переднее крыло и левая передняя фара, большой пробег.",
+        "ar": "تم استبدال الرفرف الأمامي الأيسر والمصباح الأمامي الأيسر، عدد الكيلومترات كبير."
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69df4dee36836/1776242158273P3222_616099.jpg",
+      "id": 10
+    },
+    {
+      "brand": {
+        "en": "Jaguar",
+        "ru": "Ягуар",
+        "ar": "جاغوار",
+        "cn": "捷豹"
+      },
+      "model": {
+        "en": "E-PACE 2.0T P200",
+        "cn": "E-PACE 2.0T P200",
+        "ru": "E-PACE 2.0T P200",
+        "ar": "E-PACE 2.0T P200"
+      },
+      "year": 2018,
+      "price": 9487,
+      "mileage": 110000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original condition, white car with white paint protection film.",
+        "cn": "原版车，白色贴白色车衣",
+        "ru": "Оригинальное состояние, белый автомобиль с белой защитной плёнкой.",
+        "ar": "حالة أصلية، سيارة بيضاء مع غطاء حماية أبيض."
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69e843269ca01/1776829222669N4161_588650_parse.jpg",
+      "id": 11
+    },
+    {
+      "brand": {
+        "en": "Volkswagen",
+        "ru": "Фольксваген",
+        "ar": "فولكس فاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "Tiguan Tiguan 2.0TSI Luxury Edition",
+        "cn": "途欢 途欢 2.0TSI 豪华版",
+        "ru": "Тигуан Тигуан 2.0TSI Люкс",
+        "ar": "تيغوان تيغوان 2.0TSI الفاخرة"
+      },
+      "year": 2012,
+      "price": 3231,
+      "mileage": 160000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Front accident, repaired at 4S shop, good condition",
+        "cn": "前面事故 4S修复 品相好",
+        "ru": "Передняя авария, ремонт в официальном дилерском центре, хорошее состояние",
+        "ar": "حادث أمامي، تم إصلاحه في مركز 4S، حالة جيدة"
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69c0e5daab378/1774249434716e628_668400.jpg",
+      "id": 12
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Хонда",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "Vezel 1.8 CVT 2WD Pioneer Edition",
+        "cn": "缤智 1.8 无级 两驱先锋型",
+        "ru": "Везел 1.8 CVT передний привод Пионер",
+        "ar": "فيزل 1.8 CVT دفع أمامي نسخة بيونير"
+      },
+      "year": 2017,
+      "price": 6462,
+      "mileage": 90000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Replaced parts: rear cover, right rear door",
+        "cn": "换件 后盖 右后门",
+        "ru": "Замена деталей: задняя крышка, правая задняя дверь",
+        "ar": "استبدال الأجزاء: الغطاء الخلفي، الباب الخلفي الأيمن"
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/6a02ac392e55e/1778560057222J11347_482089.jpg",
+      "id": 13
+    },
+    {
+      "brand": {
+        "en": "Weltmeister",
+        "ru": "Велтмайстер",
+        "ar": "فيلتمايستر",
+        "cn": "威马"
+      },
+      "model": {
+        "en": "W6 520km PRO All-round Edition",
+        "cn": "W6 520km PRO全能版",
+        "ru": "W6 520km PRO Универсальная версия",
+        "ar": "W6 520km PRO النسخة الشاملة"
+      },
+      "year": 2021,
+      "price": 9212,
+      "mileage": 60000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "First-hand car, no insurance claims, original body and paint",
+        "cn": "一手车，0出险，原版原漆",
+        "ru": "Автомобиль из первых рук, без страховых случаев, оригинальный кузов и краска",
+        "ar": "سيارة مملوكة أول مرة، لا مطالبات تأمين، هيكل وطلاء أصلي"
+      },
+      "image": "https://img.jytche.com/user/255764/car/image/69fb262f8eab7/1778066991615Y973_810154.jpg",
+      "id": 14
+    },
+    {
+      "brand": {
+        "en": "Toyota",
+        "ru": "Тойота",
+        "ar": "تويوتا",
+        "cn": "丰田"
+      },
+      "model": {
+        "en": "Alphard Alphard 2.5 CVT Luxury Edition",
+        "cn": "埃尔法 埃尔法 2.5 无级 豪华版",
+        "ru": "Альфард Альфард 2.5 CVT Люкс",
+        "ar": "ألفارد ألفارد 2.5 CVT الفاخرة"
+      },
+      "year": 2021,
+      "price": 74937,
+      "mileage": 80000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "MPV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "First-hand, original paint with paint protection film",
+        "cn": "一手 原版原漆带车衣",
+        "ru": "Из первых рук, оригинальная краска с защитной плёнкой",
+        "ar": "مملوكة أول مرة، طلاء أصلي مع طبقة حماية"
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69faf5393c0db/1778054457261B6670_686017_parse.jpg",
+      "id": 15
+    },
+    {
+      "brand": {
+        "en": "Roewe",
+        "ru": "Роуи",
+        "ar": "رووي",
+        "cn": "荣威"
+      },
+      "model": {
+        "en": "RX5 1.5T 20T 2WD Flagship Edition",
+        "cn": "RX5 1.5T 20T 两驱旗舰版",
+        "ru": "RX5 1.5T 20T передний привод Флагман",
+        "ar": "RX5 1.5T 20T دفع أمامي نسخة فلاجشيب"
+      },
+      "year": 2018,
+      "price": 3300,
+      "mileage": 70000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "Brown",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Small front collision, hood replaced, interior like new",
+        "cn": "前面小顶 机盖换  内饰嘎嘎新",
+        "ru": "Небольшой удар спереди, капот заменён, салон как новый",
+        "ar": "اصطدام أمامي بسيط، تم استبدال غطاء المحرك، المقصورة جديدة تمامًا"
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/6a001ce10c8b8/1778392289065i6019_686460.jpg",
+      "id": 16
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Honda",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "Crosstour 2.4尊享版",
+        "cn": "歌诗图 2.4 尊享版",
+        "ru": "Crosstour 2.4 Зунсян",
+        "ar": "كروستور 2.4 فاخرة"
+      },
+      "year": 2012,
+      "price": 4537,
+      "mileage": 168000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "First-hand original version, guaranteed real mileage, excellent maintenance, top condition, zero investment needed",
+        "cn": "一手原版  保实表精品  养护工况一流  极品车况  到手0投资",
+        "ru": "Оригинал с первыми руками, гарантированный реальный пробег, отличное обслуживание, идеальное состояние, без вложений",
+        "ar": "نسخة أصلية من المالك الأول، عداد حقيقي مضمون، صيانة ممتازة، حالة نادرة، لا تحتاج إلى استثمار"
+      },
+      "image": "https://img.jytche.com/user/717470/car/image/69f317de50841/1777539038094_896_app_N_332.12K-332.12K_parse.jpeg",
+      "id": 17
+    },
+    {
+      "brand": {
+        "en": "Land Rover",
+        "ru": "Land Rover",
+        "ar": "لاند روفر",
+        "cn": "路虎"
+      },
+      "model": {
+        "en": "Range Rover Range Rover 48V 3.0T L6 400PS Shengshi Long Wheelbase 7-Seat",
+        "cn": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
+        "ru": "Range Rover Range Rover 48V 3.0T L6 400PS Shengshi удлиненная версия 7 мест",
+        "ar": "رينج روفر 48V 3.0T L6 400PS شينغشي بقاعدة عجلات طويلة 7 مقاعد"
+      },
+      "year": 2024,
+      "price": 151250,
+      "mileage": 81000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "7-seat, original paint, with body wrap",
+        "cn": "7座原版原漆带车衣",
+        "ru": "7 мест, оригинальная краска, с защитной пленкой",
+        "ar": "7 مقاعد، طلاء أصلي مع غطاء حماية"
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/6a01967cde768/1778488956932E10862_752775.jpg",
+      "id": 18
+    },
+    {
+      "brand": {
+        "en": "Peugeot",
+        "ru": "Peugeot",
+        "ar": "بيجو",
+        "cn": "标致"
+      },
+      "model": {
+        "en": "308 1.6 Luxury Edition",
+        "cn": "308 1.6 豪华版",
+        "ru": "308 1.6 Люкс",
+        "ar": "308 1.6 فاخرة"
+      },
+      "year": 2018,
+      "price": 3272,
+      "mileage": 97000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "1.6 four-cylinder engine, first-hand real mileage 97,000 km, excellent dynamic condition inside and out, very fresh appearance, rear-end collision (no cuts) with expanded loss record",
+        "cn": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
+        "ru": "1.6 четырехцилиндровый двигатель, первая рука реальный пробег 97 000 км, отличное динамическое состояние, внешний вид и салон как новые, заднее столкновение (без разрезов), запись о расширенном ущербе",
+        "ar": "محرك 1.6 رباعي الأسطوانات، عداد حقيقي 97,000 كم من المالك الأول، حالة ديناميكية ممتازة، مظهر داخلي وخارجي جديد، اصطدام خلفي (بدون قطع) مع سجل خسارة موسع"
+      },
+      "image": "https://img.jytche.com/user/717470/car/image/69fd990d20aaf/1778227469015_815_app_U_228.12K-228.12K.jpg",
+      "id": 19
+    },
+    {
+      "brand": {
+        "en": "Volkswagen",
+        "ru": "Volkswagen",
+        "ar": "فولكس فاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "Passat 1.8TSI Zunya Edition",
+        "cn": "帕萨特 1.8TSI 尊雅版",
+        "ru": "Passat 1.8TSI Цзуня",
+        "ar": "باسات 1.8TSI زونيا"
+      },
+      "year": 2014,
+      "price": 3918,
+      "mileage": 190000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Passed Dr. Charles S-level inspection, teacher's first-hand car, used with seat covers, interior 90% new with factory wrapping still on, only cover parts replaced, overall good condition, engine and chassis very solid",
+        "cn": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
+        "ru": "Пройдена проверка доктора Чарльза уровня S, автомобиль первого владельца (учителя), использовался с чехлами, салон на 90% новый, до сих пор заводские пленки, заменены только накладные детали, общее состояние отличное, двигатель и ходовая часть в идеале",
+        "ar": "اجتاز فحص الدكتور تشارلز من الدرجة S، سيارة مالك أول (مدرس)، استخدمت مع أغطية المقاعد، المقصورة جديدة بنسبة 90% مع الأغلفة الأصلية، تم استبدال الأجزاء التجميلية فقط، الحالة العامة جيدة، المحرك وناقل الحركة والهيكل ممتازة"
+      },
+      "image": "https://img.jytche.com/user/2495527/car/image/69bfbc6a28223/1774173290210B8769_515887.jpg",
+      "id": 20
+    },
+    {
+      "brand": {
+        "en": "Mercedes-Benz",
+        "ru": "Mercedes-Benz",
+        "ar": "مرسيدس بنز",
+        "cn": "奔驰"
+      },
+      "model": {
+        "en": "E-Class E 300 L 2.0T Fashion Type",
+        "cn": "E级 E 300 L 2.0T 时尚型",
+        "ru": "E-Class E 300 L 2.0T Модный",
+        "ar": "E-Class E 300 L 2.0T موضة"
+      },
+      "year": 2020,
+      "price": 30937,
+      "mileage": 80000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "First-hand original version, real mileage, almost original paint, third-party S-level inspection",
+        "cn": "一手原版实表  几乎原漆  三方S级",
+        "ru": "Первая рука оригинал, реальный пробег, почти оригинальная краска, сторонняя проверка уровня S",
+        "ar": "نسخة أصلية من المالك الأول، عداد حقيقي، طلاء أصلي تقريبًا، فحص من طرف ثالث من الدرجة S"
+      },
+      "image": "https://img.jytche.com/user/717470/car/image/69d0d760c3c2b/1775294304456_406_app_P_346.82K-346.82K.jpg",
+      "id": 21
+    },
+    {
+      "brand": {
+        "en": "Volkswagen",
+        "ru": "Фольксваген",
+        "ar": "فولكسفاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "Teramont 2.5T 530 V6 4WD Premium Luxury Edition",
+        "cn": "途昂 2.5T 530 V6 四驱尊崇豪华版",
+        "ru": "Терамонт 2.5T 530 V6 полный привод Премиум Люкс",
+        "ar": "تيرامونت 2.5T 530 V6 دفع رباعي بريميوم لوكس"
+      },
+      "year": 2022,
+      "price": 20625,
+      "mileage": 122000,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "bodyType": "SUV",
+      "color": "Silver",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint, basically all original. The car is registered under a rental company but is non-commercial in nature. Interior is in brand new condition.",
+        "cn": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
+        "ru": "Оригинальная краска, в основном всё оригинальное. Автомобиль зарегистрирован на лизинговую компанию, но имеет некоммерческий статус. Салон в отличном новом состоянии.",
+        "ar": "الطلاء الأصلي، ومعظمه أصلي. السيارة مسجلة باسم شركة تأجير ولكنها ذات طبيعة غير تجارية. المقصورة جديدة تمامًا."
+      },
+      "image": "https://img.jytche.com/user/12184/car/image/69f95bc4d12df/1777949636862f769_790461.jpg",
+      "id": 22
+    }
+  ]
+}
