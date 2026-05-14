@@ -2,8 +2,1634 @@
   "vehicles": [
     {
       "brand": {
+        "en": "Volkswagen",
+        "ru": "Фольксваген",
+        "ar": "فولكس فاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "甲壳虫 甲壳虫 1.4TSI 豪华型",
+        "cn": "甲壳虫 甲壳虫 1.4TSI 豪华型",
+        "ru": "甲壳虫 甲壳虫 1.4TSI 豪华型",
+        "ar": "甲壳虫 甲壳虫 1.4TSI 豪华型"
+      },
+      "year": 2014,
+      "price": 7562,
+      "guidePrice": 42267,
+      "mileage": 138000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "15年大众甲壳虫，280- 小高配，车况精品，查博士 s。 美女私家代步车。复古风满满。泪眼大灯，大天窗，芬德音响，座椅加热。加装氛围灯，大屏。",
+        "cn": "15年大众甲壳虫，280- 小高配，车况精品，查博士 s。 美女私家代步车。复古风满满。泪眼大灯，大天窗，芬德音响，座椅加热。加装氛围灯，大屏。",
+        "ru": "15年大众甲壳虫，280- 小高配，车况精品，查博士 s。 美女私家代步车。复古风满满。泪眼大灯，大天窗，芬德音响，座椅加热。加装氛围灯，大屏。",
+        "ar": "15年大众甲壳虫，280- 小高配，车况精品，查博士 s。 美女私家代步车。复古风满满。泪眼大灯，大天窗，芬德音响，座椅加热。加装氛围灯，大屏。"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/00_1778658931042_404_app_J_363.83K-363.83K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/01_1778658931037_647_app_W_347.36K-347.36K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/02_1778658931035_837_app_S_319.99K-319.99K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/03_1778658931047_665_app_B_326.88K-326.88K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/04_1778658931036_674_app_L_285.37K-285.37K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/05_1778658930962_262_app_C_285.76K-285.76K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/06_1778658931029_748_app_T_294.29K-294.29K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/07_1778658931023_782_app_T_304.69K-304.69K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/00_1778658931042_404_app_J_363.83K-363.83K.jpeg",
+      "city": "合肥",
+      "province": "安徽",
+      "plateDate": "2022-08-23",
+      "capacity": "1.4T",
+      "emission": "欧五",
+      "transferCount": "",
+      "tags": [],
+      "id": 7
+    },
+    {
+      "brand": {
+        "en": "福特 2021款 领裕 2.0T EcoBoost 225 尊领型7座",
+        "ru": "福特 2021款 领裕 2.0T EcoBoost 225 尊领型7座",
+        "ar": "福特 2021款 领裕 2.0T EcoBoost 225 尊领型7座",
+        "cn": "福特 2021款 领裕 2.0T EcoBoost 225 尊领型7座"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2021,
+      "price": 10037,
+      "guidePrice": 27747,
+      "mileage": 100000,
+      "fuel": "Electric",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价比高，零首付（车况前嘴一套出险没记录）",
+        "cn": "新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价比高，零首付（车况前嘴一套出险没记录）",
+        "ru": "新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价比高，零首付（车况前嘴一套出险没记录）",
+        "ar": "新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价比高，零首付（车况前嘴一套出险没记录）"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/00_1772961608934_934_app_F_430.25K-430.25K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/01_1772961608910_594_app_F_494.03K-494.03K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/02_1772961608940_474_app_R_428.05K-428.05K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/03_1772961609097_946_app_Q_313.58K-313.58K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/04_1772961609264_542_app_D_384.26K-384.26K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/05_1772961609427_774_app_K_350.40K-350.40K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/06_1772961609569_366_app_A_231.33K-231.33K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/07_1772961609860_763_app_I_239.52K-239.52K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/08_1772961610099_241_app_F_563.41K-1.08M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/09_1772961610234_399_app_L_380.86K-380.86K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/10_1772961610418_321_app_U_471.90K-471.90K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/11_1772961610573_686_app_J_309.76K-309.76K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/12_1772961610725_606_app_N_354.42K-354.42K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/13_1772961609726_084_app_W_292.26K-292.26K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/00_1772961608934_934_app_F_430.25K-430.25K.jpeg",
+      "city": "深圳",
+      "province": "广东",
+      "plateDate": "2022-01-17",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "高保值",
+        "车况精品",
+        "一手车"
+      ],
+      "id": 8
+    },
+    {
+      "brand": {
+        "en": "Buick",
+        "ru": "Бьюик",
+        "ar": "بويك",
+        "cn": "别克"
+      },
+      "model": {
+        "en": "GL8 陆上公务舱 2.0T 652T 豪华型",
+        "cn": "GL8 陆上公务舱 2.0T 652T 豪华型",
+        "ru": "GL8 陆上公务舱 2.0T 652T 豪华型",
+        "ar": "GL8 陆上公务舱 2.0T 652T 豪华型"
+      },
+      "year": 2021,
+      "price": 15125,
+      "guidePrice": 35598,
+      "mileage": 78000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "MPV",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户",
+        "cn": "652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户",
+        "ru": "652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户",
+        "ar": "652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/00_1777442074377_768_app_L_360.67K-360.67K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/01_1777442074257_889_app_R_307.64K-307.64K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/02_1777442074388_762_app_F_269.73K-269.73K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/03_1777442074422_015_app_X_282.63K-282.63K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/04_1777442074392_287_app_C_263.56K-263.56K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/05_1777442074430_202_app_E_361.93K-361.93K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/06_1777442074471_712_app_S_363.42K-363.42K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/07_1777442074403_539_app_V_333.24K-333.24K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/08_1777442074355_033_app_C_344.10K-344.10K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/00_1777442074377_768_app_L_360.67K-360.67K.jpeg",
+      "city": "成都",
+      "province": "四川",
+      "plateDate": "2021-03-09",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "全车原漆",
+        "0过户",
+        "增值税发票",
+        "全车原版"
+      ],
+      "id": 9
+    },
+    {
+      "brand": {
         "en": "Lexus",
         "ru": "Лексус",
+        "ar": "لكسوس",
+        "cn": "雷克萨斯"
+      },
+      "model": {
+        "en": "ES ES200 2.0 无级 卓越版",
+        "cn": "ES ES200 2.0 无级 卓越版",
+        "ru": "ES ES200 2.0 无级 卓越版",
+        "ar": "ES ES200 2.0 无级 卓越版"
+      },
+      "year": 2022,
+      "price": 25025,
+      "guidePrice": 40823,
+      "mileage": 50000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开",
+        "cn": "新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开",
+        "ru": "新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开",
+        "ar": "新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/00_1778038282291_285_app_Y_439.84K-439.84K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/01_1778038282387_368_app_O_357.10K-357.10K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/02_1778038282438_980_app_Y_414.62K-414.62K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/03_1778038282655_385_app_W_301.18K-301.18K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/04_1778038282879_955_app_T_335.61K-335.61K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/05_1778038283077_321_app_B_240.82K-240.82K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/06_1778038285845_121_app_U_558.35K-1.05M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/07_1778038283158_377_app_L_230.68K-230.68K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/08_1778038283247_317_app_A_169.43K-169.43K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/09_1778038285540_298_app_N_286.92K-286.92K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/10_1778064221613_294_app_M_175.14K-175.14K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/11_1778038287906_878_app_L_415.40K-415.40K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/12_1778038291068_576_app_P_204.24K-204.24K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/13_1778038291170_489_app_V_330.31K-330.31K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/14_1778038291495_178_app_L_576.40K-1.11M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/15_1778038291712_599_app_P_439.25K-439.25K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/16_1778038291812_534_app_Y_345.58K-345.58K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/17_1778038292073_236_app_V_454.28K-454.28K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/18_1778038283467_014_app_S_203.95K-203.95K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/00_1778038282291_285_app_Y_439.84K-439.84K.jpeg",
+      "city": "深圳",
+      "province": "广东",
+      "plateDate": "2022-09-28",
+      "capacity": "2.0L",
+      "emission": "欧六",
+      "transferCount": "",
+      "tags": [
+        "高保值",
+        "准新车",
+        "全车原漆",
+        "全车原版",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 10
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Хонда",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "第十一代雅阁 1.5T 无级 260TURBO 智享版",
+        "cn": "第十一代雅阁 1.5T 无级 260TURBO 智享版",
+        "ru": "第十一代雅阁 1.5T 无级 260TURBO 智享版",
+        "ar": "第十一代雅阁 1.5T 无级 260TURBO 智享版"
+      },
+      "year": 2023,
+      "price": 15950,
+      "guidePrice": 27060,
+      "mileage": 23700,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "左前门左后门喷漆左后叶钣金喷漆，其他原版原漆。出险两千块",
+        "cn": "左前门左后门喷漆左后叶钣金喷漆，其他原版原漆。出险两千块",
+        "ru": "左前门左后门喷漆左后叶钣金喷漆，其他原版原漆。出险两千块",
+        "ar": "左前门左后门喷漆左后叶钣金喷漆，其他原版原漆。出险两千块"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/00_1777978457014Z3898_107192_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/01_1777978457019k1341_89100_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/02_1777978457019k9904_106764.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/03_1777978457020r9830_106132.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/04_1777978457021i9529_70652_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/05_1777978457022g8126_75348_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/06_1777978457023X8125_59398_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/07_1777978457023G10429_55305.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/08_1777978457024h1658_44509.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/00_1777978457014Z3898_107192_parse.jpg",
+      "city": "深圳",
+      "province": "广东",
+      "plateDate": "2024-04-15",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 11
+    },
+    {
+      "brand": {
+        "en": "Volkswagen",
+        "ru": "Фольксваген",
+        "ar": "فولكس فاجن",
+        "cn": "大众"
+      },
+      "model": {
+        "en": "Passat 1.4TSI 280TSI Business Edition",
+        "cn": "帕萨特 1.4TSI 280TSI 商务版",
+        "ru": "Пассат 1.4TSI 280TSI Бизнес-версия",
+        "ar": "باسات 1.4TSI 280TSI نسخة الأعمال"
+      },
+      "year": 2022,
+      "price": 7975,
+      "guidePrice": 24736,
+      "mileage": 90000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Non-commercial, mostly original paint, rear bumper hit a stone pier, minor issue, but has a third-party inspection report",
+        "cn": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告",
+        "ru": "Не коммерческое использование, в основном оригинальная краска, задний бампер ударился о бетонный столб, небольшая проблема, но есть отчёт сторонней проверки",
+        "ar": "غير تجاري، طلاء أصلي بشكل أساسي، اصطدام المصد الخلفي بحجر، مشكلة بسيطة، ولكن يوجد تقرير من طرف ثالث"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/00_1777606588144u2604_89775_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/01_1777607187637f5526.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/02_1777606588147K8734_105370_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/03_1777606588147U1013_76053_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/04_1777607200158t10467.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/05_1777607206182s1578.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/06_1777606588150u9328_75443.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/07_1777606588151g3439_83552.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/08_1777606594167o10465_89898.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/00_1777606588144u2604_89775_parse.jpg",
+      "city": "深圳",
+      "province": "广东",
+      "plateDate": "2022-02-10",
+      "capacity": "1.4T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 12
+    },
+    {
+      "brand": {
+        "en": "Toyota",
+        "ru": "Тойота",
+        "ar": "تويوتا",
+        "cn": "丰田"
+      },
+      "model": {
+        "en": "Avalon 2.5 Luxury Edition",
+        "cn": "亚洲龙 2.5 豪华版",
+        "ru": "Авалон 2.5 Люкс",
+        "ar": "أفالون 2.5 فاخر"
+      },
+      "year": 2021,
+      "price": 13612,
+      "guidePrice": 31185,
+      "mileage": 69000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Left rear fender panel repair, left rear door panel repair, left front door repainted",
+        "cn": "左后叶钣金，左后门钣金，左前门喷漆",
+        "ru": "Ремонт левой задней крыла, ремонт левой задней двери, покраска левой передней двери",
+        "ar": "إصلاح الرفرف الخلفي الأيسر، إصلاح الباب الخلفي الأيسر، دهان الباب الأمامي الأيسر"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/00_1778469367217_014_app_X_2.22M-398.55K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/01_1778469374675_488_app_Y_1.92M-424.08K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/02_1778469318881_068_app_K_312.47K-312.47K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/03_1778469318905_152_app_J_303.21K-303.21K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/04_1778469319057_682_app_I_350.73K-350.73K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/05_1778469319202_460_app_E_330.47K-330.47K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/06_1778469319350_180_app_O_366.13K-366.13K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/07_1778469318761_695_app_V_294.30K-294.30K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/00_1778469367217_014_app_X_2.22M-398.55K.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2021-09-03",
+      "capacity": "2.5L",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 13
+    },
+    {
+      "brand": {
+        "en": "Buick",
+        "ru": "Бьюик",
+        "ar": "بويك",
+        "cn": "别克"
+      },
+      "model": {
+        "en": "GL8 Land Business Cabin 48V 2.0T 652T Luxury",
+        "cn": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
+        "ru": "GL8 Land Business Cabin 48V 2.0T 652T Люкс",
+        "ar": "GL8 مقصورة الأعمال البرية 48V 2.0T 652T فاخر"
+      },
+      "year": 2022,
+      "price": 13722,
+      "guidePrice": 35598,
+      "mileage": 57000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "MPV",
+      "color": "Brown",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Two panels repainted. Left front fender replaced separately. Has been inspected.",
+        "cn": "两个面喷漆。左前叶子板单独更换。已经过检测。",
+        "ru": "Две панели перекрашены. Левое переднее крыло заменено отдельно. Прошёл проверку.",
+        "ar": "تم دهان وجهين. تم استبدال الرفرف الأمامي الأيسر بشكل منفصل. تم الفحص."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/00_1777854974134k2730_90889_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/01_1777854974140v981_92517.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/02_1777854974142H1923_87479_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/03_1777854974144U524_75543.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/04_1777854974146S9949_75946_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/05_1777854974147F279_77920_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/06_1777854974149F1878_68864.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/07_1777854974150p7329_70840.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/08_1777854974150d9682_59795.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/00_1777854974134k2730_90889_parse.jpg",
+      "city": "深圳",
+      "province": "广东",
+      "plateDate": "2022-08-29",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 14
+    },
+    {
+      "brand": {
+        "en": "Aeolus 2021 Yixuan MAX 1.5T Super Cool Dad Edition",
+        "ru": "Фэншэнь 2021 Ишуань MAX 1.5T Супер крутой папа",
+        "ar": "فنغ شين 2021 ييشوان MAX 1.5T سوبر كول داد",
+        "cn": "风神 2021款 奕炫MAX 1.5T 超炫潮爸版"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2021,
+      "price": 0,
+      "guidePrice": 14286,
+      "mileage": 40000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Left rear fender panel repair, rest original paint",
+        "cn": "左后叶钣金，其余原漆",
+        "ru": "Ремонт левого заднего крыла, остальное оригинальная краска",
+        "ar": "إصلاح الرفرف الخلفي الأيسر، باقي الطلاء أصلي"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/00_1778554764214_581_app_D_1.82M-406.26K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/01_1778554400985_908_app_P_256.05K-256.05K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/02_1778554401096_688_app_S_227.31K-227.31K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/03_1778554401000_689_app_A_354.21K-354.21K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/04_1778554771961_959_app_Y_1.61M-376.03K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/05_1778554401253_406_app_O_202.99K-202.99K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/06_1778554401368_311_app_Q_244.01K-244.01K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/00_1778554764214_581_app_D_1.82M-406.26K.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2022-12-17",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 15
+    },
+    {
+      "brand": {
+        "en": "Roewe",
+        "ru": "Ровей",
+        "ar": "روي",
+        "cn": "荣威"
+      },
+      "model": {
+        "en": "Clever 311km Vitality Bobo Edition",
+        "cn": "科莱威 311km元气啵啵版",
+        "ru": "Клевер 311км Жизнерадостный Бобо",
+        "ar": "كليفر 311كم فيتاليتي بوبو"
+      },
+      "year": 2022,
+      "price": 3300,
+      "guidePrice": 8236,
+      "mileage": 30000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "黄色",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint and original condition",
+        "cn": "原版原漆",
+        "ru": "Оригинальные панели и краска",
+        "ar": "الطلاء الأصلي والألواح الأصلية"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/00_1776522589863_577_app_U_1.83M-376.50K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/01_1776522598551_805_app_C_1.81M-358.41K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/02_1776522467029_794_app_U_240.33K-240.33K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/03_1776522606304_631_app_V_1.90M-392.38K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/04_1776522467325_925_app_G_228.86K-228.86K_parse.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/00_1776522589863_577_app_U_1.83M-376.50K_parse.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2022-07-31",
+      "capacity": "新能源",
+      "emission": "纯电动",
+      "transferCount": "",
+      "tags": [],
+      "id": 16
+    },
+    {
+      "brand": {
+        "en": "ARCFOX 2025 Model T1 425 PRO",
+        "ru": "ARCFOX 2025 года модель T1 425 PRO",
+        "ar": "ARCFOX 2025 طراز T1 425 PRO",
+        "cn": "ARCFOX 2025款 T1 425 PRO"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2025,
+      "price": 8525,
+      "guidePrice": 10422,
+      "mileage": 3000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Blue",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "Original paint, no bodywork",
+        "cn": "原版原漆",
+        "ru": "Заводская краска, без ремонта",
+        "ar": "طلاء أصلي دون إصلاح"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/00_1776426221028_065_app_S_1.94M-421.79K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/01_1776426230744_618_app_C_1.53M-286.28K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/02_1776426206450_623_app_J_225.80K-225.80K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/03_1776426206194_248_app_D_236.67K-236.67K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/04_1776426206300_619_app_H_203.82K-203.82K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/05_1776426245908_393_app_K_1.53M-316.67K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/06_1776426254587_576_app_K_1.86M-378.96K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/07_1776426206676_505_app_V_228.86K-228.86K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/08_1776426206764_028_app_I_192.72K-192.72K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/09_1776426206198_336_app_F_228.05K-228.05K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/00_1776426221028_065_app_S_1.94M-421.79K_parse.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2025-12-31",
+      "capacity": "新能源",
+      "emission": "纯电动",
+      "transferCount": "",
+      "tags": [
+        "全车原版",
+        "实表里程"
+      ],
+      "id": 17
+    },
+    {
+      "brand": {
+        "en": "BYD",
+        "ru": "BYD",
+        "ar": "بي واي دي",
+        "cn": "比亚迪"
+      },
+      "model": {
+        "en": "Qin PLUS DM-i 1.5 CVT Flagship 55KM",
+        "cn": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
+        "ru": "Qin PLUS DM-i 1.5 бесступенчатая флагманская 55KM",
+        "ar": "تشين بلاس دي إم-آي 1.5 سي في تي فلاج شيب 55 كم"
+      },
+      "year": 2021,
+      "price": 4812,
+      "guidePrice": 16472,
+      "mileage": 86000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Right front door panel repair, right rear door repainted, currently needs hood paint, two right doors",
+        "cn": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门",
+        "ru": "Ремонт передней правой двери, покраска задней правой двери, требуется покраска капота, две правые двери",
+        "ar": "إصلاح الباب الأمامي الأيمن، طلاء الباب الخلفي الأيمن، يحتاج إلى طلاء غطاء المحرك، البابان الأيمنان"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/00_1778068534586_576_app_F_2.00M-356.77K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/01_1778068543273_198_app_W_1.70M-366.53K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/02_1778068523143_239_app_D_294.16K-294.16K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/03_1778068523066_242_app_Q_234.76K-234.76K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/04_1778068523218_254_app_N_333.32K-333.32K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/05_1778068552687_118_app_W_2.05M-357.20K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/06_1778068523511_410_app_W_254.97K-254.97K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/07_1778068523642_002_app_D_287.89K-287.89K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/08_1778068522943_441_app_X_334.70K-334.70K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/00_1778068534586_576_app_F_2.00M-356.77K_parse.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2021-08-24",
+      "capacity": "1.5L",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 18
+    },
+    {
+      "brand": {
+        "en": "Trumpchi 2020 Model GS4 1.5T 270T Elite Tech Edition",
+        "ru": "Trumpchi 2020 года GS4 1.5T 270T Elite Tech Edition",
+        "ar": "ترامبشي 2020 طراز GS4 1.5T 270T النسخة التقنية الفاخرة",
+        "cn": "传祺 2020款 GS4 1.5T 270T 精英科技版"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2020,
+      "price": 5912,
+      "guidePrice": 16472,
+      "mileage": 70000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Right side four panels repaired (bodywork)",
+        "cn": "右边四个面钣金",
+        "ru": "Правые четыре панели - ремонт кузова",
+        "ar": "الأربع لوحات الجانب الأيمن تم إصلاحها"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/00_1778060540998_322_app_V_2.04M-384.08K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/01_1778060549789_103_app_E_2.03M-368.48K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/02_1778060244476_125_app_K_397.52K-397.52K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/03_1778060244341_226_app_W_271.59K-271.59K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/04_1778060244472_917_app_Y_327.64K-327.64K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/05_1778060557426_703_app_P_2.01M-356.35K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/06_1778060244735_225_app_U_186.39K-186.39K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/07_1778060244866_106_app_I_306.66K-306.66K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/08_1778060244224_282_app_F_214.77K-214.77K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/00_1778060540998_322_app_V_2.04M-384.08K.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2021-05-25",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 19
+    },
+    {
+      "brand": {
+        "en": "BMW",
+        "ru": "BMW",
+        "ar": "بي إم دبليو",
+        "cn": "宝马"
+      },
+      "model": {
+        "en": "X3 xDrive25L 2.0T Luxury Package",
+        "cn": "X3 xDrive25L 2.0T 豪华套装",
+        "ru": "X3 xDrive25L 2.0T Люкс пакет",
+        "ar": "X3 xDrive25L 2.0T حزمة فاخرة"
+      },
+      "year": 2025,
+      "price": 35200,
+      "guidePrice": 48111,
+      "mileage": 17000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "Black",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "Metal parts original paint, only sunroof replaced",
+        "cn": "铁件原漆，单换天窗",
+        "ru": "Металлические детали в заводской краске, заменен только люк",
+        "ar": "أجزاء المعدن طلاء أصلي، تم استبدال السقف الشمسي فقط"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/00_1777873535188_999_app_B_1.96M-386.61K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/01_1777873499821_928_app_F_283.77K-283.77K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/02_1777873499803_775_app_V_222.81K-222.81K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/03_1777873499936_124_app_U_288.59K-288.59K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/04_1777873561773_320_app_P_2.19M-372.51K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/05_1777873500237_123_app_N_273.52K-273.52K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/06_1777873500377_134_app_R_331.27K-331.27K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/07_1777873499957_341_app_M_424.47K-424.47K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/00_1777873535188_999_app_B_1.96M-386.61K.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2025-07-11",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 20
+    },
+    {
+      "brand": {
+        "en": "Buick",
+        "ru": "Buick",
+        "ar": "بويك",
+        "cn": "别克"
+      },
+      "model": {
+        "en": "GL8 ES Lu Zun 48V 2.0T 653T Premium Edition",
+        "cn": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
+        "ru": "GL8 ES Lu Zun 48V 2.0T 653T Премиум",
+        "ar": "GL8 ES لو زون 48V 2.0T 653T إصدار فاخر"
+      },
+      "year": 2023,
+      "price": 28600,
+      "guidePrice": 47286,
+      "mileage": 30000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "MPV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint, no repairs",
+        "cn": "原版原漆",
+        "ru": "Заводская краска, без ремонта",
+        "ar": "طلاء أصلي دون إصلاح"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/00_1773189705080_578_app_C_510.32K-510.32K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/01_1773189705193_678_app_C_567.57K-679.06K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/02_1773189705240_078_app_R_496.11K-496.11K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/03_1773189705164_476_app_D_491.36K-491.36K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/04_1773189705198_316_app_C_410.80K-410.80K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/05_1773189705314_687_app_I_360.41K-360.41K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/06_1773189705302_482_app_J_331.83K-331.83K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/07_1773189705348_545_app_X_436.23K-436.23K_parse.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/00_1773189705080_578_app_C_510.32K-510.32K.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2023-07-14",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 21
+    },
+    {
+      "brand": {
+        "en": "Toyota",
+        "ru": "Тойота",
+        "ar": "تويوتا",
+        "cn": "丰田"
+      },
+      "model": {
+        "en": "Granvia HYBRID 2.5 CVT Luxury Edition",
+        "cn": "格瑞维亚 HYBRID 2.5 无级 豪华版",
+        "ru": "Гранвиа HYBRID 2.5 вариатор Люкс",
+        "ar": "جرانفيا HYBRID 2.5 CVT الفاخرة"
+      },
+      "year": 2024,
+      "price": 32037,
+      "guidePrice": 43972,
+      "mileage": 50000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "MPV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint and condition",
+        "cn": "原版原漆",
+        "ru": "Оригинальная краска и состояние",
+        "ar": "الطلاء الأصلي والحالة الأصلية"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/00_1778511177030_991_app_R_1.19M-237.51K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/01_1778511187213_676_app_B_1.01M-207.65K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/02_1778511128942_598_app_Y_236.97K-236.97K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/03_1778511128926_179_app_H_208.91K-208.91K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/04_1778511128866_329_app_G_253.20K-253.20K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/05_1778511196294_528_app_J_1.12M-233.11K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/06_1778511204589_936_app_G_1.10M-220.42K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/07_1778511129199_300_app_V_222.29K-222.29K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/08_1778511129328_883_app_G_329.16K-329.16K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/09_1778511129427_568_app_Y_167.78K-167.78K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/10_1778511129531_253_app_Y_181.56K-181.56K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/11_1778511129588_640_app_A_145.35K-145.35K_parse.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/00_1778511177030_991_app_R_1.19M-237.51K_parse.jpeg",
+      "city": "怀化",
+      "province": "湖南",
+      "plateDate": "2025-06-01",
+      "capacity": "2.5L",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 22
+    },
+    {
+      "brand": {
+        "en": "Changan 2022 Eado PLUS 1.4TGDI Blue Whale NE Noble Edition",
+        "ru": "Changan 2022 Eado PLUS 1.4TGDI Blue Whale NE Noble Edition",
+        "ar": "تشانغان 2022 إيدو بلس 1.4 TGDI بلو ويل NE النبيلة",
+        "cn": "长安 2022款 逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2022,
+      "price": 5060,
+      "guidePrice": 12911,
+      "mileage": 4200,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "First-hand car, actual mileage, original condition, repainted on 2 panels, minor sheet metal repair on right spare tire area, insurance claim 3000 for carpet cleaning and removal",
+        "cn": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000",
+        "ru": "Автомобиль из первых рук, реальный пробег, оригинальное состояние, покрашено 2 панели, небольшая жестянка на правом заднем колесе, страховая выплата 3000 за чистку и удаление ковров",
+        "ar": "سيارة يد أولى، عداد كيلومترات حقيقي، حالة أصلية، تم دهان وجهين، إصلاح بسيط بالصفائح المعدنية في منطقة الإطار الاحتياطي الأيمن، تعويض تأمين 3000 لغسل وإزالة السجادة"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/00_1777098450478_523_app_B_526.13K-630.63K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/01_1777098450416_066_app_M_545.03K-546.96K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/02_1777098450537_256_app_C_525.13K-631.90K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/03_1777098450529_203_app_N_337.85K-337.85K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/04_1777098450553_481_app_C_341.00K-341.00K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/05_1777098450519_076_app_D_316.08K-316.08K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/06_1777098450579_850_app_X_474.83K-474.83K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/07_1777098450409_123_app_C_446.52K-446.52K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/08_1777098450449_720_app_O_534.85K-536.52K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/09_1777018158760_285_app_N_248.08K-248.08K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/00_1777098450478_523_app_B_526.13K-630.63K.jpeg",
+      "city": "东莞",
+      "province": "广东",
+      "plateDate": "2023-04-07",
+      "capacity": "1.4T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "准新车",
+        "全车原漆",
+        "0过户",
+        "全车原版",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 23
+    },
+    {
+      "brand": {
+        "en": "Toyota",
+        "ru": "Тойота",
+        "ar": "تويوتا",
+        "cn": "丰田"
+      },
+      "model": {
+        "en": "Corolla 1.5 CVT Elite Edition",
+        "cn": "卡罗拉 1.5 无级 精英版",
+        "ru": "Королла 1.5 вариатор Элит",
+        "ar": "كورولا 1.5 CVT النخبة"
+      },
+      "year": 2021,
+      "price": 8387,
+      "guidePrice": 17572,
+      "mileage": 61000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Good condition, hood has been worked on, otherwise original, first-hand car with actual mileage",
+        "cn": "车况良好  头盖动过  其他原版 一手车实表公里数",
+        "ru": "Хорошее состояние, капот был тронут, в остальном оригинал, автомобиль из первых рук с реальным пробегом",
+        "ar": "حالة جيدة، تم فتح غطاء المحرك، ما عدا ذلك أصلي، سيارة يد أولى بعداد كيلومترات حقيقي"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/00_1777459552752_757_app_S_545.13K-923.49K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/01_1777459562716_158_app_Q_545.13K-929.67K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/02_1777459552872_498_app_N_604.03K-869.20K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/03_1777459552814_588_app_X_276.04K-276.04K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/04_1777459552966_557_app_H_254.62K-254.62K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/05_1777459553367_574_app_A_556.44K-949.28K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/06_1777459553430_218_app_Q_552.12K-940.60K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/07_1777459553494_077_app_G_529.39K-900.25K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/08_1777459553178_068_app_O_370.85K-370.85K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/09_1777459553242_236_app_D_133.41K-133.41K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/00_1777459552752_757_app_S_545.13K-923.49K.jpeg",
+      "city": "东莞",
+      "province": "广东",
+      "plateDate": "2022-03-08",
+      "capacity": "1.5L",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "0过户",
+        "低油耗",
+        "全车原版",
+        "车况精品",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 24
+    },
+    {
+      "brand": {
+        "en": "Trumpchi 2021 M8 2.0T 390T Leading Series Premium Edition",
+        "ru": "Trumpchi 2021 M8 2.0T 390T Leading Series Premium Edition",
+        "ar": "ترامبشي 2021 M8 2.0T 390T الفئة الرائدة بريميوم",
+        "cn": "传祺 2021款 M8 2.0T 390T 领秀系列 尊享版"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2021,
+      "price": 14547,
+      "guidePrice": 26510,
+      "mileage": 55000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "MPV",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint and condition, first-hand, no investment needed, fees paid until October, checked by Dr. Cha S",
+        "cn": "原版原漆一手零投资，费用10月，查博士S",
+        "ru": "Оригинальная краска и состояние, из первых рук, без дополнительных вложений, расходы оплачены до октября, проверено Dr. Cha S",
+        "ar": "الطلاء الأصلي والحالة الأصلية، يد أولى، بدون استثمار، الرسوم مدفوعة حتى أكتوبر، تم الفحص بواسطة Dr. Cha S"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/00_1778681672535_137_app_M_341.28K-341.28K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/01_1778681672487_614_app_M_322.07K-322.07K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/02_1778681672541_164_app_F_363.95K-363.95K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/03_1778681672547_816_app_L_241.09K-241.09K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/04_1778681672602_780_app_K_158.07K-158.07K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/05_1778681672600_368_app_A_215.88K-215.88K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/06_1778681672597_746_app_H_201.49K-201.49K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/00_1778681672535_137_app_M_341.28K-341.28K.jpeg",
+      "city": "遵义",
+      "province": "贵州",
+      "plateDate": "2022-07-27",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "全车原漆",
+        "0过户",
+        "全车原版",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 25
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Хонда",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "INSPIRE 1.5T CVT 260TURBO Exquisite Edition",
+        "cn": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
+        "ru": "INSPIRE 1.5T вариатор 260TURBO Изысканная",
+        "ar": "INSPIRE 1.5T CVT 260TURBO الفاخرة"
+      },
+      "year": 2019,
+      "price": 10862,
+      "guidePrice": 26510,
+      "mileage": 74000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Second-hand car, only left front fender replaced, checked by Dr. Cha S",
+        "cn": "两手车  单换左前叶   查博士S",
+        "ru": "Подержанный автомобиль, заменено только левое переднее крыло, проверено Dr. Cha S",
+        "ar": "سيارة مستعملة، تم استبدال الرفرف الأمامي الأيسر فقط، تم الفحص بواسطة Dr. Cha S"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/00_1778503717509C5821_184498.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/01_1778503717520p11232_215766.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/02_1778503717522p7526_112360.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/03_1778503717524w12389_148650_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/04_1778503717528D6648_199811_parse.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/00_1778503717509C5821_184498.jpg",
+      "city": "温州",
+      "province": "浙江",
+      "plateDate": "2021-01-11",
+      "capacity": "1.5T",
+      "emission": "国五",
+      "transferCount": "",
+      "tags": [],
+      "id": 26
+    },
+    {
+      "brand": {
+        "en": "Mercedes-Benz",
+        "ru": "Mercedes-Benz",
+        "ar": "مرسيدس-بنز",
+        "cn": "奔驰"
+      },
+      "model": {
+        "en": "C-Class C 260 L 48V 1.5T",
+        "cn": "C级 C 260 L 48V 1.5T",
+        "ru": "C-класс C 260 L 48V 1.5T",
+        "ar": "سي-كلاس C 260 L 48V 1.5T"
+      },
+      "year": 2023,
+      "price": 27362,
+      "guidePrice": 48716,
+      "mileage": 28000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "All original paint, no repairs",
+        "cn": "全车原版原漆",
+        "ru": "Заводская окраска без ремонта",
+        "ar": "الطلاء الأصلي بالكامل بدون إصلاحات"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/00_1778506445118_787_app_N_571.55K-1.09M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/01_1778506445132_780_app_P_538.62K-1.02M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/02_1778506445270_422_app_O_540.09K-1.02M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/03_1778506445310_293_app_P_630.04K-1.19M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/04_1778506445187_548_app_C_557.73K-1.05M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/05_1778506445311_069_app_B_600.29K-1.14M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/06_1778506445332_819_app_D_155.41K-155.41K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/07_1778506445566_691_app_F_534.61K-1.01M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/08_1778506445700_938_app_I_173.31K-173.31K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/09_1778506445838_041_app_A_384.01K-384.01K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/00_1778506445118_787_app_N_571.55K-1.09M.jpeg",
+      "city": "六安",
+      "province": "安徽",
+      "plateDate": "2023-06-19",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "准新车",
+        "全车原漆",
+        "0过户",
+        "全车原版",
+        "车况精品",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 27
+    },
+    {
+      "brand": {
+        "en": "Enjoy 2024款 S9 Ultra 四驱旗舰版",
+        "ru": "Enjoy (модель 2024) S9 Ultra полный привод, флагманская версия",
+        "ar": "إن_جوي 2024 إس9 ألترا دفع رباعي نسخة فلاجشيب",
+        "cn": "享界 2024款 S9 Ultra 四驱旗舰版"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2024,
+      "price": 33687,
+      "guidePrice": 61847,
+      "mileage": 40000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "2024 Enjoy S9 Ultra flagship, two panels resprayed",
+        "cn": "2024款享界S9 ultra旗舰版，两个面喷漆",
+        "ru": "Флагманская версия Enjoy S9 Ultra 2024 года, два элемента перекрашены",
+        "ar": "نسخة فلاجشيب إن_جوي إس9 ألترا 2024، طلاء جزئي لوجهين"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/00_1775548253619Z10820_143611.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/01_1775548253622B8751_117118.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/02_1775548253622t9408_73975.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/03_1775548253624L9770_81454.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/04_1775548253624x12286_66339.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/05_1775548253625p10363_69876.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/06_1775548253626R5311_72250.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/07_1775548253626q5254_100621.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/08_1775548253627Y11589_134732.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/00_1775548253619Z10820_143611.jpg",
+      "city": "泉州",
+      "province": "福建",
+      "plateDate": "2024-08-13",
+      "capacity": "新能源",
+      "emission": "纯电动",
+      "transferCount": "",
+      "tags": [],
+      "id": 28
+    },
+    {
+      "brand": {
+        "en": "Audi",
+        "ru": "Audi",
+        "ar": "أودي",
+        "cn": "奥迪"
+      },
+      "model": {
+        "en": "A8L A8L 48V 3.0TFSI 50TFSI Quattro Comfort",
+        "cn": "A8L A8L 48V 3.0TFSI 50TFSI Quattro 舒适型",
+        "ru": "A8L A8L 48V 3.0TFSI 50TFSI Quattro Комфорт",
+        "ar": "A8L A8L 48V 3.0TFSI 50TFSI كواترو كومفورت"
+      },
+      "year": 2021,
+      "price": 43450,
+      "guidePrice": 115885,
+      "mileage": 130000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Original paint with PPF, Dr. Bos S-level certified, optional ventilated seats, Bordeaux red interior, full service history, like new",
+        "cn": "原版原漆，带车衣，查博士S级别，选配座椅通风，波尔多红内饰，实表全程记录，新-",
+        "ru": "Заводская окраска с защитной плёнкой, сертификация Dr. Bos S-класса, дополнительно вентиляция сидений, интерьер Бордо, полная сервисная история, как новая",
+        "ar": "طلاء أصلي مع طبقة حماية، شهادة دكتور بوس مستوى S، مقاعد مهواة اختيارية، مقصورة بورجوندي حمراء، سجل صيانة كامل، كالجديدة"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/00_1778678353067_133_app_F_656.47K-792.30K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/01_1778678352969_935_app_Q_624.74K-762.55K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/02_1778678353137_610_app_Y_670.38K-807.10K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/03_1778678353273_654_app_U_384.59K-384.59K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/04_1778678353694_424_app_M_218.10K-218.10K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/05_1778678354201_424_app_R_339.59K-339.59K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/06_1778678354123_691_app_C_472.27K-472.27K_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/07_1778678354135_241_app_G_510.76K-510.76K_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/08_1778678354301_397_app_C_718.80K-1.01M.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/09_1778678354374_554_app_B_817.70K-1.15M_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/10_1778678354420_443_app_A_564.79K-816.42K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/11_1778678353303_849_app_B_217.73K-217.73K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/00_1778678353067_133_app_F_656.47K-792.30K_parse.jpeg",
+      "city": "济南",
+      "province": "山东",
+      "plateDate": "2021-10-13",
+      "capacity": "3.0T",
+      "emission": "欧六",
+      "transferCount": "",
+      "tags": [
+        "全车原漆",
+        "高性价比",
+        "实表里程"
+      ],
+      "id": 29
+    },
+    {
+      "brand": {
+        "en": "GAC Aion 2023款 Aion Y Younger 星耀版",
+        "ru": "GAC Aion (модель 2023) Aion Y Younger версия Starlight",
+        "ar": "جي إيه سي أيون 2023 أيون واي ينغر ستارلايت",
+        "cn": "广汽埃安 2023款 Aion Y Younger 星耀版"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2023,
+      "price": 9350,
+      "guidePrice": 17435,
+      "mileage": 32000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "米色",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "All original paint, first owner, transferable to third party, dealer-installed diesel heater",
+        "cn": "全车原漆，一手，可过三方，4S店加装柴暖",
+        "ru": "Заводская окраска, один владелец, возможна перерегистрация на третье лицо, установлен дизельный отопитель у дилера",
+        "ar": "طلاء أصلي، مالك واحد، قابل للتحويل لطرف ثالث، سخان ديزل مركب من الوكيل"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/00_1776558979179C9235_373103_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/01_1776558979183J2817_385848_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/02_1776558979183S7363_345270_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/03_1776558979184k11988_363047.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/04_1776558979185F1052_340941_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/05_1776558979186x9708_360433_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/06_1776558979187e7946_384157.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/07_1776558979188T2849_320113.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/08_1776558979189N7701_345735_parse.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/00_1776558979179C9235_373103_parse.jpg",
+      "city": "大同",
+      "province": "山西",
+      "plateDate": "2024-05-24",
+      "capacity": "新能源",
+      "emission": "纯电动",
+      "transferCount": "",
+      "tags": [
+        "0过户",
+        "车况精品",
+        "全车原漆",
+        "一手车",
+        "实表里程",
+        "代步车",
+        "低油耗"
+      ],
+      "id": 30
+    },
+    {
+      "brand": {
+        "en": "Tank 2021款 Tank300 2.0T 越野版 征服者",
+        "ru": "Tank (модель 2021) Tank300 2.0T внедорожная версия Conqueror",
+        "ar": "تانك 2021 تانك300 2.0T نسخة طرق وعرة كونكرر",
+        "cn": "坦克 2021款 坦克300 2.0T 越野版 征服者"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2021,
+      "price": 17600,
+      "guidePrice": 29397,
+      "mileage": 90000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "All original paint, transferable to third party",
+        "cn": "全车原漆，可过三方，",
+        "ru": "Заводская окраска, возможна перерегистрация на третье лицо",
+        "ar": "طلاء أصلي، قابل للتحويل لطرف ثالث"
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/00_1777595190850t4555_455187.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/01_1777595190853y6864_332125_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/02_1777595190854M7775_380763_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/03_1777595190855F4276_372804.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/04_1777595190855q4427_317377_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/05_1777595190856D5582_346963_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/06_1777595190857s9471_501425_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/07_1777595190858k9764_409019_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/08_1777595190858W2093_497345.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/00_1777595190850t4555_455187.jpg",
+      "city": "大同",
+      "province": "山西",
+      "plateDate": "2021-10-19",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "全车原漆",
+        "实表里程"
+      ],
+      "id": 31
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Honda",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "CR-V e:HEV 2.0 CVT Sharp·Two-wheel Drive Zhixiang Edition",
+        "cn": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版",
+        "ru": "CR-V e:HEV 2.0 CVT Sharp·Передний привод Zhixiang Edition",
+        "ar": "CR-V e:HEV 2.0 CVT حاد·دفع أمامي إصدار Zhixiang"
+      },
+      "year": 2023,
+      "price": 18012,
+      "guidePrice": 28861,
+      "mileage": 40000,
+      "fuel": "Electric",
+      "transmission": "自动",
+      "bodyType": "SUV",
+      "color": "Black",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Condition: Original, actual mileage, Dr. Cha S-grade, Zhixiang Edition, three areas resprayed, 360° camera, leather, solid and durable.",
+        "cn": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入",
+        "ru": "Состояние: оригинал, реальный пробег, Dr. Cha S-класс, версия Zhixiang, три места покраски, камера 360°, кожа, прочный и надёжный.",
+        "ar": "الحالة: أصلية، عداد حقيقي، درجة S من Dr. Cha، إصدار Zhixiang، ثلاث مناطق دهان، كاميرا 360 درجة، جلد، متين لا يتأثر."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/00_1768561873654_502_app_R_221.20K-221.20K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/01_1768561873625_897_app_V_252.68K-252.68K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/02_1768561873580_348_app_G_251.64K-251.64K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/03_1768561873697_909_app_R_249.45K-249.45K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/04_1768561873602_537_app_U_196.28K-196.28K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/05_1768561873696_123_app_B_233.29K-233.29K_parse.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/00_1768561873654_502_app_R_221.20K-221.20K.jpeg",
+      "city": "日照",
+      "province": "山东",
+      "plateDate": "2023-11-14",
+      "capacity": "2.0L",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "低油耗",
+        "高性价比",
+        "全车原版",
+        "实表里程"
+      ],
+      "id": 32
+    },
+    {
+      "brand": {
+        "en": "Cadillac",
+        "ru": "Cadillac",
+        "ar": "كاديلاك",
+        "cn": "凯迪拉克"
+      },
+      "model": {
+        "en": "CT5 2.0T 28T Luxury",
+        "cn": "CT5 2.0T 28T 豪华型",
+        "ru": "CT5 2.0T 28T Luxury",
+        "ar": "CT5 2.0T 28T Luxury"
+      },
+      "year": 2021,
+      "price": 17600,
+      "guidePrice": 41208,
+      "mileage": 60000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Gray",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "First-hand owner, claims data uploaded, actual mileage, replaced one door and one fender, no repair records.",
+        "cn": "一手户  出险已上传 实表 \n换了一个门跟一个叶子板  没有记录",
+        "ru": "Первый владелец, страховые случаи загружены, реальный пробег, заменены одна дверь и одно крыло, без записей о ремонте.",
+        "ar": "مالك أول، تم رفع بيانات الحوادث، عداد حقيقي، تم استبدال باب واحد ورفرف واحد، لا توجد سجلات."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/00_1778573485119_933_app_D_194.81K-194.81K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/01_1778573485123_602_app_Q_187.12K-187.12K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/02_1778573485094_320_app_B_197.13K-197.13K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/03_1778573485149_194_app_P_219.58K-219.58K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/04_1778573485127_731_app_Q_289.67K-289.67K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/05_1778573485199_207_app_S_410.64K-410.64K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/06_1778573485121_456_app_X_247.07K-247.07K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/07_1778573485213_413_app_F_174.26K-174.26K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/00_1778573485119_933_app_D_194.81K-194.81K_parse.jpeg",
+      "city": "重庆",
+      "province": "重庆",
+      "plateDate": "2021-10-22",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [
+        "0过户",
+        "一手车",
+        "实表里程"
+      ],
+      "id": 33
+    },
+    {
+      "brand": {
+        "en": "BMW",
+        "ru": "BMW",
+        "ar": "بي إم دبليو",
+        "cn": "宝马"
+      },
+      "model": {
+        "en": "3 Series 325i 2.0T M Sport Night Edition",
+        "cn": "3系 325i 2.0T M运动曜夜套装",
+        "ru": "3 Series 325i 2.0T M Sport Night Edition",
+        "ar": "3 Series 325i 2.0T M Sport Night Edition"
+      },
+      "year": 2021,
+      "price": 21450,
+      "guidePrice": 45636,
+      "mileage": 63000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Authentic performance parts throughout, actual mileage, Dr. Cha S-grade perfect score, transferred twice, claims: 4 panels resprayed, front bumper mostly extended damage, original color white.",
+        "cn": "全车正品改件   实表   查博士S级满分过\n过户两次   出险4面漆前杠几乎都是扩损 \n原车白色",
+        "ru": "Оригинальные тюнинг-детали по всему автомобилю, реальный пробег, Dr. Cha S-класс满分 (отлично), две перепродажи, страховые случаи: 4 панели покрашены, передний бампер почти полностью расширенный ущерб, оригинальный цвет белый.",
+        "ar": "مُعدّلات أصلية في جميع أنحاء السيارة، عداد حقيقي، درجة S كاملة من Dr. Cha، تم بيعها مرتين، حوادث: طلاء 4 ألواح، المصد الأمامي تضرر بشكل ممتد، اللون الأصلي أبيض."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/00_1776329304961_155_app_Q_414.17K-414.17K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/01_1776329304988_328_app_Y_329.68K-329.68K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/02_1776329304891_748_app_J_367.83K-367.83K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/03_1776329304989_427_app_A_260.20K-260.20K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/04_1776329304972_914_app_T_271.14K-271.14K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/05_1776329305005_782_app_D_396.10K-396.10K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/06_1776329305026_337_app_B_230.37K-230.37K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/07_1776329305040_044_app_D_238.69K-238.69K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/08_1776329305070_420_app_T_267.38K-267.38K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/09_1776329304892_001_app_D_153.85K-153.85K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/10_1776329359771_366_app_J_426.05K-426.05K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/00_1776329304961_155_app_Q_414.17K-414.17K.jpeg",
+      "city": "重庆",
+      "province": "重庆",
+      "plateDate": "2021-04-09",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 34
+    },
+    {
+      "brand": {
+        "en": "Ford 2022 Mondeo 2.0T EcoBoost 245 Luxury (Facelift)",
+        "ru": "Ford 2022 Mondeo 2.0T EcoBoost 245 Luxury (рестайлинг)",
+        "ar": "فورد 2022 مونديو 2.0T EcoBoost 245 لوكس (تحديث)",
+        "cn": "福特 2022款 蒙迪欧 2.0T EcoBoost 245 豪华型(改款)"
+      },
+      "model": {
+        "en": "",
+        "cn": "",
+        "ru": "",
+        "ar": ""
+      },
+      "year": 2022,
+      "price": 14850,
+      "guidePrice": 24722,
+      "mileage": 16000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "Original paint, no claims, first-hand female owner.",
+        "cn": "原版原漆0出险，女士一手",
+        "ru": "Оригинальная краска, без страховых случаев, первый владелец женщина.",
+        "ar": "دهان أصلي، لا حوادث، مالكة أولى سيدة."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/00_1778572930338_325_app_C_433.07K-433.07K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/01_1778572930326_394_app_Y_448.29K-448.29K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/02_1778572930395_992_app_S_491.00K-491.00K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/03_1778572930399_858_app_T_466.85K-466.85K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/04_1778572930358_563_app_Q_416.39K-416.39K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/05_1778572930386_644_app_Y_249.72K-249.72K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/06_1778572930404_898_app_B_268.12K-268.12K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/07_1778572930331_223_app_D_180.23K-180.23K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/08_1778572930381_333_app_S_223.40K-223.40K.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/09_1778572930408_193_app_B_220.35K-220.35K.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/00_1778572930338_325_app_C_433.07K-433.07K.jpg",
+      "city": "泰安",
+      "province": "山东",
+      "plateDate": "2024-01-24",
+      "capacity": "2.0T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 35
+    },
+    {
+      "brand": {
+        "en": "Mercedes-Benz",
+        "ru": "Mercedes-Benz",
+        "ar": "مرسيدس-بنز",
+        "cn": "奔驰"
+      },
+      "model": {
+        "en": "C-Class C 260 L 48V 1.5T Night Sport Edition",
+        "cn": "C级 C 260 L 48V 1.5T 皓夜运动版",
+        "ru": "C-Class C 260 L 48V 1.5T Night Sport Edition",
+        "ar": "C-Class C 260 L 48V 1.5T نايت سبورت إديشن"
+      },
+      "year": 2023,
+      "price": 28297,
+      "guidePrice": 51878,
+      "mileage": 52000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "White",
+      "status": "Available",
+      "featured": false,
+      "description": {
+        "en": "Dr. Cha S-grade, left front fender, right rear door, right rear fender: panel beating and respray.",
+        "cn": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆",
+        "ru": "Dr. Cha S-класс, левое переднее крыло, правая задняя дверь, правое заднее крыло: рихтовка и покраска.",
+        "ar": "درجة S من Dr. Cha، الرفرف الأمامي الأيسر، الباب الخلفي الأيمن، الرفرف الخلفي الأيمن: تسوية ودهان."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/00_1778656539641_578_app_Q_428.93K-428.93K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/01_1778656539782_763_app_D_319.46K-319.46K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/02_1778656539888_855_app_F_417.57K-417.57K_parse.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/03_1778656540101_965_app_Y_261.47K-261.47K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/04_1778656540353_690_app_M_325.21K-325.21K.jpeg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/05_1778656540578_856_app_V_262.64K-262.64K.jpeg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/00_1778656539641_578_app_Q_428.93K-428.93K.jpeg",
+      "city": "南宁",
+      "province": "广西",
+      "plateDate": "2022-12-16",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 36
+    },
+    {
+      "brand": {
+        "en": "Honda",
+        "ru": "Honda",
+        "ar": "هوندا",
+        "cn": "本田"
+      },
+      "model": {
+        "en": "Integra 1.5T CVT 240TURBO Leading Edition",
+        "cn": "型格 1.5T 无级 240TURBO 领先版",
+        "ru": "Integra 1.5T CVT 240TURBO Leading Edition",
+        "ar": "إنتيجرا 1.5T CVT 240TURBO النسخة الرائدة"
+      },
+      "year": 2023,
+      "price": 11412,
+      "guidePrice": 19511,
+      "mileage": 13000,
+      "fuel": "Petrol",
+      "transmission": "自动",
+      "bodyType": "Sedan",
+      "color": "Black",
+      "status": "Available",
+      "featured": true,
+      "description": {
+        "en": "Excellent condition, can pass third-party inspection. One full respray on the car.",
+        "cn": "精品车况，可过三方，全车喷了一副油漆",
+        "ru": "Отличное состояние, пройдет проверку третьей стороной. Полная перекраска автомобиля.",
+        "ar": "حالة ممتازة، يمكن اجتياز الفحص من طرف ثالث. تم طلاء السيارة بالكامل مرة واحدة."
+      },
+      "images": [
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/00_1775892110547m12057_546447_parse.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/01_1775892110542Y8752_427634.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/02_1775892110545G12004_541891.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/03_1775892110548j10060_351890.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/04_1775892110549Z1038_289560.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/05_1775892110550d8953_272986.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/06_1775892110551b11219_487523.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/07_1775892110551B837_326068.jpg",
+        "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/08_1775892110552F8121_482003.jpg"
+      ],
+      "image": "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/00_1775892110547m12057_546447_parse.jpg",
+      "city": "珠海",
+      "province": "广东",
+      "plateDate": "2023-12-25",
+      "capacity": "1.5T",
+      "emission": "国六",
+      "transferCount": "",
+      "tags": [],
+      "id": 37
+    },
+    {
+      "brand": {
+        "en": "Lexus",
+        "ru": "Lexus",
         "ar": "لكزس",
         "cn": "雷克萨斯"
       },
@@ -11,7 +1637,7 @@
         "en": "ES ES200 2.0 CVT Zhenxiang Edition",
         "cn": "ES ES200 2.0 无级 臻享版",
         "ru": "ES ES200 2.0 CVT Zhenxiang Edition",
-        "ar": "ES ES200 2.0 CVT Zhenxiang Edition"
+        "ar": "ES ES200 2.0 CVT إصدار تشن شيانغ"
       },
       "year": 2025,
       "price": 28600,
@@ -24,10 +1650,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "First owner, never transferred, all original paint and body plus car wrap, zero claims, zero scratches, zero defects! Full payment, transferable anytime!",
+        "en": "First owner, no transfer. Original paint all around plus paint protection film. Zero claims, zero scratches, zero flaws. Fully paid car, ready for immediate transfer.",
         "cn": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！",
-        "ru": "Первый владелец, не переоформлен, все оригинальные детали и краска + пленка, без страховых случаев, без царапин, без дефектов! Полная оплата, возможна перерегистрация в любое время!",
-        "ar": "مالك أول، لم يتم نقل الملكية، الطلاء الأصلي الكامل والهيكل الأصلي مع غطاء السيارة، لا حوادث، لا خدوش، لا عيوب! دفع نقدي، يمكن نقل الملكية في أي وقت!"
+        "ru": "Первый владелец, без переоформления. Оригинальная краска по всему кузову плюс защитная пленка. Ноль страховых случаев, ноль царапин, ноль дефектов. Полностью оплаченный автомобиль, готов к немедленному переходу права собственности.",
+        "ar": "المالك الأول، لم يتم نقل الملكية. طلاء أصلي بالكامل مع طبقة حماية. لا مطالبات، لا خدوش، لا عيوب. السيارة مدفوعة بالكامل، جاهزة للنقل الفوري."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14223978/00_1778240503870N9124_718957.jpg",
@@ -48,12 +1674,12 @@
       "emission": "欧六",
       "transferCount": "",
       "tags": [],
-      "id": 7
+      "id": 38
     },
     {
       "brand": {
         "en": "BMW",
-        "ru": "БМВ",
+        "ru": "BMW",
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
@@ -61,7 +1687,7 @@
         "en": "X6 xDrive35i 3.0T Sport",
         "cn": "X6 X6 xDrive35i 3.0T 运动型",
         "ru": "X6 xDrive35i 3.0T Sport",
-        "ar": "X6 xDrive35i 3.0T Sport"
+        "ar": "X6 xDrive35i 3.0T سبورت"
       },
       "year": 2014,
       "price": 10312,
@@ -74,10 +1700,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Actual mileage, Dr. Check S-grade",
+        "en": "Real mileage, Dr. Bo's S-grade inspection.",
         "cn": "实表，查博士S级，",
-        "ru": "Реальный пробег, оценка S от Dr. Check",
-        "ar": "عداد حقيقي، تقييم S من Dr. Check"
+        "ru": "Реальный пробег, проверка Dr. Bo — уровень S.",
+        "ar": "عداد حقيقي، فحص دكتور بو درجة S."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375056/00_1778731966947_096_app_M_333.58K-333.58K_parse.jpeg",
@@ -102,12 +1728,12 @@
         "全车原版",
         "实表里程"
       ],
-      "id": 8
+      "id": 39
     },
     {
       "brand": {
         "en": "Toyota",
-        "ru": "Тойота",
+        "ru": "Toyota",
         "ar": "تويوتا",
         "cn": "丰田"
       },
@@ -115,7 +1741,7 @@
         "en": "Vios FS 1.5 CVT Fengchi Edition",
         "cn": "威驰FS 1.5 无级 锋驰版",
         "ru": "Vios FS 1.5 CVT Fengchi Edition",
-        "ar": "Vios FS 1.5 CVT Fengchi Edition"
+        "ar": "فيوس FS 1.5 CVT إصدار فينغتشي"
       },
       "year": 2017,
       "price": 5843,
@@ -128,10 +1754,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original condition, first owner, over 10,000 km, one panel repainted",
+        "en": "Original condition, first owner, just over 10,000 km, one panel repainted.",
         "cn": "原版 一手 1万多公里 一面漆",
-        "ru": "В оригинальном состоянии, первый владелец, более 10 000 км, одна деталь перекрашена",
-        "ar": "حالة أصلية، مالك أول، أكثر من 10,000 كيلومتر، تم إعادة طلاء وجه واحد"
+        "ru": "Оригинальное состояние, первый владелец, чуть более 10 000 км, одна перекрашенная деталь.",
+        "ar": "حالة أصلية، المالك الأول، أكثر من 10,000 كم بقليل، إعادة طلاء لوحة واحدة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13849964/00_1776996557647K8675_539277.jpg",
@@ -156,20 +1782,20 @@
         "高性价比",
         "实表里程"
       ],
-      "id": 9
+      "id": 40
     },
     {
       "brand": {
         "en": "Volkswagen",
-        "ru": "Фольксваген",
+        "ru": "Volkswagen",
         "ar": "فولكسفاجن",
         "cn": "大众"
       },
       "model": {
-        "en": "Tiguan L 2.0TSI 330TSI 2WD Luxury Edition",
+        "en": "Tiguan L 2.0TSI 330TSI FWD Luxury Edition",
         "cn": "途观L 2.0TSI 330TSI 两驱豪华版",
-        "ru": "Tiguan L 2.0TSI 330TSI 2WD Luxury Edition",
-        "ar": "Tiguan L 2.0TSI 330TSI 2WD Luxury Edition"
+        "ru": "Tiguan L 2.0TSI 330TSI Передний привод, Люкс",
+        "ar": "تيغوان L 2.0TSI 330TSI دفع أمامي النسخة الفاخرة"
       },
       "year": 2018,
       "price": 7699,
@@ -182,10 +1808,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Left front fender and left headlight replaced, high mileage",
+        "en": "Left front fender and left headlight replaced. High mileage.",
         "cn": "左前叶 左前灯 换  公里数大",
-        "ru": "Заменены левое переднее крыло и левая фара, большой пробег",
-        "ar": "تم استبدال الرفرف الأمامي الأيسر والمصباح الأمامي الأيسر، عدد كيلومترات كبير"
+        "ru": "Заменены левое переднее крыло и левая фара. Большой пробег.",
+        "ar": "تم استبدال الرفرف الأمامي الأيسر والمصباح الأمامي الأيسر. عدد كيلومترات كبير."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13597398/00_1776242158273P3222_616099.jpg",
@@ -208,7 +1834,7 @@
       "tags": [
         "一手车"
       ],
-      "id": 10
+      "id": 41
     },
     {
       "brand": {
@@ -221,7 +1847,7 @@
         "en": "E-PACE 2.0T P200",
         "cn": "E-PACE 2.0T P200",
         "ru": "E-PACE 2.0T P200",
-        "ar": "E-PACE 2.0T P200"
+        "ar": "إي-بيس 2.0T P200"
       },
       "year": 2018,
       "price": 9487,
@@ -234,10 +1860,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original condition car, white with white car wrap",
+        "en": "Original car, white with white wrap.",
         "cn": "原版车，白色贴白色车衣",
-        "ru": "Автомобиль в оригинальном состоянии, белый с белой пленкой",
-        "ar": "سيارة بحالة أصلية، لون أبيض مع غطاء أبيض"
+        "ru": "Оригинальный автомобиль, белый с белой защитной пленкой.",
+        "ar": "السيارة الأصلية، بيضاء ومغطاة بطبقة حماية بيضاء."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13793612/00_1776829222669N4161_588650_parse.jpg",
@@ -261,20 +1887,20 @@
         "一手车",
         "实表里程"
       ],
-      "id": 11
+      "id": 42
     },
     {
       "brand": {
         "en": "Volkswagen",
         "ru": "Фольксваген",
-        "ar": "فولكس فاجن",
+        "ar": "فولكسفاجن",
         "cn": "大众"
       },
       "model": {
-        "en": "Tiguan Tiguan 2.0TSI Luxury Edition",
+        "en": "Tiguan 2.0TSI Luxury Edition",
         "cn": "途欢 途欢 2.0TSI 豪华版",
-        "ru": "Тигуан Тигуан 2.0TSI Люкс",
-        "ar": "تيغوان تيغوان 2.0TSI نسخة فاخرة"
+        "ru": "Тигуан 2.0TSI Люкс",
+        "ar": "تيجوان 2.0TSI لوكس"
       },
       "year": 2012,
       "price": 3231,
@@ -287,10 +1913,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Front accident, repaired at authorized dealer, good condition",
+        "en": "Front accident, repaired at 4S shop, good condition.",
         "cn": "前面事故 4S修复 品相好",
-        "ru": "Передняя авария, ремонт у официального дилера, хорошее состояние",
-        "ar": "حادث أمامي، تم الإصلاح في الوكالة، حالة جيدة"
+        "ru": "Передняя авария, ремонт в официальном дилерском центре, хорошее состояние.",
+        "ar": "حادث أمامي، تم الإصلاح في مركز 4S، حالة جيدة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12925875/00_1774249434716e628_668400.jpg",
@@ -311,7 +1937,7 @@
       "emission": "欧四",
       "transferCount": "",
       "tags": [],
-      "id": 12
+      "id": 43
     },
     {
       "brand": {
@@ -323,8 +1949,8 @@
       "model": {
         "en": "Vezel 1.8 CVT 2WD Pioneer Edition",
         "cn": "缤智 1.8 无级 两驱先锋型",
-        "ru": "Везел 1.8 CVT передний привод Пионер",
-        "ar": "فيزل 1.8 CVT دفع أمامي إصدار بايونير"
+        "ru": "Везел 1.8 CVT 2WD Пионер",
+        "ar": "فيزل 1.8 CVT 2WD بايونير"
       },
       "year": 2017,
       "price": 6462,
@@ -337,10 +1963,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Replaced parts: rear cover, right rear door",
+        "en": "Replaced parts: rear cover and right rear door.",
         "cn": "换件 后盖 右后门",
-        "ru": "Замена: задняя крышка, правая задняя дверь",
-        "ar": "استبدال الأجزاء: الغطاء الخلفي، الباب الخلفي الأيمن"
+        "ru": "Заменены детали: задняя крышка и правая задняя дверь.",
+        "ar": "تم استبدال الأجزاء: الغطاء الخلفي والباب الخلفي الأيمن."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14325735/00_1778560057222J11347_482089.jpg",
@@ -361,20 +1987,20 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "id": 13
+      "id": 44
     },
     {
       "brand": {
         "en": "WM Motor",
-        "ru": "WM Motor",
-        "ar": "WM Motor",
+        "ru": "Вэйма",
+        "ar": "ويما",
         "cn": "威马"
       },
       "model": {
         "en": "W6 520km PRO All-round Edition",
         "cn": "W6 520km PRO全能版",
-        "ru": "W6 520km PRO Универсальная версия",
-        "ar": "W6 520km PRO نسخة شامل"
+        "ru": "W6 520km PRO Универсальная",
+        "ar": "W6 520km PRO نسخة شاملة"
       },
       "year": 2021,
       "price": 9212,
@@ -387,10 +2013,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand car, zero accidents, original paint and parts",
+        "en": "First-hand car, 0 insurance claims, original paint and parts.",
         "cn": "一手车，0出险，原版原漆",
-        "ru": "Автомобиль с одним владельцем, без ДТП, оригинальная краска и кузов",
-        "ar": "سيارة مملوكة لشخص واحد، بدون حوادث، طلاء وأجزاء أصلية"
+        "ru": "Автомобиль с одним владельцем, без страховых случаев, оригинальная краска и кузов.",
+        "ar": "سيارة مملوكة لأول مرة، لا مطالبات تأمين، طلاء وأجزاء أصلية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14160771/00_1778066991615Y973_810154.jpg",
@@ -411,7 +2037,7 @@
       "emission": "纯电动",
       "transferCount": "",
       "tags": [],
-      "id": 14
+      "id": 45
     },
     {
       "brand": {
@@ -421,10 +2047,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard Alphard 2.5 CVT Luxury Edition",
+        "en": "Alphard 2.5 CVT Luxury Edition",
         "cn": "埃尔法 埃尔法 2.5 无级 豪华版",
-        "ru": "Альфард Альфард 2.5 CVT Люкс",
-        "ar": "ألفارد ألفارد 2.5 CVT نسخة فاخرة"
+        "ru": "Альфард 2.5 CVT Люкс",
+        "ar": "ألفارد 2.5 CVT لوكس"
       },
       "year": 2021,
       "price": 74937,
@@ -437,10 +2063,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand, original paint and parts with PPF (paint protection film)",
+        "en": "First-hand, original paint and parts with car wrap.",
         "cn": "一手 原版原漆带车衣",
-        "ru": "Первый владелец, оригинальная краска и кузов, с защитной плёнкой",
-        "ar": "مالك أول، طلاء وأجزاء أصلية مع طبقة حماية"
+        "ru": "Первый владелец, оригинальная краска и кузов с защитной пленкой.",
+        "ar": "سيارة مملوكة لأول مرة، طلاء وأجزاء أصلية مع غطاء حماية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14152638/00_1778054457261B6670_686017_parse.jpg",
@@ -461,20 +2087,20 @@
       "emission": "欧六",
       "transferCount": "",
       "tags": [],
-      "id": 15
+      "id": 46
     },
     {
       "brand": {
         "en": "Roewe",
-        "ru": "Roewe",
-        "ar": "رووي",
+        "ru": "Ровей",
+        "ar": "رويوي",
         "cn": "荣威"
       },
       "model": {
         "en": "RX5 1.5T 20T 2WD Flagship Edition",
         "cn": "RX5 1.5T 20T 两驱旗舰版",
-        "ru": "RX5 1.5T 20T передний привод Флагман",
-        "ar": "RX5 1.5T 20T دفع أمامي نسخة رائدة"
+        "ru": "RX5 1.5T 20T 2WD Флагманская версия",
+        "ar": "آر إكس 5 1.5T 20T دفع ثنائي نسخة الرائد"
       },
       "year": 2018,
       "price": 3300,
@@ -487,10 +2113,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Minor front collision, hood replaced, interior like new",
+        "en": "Small dent on front, hood replaced, interior looks brand new",
         "cn": "前面小顶 机盖换  内饰嘎嘎新",
-        "ru": "Лёгкое переднее столкновение, замена капота, салон как новый",
-        "ar": "اصطدام أمامي بسيط، استبدال غطاء المحرك، المقصورة جديدة تمامًا"
+        "ru": "Небольшая вмятина спереди, капот заменен, салон как новый",
+        "ar": "انبعاج صغير في الأمام، تم استبدال غطاء المحرك، الداخلية جديدة جدًا"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14269559/00_1778392289065i6019_686460.jpg",
@@ -509,7 +2135,7 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "id": 16
+      "id": 47
     },
     {
       "brand": {
@@ -519,10 +2145,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "Crosstour 2.4 Premium",
+        "en": "CrossTour 2.4 Premium Edition",
         "cn": "歌诗图 2.4 尊享版",
-        "ru": "Crosstour 2.4 Премиум",
-        "ar": "كروس تور 2.4 بريميوم"
+        "ru": "CrossTour 2.4 Премиум версия",
+        "ar": "كروس تور 2.4 نسخة بريميوم"
       },
       "year": 2012,
       "price": 4537,
@@ -535,10 +2161,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand original, guaranteed real mileage, excellent maintenance, top condition, zero investment needed",
+        "en": "Original owner, genuine mileage, excellent maintenance, top condition, no investment needed",
         "cn": "一手原版  保实表精品  养护工况一流  极品车况  到手0投资",
-        "ru": "Оригинал из первых рук, гарантированный реальный пробег, отличное обслуживание, отличное состояние, инвестиции не требуются",
-        "ar": "أصلي من المالك الأول، عداد كيلومترات حقيقي مضمون، صيانة ممتازة، حالة ممتازة، لا حاجة للاستثمار"
+        "ru": "Один владелец, реальный пробег, отличное обслуживание, идеальное состояние, не требует вложений",
+        "ar": "مالك أول، عداد حقيقي، صيانة ممتازة، حالة ممتازة، لا حاجة للاستثمار"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14031454/00_1777539038094_896_app_N_332.12K-332.12K_parse.jpeg",
@@ -561,7 +2187,7 @@
         "一手车",
         "实表里程"
       ],
-      "id": 17
+      "id": 48
     },
     {
       "brand": {
@@ -571,10 +2197,10 @@
         "cn": "路虎"
       },
       "model": {
-        "en": "Range Rover LWB 7-Seat 48V 3.0T L6 400PS",
+        "en": "Range Rover 48V 3.0T L6 400PS LWB 7-Seat (Shengshi Edition)",
         "cn": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
-        "ru": "Range Rover LWB 7-мест 48V 3.0T L6 400PS",
-        "ar": "رينج روفر LWB 7 مقاعد 48V 3.0T L6 400PS"
+        "ru": "Range Rover 48V 3.0T L6 400PS LWB 7-местный (версия Shengshi)",
+        "ar": "رينج روفر 48V 3.0T L6 400PS LWB 7 مقاعد (إصدار شينغشي)"
       },
       "year": 2024,
       "price": 151250,
@@ -587,10 +2213,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "7-seat, original paint with car wrap",
+        "en": "7-seat, original paint, with paint protection film",
         "cn": "7座原版原漆带车衣",
-        "ru": "7-мест, оригинальная краска с защитной пленкой",
-        "ar": "7 مقاعد، طلاء أصلي مع غطاء حماية"
+        "ru": "7 мест, оригинальная краска, с защитной пленкой",
+        "ar": "7 مقاعد، طلاء أصلي، مع غطاء حماية (فيلم)"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14306303/00_1778488956932E10862_752775.jpg",
@@ -611,7 +2237,7 @@
       "emission": "欧六",
       "transferCount": "",
       "tags": [],
-      "id": 18
+      "id": 49
     },
     {
       "brand": {
@@ -621,10 +2247,10 @@
         "cn": "标致"
       },
       "model": {
-        "en": "308 1.6 Luxury",
+        "en": "308 1.6 Luxury Edition",
         "cn": "308 1.6 豪华版",
-        "ru": "308 1.6 Люкс",
-        "ar": "308 1.6 لوكس"
+        "ru": "308 1.6 Люкс версия",
+        "ar": "308 1.6 نسخة لوكس"
       },
       "year": 2018,
       "price": 3272,
@@ -637,10 +2263,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "1.6 four-cylinder engine, first-hand real mileage 97,000 km, whole car dynamic condition/good appearance inside and out, slight rear-end collision (no cutting) with extended damage record",
+        "en": "1.6L 4-cylinder, one owner, actual mileage 97,000 km, vehicle in good dynamic condition, interior and exterior look like new, slight rear-end collision (no cutting), recorded damage extended",
         "cn": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
-        "ru": "1.6 четырехцилиндровый двигатель, первый владелец, реальный пробег 97 000 км, отличное динамическое состояние автомобиля/хороший внешний вид внутри и снаружи, легкий задний удар (без резки), запись о расширенных повреждениях",
-        "ar": "محرك 1.6 رباعي الأسطوانات، مالك أول، عداد حقيقي 97 ألف كم، حالة ديناميكية جيدة للسيارة/منظر داخلي وخارجي جيد، اصطدام خلفي طفيف (بدون قطع)، سجل تلف ممتد"
+        "ru": "1.6-литровый 4-цилиндровый двигатель, один владелец, реальный пробег 97 000 км, общее динамическое состояние хорошее, салон и экстерьер выглядят как новые, небольшой задний удар (без резки), запись о расширении повреждений",
+        "ar": "محرك 1.6 لتر 4 أسطوانات، مالك أول، عداد حقيقي 97 ألف كم، حالة ديناميكية جيدة، الداخلية والخارجية تبدو جديدة، اصطدام خلفي طفيف (بدون قطع)، سجل الضرر الموسع"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14215712/00_1778227469015_815_app_U_228.12K-228.12K.jpg",
@@ -663,7 +2289,7 @@
         "实表里程",
         "瑕疵车"
       ],
-      "id": 19
+      "id": 50
     },
     {
       "brand": {
@@ -673,10 +2299,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Passat 1.8TSI Elegance",
+        "en": "Passat 1.8TSI Elegance Edition",
         "cn": "帕萨特 1.8TSI 尊雅版",
-        "ru": "Passat 1.8TSI Элеганс",
-        "ar": "باسات 1.8TSI إليجانس"
+        "ru": "Passat 1.8TSI Элеганс версия",
+        "ar": "باسات 1.8TSI نسخة إليجانس"
       },
       "year": 2014,
       "price": 3918,
@@ -689,10 +2315,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Checked by Dr. Cha S-level passed, first-hand from teacher, used with covers, interior 90% new with films still on, only exterior panels replaced, overall good-looking, engine, transmission and chassis very solid",
+        "en": "Passed Dr. Cha S-level inspection, one owner (teacher), used with seat covers, interior 90% new, protective films still on, only outer panels replaced, overall looks good, engine/transmission/chassis in excellent condition",
         "cn": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
-        "ru": "Проверено доктором Ча, уровень S пройден, первый владелец - учитель, использовалось с чехлами, салон 90% новый, пленки все еще на месте, заменены только внешние панели, в целом отлично выглядит, двигатель, коробка передач и шасси в отличном состоянии",
-        "ar": "تم الفحص بواسطة الدكتور تشا، مستوى S، مالك أول مدرس، استخدم مع أغطية، المقصورة 90% جديدة مع الأغشية لا تزال موجودة، تم استبدال الألواح الخارجية فقط، بشكل عام مظهر جيد، المحرك والجيربوكس والشاسيه ممتازان"
+        "ru": "Пройдена инспекция доктора Ча S-уровня, один владелец (учитель), использовался с чехлами, салон на 90% новый, защитные пленки все еще на месте, заменены только внешние панели, в целом выглядит хорошо, двигатель/трансмиссия/шасси в отличном состоянии",
+        "ar": "اجتاز فحص الدكتور تشا من المستوى S، مالك أول (مدرس)، استخدم مع أغطية المقاعد، الداخلية جديدة بنسبة 90%، الأفلام الواقية لا تزال موجودة، تم استبدال الألواح الخارجية فقط، بشكل عام يبدو جيدًا، المحرك/ناقل الحركة/الهيكل في حالة ممتازة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12905155/00_1774173290210B8769_515887.jpg",
@@ -713,7 +2339,7 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "id": 20
+      "id": 51
     },
     {
       "brand": {
@@ -723,10 +2349,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "E-Class E 300 L 2.0T Fashion",
+        "en": "E-Class E 300 L 2.0T Fashion Type",
         "cn": "E级 E 300 L 2.0T 时尚型",
-        "ru": "E-Класс E 300 L 2.0T Мода",
-        "ar": "E-Class E 300 L 2.0T فاشن"
+        "ru": "E-класс E 300 L 2.0T Стиль",
+        "ar": "الفئة E E 300 L 2.0T نوع الموضة"
       },
       "year": 2020,
       "price": 30937,
@@ -739,10 +2365,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand original, real mileage, almost original paint, third-party S-level",
+        "en": "Original owner, original condition, real mileage, almost original paint, third-party S grade",
         "cn": "一手原版实表  几乎原漆  三方S级",
-        "ru": "Первый владелец, оригинал, реальный пробег, почти оригинальная краска, сторонний уровень S",
-        "ar": "مالك أول أصلي، عداد حقيقي، طلاء أصلي تقريبًا، مستوى S من طرف ثالث"
+        "ru": "Один владелец, оригинальное состояние, реальный пробег, почти оригинальная краска, сторонний класс S",
+        "ar": "مالك أول، حالة أصلية، عداد حقيقي، طلاء أصلي تقريبًا، تصنيف S من طرف ثالث"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13279397/00_1775294304456_406_app_P_346.82K-346.82K.jpg",
@@ -766,7 +2392,7 @@
         "一手车",
         "实表里程"
       ],
-      "id": 21
+      "id": 52
     },
     {
       "brand": {
@@ -776,10 +2402,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "途昂 2.5T 530 V6 四驱尊崇豪华版",
+        "en": "Teramont 2.5T 530 V6 4WD Premium Luxury Edition",
         "cn": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ru": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ar": "途昂 2.5T 530 V6 四驱尊崇豪华版"
+        "ru": "Терамонт 2.5T 530 V6 Полный привод Премиум Люкс",
+        "ar": "تيرامونت 2.5T 530 V6 دفع رباعي فاخر فاخر"
       },
       "year": 2022,
       "price": 20625,
@@ -792,10 +2418,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
+        "en": "Original condition, basically original paint. First owner registered under a leasing company, but it is non-commercial vehicle. Interior condition is very fresh (like new).",
         "cn": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ru": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ar": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新"
+        "ru": "Оригинальное состояние, в основном оригинальная краска. Один владелец, зарегистрирован на лизинговую компанию, но автомобиль некоммерческого использования. Состояние салона отличное (как новое).",
+        "ar": "حالة أصلية، طلاء أصلي بشكل أساسي. مالك أول مسجل باسم شركة تأجير، لكنها سيارة غير تجارية. حالة المقصورة جديدة جدًا (كالجديدة)."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14114003/00_1777949636862f769_790461.jpg",
@@ -820,7 +2446,7 @@
         "实表里程",
         "全车原版"
       ],
-      "id": 22
+      "id": 53
     }
   ]
 }
