@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carchina.ltd/sitemap.xml

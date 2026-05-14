@@ -5,6 +5,47 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>CARCHINA.LTD - Premium Chinese Used Vehicles Export</title>
 <meta name="description" content="Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support."/>
+<meta name="keywords" content="Chinese used cars, vehicle export China, used car export,二手车出口, China vehicle export, used cars for export, Chinese auto export"/>
+<meta name="robots" content="index, follow"/>
+<link rel="canonical" href="https://carchina.ltd/"/>
+<link rel="alternate" hreflang="en" href="https://carchina.ltd/"/>
+<link rel="alternate" hreflang="zh" href="https://carchina.ltd/?lang=cn"/>
+<link rel="alternate" hreflang="ru" href="https://carchina.ltd/?lang=ru"/>
+<link rel="alternate" hreflang="ar" href="https://carchina.ltd/?lang=ar"/>
+<link rel="alternate" hreflang="x-default" href="https://carchina.ltd/"/>
+<!-- Open Graph -->
+<meta property="og:title" content="CARCHINA.LTD - Premium Chinese Used Vehicles Export"/>
+<meta property="og:description" content="Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping."/>
+<meta property="og:url" content="https://carchina.ltd/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="CARCHINA.LTD - Premium Chinese Used Vehicles Export"/>
+<meta name="twitter:description" content="Export quality used vehicles from China worldwide."/>
+<!-- Geo Tags -->
+<meta name="geo.region" content="CN"/>
+<meta name="geo.placename" content="China"/>
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CARCHINA.LTD",
+  "url": "https://carchina.ltd",
+  "description": "Premium Chinese used vehicles export company",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-138-8888-8888",
+    "contactType": "sales",
+    "availableLanguage": ["English", "Chinese", "Russian", "Arabic"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "CN"
+  }
+}
+</script>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
@@ -341,7 +382,6 @@ en: {
 "detail.year": "Year", "detail.body": "Body Type", "detail.color": "Color",
 "detail.capacity": "Engine", "detail.plate_date": "Plate Date",
 "detail.location": "Location", "detail.emission": "Emission", "detail.transfer": "Transfer Count",
-"detail.seller": "Seller", "detail.seller_active": "Currently Listed", "detail.seller_history": "Total Listed",
 "detail.photos": "Photos", "detail.tags": "Tags",
 "specs": "Specifications",
 "brand.Toyota": "Toyota", "brand.Honda": "Honda", "brand.BMW": "BMW", "brand.Mercedes-Benz": "Mercedes-Benz",
@@ -396,7 +436,6 @@ cn: {
 "detail.year": "年份", "detail.body": "车型", "detail.color": "颜色",
 "detail.capacity": "排量", "detail.plate_date": "上牌日期",
 "detail.location": "所在地", "detail.emission": "排放标准", "detail.transfer": "过户次数",
-"detail.seller": "卖家", "detail.seller_active": "在售车辆", "detail.seller_history": "历史上架",
 "detail.photos": "照片", "detail.tags": "标签",
 "specs": "规格参数",
 "brand.Toyota": "丰田", "brand.Honda": "本田", "brand.BMW": "宝马", "brand.Mercedes-Benz": "奔驰",
@@ -451,7 +490,6 @@ ru: {
 "detail.year": "Год", "detail.body": "Кузов", "detail.color": "Цвет",
 "detail.capacity": "Двигатель", "detail.plate_date": "Регистрация",
 "detail.location": "Место", "detail.emission": "Эко-класс", "detail.transfer": "Владельцев",
-"detail.seller": "Продавец", "detail.seller_active": "В продаже", "detail.seller_history": "Всего",
 "detail.photos": "Фото", "detail.tags": "Теги",
 "specs": "Характеристики",
 "brand.Toyota": "Тойота", "brand.Honda": "Хонда", "brand.BMW": "БМВ", "brand.Mercedes-Benz": "Мерседес",
@@ -506,7 +544,6 @@ ar: {
 "detail.year": "السنة", "detail.body": "نوع الهيكل", "detail.color": "اللون",
 "detail.capacity": "المحرك", "detail.plate_date": "تاريخ اللوحة",
 "detail.location": "الموقع", "detail.emission": "الانبعاثات", "detail.transfer": "عدد المالكين",
-"detail.seller": "البائع", "detail.seller_active": "معروض للبيع", "detail.seller_history": "إجمالي القائمة",
 "detail.photos": "الصور", "detail.tags": "الوسوم",
 "specs": "المواصفات",
 "brand.Toyota": "تويوتا", "brand.Honda": "هوندا", "brand.BMW": "بي إم دبليو", "brand.Mercedes-Benz": "مرسيدس",
@@ -539,6 +576,35 @@ async function loadVehicles() {
         const data = await res.json();
         vehicles = data.vehicles || [];
     } catch (e2) { vehicles = []; }
+    updateVehicleSchema(vehicles);
+}
+
+function updateVehicleSchema(vehicles) {
+    const existing = document.getElementById('vehicle-schema');
+    if (existing) existing.remove();
+    if (!vehicles.length) return;
+    const items = vehicles.slice(0, 30).map(v => ({
+        "@type": "Product",
+        "name": `${v.year} ${getText(v.brand, 'en')} ${getText(v.model, 'en')}`,
+        "description": getText(v.description, 'en') || '',
+        "image": v.image,
+        "offers": {
+            "@type": "Offer",
+            "price": v.price,
+            "priceCurrency": "USD",
+            "availability": v.status === 'Available' ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock'
+        },
+        "mileageFromOdometer": v.mileage ? {"@type": "QuantitativeValue", "value": v.mileage, "unitCode": "KMT"} : undefined,
+        "vehicleTransmission": v.transmission || undefined,
+        "color": v.color || undefined,
+        "vehicleModelDate": String(v.year),
+        "brand": {"@type": "Brand", "name": getText(v.brand, 'en')}
+    })).filter(Boolean);
+    const script = document.createElement('script');
+    script.id = 'vehicle-schema';
+    script.type = 'application/ld+json';
+    script.textContent = JSON.stringify({"@context": "https://schema.org", "@graph": items});
+    document.head.appendChild(script);
 }
 
 function showPage(page) {
@@ -715,7 +781,7 @@ function showVehicleDetail(id) {
     const desc = getText(v.description, currentLang) || getText(v.description, 'en');
     const imgs = (v.images && v.images.length > 0) ? v.images : [v.image];
     const tags = v.tags || [];
-    const seller = v.seller || {};
+    
 
     // Build gallery thumbnails
     let thumbs = imgs.map((url, i) =>
@@ -744,11 +810,6 @@ function showVehicleDetail(id) {
     });
     specsHtml += '</div>';
 
-    // Seller info
-    let sellerHtml = '';
-    if (seller.name) {
-        sellerHtml = '<div class="bg-slate-50 rounded-xl p-4 mt-4"><div class="flex items-center gap-3"><div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center"><span class="material-symbols-outlined text-blue-900 text-lg">person</span></div><div><div class="font-semibold text-sm">' + t('detail.seller') + ': ' + seller.name + '</div><div class="text-xs text-slate-500">' + t('detail.seller_active') + ': ' + (seller.onSaleCount || 0) + ' | ' + t('detail.seller_history') + ': ' + (seller.historyCount || 0) + '</div></div></div></div>';
-    }
 
     const modalHtml = `
     <div class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-2 md:p-4" onclick="closeVehicleDetail()">
@@ -796,8 +857,6 @@ function showVehicleDetail(id) {
                 ${specsHtml}
                 <!-- Tags -->
                 ${tags.length > 0 ? '<div class="mt-4"><div class="text-xs text-slate-500 mb-2">' + t('detail.tags') + '</div><div class="flex flex-wrap gap-2">' + tags.map(tg => '<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-medium">' + tg + '</span>').join('') + '</div></div>' : ''}
-                <!-- Seller -->
-                ${sellerHtml}
                 <!-- Description -->
                 ${desc ? '<div class="mt-4 p-4 bg-slate-50 rounded-xl"><p class="text-slate-600 text-sm leading-relaxed">' + desc + '</p></div>' : ''}
                 <!-- Actions -->
@@ -883,6 +942,9 @@ document.addEventListener('click', (e) => {
     }
 });
 
+// Read ?lang= from URL
+const urlLang = new URLSearchParams(window.location.search).get('lang');
+if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) currentLang = urlLang;
 setLanguage(currentLang);
 renderFeaturedVehicles();
 </script>
