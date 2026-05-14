@@ -15,6 +15,10 @@
 html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
 .page { display: none; }
 .page.active { display: block; }
+.gallery-thumb { transition: all 0.2s; cursor: pointer; }
+.gallery-thumb.active { border-color: #2563eb; opacity: 1; }
+.gallery-thumb:hover { opacity: 0.8; }
+@media (max-width: 768px) { .spec-grid { grid-template-columns: 1fr 1fr; } }
 </style>
 </head>
 <body class="bg-slate-50 text-slate-800 font-['Inter',sans-serif]">
@@ -143,23 +147,19 @@ html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
 <p class="text-slate-600" data-i18n="vehicles.page_desc">Browse our selection of quality vehicles ready for export</p>
 </div>
 <div class="bg-slate-100 rounded-2xl p-6 mb-8">
-<div class="grid md:grid-cols-4 gap-4">
+<div class="grid md:grid-cols-4 lg:grid-cols-6 gap-4">
 <div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.brand">Brand</label>
-<select id="filterBrand" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
-<option value="">All Brands</option><option value="toyota">Toyota</option><option value="honda">Honda</option><option value="bmw">BMW</option><option value="mercedes">Mercedes-Benz</option><option value="byd">BYD</option></select>
-</div>
+<select id="filterBrand" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
 <div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.body">Body Type</label>
-<select id="filterBody" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
-<option value="">All Types</option><option value="sedan">Sedan</option><option value="suv">SUV</option><option value="truck">Truck</option></select>
-</div>
-<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.year">Year</label>
-<select id="filterYear" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
-<option value="">All Years</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option></select>
-</div>
-<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.price">Max Price (USD)</label>
-<select id="filterPrice" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
-<option value="">Any Price</option><option value="15000">Under $15,000</option><option value="25000">Under $25,000</option><option value="50000">Under $50,000</option></select>
-</div>
+<select id="filterBody" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.fuel">Fuel</label>
+<select id="filterFuel" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.year_from">Year From</label>
+<select id="filterYearFrom" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.price_max">Max Price (USD)</label>
+<select id="filterPrice" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2">&nbsp;</label>
+<button onclick="clearFilters()" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white hover:bg-slate-200 font-medium transition-colors text-sm" data-i18n="vehicles.clear_filters">Clear</button></div>
 </div>
 </div>
 <div id="vehicleGrid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
@@ -263,92 +263,19 @@ html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
 <div class="space-y-4">
 <h3 class="text-xl font-bold text-blue-900" data-i18n="contact.social_title">Connect With Us</h3>
 <div class="grid grid-cols-3 sm:grid-cols-4 gap-3">
-<a href="https://wa.me/8613888888888" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="material-symbols-outlined text-2xl">chat</span>
-WhatsApp
-</a>
-<a href="https://instagram.com/carchina_export" target="_blank" class="bg-gradient-to-br from-purple-600 via-pink-500 to-orange-400 hover:opacity-90 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="material-symbols-outlined text-2xl">photo_camera</span>
-Instagram
-</a>
-<a href="https://twitter.com/carchina_export" target="_blank" class="bg-black hover:bg-gray-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-X (Twitter)
-</a>
-<a href="https://reddit.com/r/carchina_export" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="material-symbols-outlined text-2xl">forum</span>
-Reddit
-</a>
-<a href="https://t.me/carchina_export" target="_blank" class="bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="material-symbols-outlined text-2xl">send</span>
-Telegram
-</a>
-<a href="https://vk.com/carchina_export" target="_blank" class="bg-blue-700 hover:bg-blue-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="material-symbols-outlined text-2xl">group</span>
-VK
-</a>
-<a href="https://zalo.me/8613888888888" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm">
-<span class="text-lg font-bold">Z</span>
-Zalo
-</a>
-</div>
-<div class="mt-4 pt-4 border-t border-slate-200">
-<h4 class="text-sm font-bold text-slate-500 mb-3">Regional Favorites</h4>
-<div class="flex flex-wrap gap-2">
-<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇨🇳 WeChat</span>
-<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇹🇭 LINE</span>
-<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇻🇳 Zalo</span>
-<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇷🇺 VK, Telegram</span>
-<span class="bg-slate-200 px-3 py-1 rounded-full text-xs">🇸🇦 WhatsApp</span>
+<a href="https://wa.me/8613888888888" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="material-symbols-outlined text-2xl">chat</span> WhatsApp</a>
+<a href="https://instagram.com/carchina_export" target="_blank" class="bg-gradient-to-br from-purple-600 via-pink-500 to-orange-400 hover:opacity-90 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="material-symbols-outlined text-2xl">photo_camera</span> Instagram</a>
+<a href="https://twitter.com/carchina_export" target="_blank" class="bg-black hover:bg-gray-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><svg class="w-6 h-6 mx-auto" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> X</a>
+<a href="https://reddit.com/r/carchina_export" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="material-symbols-outlined text-2xl">forum</span> Reddit</a>
+<a href="https://t.me/carchina_export" target="_blank" class="bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="material-symbols-outlined text-2xl">send</span> Telegram</a>
+<a href="https://vk.com/carchina_export" target="_blank" class="bg-blue-700 hover:bg-blue-800 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="material-symbols-outlined text-2xl">group</span> VK</a>
+<a href="https://zalo.me/8613888888888" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-xl flex flex-col items-center gap-1 font-bold transition-all text-sm"><span class="text-lg font-bold">Z</span> Zalo</a>
 </div>
 </div>
-</div>
-<div class="grid grid-cols-2 gap-4 mt-6">
+<div class="grid grid-cols-2 gap-4">
 <a href="https://wa.me/8613888888888" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-4 rounded-xl flex items-center justify-center gap-3 font-bold transition-all"><span class="material-symbols-outlined">chat</span> WhatsApp</a>
 <a href="mailto:info@carchina.ltd" class="bg-blue-900 hover:bg-blue-800 text-white p-4 rounded-xl flex items-center justify-center gap-3 font-bold transition-all"><span class="material-symbols-outlined">email</span> Email Us</a>
 </div>
-</div>
-</div>
-</div>
-</div>
-
-<!-- ADMIN PAGE -->
-<div id="page-admin" class="page">
-<div class="max-w-7xl mx-auto px-4 md:px-8 py-12">
-<div class="flex justify-between items-center mb-8">
-<h1 class="text-4xl font-black font-['Montserrat'] text-blue-900" data-i18n="admin.title">Vehicle Management</h1>
-</div>
-<div class="bg-blue-900/10 border border-blue-900/20 rounded-2xl p-8 mb-8">
-<div class="flex items-start gap-6">
-<div class="w-16 h-16 bg-blue-900 rounded-2xl flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-3xl text-white">api</span></div>
-<div>
-<h2 class="text-2xl font-bold text-blue-900 mb-4">AI Upload API</h2>
-<p class="text-slate-600 mb-4">Vehicle upload via AI (Hermes Agent) calling the API.</p>
-<div class="bg-slate-900 text-green-400 p-4 rounded-xl font-mono text-sm overflow-x-auto">
-<pre>POST http://localhost:3001/api/vehicles
-{
-  "brand": "Toyota",
-  "model": "Land Cruiser",
-  "year": 2023,
-  "price": 55000,
-  "image": "https://...jpg"
-}</pre>
-</div>
-<div class="mt-4 flex gap-4">
-<span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Status: Online</span>
-<span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">Vehicles: <span id="adminVehicleCount">-</span></span>
-</div>
-</div>
-</div>
-</div>
-<div class="bg-slate-100 rounded-2xl overflow-hidden">
-<div class="overflow-x-auto">
-<table class="w-full">
-<thead class="bg-blue-900 text-white">
-<tr><th class="px-6 py-4 text-left font-bold" data-i18n="table.image">Image</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.vehicle">Vehicle</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.year">Year</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.price">Price</th><th class="px-6 py-4 text-left font-bold" data-i18n="table.status">Status</th></tr>
-</thead>
-<tbody id="adminTableBody"><tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">Loading...</td></tr></tbody>
-</table>
 </div>
 </div>
 </div>
@@ -360,7 +287,7 @@ Zalo
 <div class="max-w-7xl mx-auto px-4 md:px-8">
 <div class="grid md:grid-cols-4 gap-12 mb-12">
 <div><h3 class="text-xl font-black font-['Montserrat'] mb-4">CARCHINA.LTD</h3><p class="text-blue-200 opacity-80" data-i18n="footer.description">Your trusted partner in Chinese vehicle exports</p></div>
-<div><h4 class="font-bold mb-4" data-i18n="footer.links">Quick Links</h4><ul class="space-y-2 text-blue-200 opacity-80"><li><a href="#" onclick="showPage('vehicles')" class="hover:text-white cursor-pointer">Vehicles</a></li><li><a href="#" onclick="showPage('services')" class="hover:text-white cursor-pointer">Services</a></li><li><a href="#" onclick="showPage('about')" class="hover:text-white cursor-pointer">About</a></li><li><a href="#" onclick="showPage('contact')" class="hover:text-white cursor-pointer">Contact</a></li></ul></div>
+<div><h4 class="font-bold mb-4" data-i18n="footer.links">Quick Links</h4><ul class="space-y-2 text-blue-200 opacity-80"><li><a href="#" onclick="showPage('vehicles')" class="hover:text-white cursor-pointer" data-i18n="nav.vehicles" id="footerVehicles">Vehicles</a></li><li><a href="#" onclick="showPage('services')" class="hover:text-white cursor-pointer" data-i18n="nav.services">Services</a></li><li><a href="#" onclick="showPage('about')" class="hover:text-white cursor-pointer" data-i18n="nav.about">About</a></li><li><a href="#" onclick="showPage('contact')" class="hover:text-white cursor-pointer" data-i18n="nav.contact">Contact</a></li></ul></div>
 <div><h4 class="font-bold mb-4" data-i18n="footer.services">Services</h4><ul class="space-y-2 text-blue-200 opacity-80"><li data-i18n="footer.s1">Vehicle Sourcing</li><li data-i18n="footer.s2">Quality Inspection</li><li data-i18n="footer.s3">Global Shipping</li><li data-i18n="footer.s4">Export Documentation</li></ul></div>
 <div><h4 class="font-bold mb-4" data-i18n="footer.contact">Contact</h4><ul class="space-y-2 text-blue-200 opacity-80"><li>info@carchina.ltd</li><li>WhatsApp: +86 138 8888 8888</li></ul></div>
 </div>
@@ -399,18 +326,33 @@ en: {
 "about.stat1": "Years Experience", "about.stat2": "Vehicles Exported", "about.stat3": "Countries", "about.stat4": "Team Members",
 "vehicles.page_title": "Vehicle Inventory", "vehicles.page_desc": "Browse our selection of quality vehicles ready for export",
 "vehicles.no_results": "No vehicles match your filters", "vehicles.clear_filters": "Clear Filters",
-"filter.brand": "Brand", "filter.body": "Body Type", "filter.year": "Year", "filter.price": "Max Price (USD)",
+"filter.all": "All", "filter.brand": "Brand", "filter.body": "Body Type", "filter.fuel": "Fuel", "filter.year_from": "Year From", "filter.price_max": "Max Price (USD)",
 "contact.page_title": "Get in Touch", "contact.page_subtitle": "We're here to help with your vehicle export needs",
 "contact.form_title": "Send us a Message", "contact.name": "Full Name", "contact.email": "Email Address",
 "contact.phone": "Phone Number", "contact.message": "Your Message",
 "contact.submit": "Send Message", "contact.success": "Thank you! We'll respond within 24 hours.",
 "contact.info_title": "Contact Information", "contact.hours": "Business Hours", "contact.social_title": "Connect With Us",
-"admin.title": "Vehicle Management",
-"table.image": "Image", "table.vehicle": "Vehicle", "table.year": "Year", "table.price": "Price", "table.status": "Status",
 "footer.description": "Your trusted partner in Chinese vehicle exports",
 "footer.links": "Quick Links", "footer.services": "Services", "footer.contact": "Contact",
 "footer.s1": "Vehicle Sourcing", "footer.s2": "Quality Inspection", "footer.s3": "Global Shipping", "footer.s4": "Export Documentation",
-"footer.copyright": "© 2024 CARCHINA.LTD. All rights reserved."
+"footer.copyright": "© 2024 CARCHINA.LTD. All rights reserved.",
+"detail.inquire": "Inquire Now", "detail.whatsapp": "WhatsApp", "detail.guide_price": "Guide Price",
+"detail.mileage": "Mileage", "detail.fuel": "Fuel", "detail.transmission": "Transmission",
+"detail.year": "Year", "detail.body": "Body Type", "detail.color": "Color",
+"detail.capacity": "Engine", "detail.plate_date": "Plate Date",
+"detail.location": "Location", "detail.emission": "Emission", "detail.transfer": "Transfer Count",
+"detail.seller": "Seller", "detail.seller_active": "Currently Listed", "detail.seller_history": "Total Listed",
+"detail.photos": "Photos", "detail.tags": "Tags",
+"specs": "Specifications",
+"brand.Toyota": "Toyota", "brand.Honda": "Honda", "brand.BMW": "BMW", "brand.Mercedes-Benz": "Mercedes-Benz",
+"brand.BYD": "BYD", "brand.Volkswagen": "Volkswagen", "brand.Jaguar": "Jaguar", "brand.Lexus": "Lexus",
+"brand.Land Rover": "Land Rover", "brand.Peugeot": "Peugeot", "brand.Audi": "Audi", "brand.Geely": "Geely",
+"brand.NIO": "NIO", "brand.XPeng": "XPeng", "brand.Chery": "Chery", "brand.Cadillac": "Cadillac",
+"brand.Baojun": "Baojun", "brand.Avatr": "Avatr", "brand.Subaru": "Subaru", "brand.Buick": "Buick",
+"brand.WM Motor": "WM Motor", "brand.Roewe": "Roewe", "brand.Li Auto": "Li Auto",
+"body.Sedan": "Sedan", "body.SUV": "SUV", "body.Coupe": "Coupe", "body.MPV": "MPV", "body.Truck": "Truck",
+"fuel.Petrol": "Petrol", "fuel.Diesel": "Diesel", "fuel.Electric": "Electric", "fuel.Hybrid": "Hybrid",
+"status.Available": "Available", "status.Sold": "Sold", "status.Reserved": "Reserved"
 },
 cn: {
 "nav.home": "首页", "nav.vehicles": "车辆", "nav.services": "服务", "nav.about": "关于我们", "nav.contact": "联系我们",
@@ -439,18 +381,33 @@ cn: {
 "about.stat1": "年经验", "about.stat2": "出口车辆", "about.stat3": "国家", "about.stat4": "团队成员",
 "vehicles.page_title": "车辆库存", "vehicles.page_desc": "浏览我们的优质出口车辆",
 "vehicles.no_results": "没有符合筛选条件的车辆", "vehicles.clear_filters": "清除筛选条件",
-"filter.brand": "品牌", "filter.body": "车型", "filter.year": "年份", "filter.price": "最高价格(美元)",
+"filter.all": "全部", "filter.brand": "品牌", "filter.body": "车型", "filter.fuel": "燃油", "filter.year_from": "起始年份", "filter.price_max": "最高价格($)",
 "contact.page_title": "联系我们", "contact.page_subtitle": "我们随时为您提供车辆出口方面的帮助",
 "contact.form_title": "发送消息", "contact.name": "您的姓名", "contact.email": "电子邮箱",
 "contact.phone": "联系电话", "contact.message": "您的留言",
 "contact.submit": "发送消息", "contact.success": "谢谢！我们将在24小时内回复",
 "contact.info_title": "联系信息", "contact.hours": "营业时间", "contact.social_title": "联系我们",
-"admin.title": "车辆管理",
-"table.image": "图片", "table.vehicle": "车辆", "table.year": "年份", "table.price": "价格", "table.status": "状态",
 "footer.description": "您值得信赖的中国二手车出口合作伙伴",
 "footer.links": "快速链接", "footer.services": "服务", "footer.contact": "联系方式",
 "footer.s1": "车辆采购", "footer.s2": "质量检测", "footer.s3": "全球物流", "footer.s4": "出口文件",
-"footer.copyright": "© 2024 CARCHINA.LTD. 版权所有"
+"footer.copyright": "© 2024 CARCHINA.LTD. 版权所有",
+"detail.inquire": "立即询价", "detail.whatsapp": "WhatsApp联系", "detail.guide_price": "指导价",
+"detail.mileage": "里程", "detail.fuel": "燃油", "detail.transmission": "变速箱",
+"detail.year": "年份", "detail.body": "车型", "detail.color": "颜色",
+"detail.capacity": "排量", "detail.plate_date": "上牌日期",
+"detail.location": "所在地", "detail.emission": "排放标准", "detail.transfer": "过户次数",
+"detail.seller": "卖家", "detail.seller_active": "在售车辆", "detail.seller_history": "历史上架",
+"detail.photos": "照片", "detail.tags": "标签",
+"specs": "规格参数",
+"brand.Toyota": "丰田", "brand.Honda": "本田", "brand.BMW": "宝马", "brand.Mercedes-Benz": "奔驰",
+"brand.BYD": "比亚迪", "brand.Volkswagen": "大众", "brand.Jaguar": "捷豹", "brand.Lexus": "雷克萨斯",
+"brand.Land Rover": "路虎", "brand.Peugeot": "标致", "brand.Audi": "奥迪", "brand.Geely": "吉利",
+"brand.NIO": "蔚来", "brand.XPeng": "小鹏", "brand.Chery": "奇瑞", "brand.Cadillac": "凯迪拉克",
+"brand.Baojun": "宝骏", "brand.Avatr": "阿维塔", "brand.Subaru": "斯巴鲁", "brand.Buick": "别克",
+"brand.WM Motor": "威马", "brand.Roewe": "荣威", "brand.Li Auto": "理想",
+"body.Sedan": "轿车", "body.SUV": "SUV", "body.Coupe": "跑车", "body.MPV": "MPV", "body.Truck": "皮卡",
+"fuel.Petrol": "汽油", "fuel.Diesel": "柴油", "fuel.Electric": "电动", "fuel.Hybrid": "混动",
+"status.Available": "在售", "status.Sold": "已售", "status.Reserved": "已预留"
 },
 ru: {
 "nav.home": "Главная", "nav.vehicles": "Автомобили", "nav.services": "Услуги", "nav.about": "О нас", "nav.contact": "Контакты",
@@ -479,18 +436,33 @@ ru: {
 "about.stat1": "Лет опыта", "about.stat2": "Экспортировано", "about.stat3": "Стран", "about.stat4": "Сотрудников",
 "vehicles.page_title": "Каталог автомобилей", "vehicles.page_desc": "Выберите качественные автомобили для экспорта",
 "vehicles.no_results": "Нет автомобилей по вашим критериям", "vehicles.clear_filters": "Очистить фильтры",
-"filter.brand": "Марка", "filter.body": "Кузов", "filter.year": "Год", "filter.price": "Макс. цена (USD)",
+"filter.all": "Все", "filter.brand": "Марка", "filter.body": "Кузов", "filter.fuel": "Топливо", "filter.year_from": "От года", "filter.price_max": "Макс. цена ($)",
 "contact.page_title": "Свяжитесь с нами", "contact.page_subtitle": "Мы поможем с экспортом автомобилей",
 "contact.form_title": "Написать нам", "contact.name": "Ваше имя", "contact.email": "Email",
 "contact.phone": "Телефон", "contact.message": "Сообщение",
 "contact.submit": "Отправить", "contact.success": "Спасибо! Мы ответим в течение 24 часов.",
 "contact.info_title": "Контакты", "contact.hours": "Часы работы", "contact.social_title": "Связаться с нами",
-"admin.title": "Управление",
-"table.image": "Фото", "table.vehicle": "Автомобиль", "table.year": "Год", "table.price": "Цена", "table.status": "Статус",
 "footer.description": "Ваш надежный партнер по экспорту авто из Китая",
 "footer.links": "Ссылки", "footer.services": "Услуги", "footer.contact": "Контакты",
 "footer.s1": "Поиск авто", "footer.s2": "Проверка", "footer.s3": "Доставка", "footer.s4": "Документы",
-"footer.copyright": "© 2024 CARCHINA.LTD. Все права защищены."
+"footer.copyright": "© 2024 CARCHINA.LTD. Все права защищены.",
+"detail.inquire": "Запросить", "detail.whatsapp": "WhatsApp", "detail.guide_price": "Рек. цена",
+"detail.mileage": "Пробег", "detail.fuel": "Топливо", "detail.transmission": "КПП",
+"detail.year": "Год", "detail.body": "Кузов", "detail.color": "Цвет",
+"detail.capacity": "Двигатель", "detail.plate_date": "Регистрация",
+"detail.location": "Место", "detail.emission": "Эко-класс", "detail.transfer": "Владельцев",
+"detail.seller": "Продавец", "detail.seller_active": "В продаже", "detail.seller_history": "Всего",
+"detail.photos": "Фото", "detail.tags": "Теги",
+"specs": "Характеристики",
+"brand.Toyota": "Тойота", "brand.Honda": "Хонда", "brand.BMW": "БМВ", "brand.Mercedes-Benz": "Мерседес",
+"brand.BYD": "BYD", "brand.Volkswagen": "Фольксваген", "brand.Jaguar": "Ягуар", "brand.Lexus": "Лексус",
+"brand.Land Rover": "Ленд Ровер", "brand.Peugeot": "Пежо", "brand.Audi": "Ауди", "brand.Geely": "Джили",
+"brand.NIO": "NIO", "brand.XPeng": "XPeng", "brand.Chery": "Чери", "brand.Cadillac": "Кадиллак",
+"brand.Baojun": "Баоцзюнь", "brand.Avatr": "Аватр", "brand.Subaru": "Субару", "brand.Buick": "Бьюик",
+"brand.WM Motor": "WM Motor", "brand.Roewe": "Роуи", "brand.Li Auto": "Li Auto",
+"body.Sedan": "Седан", "body.SUV": "Внедорожник", "body.Coupe": "Купе", "body.MPV": "Минивэн", "body.Truck": "Пикап",
+"fuel.Petrol": "Бензин", "fuel.Diesel": "Дизель", "fuel.Electric": "Электро", "fuel.Hybrid": "Гибрид",
+"status.Available": "В наличии", "status.Sold": "Продано", "status.Reserved": "Зарезервировано"
 },
 ar: {
 "nav.home": "الرئيسية", "nav.vehicles": "المركبات", "nav.services": "الخدمات", "nav.about": "من نحن", "nav.contact": "اتصل بنا",
@@ -519,47 +491,54 @@ ar: {
 "about.stat1": "سنوات الخبرة", "about.stat2": "مركبات مصدرة", "about.stat3": "دولة", "about.stat4": "عضو فريق",
 "vehicles.page_title": "مخزون المركبات", "vehicles.page_desc": "تصفح مجموعتنا من المركبات",
 "vehicles.no_results": "لا توجد مركبات مطابقة", "vehicles.clear_filters": "مسح المعايير",
-"filter.brand": "العلامة", "filter.body": "النوع", "filter.year": "السنة", "filter.price": "الحد الأقصى للسعر",
+"filter.all": "الكل", "filter.brand": "العلامة", "filter.body": "النوع", "filter.fuel": "الوقود", "filter.year_from": "من سنة", "filter.price_max": "أقصى سعر ($)",
 "contact.page_title": "تواصل معنا", "contact.page_subtitle": "نحن هنا لمساعدتك",
 "contact.form_title": "أرسل رسالة", "contact.name": "الاسم الكامل", "contact.email": "البريد الإلكتروني",
 "contact.phone": "رقم الهاتف", "contact.message": "رسالتك",
 "contact.submit": "إرسال", "contact.success": "شكراً! سنرد خلال 24 ساعة.",
 "contact.info_title": "معلومات الاتصال", "contact.hours": "ساعات العمل", "contact.social_title": "تواصل معنا",
-"admin.title": "إدارة المركبات",
-"table.image": "صورة", "table.vehicle": "مركبة", "table.year": "سنة", "table.price": "سعر", "table.status": "حالة",
 "footer.description": "شريكك الموثوق في تصدير المركبات الصينية",
 "footer.links": "روابط سريعة", "footer.services": "الخدمات", "footer.contact": "اتصل بنا",
 "footer.s1": "البحث عن المركبات", "footer.s2": "فحص الجودة", "footer.s3": "الشحن العالمي", "footer.s4": "الوثائق",
-"footer.copyright": "© 2024 CARCHINA.LTD. جميع الحقوق محفوظة."
+"footer.copyright": "© 2024 CARCHINA.LTD. جميع الحقوق محفوظة.",
+"detail.inquire": "استفسر الآن", "detail.whatsapp": "واتساب", "detail.guide_price": "السعر الإرشادي",
+"detail.mileage": "المسافة", "detail.fuel": "الوقود", "detail.transmission": "ناقل الحركة",
+"detail.year": "السنة", "detail.body": "نوع الهيكل", "detail.color": "اللون",
+"detail.capacity": "المحرك", "detail.plate_date": "تاريخ اللوحة",
+"detail.location": "الموقع", "detail.emission": "الانبعاثات", "detail.transfer": "عدد المالكين",
+"detail.seller": "البائع", "detail.seller_active": "معروض للبيع", "detail.seller_history": "إجمالي القائمة",
+"detail.photos": "الصور", "detail.tags": "الوسوم",
+"specs": "المواصفات",
+"brand.Toyota": "تويوتا", "brand.Honda": "هوندا", "brand.BMW": "بي إم دبليو", "brand.Mercedes-Benz": "مرسيدس",
+"brand.BYD": "بي واي دي", "brand.Volkswagen": "فولكس فاجن", "brand.Jaguar": "جاغوار", "brand.Lexus": "لكزس",
+"brand.Land Rover": "لاند روفر", "brand.Peugeot": "بيجو", "brand.Audi": "أودي", "brand.Geely": "جيكلي",
+"brand.NIO": "ني", "brand.XPeng": "إكس بينج", "brand.Chery": "شيري", "brand.Cadillac": "كاديلاك",
+"brand.Baojun": "باوجون", "brand.Avatr": "أفاتر", "brand.Subaru": "سوبارو", "brand.Buick": "بويك",
+"brand.WM Motor": "دبليو إم", "brand.Roewe": "رووي", "brand.Li Auto": "لي أوتو",
+"body.Sedan": "سيدان", "body.SUV": "دفع رباعي", "body.Coupe": "كوبيه", "body.MPV": "إم بي في", "body.Truck": "شاحنة",
+"fuel.Petrol": "بنزين", "fuel.Diesel": "ديزل", "fuel.Electric": "كهرباء", "fuel.Hybrid": "هايبرد",
+"status.Available": "متوفر", "status.Sold": "مباع", "status.Reserved": "محجوز"
 }
 };
 
-const API_BASE = 'http://localhost:3001/api';
+const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json';
 let vehicles = [];
 let currentLang = localStorage.getItem('lang') || 'en';
 
 async function loadVehicles() {
-    // 优先从GitHub读取车辆数据（支持多设备同步）
-    const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json';
     try {
         const res = await fetch(GITHUB_RAW);
         if (res.ok) {
             const data = await res.json();
             vehicles = data.vehicles || [];
-            return vehicles;
+            return;
         }
-    } catch (e) {
-        console.log('GitHub fetch failed, trying local...');
-    }
-    // 备用：本地JSON文件
+    } catch (e) {}
     try {
         const res = await fetch('./data/vehicles.json');
         const data = await res.json();
         vehicles = data.vehicles || [];
-    } catch (e2) {
-        vehicles = [];
-    }
-    return vehicles;
+    } catch (e2) { vehicles = []; }
 }
 
 function showPage(page) {
@@ -575,18 +554,14 @@ function showPage(page) {
         activeLink.classList.remove('text-slate-500', 'font-medium');
     }
     window.scrollTo(0, 0);
-    if (page === 'vehicles') renderVehicles();
-    if (page === 'admin') renderAdminTable();
+    if (page === 'vehicles') { initFilters(); renderVehicles(); }
     if (page === 'home') renderFeaturedVehicles();
 }
 
-function toggleLangDropdown() {
-    document.getElementById('langDropdown').classList.toggle('hidden');
-}
-
+function toggleLangDropdown() { document.getElementById('langDropdown').classList.toggle('hidden'); }
 function toggleMobileMenu() {
-    document.getElementById('mobileMenu').classList.toggle('hidden');
-    document.getElementById('mobileMenu').classList.toggle('flex');
+    const m = document.getElementById('mobileMenu');
+    m.classList.toggle('hidden'); m.classList.toggle('flex');
 }
 
 function setLanguage(lang) {
@@ -601,21 +576,89 @@ function setLanguage(lang) {
         if (t[key]) el.textContent = t[key];
     });
     document.getElementById('langDropdown').classList.add('hidden');
+    renderVehicles();
+    renderFeaturedVehicles();
+}
+
+function getText(obj, lang) {
+    if (typeof obj === 'string') return obj;
+    if (obj && typeof obj === 'object') return obj[lang] || obj['en'] || '';
+    return '';
+}
+
+function t(key) { return translations[currentLang]?.[key] || translations['en']?.[key] || key; }
+
+function getBrands() { return [...new Set(vehicles.map(v => getText(v.brand, 'en')).filter(Boolean))].sort(); }
+function getBodyTypes() { return [...new Set(vehicles.map(v => v.bodyType).filter(Boolean))].sort(); }
+function getFuelTypes() { return [...new Set(vehicles.map(v => v.fuel).filter(Boolean))].sort(); }
+function getYears() { return [...new Set(vehicles.map(v => v.year).filter(Boolean))].sort().reverse(); }
+function getPriceSteps() {
+    const steps = [5000,10000,15000,20000,25000,30000,40000,50000,75000,100000,150000];
+    const max = Math.max(...vehicles.map(v => v.price).filter(Boolean));
+    return steps.filter(s => s <= max);
+}
+
+function populateSelect(id, options, labelKey) {
+    const sel = document.getElementById(id);
+    const current = sel.value;
+    sel.innerHTML = '<option value="">' + t('filter.all') + '</option>';
+    options.forEach(o => {
+        const opt = document.createElement('option');
+        opt.value = o;
+        opt.textContent = labelKey ? t(labelKey + o) || o : o;
+        sel.appendChild(opt);
+    });
+    sel.value = current;
+}
+
+function initFilters() {
+    populateSelect('filterBrand', getBrands(), 'brand.');
+    populateSelect('filterBody', getBodyTypes(), 'body.');
+    populateSelect('filterFuel', getFuelTypes(), 'fuel.');
+    populateSelect('filterYearFrom', getYears());
+    const steps = getPriceSteps();
+    const sel = document.getElementById('filterPrice');
+    const cur = sel.value;
+    sel.innerHTML = '<option value="">' + t('filter.all') + '</option>';
+    steps.forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = s;
+        opt.textContent = '$' + s.toLocaleString();
+        sel.appendChild(opt);
+    });
+    sel.value = cur;
+}
+
+function filterVehicles() {
+    renderVehicles();
+}
+
+function clearFilters() {
+    document.getElementById('filterBrand').value = '';
+    document.getElementById('filterBody').value = '';
+    document.getElementById('filterFuel').value = '';
+    document.getElementById('filterYearFrom').value = '';
+    document.getElementById('filterPrice').value = '';
+    renderVehicles();
 }
 
 async function renderVehicles() {
     await loadVehicles();
-    const brand = document.getElementById('filterBrand').value;
-    const body = document.getElementById('filterBody').value;
-    const year = document.getElementById('filterYear').value;
+    const brand = document.getElementById('filterBrand').value?.toLowerCase() || '';
+    const body = document.getElementById('filterBody').value?.toLowerCase() || '';
+    const fuel = document.getElementById('filterFuel').value?.toLowerCase() || '';
+    const yr = parseInt(document.getElementById('filterYearFrom').value) || 0;
     const maxPrice = parseInt(document.getElementById('filterPrice').value) || Infinity;
+
     const filtered = vehicles.filter(v => {
-        if (brand && getText(v.brand, currentLang).toLowerCase() !== brand) return false;
-        if (body && v.bodyType.toLowerCase() !== body) return false;
-        if (year && v.year.toString() !== year) return false;
+        if (brand && getText(v.brand, 'en').toLowerCase() !== brand) return false;
+        if (body && (v.bodyType || '').toLowerCase() !== body) return false;
+        if (fuel && (v.fuel || '').toLowerCase() !== fuel) return false;
+        if (yr && v.year < yr) return false;
         if (v.price > maxPrice) return false;
         return true;
     });
+
     const grid = document.getElementById('vehicleGrid');
     const empty = document.getElementById('emptyState');
     if (filtered.length === 0) {
@@ -629,81 +672,147 @@ async function renderVehicles() {
 
 async function renderFeaturedVehicles() {
     await loadVehicles();
-    const featured = vehicles.filter(v => v.featured).slice(0, 3);
-    const container = document.getElementById('featuredVehicles');
-    container.innerHTML = featured.map(v => createVehicleCard(v)).join('');
-}
-
-function getText(obj, lang) {
-    if (typeof obj === 'string') return obj;
-    if (typeof obj === 'object' && obj !== null) {
-        return obj[lang] || obj['en'] || '';
-    }
-    return '';
+    const featured = vehicles.filter(v => v.featured).length > 0
+        ? vehicles.filter(v => v.featured).slice(0, 6)
+        : vehicles.slice(0, 6);
+    document.getElementById('featuredVehicles').innerHTML = featured.map(v => createVehicleCard(v)).join('');
 }
 
 function createVehicleCard(v) {
-    const brand = getText(v.brand, currentLang);
-    const model = getText(v.model, currentLang);
+    const brand = getText(v.brand, currentLang) || getText(v.brand, 'en');
+    const model = getText(v.model, currentLang) || getText(v.model, 'en');
+    const city = v.city || '';
+    const tags = (v.tags || []).slice(0, 3);
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
-        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" class="w-full h-full object-cover"/>' +
-        '<div class="absolute top-4 left-4 bg-blue-900 text-white px-3 py-1 rounded-full text-xs font-bold">' + brand + '</div>' +
+        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
+        '<div class="absolute top-3 left-3 bg-blue-900/90 text-white px-3 py-1 rounded-full text-xs font-bold backdrop-blur">' + brand + '</div>' +
+        (v.featured ? '<div class="absolute top-3 right-3 bg-red-600 text-white px-3 py-1 rounded-full text-xs font-bold">Featured</div>' : '') +
         '</div>' +
-        '<div class="p-6">' +
-        '<h3 class="text-xl font-bold text-blue-900 mb-2">' + v.year + ' ' + brand + ' ' + model + '</h3>' +
-        '<div class="flex flex-wrap gap-2 mb-4">' +
-        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs">' + v.mileage.toLocaleString() + ' km</span>' +
-        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs capitalize">' + v.fuel + '</span>' +
-        '<span class="bg-slate-100 px-3 py-1 rounded-full text-xs capitalize">' + v.transmission + '</span>' +
+        '<div class="p-5">' +
+        '<h3 class="text-lg font-bold text-blue-900 mb-2 leading-tight">' + v.year + ' ' + brand + ' ' + model + '</h3>' +
+        '<div class="flex flex-wrap gap-1.5 mb-3">' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium">' + v.mileage.toLocaleString() + ' km</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + t('fuel.' + v.fuel) + '</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + (v.transmission || 'Auto') + '</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + t('body.' + v.bodyType) + '</span>' +
+        (city ? '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium">📍 ' + city + '</span>' : '') +
         '</div>' +
-        '<div class="flex justify-between items-center">' +
-        '<div class="text-2xl font-black text-blue-900">$' + v.price.toLocaleString() + '</div>' +
-        '<button class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all" onclick="event.stopPropagation(); showVehicleDetail(' + v.id + ')">Details</button>' +
+        (tags.length > 0 ? '<div class="flex flex-wrap gap-1 mb-3">' + tags.map(tg => '<span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-xs">' + tg + '</span>').join('') + '</div>' : '') +
+        '<div class="flex justify-between items-center pt-2 border-t border-slate-100">' +
+        '<div><div class="text-2xl font-black text-blue-900">$' + v.price.toLocaleString() + '</div>' +
+        (v.guidePrice ? '<div class="text-xs text-slate-400">' + t('detail.guide_price') + ': $' + v.guidePrice.toLocaleString() + '</div>' : '') +
+        '</div>' +
+        '<button class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all" onclick="event.stopPropagation(); showVehicleDetail(' + v.id + ')">' + t('detail.inquire') + '</button>' +
         '</div></div></div>';
 }
 
 function showVehicleDetail(id) {
-    const vehicle = vehicles.find(v => v.id === id);
-    if (!vehicle) return;
-    const brand = getText(vehicle.brand, currentLang);
-    const model = getText(vehicle.model, currentLang);
-    const desc = getText(vehicle.description, currentLang);
-    const detailHtml = `
-    <div class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4" onclick="closeVehicleDetail()">
-        <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto" onclick="event.stopPropagation()">
-            <div class="relative">
-                <img src="${vehicle.image}" alt="${brand} ${model}" class="w-full h-64 md:h-80 object-cover"/>
-                <button onclick="closeVehicleDetail()" class="absolute top-4 right-4 bg-white/90 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg">
+    const v = vehicles.find(x => x.id === id);
+    if (!v) return;
+    const brand = getText(v.brand, currentLang) || getText(v.brand, 'en');
+    const model = getText(v.model, currentLang) || getText(v.model, 'en');
+    const desc = getText(v.description, currentLang) || getText(v.description, 'en');
+    const imgs = (v.images && v.images.length > 0) ? v.images : [v.image];
+    const tags = v.tags || [];
+    const seller = v.seller || {};
+
+    // Build gallery thumbnails
+    let thumbs = imgs.map((url, i) =>
+        '<img src="' + url + '" onclick="galleryGoTo(' + v.id + ',' + i + ')" class="gallery-thumb w-16 h-12 rounded-lg object-cover border-2 ' + (i === 0 ? 'active border-blue-600 opacity-100' : 'border-transparent opacity-60') + '" data-index="' + i + '"/>'
+    ).join('');
+
+    // Build spec rows
+    const specs = [
+        { label: 'detail.year', value: v.year },
+        { label: 'detail.mileage', value: v.mileage.toLocaleString() + ' km' },
+        { label: 'detail.fuel', value: t('fuel.' + v.fuel) },
+        { label: 'detail.transmission', value: v.transmission || 'Automatic' },
+        { label: 'detail.body', value: t('body.' + v.bodyType) },
+        { label: 'detail.color', value: v.color || '-' },
+        { label: 'detail.capacity', value: v.capacity || '-' },
+        { label: 'detail.plate_date', value: v.plateDate || '-' },
+        { label: 'detail.location', value: [v.city, v.province].filter(Boolean).join(', ') || '-' },
+        { label: 'detail.emission', value: v.emission || '-' },
+        { label: 'detail.transfer', value: v.transferCount || '0' },
+        (v.guidePrice ? { label: 'detail.guide_price', value: '$' + v.guidePrice.toLocaleString() } : null),
+    ].filter(Boolean);
+
+    let specsHtml = '<div class="grid grid-cols-2 md:grid-cols-3 gap-3">';
+    specs.forEach(s => {
+        specsHtml += '<div class="bg-slate-50 rounded-xl p-3"><div class="text-xs text-slate-500 mb-1">' + t(s.label) + '</div><div class="font-semibold text-slate-800 text-sm">' + s.value + '</div></div>';
+    });
+    specsHtml += '</div>';
+
+    // Seller info
+    let sellerHtml = '';
+    if (seller.name) {
+        sellerHtml = '<div class="bg-slate-50 rounded-xl p-4 mt-4"><div class="flex items-center gap-3"><div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center"><span class="material-symbols-outlined text-blue-900 text-lg">person</span></div><div><div class="font-semibold text-sm">' + t('detail.seller') + ': ' + seller.name + '</div><div class="text-xs text-slate-500">' + t('detail.seller_active') + ': ' + (seller.onSaleCount || 0) + ' | ' + t('detail.seller_history') + ': ' + (seller.historyCount || 0) + '</div></div></div></div>';
+    }
+
+    const modalHtml = `
+    <div class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-2 md:p-4" onclick="closeVehicleDetail()">
+        <div class="bg-white rounded-2xl max-w-5xl w-full max-h-[95vh] overflow-y-auto" onclick="event.stopPropagation()">
+            <!-- Gallery -->
+            <div class="relative bg-black">
+                <div id="galleryContainer-${v.id}" class="relative aspect-[16/9] md:aspect-[16/8] overflow-hidden">
+                    ${imgs.map((url, i) =>
+                        '<img src="' + url + '" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
+                    ).join('')}
+                    ${imgs.length > 1 ? `
+                    <button onclick="galleryPrev(${v.id})" class="absolute left-3 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
+                        <span class="material-symbols-outlined">chevron_left</span>
+                    </button>
+                    <button onclick="galleryNext(${v.id})" class="absolute right-3 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
+                        <span class="material-symbols-outlined">chevron_right</span>
+                    </button>
+                    <div class="absolute bottom-3 right-3 bg-black/60 text-white px-3 py-1 rounded-full text-xs font-medium z-10">
+                        <span id="galleryCounter-${v.id}">1</span>/${imgs.length}
+                    </div>` : ''}
+                </div>
+                <button onclick="closeVehicleDetail()" class="absolute top-3 right-3 bg-white/90 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
                     <span class="material-symbols-outlined">close</span>
                 </button>
             </div>
+            <!-- Thumbnails -->
+            ${imgs.length > 1 ? '<div class="flex gap-2 px-4 py-3 overflow-x-auto bg-slate-100" id="galleryThumbs-' + v.id + '">' + thumbs + '</div>' : ''}
+            <!-- Content -->
             <div class="p-6 md:p-8">
                 <div class="flex flex-wrap items-start justify-between gap-4 mb-6">
                     <div>
-                        <h2 class="text-2xl md:text-3xl font-black text-blue-900 mb-2">${vehicle.year} ${brand} ${model}</h2>
-                        <span class="bg-blue-900 text-white px-4 py-1 rounded-full text-sm font-bold">${brand}</span>
+                        <h2 class="text-2xl md:text-3xl font-black text-blue-900 mb-2">${v.year} ${brand} ${model}</h2>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="bg-blue-900 text-white px-4 py-1 rounded-full text-sm font-bold">${brand}</span>
+                            <span class="bg-green-100 text-green-800 px-4 py-1 rounded-full text-sm font-bold capitalize">${t('status.' + v.status) || v.status}</span>
+                        </div>
                     </div>
                     <div class="text-right">
-                        <div class="text-3xl font-black text-blue-900">$${vehicle.price.toLocaleString()}</div>
-                        <div class="text-slate-500 text-sm">${vehicle.status || 'Available'}</div>
+                        <div class="text-3xl md:text-4xl font-black text-blue-900">$${v.price.toLocaleString()}</div>
+                        ${v.guidePrice ? '<div class="text-slate-500 text-sm">' + t('detail.guide_price') + ': $' + v.guidePrice.toLocaleString() + '</div>' : ''}
                     </div>
                 </div>
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Mileage</div><div class="font-bold">${vehicle.mileage.toLocaleString()} km</div></div>
-                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Fuel</div><div class="font-bold capitalize">${vehicle.fuel}</div></div>
-                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Transmission</div><div class="font-bold capitalize">${vehicle.transmission}</div></div>
-                    <div class="bg-slate-100 rounded-xl p-4 text-center"><div class="text-sm text-slate-500">Year</div><div class="font-bold">${vehicle.year}</div></div>
-                </div>
-                ${desc ? '<p class="text-slate-600 mb-6">' + desc + '</p>' : ''}
-                <div class="flex flex-col sm:flex-row gap-4">
-                    <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all">Inquire Now</button>
-                    <a href="https://wa.me/8613888888888" target="_blank" class="flex-1 bg-green-500 hover:bg-green-600 text-white font-bold py-4 rounded-xl text-center transition-all">WhatsApp</a>
+                <!-- Specs -->
+                <h3 class="text-lg font-bold text-blue-900 mb-4">${t('specs')}</h3>
+                ${specsHtml}
+                <!-- Tags -->
+                ${tags.length > 0 ? '<div class="mt-4"><div class="text-xs text-slate-500 mb-2">' + t('detail.tags') + '</div><div class="flex flex-wrap gap-2">' + tags.map(tg => '<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-medium">' + tg + '</span>').join('') + '</div></div>' : ''}
+                <!-- Seller -->
+                ${sellerHtml}
+                <!-- Description -->
+                ${desc ? '<div class="mt-4 p-4 bg-slate-50 rounded-xl"><p class="text-slate-600 text-sm leading-relaxed">' + desc + '</p></div>' : ''}
+                <!-- Actions -->
+                <div class="flex flex-col sm:flex-row gap-4 mt-6">
+                    <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all text-lg">${t('detail.inquire')}</button>
+                    <a href="https://wa.me/8613888888888" target="_blank" class="flex-1 bg-green-500 hover:bg-green-600 text-white font-bold py-4 rounded-xl text-center transition-all text-lg">${t('detail.whatsapp')}</a>
                 </div>
             </div>
         </div>
     </div>`;
-    document.body.insertAdjacentHTML('beforeend', '<div id="vehicleDetailModal">' + detailHtml + '</div>');
+
+    document.body.insertAdjacentHTML('beforeend', '<div id="vehicleDetailModal">' + modalHtml + '</div>');
+    // Store gallery state
+    window._galleryState = window._galleryState || {};
+    window._galleryState[v.id] = { current: 0, total: imgs.length };
 }
 
 function closeVehicleDetail() {
@@ -711,34 +820,38 @@ function closeVehicleDetail() {
     if (modal) modal.remove();
 }
 
-function filterVehicles() { renderVehicles(); }
-
-function clearFilters() {
-    document.getElementById('filterBrand').value = '';
-    document.getElementById('filterBody').value = '';
-    document.getElementById('filterYear').value = '';
-    document.getElementById('filterPrice').value = '';
-    renderVehicles();
+function galleryGoTo(id, idx) {
+    const state = window._galleryState?.[id];
+    if (!state) return;
+    state.current = idx;
+    // Update slides
+    document.querySelectorAll('#galleryContainer-' + id + ' .gallery-slide').forEach(el => {
+        el.classList.toggle('opacity-100', parseInt(el.dataset.index) === idx);
+        el.classList.toggle('opacity-0', parseInt(el.dataset.index) !== idx);
+    });
+    // Update thumbs
+    const thumbs = document.querySelectorAll('#galleryThumbs-' + id + ' .gallery-thumb');
+    thumbs.forEach(el => {
+        el.classList.toggle('active', parseInt(el.dataset.index) === idx);
+        el.classList.toggle('border-blue-600', parseInt(el.dataset.index) === idx);
+        el.classList.toggle('opacity-100', parseInt(el.dataset.index) === idx);
+        el.classList.toggle('opacity-60', parseInt(el.dataset.index) !== idx);
+    });
+    // Update counter
+    const counter = document.getElementById('galleryCounter-' + id);
+    if (counter) counter.textContent = idx + 1;
 }
 
-async function renderAdminTable() {
-    await loadVehicles();
-    const tbody = document.getElementById('adminTableBody');
-    const countEl = document.getElementById('adminVehicleCount');
-    countEl.textContent = vehicles.length;
-    if (vehicles.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">No vehicles. Use the API to add vehicles.</td></tr>';
-        return;
-    }
-    tbody.innerHTML = vehicles.map(v => 
-        '<tr class="border-b border-slate-200 hover:bg-slate-50">' +
-        '<td class="px-6 py-4"><img src="' + v.image + '" alt="' + getText(v.brand, currentLang) + '" class="w-16 h-12 object-cover rounded-lg"/></td>' +
-        '<td class="px-6 py-4 font-bold text-blue-900">' + v.year + ' ' + getText(v.brand, currentLang) + ' ' + getText(v.model, currentLang) + '</td>' +
-        '<td class="px-6 py-4">' + v.year + '</td>' +
-        '<td class="px-6 py-4 font-bold">$' + v.price.toLocaleString() + '</td>' +
-        '<td class="px-6 py-4"><span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs font-bold capitalize">' + v.status + '</span></td>' +
-        '</tr>'
-    ).join('');
+function galleryNext(id) {
+    const state = window._galleryState?.[id];
+    if (!state) return;
+    galleryGoTo(id, (state.current + 1) % state.total);
+}
+
+function galleryPrev(id) {
+    const state = window._galleryState?.[id];
+    if (!state) return;
+    galleryGoTo(id, (state.current - 1 + state.total) % state.total);
 }
 
 function submitContactForm(e) {
@@ -747,6 +860,22 @@ function submitContactForm(e) {
     e.target.reset();
     setTimeout(() => document.getElementById('formSuccess').classList.add('hidden'), 5000);
 }
+
+// Keyboard navigation for gallery
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeVehicleDetail();
+    const modal = document.getElementById('vehicleDetailModal');
+    if (!modal) return;
+    // Find active gallery id
+    const ids = Object.keys(window._galleryState || {});
+    for (const id of ids) {
+        if (document.getElementById('galleryContainer-' + id)) {
+            if (e.key === 'ArrowLeft') galleryPrev(parseInt(id));
+            if (e.key === 'ArrowRight') galleryNext(parseInt(id));
+            break;
+        }
+    }
+});
 
 document.addEventListener('click', (e) => {
     if (!e.target.closest('#langBtn') && !e.target.closest('#langDropdown')) {
