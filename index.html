@@ -188,7 +188,7 @@ html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
 <p class="text-slate-600" data-i18n="vehicles.page_desc">Browse our selection of quality vehicles ready for export</p>
 </div>
 <div class="bg-slate-100 rounded-2xl p-6 mb-8">
-<div class="grid md:grid-cols-4 lg:grid-cols-6 gap-4">
+<div class="grid md:grid-cols-4 lg:grid-cols-7 gap-4">
 <div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.brand">Brand</label>
 <select id="filterBrand" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
 <div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.body">Body Type</label>
@@ -199,6 +199,15 @@ html[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
 <select id="filterYearFrom" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
 <div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.price_max">Max Price (USD)</label>
 <select id="filterPrice" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()"><option value="" data-i18n="filter.all">All</option></select></div>
+<div><label class="block text-sm font-medium text-slate-700 mb-2" data-i18n="filter.sort">Sort By</label>
+<select id="filterSort" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white" onchange="filterVehicles()">
+<option value="date_desc" data-i18n="sort.newest">Newest First</option>
+<option value="date_asc" data-i18n="sort.oldest">Oldest First</option>
+<option value="price_asc" data-i18n="sort.price_asc">Price: Low to High</option>
+<option value="price_desc" data-i18n="sort.price_desc">Price: High to Low</option>
+<option value="year_desc" data-i18n="sort.year_desc">Year: New to Old</option>
+<option value="mileage_asc" data-i18n="sort.mileage_asc">Mileage: Low to High</option>
+</select></div>
 <div><label class="block text-sm font-medium text-slate-700 mb-2">&nbsp;</label>
 <button onclick="clearFilters()" class="w-full px-4 py-3 rounded-xl border border-slate-300 bg-white hover:bg-slate-200 font-medium transition-colors text-sm" data-i18n="vehicles.clear_filters">Clear</button></div>
 </div>
@@ -367,7 +376,8 @@ en: {
 "about.stat1": "Years Experience", "about.stat2": "Vehicles Exported", "about.stat3": "Countries", "about.stat4": "Team Members",
 "vehicles.page_title": "Vehicle Inventory", "vehicles.page_desc": "Browse our selection of quality vehicles ready for export",
 "vehicles.no_results": "No vehicles match your filters", "vehicles.clear_filters": "Clear Filters",
-"filter.all": "All", "filter.brand": "Brand", "filter.body": "Body Type", "filter.fuel": "Fuel", "filter.year_from": "Year From", "filter.price_max": "Max Price (USD)",
+"filter.all": "All", "filter.brand": "Brand", "filter.body": "Body Type", "filter.fuel": "Fuel", "filter.year_from": "Year From", "filter.price_max": "Max Price (USD)", "filter.sort": "Sort By",
+"sort.newest": "Newest First", "sort.oldest": "Oldest First", "sort.price_asc": "Price: Low to High", "sort.price_desc": "Price: High to Low", "sort.year_desc": "Year: New to Old", "sort.mileage_asc": "Mileage: Low to High",
 "contact.page_title": "Get in Touch", "contact.page_subtitle": "We're here to help with your vehicle export needs",
 "contact.form_title": "Send us a Message", "contact.name": "Full Name", "contact.email": "Email Address",
 "contact.phone": "Phone Number", "contact.message": "Your Message",
@@ -421,7 +431,8 @@ cn: {
 "about.stat1": "年经验", "about.stat2": "出口车辆", "about.stat3": "国家", "about.stat4": "团队成员",
 "vehicles.page_title": "车辆库存", "vehicles.page_desc": "浏览我们的优质出口车辆",
 "vehicles.no_results": "没有符合筛选条件的车辆", "vehicles.clear_filters": "清除筛选条件",
-"filter.all": "全部", "filter.brand": "品牌", "filter.body": "车型", "filter.fuel": "燃油", "filter.year_from": "起始年份", "filter.price_max": "最高价格($)",
+"filter.all": "全部", "filter.brand": "品牌", "filter.body": "车型", "filter.fuel": "燃油", "filter.year_from": "起始年份", "filter.price_max": "最高价格($)", "filter.sort": "排序",
+"sort.newest": "最新上架", "sort.oldest": "最早上架", "sort.price_asc": "价格: 从低到高", "sort.price_desc": "价格: 从高到低", "sort.year_desc": "年份: 从新到旧", "sort.mileage_asc": "里程: 从低到高",
 "contact.page_title": "联系我们", "contact.page_subtitle": "我们随时为您提供车辆出口方面的帮助",
 "contact.form_title": "发送消息", "contact.name": "您的姓名", "contact.email": "电子邮箱",
 "contact.phone": "联系电话", "contact.message": "您的留言",
@@ -475,7 +486,8 @@ ru: {
 "about.stat1": "Лет опыта", "about.stat2": "Экспортировано", "about.stat3": "Стран", "about.stat4": "Сотрудников",
 "vehicles.page_title": "Каталог автомобилей", "vehicles.page_desc": "Выберите качественные автомобили для экспорта",
 "vehicles.no_results": "Нет автомобилей по вашим критериям", "vehicles.clear_filters": "Очистить фильтры",
-"filter.all": "Все", "filter.brand": "Марка", "filter.body": "Кузов", "filter.fuel": "Топливо", "filter.year_from": "От года", "filter.price_max": "Макс. цена ($)",
+"filter.all": "Все", "filter.brand": "Марка", "filter.body": "Кузов", "filter.fuel": "Топливо", "filter.year_from": "От года", "filter.price_max": "Макс. цена ($)", "filter.sort": "Сортировать",
+"sort.newest": "Сначала новые", "sort.oldest": "Сначала старые", "sort.price_asc": "Цена: по возрастанию", "sort.price_desc": "Цена: по убыванию", "sort.year_desc": "Год: новые сначала", "sort.mileage_asc": "Пробег: меньше сначала",
 "contact.page_title": "Свяжитесь с нами", "contact.page_subtitle": "Мы поможем с экспортом автомобилей",
 "contact.form_title": "Написать нам", "contact.name": "Ваше имя", "contact.email": "Email",
 "contact.phone": "Телефон", "contact.message": "Сообщение",
@@ -529,7 +541,8 @@ ar: {
 "about.stat1": "سنوات الخبرة", "about.stat2": "مركبات مصدرة", "about.stat3": "دولة", "about.stat4": "عضو فريق",
 "vehicles.page_title": "مخزون المركبات", "vehicles.page_desc": "تصفح مجموعتنا من المركبات",
 "vehicles.no_results": "لا توجد مركبات مطابقة", "vehicles.clear_filters": "مسح المعايير",
-"filter.all": "الكل", "filter.brand": "العلامة", "filter.body": "النوع", "filter.fuel": "الوقود", "filter.year_from": "من سنة", "filter.price_max": "أقصى سعر ($)",
+"filter.all": "الكل", "filter.brand": "العلامة", "filter.body": "النوع", "filter.fuel": "الوقود", "filter.year_from": "من سنة", "filter.price_max": "أقصى سعر ($)", "filter.sort": "ترتيب",
+"sort.newest": "الأحدث أولاً", "sort.oldest": "الأقدم أولاً", "sort.price_asc": "السعر: من الأقل", "sort.price_desc": "السعر: من الأعلى", "sort.year_desc": "السنة: الأحدث", "sort.mileage_asc": "المسافة: الأقل أولاً",
 "contact.page_title": "تواصل معنا", "contact.page_subtitle": "نحن هنا لمساعدتك",
 "contact.form_title": "أرسل رسالة", "contact.name": "الاسم الكامل", "contact.email": "البريد الإلكتروني",
 "contact.phone": "رقم الهاتف", "contact.message": "رسالتك",
@@ -705,6 +718,7 @@ function clearFilters() {
     document.getElementById('filterFuel').value = '';
     document.getElementById('filterYearFrom').value = '';
     document.getElementById('filterPrice').value = '';
+    document.getElementById('filterSort').value = 'date_desc';
     renderVehicles();
 }
 
@@ -715,6 +729,7 @@ async function renderVehicles() {
     const fuel = document.getElementById('filterFuel').value?.toLowerCase() || '';
     const yr = parseInt(document.getElementById('filterYearFrom').value) || 0;
     const maxPrice = parseInt(document.getElementById('filterPrice').value) || Infinity;
+    const sortBy = document.getElementById('filterSort').value || 'date_desc';
 
     const filtered = vehicles.filter(v => {
         if (brand && getText(v.brand, 'en').toLowerCase() !== brand) return false;
@@ -723,6 +738,19 @@ async function renderVehicles() {
         if (yr && v.year < yr) return false;
         if (v.price > maxPrice) return false;
         return true;
+    });
+
+    // Sort
+    filtered.sort((a, b) => {
+        switch (sortBy) {
+            case 'date_desc': return (b.listedAt || '').localeCompare(a.listedAt || '');
+            case 'date_asc':  return (a.listedAt || '').localeCompare(b.listedAt || '');
+            case 'price_asc':  return (a.price || 0) - (b.price || 0);
+            case 'price_desc': return (b.price || 0) - (a.price || 0);
+            case 'year_desc':  return (b.year || 0) - (a.year || 0);
+            case 'mileage_asc': return (a.mileage || 0) - (b.mileage || 0);
+            default: return 0;
+        }
     });
 
     const grid = document.getElementById('vehicleGrid');
