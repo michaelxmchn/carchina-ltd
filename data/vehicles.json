@@ -1532,7 +1532,7 @@
       "id": "14336983",
       "brand": {
         "en": "Changan",
-        "ru": "Чангань",
+        "ru": "Чанъань",
         "ar": "تشانغان",
         "cn": "长安"
       },
@@ -1553,10 +1553,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "一手车，实表，原版4件喷漆",
+        "en": "First-hand car, actual mileage, original 4 panels repainted",
         "cn": "一手车，实表，原版4件喷漆",
-        "ru": "一手车，实表，原版4件喷漆",
-        "ar": "一手车，实表，原版4件喷漆"
+        "ru": "Машина первого владельца, реальный пробег, оригинальные 4 панели перекрашены",
+        "ar": "سيارة يد أولى, فرش حقيقي, 4 قطع مطلية مرة أخرى"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14336983/00_1778575347085_309_app_B_299.64K-299.64K.jpeg",
@@ -1590,10 +1590,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "途昂 2.5T 530 V6 四驱尊崇豪华版",
+        "en": "Teramont 2.5T 530 V6 4WD Prestige Luxury Edition",
         "cn": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ru": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ar": "途昂 2.5T 530 V6 四驱尊崇豪华版"
+        "ru": "Терамонт 2.5T 530 V6 4WD Prestige Luxury Edition",
+        "ar": "تيرامونت 2.5T 530 V6 دفع رباعي نسخة فاخرة"
       },
       "year": 2022,
       "price": 20625,
@@ -1606,10 +1606,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
+        "en": "Basically original paint, first-hand registered under rental company but non-commercial use, interior is like new",
         "cn": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ru": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ar": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新"
+        "ru": "В основном оригинальная краска, первый владелец зарегистрирован в арендной компании, но некоммерческое использование, интерьер как новый",
+        "ar": "طلاء أساسي أصلي, مسجل لأول مرة باسم شركة تأجير ولكن غير تجاري، الداخلية كالجديدة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14114003/00_1777949636862f769_790461.jpg",
@@ -1640,15 +1640,15 @@
       "id": "13279397",
       "brand": {
         "en": "Mercedes-Benz",
-        "ru": "Мерседес",
-        "ar": "مرسيدس",
+        "ru": "Мерседес-Бенц",
+        "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
       "model": {
-        "en": "E级 E 300 L 2.0T 时尚型",
+        "en": "E-Class E 300 L 2.0T Fashion Edition",
         "cn": "E级 E 300 L 2.0T 时尚型",
-        "ru": "E级 E 300 L 2.0T 时尚型",
-        "ar": "E级 E 300 L 2.0T 时尚型"
+        "ru": "E-класс E 300 L 2.0T Fashion Edition",
+        "ar": "الفئة E 300 L 2.0T النسخة العصرية"
       },
       "year": 2020,
       "price": 30937,
@@ -1661,10 +1661,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "一手原版实表  几乎原漆  三方S级",
+        "en": "First-hand, original version, actual mileage, almost original paint, passed S-level inspection",
         "cn": "一手原版实表  几乎原漆  三方S级",
-        "ru": "一手原版实表  几乎原漆  三方S级",
-        "ar": "一手原版实表  几乎原漆  三方S级"
+        "ru": "Первый владелец, оригинальная версия, реальный пробег, почти оригинальная краска, прошёл проверку уровня S",
+        "ar": "يد أولى, نسخة أصلية, فرش حقيقي, الطلاء شبه الأصلي, اجتاز فحص المستوى S"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13279397/00_1775294304456_406_app_P_346.82K-346.82K.jpg",
@@ -1699,10 +1699,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "帕萨特 1.8TSI 尊雅版",
+        "en": "Passat 1.8TSI Respect Edition",
         "cn": "帕萨特 1.8TSI 尊雅版",
-        "ru": "帕萨特 1.8TSI 尊雅版",
-        "ar": "帕萨特 1.8TSI 尊雅版"
+        "ru": "Пассат 1.8TSI Respect Edition",
+        "ar": "باسات 1.8TSI نسخة المحترم"
       },
       "year": 2014,
       "price": 3918,
@@ -1715,10 +1715,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
+        "en": "Passed S-level inspection by Dr. Check, teacher's first-hand car, used with cover, interior with 90% new film, only some covering parts replaced, overall looks good, engine, transmission and chassis are very intact",
         "cn": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
-        "ru": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
-        "ar": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整"
+        "ru": "Прошёл проверку уровня S от Dr. Check, машина учителя первого владельца, использовалась с чехлом, интерьер с плёнкой 90% новизны, только некоторые детали заменены, в целом выглядит хорошо, двигатель, коробка и шасси в отличном состоянии",
+        "ar": "اجتاز فحص المستوى S من دكتور تشيك, سيارة معلم يد أولى, مستخدمة مع غطاء, الداخلية بفيلم 90% جديد, فقط بعض القطع استبدلت,Overall looks good, المحرك, ناقل الحركة والشاسي في حالة جيدة جداً"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12905155/00_1774173290210B8769_515887.jpg",
@@ -1750,10 +1750,10 @@
         "cn": "标致"
       },
       "model": {
-        "en": "308 1.6 豪华版",
+        "en": "308 1.6 Luxury Edition",
         "cn": "308 1.6 豪华版",
-        "ru": "308 1.6 豪华版",
-        "ar": "308 1.6 豪华版"
+        "ru": "308 1.6 Luxury Edition",
+        "ar": "308 1.6 النسخة الفاخرة"
       },
       "year": 2018,
       "price": 3272,
@@ -1766,10 +1766,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
+        "en": "1.6L 4-cylinder engine, first-hand, actual mileage 97,000 km, overall dynamic condition is good, new appearance both inside and outside, minor rear-end collision (no cutting), repair record shows expand damage",
         "cn": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
-        "ru": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
-        "ar": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损"
+        "ru": "1.6L 4-цилиндровый двигатель, первый владелец, реальный пробег 97 000 км, общая динамическая оценка хорошая, новый внешний вид как внутри, так и снаружи, незначительный удар сзади (без резки), запись о ремонте показывает расширенные повреждения",
+        "ar": "محرك 4 اسطوانات 1.6 لتر, يد أولى, فرش حقيقي 97000 км, الحالة الديناميكية العامة جيدة, المظهر الجديد من الداخل والخارج, تصادم خلفي صغير (بدون قطع), سجل الإصلاح يظهر توسع الضرر"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14215712/00_1778227469015_815_app_U_228.12K-228.12K.jpg",
