@@ -4,15 +4,15 @@
       "id": 14226309,
       "brand": {
         "en": "Changan",
-        "ru": "Чанъань",
-        "ar": "تشانغآن",
+        "ru": "Чангань",
+        "ar": "تشانغان",
         "cn": "长安"
       },
       "model": {
         "en": "CS55 PLUS 1.5T Blue Whale Edition Luxury",
         "cn": "CS55 PLUS 1.5T 蓝鲸版豪华型",
-        "ru": "CS55 PLUS 1.5T Blue Whale (люкс-версия)",
-        "ar": "CS55 PLUS 1.5T نسخة Blue Whale الفاخرة"
+        "ru": "CS55 PLUS 1.5T Синий Кит Версия Люкс",
+        "ar": "CS55 PLUS 1.5T نسخة الحوت الأزرق الفاخرة"
       },
       "year": 2021,
       "price": 5486,
@@ -25,10 +25,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Rear left fender repainted, rear right fender repainted, left front headlight and left front fog lamp replaced.",
+        "en": "Left rear fender repainted, right rear fender repainted, left front headlight and left front fog lamp replaced.",
         "cn": "左后翼子板喷漆，右后翼子板喷漆，左前大灯左前雾灯更换。",
-        "ru": "Левый задний крыло перекрашено, правый задний крыло перекрашено, заменены передняя левая фара и передний левый противотуманный фонарь.",
-        "ar": "تم رش الجانب الأيسر الخلفي للجناح، الجانب الأيمن الخلفي للجناح، تم استبدال المصباح الأمامي الأيسر ومصباح الضباب الأمامي الأيسر."
+        "ru": "Левое заднее крыло перекрашено, правое заднее крыло перекрашено, левые передние фары и левый передний противотуманный фонарь заменены.",
+        "ar": "تم رش الجانب الخلفي الأيسر من الرفرف، الجانب الخلفي الأيمن من الرفرف، تم استبدال المصباح الأمامي الأيسر وضوء الضباب الأمامي الأيسر."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14226309/00_1778249859676_432_app_M_380.17K-380.17K_parse.png",
@@ -53,16 +53,16 @@
     {
       "id": 14257082,
       "brand": {
-        "en": "Hongqi 2022 HS5 2.0T Smart Connected Flag Enjoyment Edition",
-        "ru": "Хунци 2022 HS5 2.0T Умное подключение Флаг Наслаждение edition",
-        "ar": "هونغتشي 2022 HS5 2.0T الإصدار الذكي المتصل بالعلم",
-        "cn": "红旗 2022款 HS5 2.0T 智联旗享版"
+        "en": "Hongqi",
+        "ru": "Хунци",
+        "ar": "هونغتشي",
+        "cn": "红旗"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "HS5 2.0T Intelligent Flagship Edition",
+        "cn": "HS5 2.0T 智联旗享版",
+        "ru": "HS5 2.0T Интеллектуальный Флагман",
+        "ar": "HS5 2.0T نسخة الرائد الذكي"
       },
       "year": 2022,
       "price": 10532,
@@ -77,8 +77,8 @@
       "description": {
         "en": "Original paint on metal parts.",
         "cn": "金属件原漆",
-        "ru": "Оригинальная краска на металлических частях.",
-        "ar": "الطلاء الأصلي على الأجزاء المعدنية."
+        "ru": "Заводская краска на металлических деталях.",
+        "ar": "طلاء أصلي على الأجزاء المعدنية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14257082/00_1778336544849_452_app_T_350.18K-350.18K.png",
@@ -111,10 +111,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "bZ4X 615 PRO Edition",
+        "en": "Platinum Intelligence 4X 615 PRO Edition",
         "cn": "铂智4X 615 PRO版",
-        "ru": "bZ4X 615 PRO Edition",
-        "ar": "bZ4X 615 PRO Edition"
+        "ru": "Платинум Интеллект 4X 615 PRO",
+        "ar": "بلاتينيوم إنتلجينسي 4X 615 برو"
       },
       "year": 2024,
       "price": 14410,
@@ -127,10 +127,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint",
+        "en": "Original paint.",
         "cn": "原漆",
-        "ru": "Оригинальная краска",
-        "ar": "طلاء أصلي"
+        "ru": "Заводская краска.",
+        "ar": "طلاء أصلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404567/00_1778764837541_216_app_S_283.02K-283.02K_parse.png",
@@ -157,15 +157,15 @@
       "id": 14404336,
       "brand": {
         "en": "Lynk & Co",
-        "ru": "Lynk & Co",
-        "ar": "لينك آند كو",
-        "cn": "领克 2020款 领克03+ 2.0TD 驭风版"
+        "ru": "Линк энд Ко",
+        "ar": "لينك أند كو",
+        "cn": "领克"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "Lynk & Co 03+ 2.0TD Wind Edition",
+        "cn": "领克03+ 2.0TD 驭风版",
+        "ru": "Линк энд Ко 03+ 2.0TD Версия «Ветреный»",
+        "ar": "لينك آند كو 03+ 2.0TD نسخة الرّياح"
       },
       "year": 2020,
       "price": 9886,
@@ -178,10 +178,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Left front fender panel repair, right rear fender panel repair.\nRight front door and left rear door repainted.",
+        "en": "Left front fender panel repair, right rear fender panel repair. Right front door and left rear door repainted.",
         "cn": "左前翼子板钣金，右后翼子板钣金。\n右前门左后门喷漆。",
-        "ru": "Левое переднее крыло рихтовка, правое заднее крыло рихтовка.\nПравая передняя дверь и левая задняя дверь покрашены.",
-        "ar": "إصلاح لوحة الرفرف الأمامي الأيسر، إصلاح الرفرف الخلفي الأيمن.\nطلاء الباب الأمامي الأيمن والباب الخلفي الأيسر."
+        "ru": "Ремонт левого переднего крыла, ремонт правого заднего крыла. Правая передняя дверь и левая задняя дверь окрашены.",
+        "ar": "إصلاح لوحة الرفرف الأمامي الأيسر، إصلاح لوحة الرفرف الخلفي الأيمن. تم رش الدهان على الباب الأمامي الأيمن والباب الخلفي الأيسر."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404336/00_1778763671670_703_app_N_300.22K-300.22K.png",
@@ -206,16 +206,16 @@
     {
       "id": 14404181,
       "brand": {
-        "en": "Mazda 3 Axela",
-        "ru": "Mazda 3 Axela",
-        "ar": "مازدا 3 أكسيلا",
-        "cn": "马自达 3昂克赛拉 2023款 马自达3 昂克赛拉-三厢 2.0 质雅版"
+        "en": "Mazda",
+        "ru": "Мазда",
+        "ar": "مازدا",
+        "cn": "马自达"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "Mazda3 Axela - Sedan 2.0 Premium",
+        "cn": "3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版",
+        "ru": "Мазда 3 Аксела - Седан 2.0 Премиум",
+        "ar": "مازدا 3 أكسيلا - سيدان 2.0 بريموم"
       },
       "year": 2023,
       "price": 11660,
@@ -230,8 +230,8 @@
       "description": {
         "en": "Right front fender repainted.",
         "cn": "右前翼子板喷漆",
-        "ru": "Правое переднее крыло покрашено.",
-        "ar": "طلاء الرفرف الأمامي الأيمن."
+        "ru": "Окраска правого переднего крыла.",
+        "ar": "رش الدهان على الرفرف الأمامي الأيمن."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404181/00_1778763115816_121_app_B_427.19K-427.19K_parse.png",
@@ -258,15 +258,15 @@
       "id": 14393056,
       "brand": {
         "en": "Chery",
-        "ru": "Chery",
-        "ar": "شيرى",
+        "ru": "Чери",
+        "ar": "شيري",
         "cn": "奇瑞"
       },
       "model": {
-        "en": "Tiggo 8 Pro 1.6T 290T 2WD Premium Edition",
+        "en": "Rui Hu 8 PRO 1.6T 290T 2WD Prestige",
         "cn": "瑞虎8 PRO 1.6T 290T 两驱尊贵版",
-        "ru": "Chery Tiggo 8 Pro 1.6T 290T 2WD Premium",
-        "ar": "تيغو 8 برو 1.6T 290T دفع أمامي فاخرة"
+        "ru": "Руй Ху 8 PRO 1.6T 290T 2WD Престиж",
+        "ar": "روي هو 8 برو 1.6T 290T دفع ثنائي فاخر"
       },
       "year": 2025,
       "price": 12320,
@@ -281,7 +281,7 @@
       "description": {
         "en": "Original paint.",
         "cn": "原漆",
-        "ru": "Заводская краска.",
+        "ru": "Оригинальная краска.",
         "ar": "دهان أصلي."
       },
       "images": [
@@ -308,16 +308,16 @@
     {
       "id": 14404502,
       "brand": {
-        "en": "AITO 2024 M9 EV Ultra 100kWh",
-        "ru": "AITO 2024 M9 EV Ultra 100кВт·ч",
-        "ar": "AITO 2024 M9 EV ألترا 100 كيلوواط ساعة",
-        "cn": "AITO 2024款 问界M9 EV 纯电Ultra版100kWh"
+        "en": "AITO",
+        "ru": "AITO",
+        "ar": "AITO",
+        "cn": "AITO"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "WenJie M9 EV Pure Electric Ultra 100kWh",
+        "cn": "问界M9 EV 纯电Ultra版100kWh",
+        "ru": "Вэньцзе M9 EV Ultra 100 кВт·ч",
+        "ar": "ونجيه M9 EV ألترا 100 كيلوواط ساعة"
       },
       "year": 2024,
       "price": 50297,
@@ -330,10 +330,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Registered in November 2024, AITO M9, 100 kWh pure electric, smart‑driving package purchased, full‑body paint‑protection film, 21 000 km first‑hand vehicle, original body and paint, excellent condition.",
+        "en": "Registered in November 2024, WenJie M9, 100 kWh pure electric, autonomous driving system purchased outright, full-body invisible paint protection film, 21,000 km first-owner vehicle, original paint, excellent condition.",
         "cn": "24年11月上牌，问界M9，100度纯电，智驾买断，全车隐形车衣，2.1万公里一手车，原版原漆，精品车况",
-        "ru": "Регистрация в ноябре 2024 г., AITO M9, 100 кВт·ч чистый электромобиль, приобретён пакет интеллектуального вождения, полный кузов защитной плёнкой, 21 000 км первое авто, оригинальный кузов и лакокрасочное покрытие, отличное состояние.",
-        "ar": "مسجلة في نوفمبر 2024، AITO M9، 100 كيلوواط ساعة كهربائية نقية، تم شراء حزمة القيادة الذكية، فيلم حماية الهيكل بالكامل، 21,000 كم سيارة يد واحدة، هيكل ودهان أصلي، حالة ممتازة."
+        "ru": "Зарегистрирован в ноябре 2024, Вэньцзе M9, 100 кВт·ч чистый электрический, интеллектуальная система вождения приобретена полностью, полный кузов покрыт невидимой защитной плёнкой, 21 000 км первое владение, оригинальное покрытие, отличное состояние.",
+        "ar": "مسجلة في نوفمبر 2024، ونجيه M9، 100 كيلوواط ساعة كهربائية نقية، نظام القيادة الذاتية مُشتَرى بالكامل، طلاء كامل للجسم غير مرئي، 21,000 كم سيارة يد أولى، طلاء أصلي، حالة ممتازة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404502/00_1778764485398p5578_306237_parse.jpg",
@@ -359,15 +359,15 @@
       "id": 13637838,
       "brand": {
         "en": "Audi",
-        "ru": "Audi",
+        "ru": "Ауди",
         "ar": "أودي",
         "cn": "奥迪"
       },
       "model": {
-        "en": "Q7 48V 3.0 TFSI 55 TFSI Quattro S‑line Sport",
+        "en": "Audi Q7 48V 3.0 TFSI 55 TFSI Quattro S line Sport",
         "cn": "Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型",
-        "ru": "Q7 48V 3.0 TFSI 55 TFSI Quattro S‑line Sport",
-        "ar": "Q7 48V 3.0 TFSI 55 TFSI Quattro S‑line سبورت"
+        "ru": "Audi Q7 48V 3.0 TFSI 55 TFSI Quattro S line Sport",
+        "ar": "أودي Q7 48V 3.0 TFSI 55 TFSI Quattro S line رياضية"
       },
       "year": 2023,
       "price": 45237,
@@ -380,10 +380,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival, registered March 2023, Audi Q7, 3.0 L turbo, 71 000 km, original body and paint, excellent condition.",
+        "en": "New arrival, registered March 2023, Audi Q7, 3.0L turbo, 71,000 km, original paint, excellent condition.",
         "cn": "新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，",
-        "ru": "Новое поступление, регистрация в марте 2023 г., Audi Q7, 3.0 л турбо, 71 000 км, оригинальный кузов и лакокрасочное покрытие, отличное состояние.",
-        "ar": "جديد، مسجل في مارس 2023، أودي Q7، 3.0 لتر تيربو، 71,000 كم، هيكل ودهان أصلي، حالة ممتازة."
+        "ru": "Новое поступление, зарегистрирован в марте 2023, Audi Q7, 3.0T, 71 000 км, оригинальное покрытие, отличное состояние.",
+        "ar": "وارد جديد، مسجل في مارس 2023، أودي Q7، 3.0 تيربو، 71,000 كم، طلاء أصلي، حالة ممتازة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13637838/00_1776926596571W2195_883130.jpg",
@@ -412,16 +412,16 @@
     {
       "id": 12396363,
       "brand": {
-        "en": "Mercedes‑Benz",
-        "ru": "Mercedes‑Benz",
-        "ar": "مرسيدس‑بنز",
+        "en": "Mercedes-Benz",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
-        "en": "C‑Class C 200 L 48V 1.5 L Turbo Sport",
+        "en": "Mercedes-Benz C-Class C 200 L 48V 1.5T Sport",
         "cn": "C级 C 200 L 48V 1.5T 运动版",
-        "ru": "C‑Class C 200 L 48V 1.5 л Турбо Спорт",
-        "ar": "C‑Class C 200 L 48V 1.5 لتر تيربو سبورت"
+        "ru": "Mercedes-Benz C-Класс C 200 L 48V 1.5T Спорт",
+        "ar": "مرسيدس-بنز فئة C سي 200 إل 48V 1.5T رياضية"
       },
       "year": 2022,
       "price": 22962,
@@ -434,10 +434,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Only front windshield replaced, original body, one door repainted. Fixed price.",
+        "en": "Front windshield replaced only, original, one door repainted. Fixed price.",
         "cn": "单换前挡风，原版，一个门补漆。一口价",
-        "ru": "Только лобовое стекло заменено, оригинальный кузов, одна дверь перекрашена. Фиксированная цена.",
-        "ar": "تم استبدال الزجاج الأمامي فقط، الهيكل الأصلي، باب واحد تم طلاؤه. سعر ثابت."
+        "ru": "Заменено только лобовое стекло, оригинальный, одна дверь перекрашена. Фиксированная цена.",
+        "ar": "تم استبدال الزجاج الأمامي فقط، أصلي، باب واحد تم طلاؤه. سعر ثابت."
       },
       "images": [],
       "image": "https://placehold.co/800x600/e2e8f0/475569?text=No+Image",
@@ -475,10 +475,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, with car cover. One-owner car, large seats, high-spec version.",
+        "en": "Original paint, with car cover. First owner, large seats, high-spec version.",
         "cn": "原版原漆，带车衣。一手车，大座椅，高配版",
         "ru": "Оригинальная краска, с чехлом. Первый владелец, большие сиденья, высокая комплектация.",
-        "ar": "دهان أصلي، مع غطاء السيارة. سيارة مستخدمة لأول مرة، مقاعد كبيرة، نسخة عالية المواصفات."
+        "ar": "طلاء أصلي، مع غطاء السيارة. مالك أول، مقاعد كبيرة، نسخة عالية التجهيز."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13952368/07_1777283832288x9348_425678.jpg"
@@ -497,15 +497,15 @@
       "id": 13993277,
       "brand": {
         "en": "Changan",
-        "ru": "Чанган",
+        "ru": "Чангань",
         "ar": "تشانغان",
         "cn": "长安"
       },
       "model": {
-        "en": "Yidong 1.5 Turbo 500Bar Smart Enjoy",
+        "en": "Changan Yidong 1.5T 500Bar Zhixiang",
         "cn": "逸动 1.5T 500Bar 智享型",
-        "ru": "Идун 1.5Т 500Бар Умный Комфорт",
-        "ar": "يدونغ 1.5 تيربو 500 بار راحة ذكية"
+        "ru": "Чанган Идун 1.5T 500Bar Zhixiang",
+        "ar": "تشانغان ييدونغ 1.5T 500Bar Zhixiang"
       },
       "year": 2026,
       "price": 9487,
@@ -518,9 +518,9 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Original vehicle, full original paint, one owner.",
+        "en": "Original vehicle, full original paint, first owner.",
         "cn": "原版车，全车原漆，一手，",
-        "ru": "Оригинальный автомобиль, весь кузов в оригинальной краске, первый владелец.",
+        "ru": "Оригинальный автомобиль, полностью оригинальная краска, первый владелец.",
         "ar": "سيارة أصلية، طلاء كامل أصلي، مالك أول."
       },
       "images": [
@@ -547,13 +547,13 @@
         "en": "Denza",
         "ru": "Денза",
         "ar": "دينزا",
-        "cn": "腾势 2022款 腾势D9 DM-i 1.5T 无级 1040 尊贵型"
+        "cn": "腾势"
       },
       "model": {
-        "en": "2022 D9 DM-i 1.5T CVT 1040 Premium",
-        "cn": "",
-        "ru": "2022 D9 DM-i 1.5T CVT 1040 Премиум",
-        "ar": "2022 D9 DM-i 1.5T متغير متصل 1040 فاخرة"
+        "en": "DENZA D9 DM-i 1.5T CVT 1040 Noble",
+        "cn": "腾势D9 DM-i 1.5T 无级 1040 尊贵型",
+        "ru": "ДЭНЗА D9 DM-i 1.5T CVT 1040 Noble",
+        "ar": "دينزا D9 DM-i 1.5T ناقل متغير السرعة 1040 نوبل"
       },
       "year": 2022,
       "price": 25987,
@@ -566,10 +566,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, one owner.",
+        "en": "Original paint, first owner.",
         "cn": "原漆一手",
         "ru": "Оригинальная краска, первый владелец.",
-        "ar": "دهان أصلي، مالك أول."
+        "ar": "طلاء أصلي، مالك أول."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14397335/00_1778748497545w4829_567036.jpg",
@@ -614,10 +614,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Fixed price, no negotiation; actual mileage, first owner; original paint, zero investment.",
+        "en": "Fixed price, no bargaining; actual mileage, first-hand, original paint, zero investment.",
         "cn": "一口价还价不回，实表一手，原版原漆0投资，",
-        "ru": "Фиксированная цена, торг невозможен; реальный пробег, первый владелец; оригинальная краска, без вложений.",
-        "ar": "سعر ثابت، لا تفاوض؛ عداد حقيقي، سيارة من المالك الأول؛ طلاء أصلي، بدون استثمار."
+        "ru": "Фиксированная цена, без торга; реальный пробег, первый владелец, оригинальная краска, без вложений.",
+        "ar": "سعر ثابت، لا تفاوض؛ عداد فعلي، مالك أول، طلاء أصلي، بدون استثمار."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/11989948/00_1769582140718e8342_391778.jpg",
@@ -665,10 +665,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Replaced right front headlight; two panels repainted; actual mileage.",
+        "en": "Right front headlight replaced, two panels repainted, actual mileage.",
         "cn": "右前大灯更换，2个面补漆，实表",
-        "ru": "Заменена правая передняя фара; два элемента перекрашены; реальный пробег.",
-        "ar": "تم استبدال المصباح الأمامي الأيمن؛ تم دهان لوحين؛ عداد حقيقي."
+        "ru": "Заменена правая передняя фара, перекрашены два элемента, реальный пробег.",
+        "ar": "تم استبدال المصباح الأمامي الأيمن، تم طلاء قطعتين، عداد فعلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/10244719/00_1761972408973_813_app_C.jpeg",
@@ -696,7 +696,7 @@
       "brand": {
         "en": "Lexus",
         "ru": "Лексус",
-        "ar": "لكزس",
+        "ar": "لكسوس",
         "cn": "雷克萨斯"
       },
       "model": {
@@ -716,10 +716,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Original vehicle; full-body original paint; first owner; front seat massage; rear seat heating; driver seat memory; lumbar support (front seats); 22-inch wheels; semi-aniline leather seats; second-row manual sunshade; 64-color ambient lighting; 4-way adjustable front headrests; 360° surround view camera; heads-up display; sensor-controlled electric tailgate; lane change assist; LED fog lights; electric adjustable steering wheel with memory; forward cross traffic alert; driver monitoring camera; Mark Levinson audio system; automatic parking; chrome door scuff plates (four doors); LED illuminated scuff plates; electric folding third-row seats.",
+        "en": "Original vehicle, full original paint, one owner; front row seat massage, rear row seat heating, driver seat memory, lumbar support (driver and passenger), 22-inch wheels, semi-aniline leather seats, second row manual sunshade, 64-color ambient lighting, 4-way adjustable front headrests, 360-degree camera, heads-up display, sensor power tailgate, lane change assist, LED fog lights, electric adjustable steering wheel with memory, front cross-traffic alert, driver monitoring camera, Mark Levinson audio, automatic parking, four-door chrome anti-collision strips, LED illuminated anti-collision plates, electric folding third-row seats.",
         "cn": "原版车，全车原漆，一手，，前排座椅按摩，后排座椅加热，驾驶员座椅记忆，腰部支撑（主副驾），22寸轮毂，半苯胺真皮座椅，二排手动遮阳帘，64色氛围灯，4向可调节前排头枕，环车影像，抬头显示，感应电动尾门，变道辅助，LED雾灯，电动调节方向盘带记忆，前方交叉道路警报，驾驶员监控摄像头，马克莱文森音响，自动泊车，四门镀铬防擦条，LED发光防擦板，电动折叠三排座椅",
-        "ru": "Оригинальный автомобиль; полностью оригинальное лакокрасочное покрытие; первый владелец; массаж передних сидений; обогрев задних сидений; память сиденья водителя; поясничная поддержка (передние сиденья); 22‑дюймовые диски; сиденья из полуанилиновой кожи; ручная шторка второго ряда; 64‑цветное освещение салона; 4‑позиционная регулировка подголовников передних сидений; камера кругового обзора; проекционный дисплей; электрическая дверь багажника с датчиком; помощь при смене полосы; светодиодные противотуманные фары; электрически регулируемый руль с памятью; предупреждение о перекрёстном движении спереди; камера мониторинга водителя; аудиосистема Mark Levinson; автоматическая парковка; хромированные накладки на дверях (4 двери); светодиодные подсвечиваемые накладки; электрически складывающееся третьего ряда сидений.",
-        "ar": "سيارة أصلية؛ طلاء كامل أصلي؛ مالك أول؛ تدليك المقاعد الأمامية؛ تدفئة المقاعد الخلفية؛ ذاكرة مقعد السائق؛ دعم قطني (المقاعد الأمامية)؛ عجلات مقاس 22 بوصة؛ مقاعد جلدية شبه أنيلين؛ ستارة شمس يدوية للصف الثاني؛ إضاءة محيطية 64 لون؛ مساند رأس أمامية قابلة للتعديل في 4 اتجاهات؛ كاميرا رؤية محيطية 360 درجة؛ شاشة عرض على الزجاج الأمامي؛ باب خلفي كهربائي يعمل بمستشعر؛ مساعدة تغيير المسار؛ مصابيح ضباب LED؛ مقود كهربائي قابل للتعديل مع ذاكرة؛ تنبيه حركة المرور المتقاطعة الأمامية؛ كاميرا مراقبة السائق؛ نظام صوتي Mark Levinson؛ ركن تلقائي؛ أغطية الأبواب الكرومية (4 أبواب)؛ أغطية حماية مضيئة LED؛ مقاعد الصف الثالث القابلة للطي كهربائياً."
+        "ru": "Оригинальный автомобиль, полностью в заводской краске, один владелец; передние сиденья с массажем, задние сиденья с подогревом, память сиденья водителя, поясничная поддержка (водитель и пассажир), 22‑дюймовые диски, полуанилиновая кожаная обивка, второй ряд с ручным солнцезащитным козырьком, 64‑цветное освещение салона, 4‑позиционные регулируемые подголовники передних сидений, камера кругового обзора, проекционный дисплей, электропривод задней двери с датчиком, помощь при смене полосы, LED противотуманные фары, электрорегулируемый руль с памятью, предупреждение о перекрёстном движении спереди, камера мониторинга водителя, аудиосистема Mark Levinson, автоматическая парковка, хромированные защитные накладки на четырёх дверях, LED подсветка защитных пластин, электроскладывающееся сиденья третьего ряда.",
+        "ar": "سيارة أصلية، طلاء كامل أصلي، مالك واحد؛ مقاعد أمامية بتدليك، مقاعد خلفية مدفأة، ذاكرة مقعد السائق، دعم قطني (للسائق والراكب الأمامي)، إطارات 22 بوصة، مقاعد جلد شبه أنيلين، ستارة شمس يدوية للصف الثاني، إضاءة محيطية 64 لون، مساند رأس أمامية قابلة للتعديل 4 اتجاهات، كاميرا محيطية، شاشة عرض أمامية، باب خلفي كهربائي بحساس، مساعدة تغيير المسار، مصابيح ضباب LED، مقود كهربائي مع ذاكرة، تنبيه حركة المرور المتقاطعة الأمامية، كاميرا مراقبة السائق، نظام صوتي Mark Levinson، ركن تلقائي، شرائط حماية كروم على أربعة أبواب، ألواح حماية مضيئة LED، مقاعد الصف الثالث كهربائية قابلة للطي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14393896/00_1778743904300H11070_72157.jpg",
@@ -766,10 +766,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original vehicle, first hand, whole car original paint.",
+        "en": "Original vehicle, first owner, entire car with original paint.",
         "cn": "原版车，一手，全车原漆，",
-        "ru": "Оригинальный автомобиль, первый владелец, полный оригинальный лак.",
-        "ar": "سيارة أصلية، أول مالك، كامل الطلاء الأصلي."
+        "ru": "Оригинальный автомобиль, первый владелец, весь кузов в оригинальной краске.",
+        "ar": "سيارة أصلية، مالك أول، الطلاء الأصلي بالكامل."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14392873/00_1778742880328J12304_88448.jpg",
@@ -814,10 +814,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Only one headlight replaced, the rest original, multiple paint jobs, check records.",
+        "en": "Only one headlight replaced, otherwise original; paintwork done multiple times, check records.",
         "cn": "单换一个大灯其他原版，做漆多看记录。",
-        "ru": "Заменён только один фонарь, остальное оригинал, много покраски, смотрите записи.",
-        "ar": "تم استبدال مصباح أمامي واحد فقط، والباقي أصلي، عدة طلاءات، راجع السجلات."
+        "ru": "Заменён только один фонарь, остальное оригинал; покраска проводилась неоднократно, см. записи.",
+        "ar": "تم استبدال مصباح أمامي واحد فقط، باقي الأجزاء أصلية، تم إجراء طلاء عدة مرات، راجع السجلات."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13584616/00_1776223364808_649_app_A_423.37K-423.37K.jpeg",
@@ -866,10 +866,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, first owner, 30M Sport, minor scratches.",
+        "en": "Original paint, first owner, M Sport, minor scratches.",
         "cn": "原漆一手，30M运动，小划痕",
-        "ru": "Оригинальная краска, первый владелец, 30M Спорт, незначительные царапины.",
-        "ar": "طلاء أصلي، أول مالك، 30M سبورت، خدوش صغيرة."
+        "ru": "Оригинальная краска, первый владелец, M Спорт, незначительные царапины.",
+        "ar": "طلاء أصلي، مالك أول، M سبورت، خدوش بسيطة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12693764/00_1775644503891O4512_895304.jpg",
@@ -899,14 +899,14 @@
       "brand": {
         "en": "Xiaomi",
         "ru": "Сяоми",
-        "ar": "شاومي",
-        "cn": "小米 2024款 SU7 800km 四驱超长续航高阶智驾Max版"
+        "ar": "شياومي",
+        "cn": "小米"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "SU7 800km Four-Wheel Drive Ultra-Long Range High-Level Intelligent Driving Max Version",
+        "cn": "SU7 800km 四驱超长续航高阶智驾Max版",
+        "ru": "SU7 800 км полноприводный ультра‑длинный запас хода высокоуровневая интеллектуальная система вождения Max‑версия",
+        "ar": "سو7 800 كم دفع رباعي مدى طويل فائق ذكاء القيادة مستوى عالٍ ماكس"
       },
       "year": 2024,
       "price": 31968,
@@ -919,10 +919,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Optional 21‑inch large wheels, front bumper has touch‑up paint, minor scratches",
+        "en": "Optional 21-inch large wheels, front bumper repainted, minor scratches",
         "cn": "选配21寸大轮毂，前杠有补漆，有小划痕",
-        "ru": "Дополнительные 21‑дюймовые большие диски, передний бампер подкрашен, имеются мелкие царапины",
-        "ar": "إطارات كبيرة مقاس 21 بوصة اختيارية، طلاء أمامي مُعاد، خدوش صغيرة"
+        "ru": "Опциональные 21‑дюймовые большие колёса, передний бампер подкрашен, небольшие царапины",
+        "ar": "اختيار جنوط كبيرة 21 بوصة، طلاء أمامي مُعاد، خدوش صغيرة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375281/00_1778679035323_099_app_G_385.61K-385.61K_parse.jpeg",
@@ -953,15 +953,15 @@
       "id": 14176106,
       "brand": {
         "en": "Audi",
-        "ru": "Audi",
+        "ru": "Ауди",
         "ar": "أودي",
         "cn": "奥迪"
       },
       "model": {
-        "en": "A4L 2.0 TFSI 40 TFSI Fashion Sport",
+        "en": "A4L 2.0 TFSI 40 TFSI Sporty Style",
         "cn": "A4L 2.0TFSI 40TFSI 时尚动感型",
-        "ru": "A4L 2.0 TFSI 40 TFSI Версия «Фэшн Спорт»",
-        "ar": "A4L 2.0 TFSI 40 TFSI نسخة فاشن سبورت"
+        "ru": "А4Л 2.0 ТФСИ 40 ТФСИ Спортивный стиль",
+        "ar": "أ4 إل 2.0 تي أف إس آي 40 تي أف إس آي ستايل رياضي"
       },
       "year": 2022,
       "price": 19250,
@@ -974,10 +974,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "July 2022 registration, Audi A4L, Fashion version, 44,000 km first‑hand vehicle, original paint, excellent condition",
+        "en": "Registered in July 2022, Audi A4L, Sporty Style, 44,000 km first-hand vehicle, original paint, excellent condition",
         "cn": "22年7月上牌，奥迪A4L，时尚型，4.4万公里一手车，原版原漆，精品车况",
-        "ru": "Регистрация в июле 2022 г., Audi A4L, версия Fashion, 44 000 км первый владелец, оригинальное покрытие, отличное состояние",
-        "ar": "تسجيل يوليو 2022، أودي A4L، نسخة فاشن، 44,000 كم، سيارة من مالك أول، طلاء أصلي، حالة ممتازة"
+        "ru": "Зарегистрирован в июле 2022 года, Audi A4L, спортивный стиль, 44 000 км, первое владение, оригинальная краска, отличное состояние",
+        "ar": "مسجلة في يوليو 2022، أودي A4L، ستايل رياضي، 44,000 كم، سيارة أول مالك، طلاء أصلي، حالة ممتازة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14176106/00_1778130473282W8006_356758_parse.jpg",
@@ -1003,15 +1003,15 @@
       "id": 14215333,
       "brand": {
         "en": "Toyota",
-        "ru": "Toyota",
+        "ru": "Тойота",
         "ar": "تويوتا",
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Prestige",
+        "en": "Alphard 2.5 CVT Premium Version",
         "cn": "埃尔法 埃尔法 2.5 无级 尊贵版",
-        "ru": "Alphard 2.5 CVT Prestige",
-        "ar": "ألفار 2.5 CVT بريستيج"
+        "ru": "Альфард 2.5 вариатор Премиум‑версия",
+        "ar": "ألفارد 2.5 قير أوتوماتيكي (CVT) نسخة فاخرة"
       },
       "year": 2021,
       "price": 75350,
@@ -1024,10 +1024,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival, August 2022 registration, Toyota Alphard, Prestige version, large seats, GBL audio, seat heating, ventilation, full‑body invisible car coat, 58,000 km first‑hand vehicle, excellent condition",
+        "en": "New arrival, registered August 2022, Toyota Alphard, Premium version, large seats, GBL audio, seat heating, ventilation, full-vehicle paint protection film, 58,000 km first-hand, excellent condition",
         "cn": "新到22年8月上牌，丰田埃尔法，尊贵版，大座椅，GBL音响，座椅加热，通风，全车隐形车衣，5.8万公里一手车，精品车况",
-        "ru": "Новое поступление, регистрация в августе 2022 г., Toyota Alphard, версия Prestige, большие сиденья, аудио GBL, обогрев сидений, вентиляция, полный кузов невидимое покрытие, 58 000 км первый владелец, отличное состояние",
-        "ar": "وصول جديد، تسجيل أغسطس 2022، تويوتا ألفار، نسخة بريستيج، مقاعد كبيرة، نظام صوتي GBL، تدفئة المقاعد، تهوية، طلاء كامل شفاف، 58,000 كم، سيارة من مالك أول، حالة ممتازة"
+        "ru": "Новое поступление, зарегистрировано в августе 2022 года, Toyota Alphard, премиум‑версия, большие сиденья, аудиосистема GBL, обогрев сидений, вентиляция, полная защитная плёнка кузова, 58 000 км первое владение, отличное состояние",
+        "ar": "قادمة جديدة، مسجلة في أغسطس 2022، تويوتا ألفارد، نسخة فاخرة، مقاعد كبيرة، نظام صوتي GBL، تدفئة المقاعد، تهوية، طلاء حماية شفاف كامل السيارة، 58,000 كم أول مالك، حالة ممتازة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14215333/00_1778567803327z3556_855962.jpg",
@@ -1057,15 +1057,15 @@
       "id": 12783438,
       "brand": {
         "en": "Mercedes-Benz",
-        "ru": "Mercedes-Benz",
-        "ar": "مرسيدس-بنز",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
         "en": "C-Class C 260 48V 1.5T Star Shine Collector's Edition",
         "cn": "C级 C 260 48V 1.5T 星耀臻藏版",
-        "ru": "C-Class C 260 48V 1.5T Звёздное сияние Коллекционная версия",
-        "ar": "فئة C C 260 48V 1.5T إصدار ستار شاين"
+        "ru": "C‑класс C 260 48V 1.5T Звёздное сияние Коллекционная версия",
+        "ar": "الفئة C C 260 48V 1.5T إصدار نجمة متلألئة للجَمْع"
       },
       "year": 2021,
       "price": 19937,
@@ -1078,10 +1078,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Passed the third-party inspection (Cha Bo Shi), 90-day buyback for S-class, rear bumper inner panel repaired with body work, right rear fender inner panel repaired with body work.",
+        "en": "Third-party inspection by Zha Bo Shi passed, 90‑day buyback for S‑Class, rear inner wall sheet metal repair, right rear inner fender sheet metal repair.",
         "cn": "查博士三方已过，90天回购s级，后围板内村钣金，右后叶内村钣金。",
-        "ru": "Проверка третьей стороной (Ча Бо Ши) пройдена, 90-дневный выкуп для S-класса, ремонт внутренней панели заднего бампера, ремонт внутренней панели правого заднего крыла.",
-        "ar": "تم اجتياز الفحص من قِبل طرف ثالث (تشا بوشي)، استرداد لمدة 90 يومًا لفئة S، إصلاح اللوحة الداخلية للواجهة الخلفية، إصلاح اللوحة الداخلية للجناح الخلفي الأيمن."
+        "ru": "Проверено третьей стороной (Zha Bo Shi), прошло, 90‑дневный выкуп S‑класса, ремонт внутренней панели задней стенки, ремонт внутреннего заднего правого крыла.",
+        "ar": "تم الفحص من قبل طرف ثالث (تشا بوشي) واجتاز، استرداد خلال 90 يومًا لفئة S، إصلاح لوحة الجدار الداخلية الخلفية، إصلاح الجناح الخلفي الأيمن الداخلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12783438/00_1773811000061_643_app_Q_408.55K-408.55K.jpeg",
@@ -1109,15 +1109,15 @@
       "id": 14117938,
       "brand": {
         "en": "BMW",
-        "ru": "BMW",
+        "ru": "БМВ",
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
       "model": {
         "en": "6 Series GT GT 630i 2.0T Luxury Design Package",
         "cn": "6系GT GT 630i 2.0T 豪华设计套装",
-        "ru": "6 серии GT GT 630i 2.0T Люксовый дизайн-пакет",
-        "ar": "السلسلة 6 GT GT 630i 2.0T حزمة التصميم الفاخرة"
+        "ru": "6 серии GT GT 630i 2.0T Люкс дизайн пакет",
+        "ar": "الفئة 6 GT GT 630i 2.0T حزمة التصميم الفاخرة"
       },
       "year": 2022,
       "price": 40287,
@@ -1130,10 +1130,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "New arrival, registered in January 2024, BMW 630GT luxury version, 15,000 km, original paint, original condition.",
+        "en": "New arrival, first registered in January 2024, BMW 630GT luxury version, 15,000 km, original paint, original condition.",
         "cn": "新到24年1上牌，宝马630GT豪华版，1.5万公里，原版原漆",
-        "ru": "Новое поступление, регистрация в январе 2024 года, BMW 630GT люксовая версия, 15 000 км, оригинальная краска, оригинальное состояние.",
-        "ar": "الوافد الجديد، تسجيل في يناير 2024، BMW 630GT النسخة الفاخرة، 15000 كم، طلاء أصلي، حالة أصلية."
+        "ru": "Новое поступление, первая регистрация в январе 2024 г., BMW 630GT люкс‑версия, 15 000 км, оригинальная краска, оригинальное состояние.",
+        "ar": "الوافد الجديد، التسجيل الأول في يناير 2024، بي إم دبليو 630GT النسخة الفاخرة، 15,000 كم، طلاء أصلي، حالة أصلية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14117938/00_1778310448241e3566_731738.jpg",
@@ -1162,15 +1162,15 @@
       "id": 12231008,
       "brand": {
         "en": "Mercedes-Benz",
-        "ru": "Mercedes-Benz",
-        "ar": "مرسيدس-بنز",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
-        "en": "C-Class C 200 L 48V 1.5T Sport Version",
+        "en": "C-Class C 200 L 48V 1.5T Sport Edition",
         "cn": "C级 C 200 L 48V 1.5T 运动版",
-        "ru": "C-Class C 200 L 48V 1.5T Спортивная версия",
-        "ar": "فئة C C 200 L 48V 1.5T الإصدار الرياضي"
+        "ru": "C‑класс C 200 L 48V 1.5T Спортивная версия",
+        "ar": "الفئة C C 200 L 48V 1.5T الإصدار الرياضي"
       },
       "year": 2024,
       "price": 26812,
@@ -1183,10 +1183,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "New arrival, registered in June 2024, Mercedes-Benz C200L, 11,000 km, first owner, original paint, premium condition.",
+        "en": "New arrival, first registered in June 2024, Mercedes‑Benz C200L, 11,000 km, first‑owner vehicle, original paint, excellent condition.",
         "cn": "新到24年6月上牌，奔驰C200L，1.1万公里一手车，原版原漆，精品车况",
-        "ru": "Новое поступление, регистрация в июне 2024 года, Mercedes-Benz C200L, 11 000 км, первый владелец, оригинальная краска, отличное состояние.",
-        "ar": "الوافد الجديد، تسجيل في يونيو 2024، مرسيدس-بنز C200L، 11000 كم، سيارة مالك أول، طلاء أصلي، حالة ممتازة."
+        "ru": "Новое поступление, первая регистрация в июне 2024 г., Mercedes‑Benz C200L, 11 000 км, автомобиль первого владельца, оригинальная краска, отличное состояние.",
+        "ar": "الوافد الجديد، التسجيل الأول في يونيو 2024، مرسيدس-بنز C200L، 11,000 كم، سيارة المالك الأول، طلاء أصلي، حالة ممتازة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12231008/00_1770961005568z10452_792917.jpg",
@@ -1220,10 +1220,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Luxury",
+        "en": "Alphard 2.5 CVT Premium",
         "cn": "埃尔法 埃尔法 2.5 无级 尊贵版",
-        "ru": "Альфард 2.5 CVT Люкс",
-        "ar": "ألفارد 2.5 ناقل متغير فاخرة"
+        "ru": "Альфард 2.5 вариатор Премиум",
+        "ar": "ألفارد 2.5 متغير فاخر"
       },
       "year": 2021,
       "price": 79062,
@@ -1236,10 +1236,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival, registered in March 2022, Toyota Alphard, 2.5 Luxury version, JBL audio, seat heating, ventilation, 67,000 km, one‑owner vehicle, excellent condition.",
+        "en": "New arrival, registered in March 2022, Toyota Alphard 2.5 Premium, JBL audio, heated seats, ventilated seats, 67,000 km first‑hand, excellent condition.",
         "cn": "新到22年3月上牌，丰田埃尔法，2.5尊贵版，JBL音响，座椅加热，通风，6.7万公里一手车，精品车况",
-        "ru": "Новый автомобиль, регистрация в марте 2022 года, Toyota Alphard, 2.5 Люкс, аудиосистема JBL, подогрев сидений, вентиляция, 67 000 км, первый владелец, отличное состояние.",
-        "ar": "وصل جديد، تسجيل في مارس 2022، تويوتا ألفارد، نسخة فاخرة 2.5، نظام صوتي JBL، تدفئة المقاعد، تهوية، 67,000 كم، سيارة مالك واحد، حالة ممتازة."
+        "ru": "Новинка, регистрация в марте 2022, Toyota Alphard 2.5 Премиум, аудио JBL, подогрев сидений, вентиляция сидений, 67 000 км первый владелец, отличное состояние.",
+        "ar": "قادمة جديدة، مسجلة في مارس 2022، تويوتا ألفارد 2.5 فاخرة، نظام صوتي JBL، تدفئة المقاعد، تهوية المقاعد، 67000 كم سيارة مالك أول، حالة ممتازة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12164297/00_1770441720627F405_927606.jpg",
@@ -1267,16 +1267,16 @@
     {
       "id": 13913638,
       "brand": {
-        "en": "Tesla 2022 Model 3 Rear‑Wheel Drive",
-        "ru": "Тесла 2022 Model 3 Задний привод",
-        "ar": "تسلا 2022 موديل 3 دفع خلفي",
-        "cn": "特斯拉 2022款 Model 3 后轮驱动版"
+        "en": "Tesla",
+        "ru": "Тесла",
+        "ar": "تسلا",
+        "cn": "特斯拉"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "Model 3 Rear‑Wheel Drive",
+        "cn": "Model 3 后轮驱动版",
+        "ru": "Model 3 Задний привод",
+        "ar": "موديل 3 دفع خلفي"
       },
       "year": 2022,
       "price": 18837,
@@ -1289,10 +1289,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, one‑owner vehicle, all fees paid.",
+        "en": "Original paint, first‑hand vehicle, all fees paid.",
         "cn": "原漆一手车，费用足",
-        "ru": "Оригинальная краска, один владелец, все сборы оплачены.",
-        "ar": "دهان أصلي، سيارة بمالك واحد، جميع الرسوم مدفوعة."
+        "ru": "Оригинальная краска, первый владелец, все сборы оплачены.",
+        "ar": "دهان أصلي، سيارة مالك أول، جميع الرسوم مدفوعة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13913638/00_1777700696933k8287_580865_parse.jpg",
@@ -1318,16 +1318,16 @@
     {
       "id": 14339733,
       "brand": {
-        "en": "AITO 2025 Wenjie M9 EV Pure Electric Ultra 100kWh 5‑Seat Version",
-        "ru": "AITO 2025 Wenjie M9 EV Чисто электрический Ultra 100кВт·ч 5‑местный",
-        "ar": "AITO 2025 ونجيه M9 كهربائي نقية ألترا 100 كيلوواط ساعة 5 مقاعد",
-        "cn": "AITO 2025款 问界M9 EV 纯电Ultra版100kWh5座版"
+        "en": "AITO",
+        "ru": "AITO",
+        "ar": "AITO",
+        "cn": "AITO"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "Wenjie M9 EV Ultra 100 kWh 5‑seater",
+        "cn": "问界M9 EV 纯电Ultra版100kWh5座版",
+        "ru": "Вэньцзе M9 Электро Ультра 100 кВт·ч 5‑местный",
+        "ar": "ونجيه M9 كهربائي ألترا 100 كيلوواط ساعة 5 مقاعد"
       },
       "year": 2025,
       "price": 57557,
@@ -1340,10 +1340,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Registered in October 2025, Wenjie M9 pure electric Ultra five‑seater, guide price 549,800 CNY, configuration list up to 636,800 CNY, original paint, zero accidents, 23,900 km, personal one‑owner vehicle.",
+        "en": "First registered in October 2025, Wenjie M9 pure electric Ultra 5‑seat version, guide price 549,800, configuration options up to 636,800, original paint, zero accidents, 23,900 km, personal first‑hand vehicle.",
         "cn": "25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车",
-        "ru": "Регистрация в октябре 2025 года, Wenjie M9 чисто электрический Ultra пятиместный, рекомендованная цена 549 800 юаней, конфигурация до 636 800 юаней, оригинальная краска, без аварий, 23 900 км, личный автомобиль первого владельца.",
-        "ar": "تسجيل في أكتوبر 2025، ونجيه M9 كهربائي نقية ألترا بخمس مقاعد، السعر المرجعي 549,800 يوان، قائمة التكوين حتى 636,800 يوان، طلاء أصلي، بدون حوادث، 23,900 كم، سيارة شخصية بمالك واحد."
+        "ru": "Первая регистрация в октябре 2025, Wenjie M9 чистый электромобиль Ultra 5‑местный, рекомендованная цена 549 800, список комплектаций до 636 800, оригинальная краска, без аварий, 23 900 км, личный автомобиль первого владельца.",
+        "ar": "مسجلة لأول مرة في أكتوبر 2025، ونجيه M9 كهربائي نقي ألترا 5 مقاعد، السعر المرجعي 549,800، قائمة التكوينات حتى 636,800، دهان أصلي، بدون حوادث، 23,900 كم، سيارة شخصية من مالك أول."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14339733/00_1778578910574_057_app_D_199.70K-199.70K.jpg",
@@ -1381,9 +1381,9 @@
         "cn": "路虎"
       },
       "model": {
-        "en": "Defender 110 48V 3.0L P400 X-DYNAMIC HSE",
+        "en": "Defender 110 48V 3.0T P400 X-DYNAMIC HSE",
         "cn": "卫士 卫士110 48V 3.0T P400 X-DYNAMIC HSE",
-        "ru": "Дефендер 110 48V 3.0Т P400 X-DYNAMIC HSE",
+        "ru": "Defender 110 48V 3.0T P400 X-DYNAMIC HSE",
         "ar": "ديفندر 110 48V 3.0T P400 X-DYNAMIC HSE"
       },
       "year": 2024,
@@ -1397,10 +1397,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Includes car cover, replacement of the rear window, a partial paint on one side rail, the rest original paint.",
+        "en": "Includes car cover, replacement of one rear windshield, partial paint on one side beam, other original paint",
         "cn": "带车衣，更换一个后挡，一个边梁局部油漆，其他原漆",
-        "ru": "В комплекте чехол для автомобиля, замена заднего стекла, частичная окраска одной боковой балки, остальное — оригинальное покрытие.",
-        "ar": "مع غطاء السيارة، استبدال الزجاج الخلفي، دهان جزئي على قضيب جانبي واحد، والباقي طلاء أصلي."
+        "ru": "В комплекте чехол для автомобиля, замена одного заднего стекла, частичная окраска одной боковой балки, остальное — оригинальное лакокрасочное покрытие",
+        "ar": "يشمل غطاء السيارة، استبدال زجاج خلفي واحد، دهان جزئي على شعاع جانبي واحد، باقي الطلاء الأصلي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13952704/00_1777621870564c291_905614.jpg",
@@ -1434,7 +1434,7 @@
       "model": {
         "en": "5 Series 525Li 2.0T M Sport Package",
         "cn": "5系 525Li 2.0T M运动套装",
-        "ru": "5 серии 525Li 2.0Т M Sport пакет",
+        "ru": "5 Серии 525Li 2.0T M Sport",
         "ar": "الفئة الخامسة 525Li 2.0T حزمة M سبورت"
       },
       "year": 2021,
@@ -1448,10 +1448,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival, registered in October 2021, BMW 525Li, M Sport version, 87,000 km, excellent condition.",
+        "en": "New arrival, registered in October 2021, BMW 525Li, M Sport version, 87,000 km, excellent condition",
         "cn": "新到21年10月上牌，宝马525LI，M运动版，8.7万公里，精品车况",
-        "ru": "Новое поступление, регистрация в октябре 2021 года, BMW 525Li, версия M Sport, 87 000 км, отличное состояние.",
-        "ar": "وصول جديد، مسجلة في أكتوبر 2021، بي إم دبليو 525Li، نسخة M Sport، 87,000 كم، حالة ممتازة."
+        "ru": "Новый автомобиль, зарегистрирован в октябре 2021 года, BMW 525Li, версия M Sport, 87 000 км, отличное состояние",
+        "ar": "جديد الوصول، مسجل في أكتوبر 2021، بي إم دبليو 525Li، نسخة M سبورت، 87,000 كم، حالة ممتازة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12724527/00_1773913031906j12201_787018.jpg",
@@ -1480,15 +1480,15 @@
       "id": 14337198,
       "brand": {
         "en": "Hyundai",
-        "ru": "Хёндай",
+        "ru": "Хендэ",
         "ar": "هيونداي",
-        "cn": "现代 2021款 伊兰特-三厢 1.5 无级 LUX 尊贵版"
+        "cn": "现代"
       },
       "model": {
-        "en": "2021 Elantra Sedan 1.5 CVT LUX Premium Edition",
-        "cn": "",
-        "ru": "2021 Элантра седан 1.5 CVT LUX премиум",
-        "ar": "2021 إلنترا سيدان 1.5 متغير (CVT) LUX النسخة الفاخرة"
+        "en": "Elantra Sedan 1.5 CVT Luxury Prestige Edition",
+        "cn": "伊兰特-三厢 1.5 无级 LUX 尊贵版",
+        "ru": "Элантра Седан 1.5 CVT Люкс Престиж",
+        "ar": "إلانترا سيدان 1.5 CVT نسخة فاخرة مميزة"
       },
       "year": 2021,
       "price": 7081,
@@ -1501,10 +1501,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand vehicle, actual mileage, original paint on 4 panels.",
+        "en": "First-hand vehicle, actual mileage, original four pieces repainted",
         "cn": "一手车，实表，原版4件喷漆",
-        "ru": "Первый владелец, реальный пробег, оригинальная окраска четырёх панелей.",
-        "ar": "مركبة أول مالك، عداد حقيقي، طلاء أصلي لأربعة ألواح."
+        "ru": "Первый владелец, реальный пробег, перекрашены четыре оригинальных элемента кузова",
+        "ar": "سيارة ذات مالك أول، مسافة فعلية، إعادة دهان أربع قطع أصلية"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14337198/00_1778575667944_810_app_X_432.50K-432.50K_parse.jpeg",
@@ -1532,8 +1532,8 @@
       "id": 14336983,
       "brand": {
         "en": "Changan",
-        "ru": "Чанган",
-        "ar": "تشانغآن",
+        "ru": "Чангань",
+        "ar": "تشانغان",
         "cn": "长安"
       },
       "model": {
@@ -1553,10 +1553,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First‑hand vehicle, genuine mileage, original paint on four panels.",
+        "en": "First-hand vehicle, verified mileage, original four-piece repaint.",
         "cn": "一手车，实表，原版4件喷漆",
-        "ru": "Автомобиль первого владельца, реальный пробег, оригинальная краска на четырёх панелях.",
-        "ar": "سيارة بمالك أول، عداد المسافات الحقيقي، طلاء أصلي على أربع لوحات."
+        "ru": "Первый владелец, фактический пробег, оригинальная 4-компонентная покраска.",
+        "ar": "سيارة بمالك واحد، عداد فعلي، دهان مكون من 4 قطع بالأصل."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14336983/00_1778575347085_309_app_B_299.64K-299.64K.jpeg",
@@ -1586,14 +1586,14 @@
       "brand": {
         "en": "Volkswagen",
         "ru": "Фольксваген",
-        "ar": "فولكس فاغن",
+        "ar": "فولكس فاجن",
         "cn": "大众"
       },
       "model": {
-        "en": "Teramont 2.5T 530 V6 4WD Prestige Luxury",
+        "en": "Teramont 2.5T 530 V6 4WD Prestige Luxury Edition",
         "cn": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ru": "Туан 2.5T 530 V6 4WD Престиж Люкс",
-        "ar": "تيرامونت 2.5T 530 V6 دفع رباعي فاخرة"
+        "ru": "Терамонт 2.5T 530 V6 4WD Престиж Люкс",
+        "ar": "تيرامونت 2.5T 530 V6 دفع رباعي نسخة فاخرة مميزة"
       },
       "year": 2022,
       "price": 20625,
@@ -1606,10 +1606,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, first‑hand vehicle registered under a leasing company, but it is a non‑commercial vehicle, interior in like‑new condition.",
+        "en": "Essentially original paint, first-hand, registered under a leasing company but a non-operational vehicle, interior is in like-new condition.",
         "cn": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ru": "Оригинальная краска, автомобиль первого владельца, зарегистрированный на лизинговую компанию, но является некоммерческим транспортным средством, салон в отличном состоянии.",
-        "ar": "طلاء أصلي، سيارة بمالك أول مسجلة باسم شركة تأجير، لكنها سيارة غير تجارية، الداخلية بحالة جديدة تقريبًا."
+        "ru": "Почти оригинальная краска, первый владелец, зарегистрирован на имя лизинговой компании, но автомобиль не используется в коммерческих целях, интерьер в отличном, как новом состоянии.",
+        "ar": "دهان قريب من الأصلي، سيارة بمالك واحد، مسجلة باسم شركة تأجير لكنها غير مستخدمة تجارياً، الداخلية بحالة جديدة تماماً."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14114003/00_1777949636862f769_790461.jpg",
@@ -1639,16 +1639,16 @@
     {
       "id": 13279397,
       "brand": {
-        "en": "Mercedes‑Benz",
-        "ru": "Мерседес‑Бенц",
-        "ar": "مرسيدس بنز",
+        "en": "Mercedes-Benz",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
-        "en": "E‑Class E 300 L 2.0T Sport",
+        "en": "E-Class E 300 L 2.0T Elegant",
         "cn": "E级 E 300 L 2.0T 时尚型",
-        "ru": "E‑класс E 300 L 2.0T Спорт",
-        "ar": "الفئة E 300 L 2.0T رياضية"
+        "ru": "E-Class E 300 L 2.0T Элегант",
+        "ar": "فئة E 300 L 2.0T أنيق"
       },
       "year": 2020,
       "price": 30937,
@@ -1661,10 +1661,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First‑hand, genuine mileage, nearly original paint, upgraded to S‑Class level.",
+        "en": "First-hand, original version with actual mileage, almost all original paint, third-party S-level rating.",
         "cn": "一手原版实表  几乎原漆  三方S级",
-        "ru": "Первый владелец, реальный пробег, почти оригинальная краска, доработан до уровня S‑класса.",
-        "ar": "بملك أول، عداد المسافات الحقيقي، طلاء شبه أصلي، تم تطويرها لتكون بمستوى الفئة S."
+        "ru": "Первый владелец, оригинальная версия с фактическим пробегом, почти оригинальная краска, рейтинг S-уровня от третьей стороны.",
+        "ar": "بملكية أولى، نسخة أصلية مع عداد فعلي، دهان شبه الأصلي، تصنيف مستوى S من طرف ثالث."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13279397/00_1775294304456_406_app_P_346.82K-346.82K.jpg",
@@ -1688,7 +1688,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 12905155,
@@ -1699,10 +1699,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Passat 1.8TSI Prestige Edition",
+        "en": "Passat 1.8TSI ZunYa Edition",
         "cn": "帕萨特 1.8TSI 尊雅版",
-        "ru": "Пассат 1.8TSI Престиж",
-        "ar": "باسات 1.8TSI نسخة فاخرة"
+        "ru": "Passat 1.8TSI Зун Я",
+        "ar": "باسات 1.8 TSI زونيا"
       },
       "year": 2014,
       "price": 3918,
@@ -1715,10 +1715,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Chaboshi S-level inspection passed, first hand (teacher), used with a cover, interior's 90% new film still intact, only the cover components replaced, overall appearance good, engine and chassis are in excellent condition.",
+        "en": "Cha Bo Shi S-Class has passed inspection; first-hand from a teacher, used with seat covers; interior 90% new with protective film still attached; only some exterior panels have been replaced; overall looks good; engine and chassis are very solid.",
         "cn": "查博士S级已过检测，教师一手，带套使用，内饰9成新膜都带着，单纯覆盖件有更换，整体上眼，发变地盘巨整",
-        "ru": "S‑уровень Чабоси прошёл проверку, первый владелец (учитель), использовался с чехлом, обивка салона 90% новая плёнка в сохранности, заменены только элементы обшивки, общий вид хороший, двигатель и шасси в отличном состоянии.",
-        "ar": "اجتاز فحص Chaboshi S، المالك الأول (معلم)، استُخدم مع غطاء، فيلم الداخلية الجديد بنسبة 90٪ لا يزال سليماً، تم استبدال أجزاء الغطاء فقط، المظهر العام جيد، المحرك والشاسيه في حالة ممتازة."
+        "ru": "Ча Бо Ши S-класс прошёл проверку, первый владелец — учитель, использовался с чехлами, интерьер 90% новый, плёнка всё ещё приклеена, только некоторые накладные элементы заменены, общее впечатление хорошее, двигатель и шасси очень крепкие.",
+        "ar": "فحص فئة Cha Bo Shi S تم اجتيازه، المالك الأول معلم، تم استخدامه مع أغطية المقاعد، الداخلية جديدة بنسبة 90% مع الحفاظ على الفيلم، تم استبدال بعض القطع الخارجية فقط، المظهر العام جيد، المحرك والشاسيه متينان جداً."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12905155/00_1774173290210B8769_515887.jpg",
@@ -1739,7 +1739,7 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14215712,
@@ -1766,10 +1766,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "1.6L four‑cylinder engine, first‑hand, actual odometer reading 97,000 km, the whole vehicle is in like‑new condition both inside and out, minor rear‑end collision (no cutting) recorded, causing extended damage.",
+        "en": "1.6L four-cylinder engine; first-hand, actual mileage 97,000 km; overall dynamic condition good, interior and exterior look like new; rear minor rear-end collision (no cutting) with recorded extended damage.",
         "cn": "1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损",
-        "ru": "1,6‑литровый четырёхцилиндровый двигатель, первый владелец, реальный пробег 97 000 км, полное динамическое состояние автомобиля / интерьер и экстерьер как новые, незначительное столкновение сзади (без резки) зафиксировано, записан расширенный ущерб.",
-        "ar": "محرك 4 أسطوانات سعة 1.6 لتر، مالك أول، قراءة العداد الفعلية 97,000 كم، حالة المركبة الديناميكية الكاملة / الداخلية والخارجية كالجديدة، تصادم خلفي صغير (بدون قطع) مسجل، مما تسبب في ضرر موسع."
+        "ru": "1,6-литровый четырёхцилиндровый двигатель; первый владелец, реальный пробег 97 000 км; общая динамика хорошая, интерьер и экстерьер выглядят новыми; задний незначительный удар сзади (без разреза), зафиксирован расширенный ущерб.",
+        "ar": "محرك أربع أسطوانات 1.6 لتر؛ مالك أول، مسافة فعلية 97,000 كم؛ الحالة الديناميكية العامة جيدة، الداخلية والخارجية تبدو جديدة؛ صدام خلفي صغير (بدون قطع) مع ضرر مسجل موسع."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14215712/00_1778227469015_815_app_U_228.12K-228.12K.jpg",
@@ -1792,7 +1792,7 @@
         "实表里程",
         "瑕疵车"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14306303,
@@ -1803,10 +1803,10 @@
         "cn": "路虎"
       },
       "model": {
-        "en": "Range Rover 48V 3.0T L6 400PS Shengshi Long Wheelbase 7‑Seat",
+        "en": "Range Rover 48V 3.0T L6 400PS Excellence Long Wheelbase 7-Seater",
         "cn": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
-        "ru": "Рейндж Ровер 48В 3.0Т L6 400PS Длинная колесная база 7 мест",
-        "ar": "رينج روفر 48V 3.0T L6 400PS شينغشي طويلة القاعدة 7 مقاعد"
+        "ru": "Рейндж Ровер 48V 3.0T L6 400PS Экселенс Длинная База 7-местный",
+        "ar": "رانج روفر 48V 3.0T L6 400PS إكسيلانس قاعدة طويلة 7 ركاب"
       },
       "year": 2024,
       "price": 151250,
@@ -1819,10 +1819,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "7‑seat original version with original paint and car cover.",
+        "en": "7-seater, original paint, with car cover.",
         "cn": "7座原版原漆带车衣",
-        "ru": "Семиместный оригинальный вариант с оригинальной краской и автомобильным чехлом.",
-        "ar": "نسخة أصلية ذات 7 مقاعد مع طلاء أصلي وغطاء السيارة."
+        "ru": "7-местный, оригинальная краска, в чехле.",
+        "ar": "7 ركاب، طلاء أصلي، مع غطاء سيارة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14306303/00_1778488956932E10862_752775.jpg",
@@ -1854,10 +1854,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "Crosstour 2.4 Prestige Edition",
+        "en": "Crosstour 2.4 Premium Edition",
         "cn": "歌诗图 2.4 尊享版",
-        "ru": "Хонда Кросстур 2.4 Престиж",
-        "ar": "هوندا كروس تور 2.4 نسخة بريستيج"
+        "ru": "Хонда Crosstour 2.4 Premium Edition",
+        "ar": "كروس تور 2.4 الإصدار الفاخر"
       },
       "year": 2012,
       "price": 4537,
@@ -1870,10 +1870,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand original, guaranteed authenticity, premium quality, top-tier maintenance condition, excellent car condition, ready to drive with no additional investment.",
+        "en": "First‑hand original, genuine mileage guaranteed, excellent maintenance, top‑quality condition, no additional investment needed",
         "cn": "一手原版  保实表精品  养护工况一流  极品车况  到手0投资",
-        "ru": "Первый владелец, оригинал, гарантия подлинности, премиум качество, отличное состояние, готов к эксплуатации без дополнительных вложений.",
-        "ar": "أصلي من المالك الأول، مضمون الأصالة، جودة ممتازة، حالة صيانة ممتازة، حالة سيارة ممتازة، جاهز للقيادة بدون استثمار إضافي."
+        "ru": "Первый владелец, оригинал, подтверждённый пробег, отличное состояние, не требует дополнительных вложений",
+        "ar": "أصلي من المالك الأول، عداد حقيقي، صيانة ممتازة، حالة ممتازة، بدون استثمار إضافي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14031454/00_1777539038094_896_app_N_332.12K-332.12K_parse.jpeg",
@@ -1896,21 +1896,21 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14269559,
       "brand": {
         "en": "Roewe",
-        "ru": "Роуэй",
+        "ru": "Роуи",
         "ar": "رووي",
         "cn": "荣威"
       },
       "model": {
-        "en": "RX5 1.5T 20T Front-Wheel Drive Flagship",
+        "en": "RX5 1.5T 20T Front‑Wheel Drive Flagship Edition",
         "cn": "RX5 1.5T 20T 两驱旗舰版",
-        "ru": "РХ5 1.5Т 20Т Передний привод Флагман",
-        "ar": "رووي آر إكس 5 1.5T 20T دفع أمامي نسخة رائدة"
+        "ru": "RX5 1.5T 20T Переднеприводный Флагман",
+        "ar": "RX5 1.5T 20T دفع أمامي النسخة الرائدة"
       },
       "year": 2018,
       "price": 3300,
@@ -1923,10 +1923,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Front minor damage, engine hood replaced, interior brand new.",
+        "en": "Front minor dent, hood replaced, interior brand new",
         "cn": "前面小顶 机盖换  内饰嘎嘎新",
-        "ru": "Передняя незначительная вмятина, заменён капот, салон как новый.",
-        "ar": "ضرر طفيف في الأمام، تم تغيير غطاء المحرك، الداخلية جديدة تماماً."
+        "ru": "Передняя незначительная вмятина, капот заменён, интерьер абсолютно новый",
+        "ar": "خدش صغير في الأمام، غطاء المحرك تم استبداله، داخلية جديدة تماماً"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14269559/00_1778392289065i6019_686460.jpg",
@@ -1945,7 +1945,7 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14152638,
@@ -1956,10 +1956,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Luxury",
+        "en": "Alphard 2.5 CVT Luxury Edition",
         "cn": "埃尔法 埃尔法 2.5 无级 豪华版",
-        "ru": "Тойота Альфард 2.5 Вариатор Люкс",
-        "ar": "تويوتا ألفار 2.5 قير متغير (CVT) نسخة فاخرة"
+        "ru": "Alphard 2.5 CVT Люкс",
+        "ar": "ألفارد 2.5 ناقل أوتوماتيكي (CVT) نسخة فاخرة"
       },
       "year": 2021,
       "price": 74937,
@@ -1972,10 +1972,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First-hand original, original paint, with car cover.",
+        "en": "First‑hand, original body, original paint, with protective cover",
         "cn": "一手 原版原漆带车衣",
-        "ru": "Первый владелец, оригинальный цвет, в комплекте чехол на автомобиль.",
-        "ar": "أصلي من المالك الأول، طلاء أصلي، مع غطاء السيارة."
+        "ru": "Первый владелец, оригинальный кузов, оригинальная краска, с защитным чехлом",
+        "ar": "أصلي من المالك الأول، هيكل أصلي، طلاء أصلي، مع غطاء حماية"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14152638/00_1778054457261B6670_686017_parse.jpg",
@@ -2001,16 +2001,16 @@
     {
       "id": 14160771,
       "brand": {
-        "en": "Weltmeister (WM Motor)",
-        "ru": "Вельтмейстер (WM Motor)",
-        "ar": "فيلتمايستر (WM موتور)",
+        "en": "WM Motor",
+        "ru": "WM Motor",
+        "ar": "دبليو إم",
         "cn": "威马"
       },
       "model": {
-        "en": "W6 520km PRO All‑Round Version",
+        "en": "W6 520km PRO Ultimate Edition",
         "cn": "W6 520km PRO全能版",
         "ru": "W6 520km PRO Универсальная версия",
-        "ar": "W6 520 كم PRO الإصدار الشامل"
+        "ar": "وايما W6 520km PRO النسخة الشاملة"
       },
       "year": 2021,
       "price": 9212,
@@ -2023,10 +2023,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First‑hand car, zero claims, original paint and original condition",
+        "en": "First-hand car, 0 accidents, original paint",
         "cn": "一手车，0出险，原版原漆",
-        "ru": "Первая машина, 0 страховых случаев, оригинальная краска и оригинальное состояние",
-        "ar": "سيارة جديدة، بدون مطالبات، دهان أصلي وحالة أصلية"
+        "ru": "Первый владелец, 0 аварий, оригинальная краска",
+        "ar": "سيارة جديدة، بدون حوادث، دهان أصلي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14160771/00_1778066991615Y973_810154.jpg",
@@ -2058,10 +2058,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "Vezel 1.8 CVT 2WD Pioneer",
+        "en": "Honda Vezel 1.8 CVT 2WD Pioneer",
         "cn": "缤智 1.8 无级 两驱先锋型",
-        "ru": "Везел 1.8 Вариатор 2WD Pioneer",
-        "ar": "فيزيل 1.8 قير أوتوماتيكي دفع أمامي بايونير"
+        "ru": "Honda Vezel 1.8 CVT 2WD Pioneer",
+        "ar": "هوندا فيزل 1.8 CVT دفع أمامي رائد"
       },
       "year": 2017,
       "price": 6462,
@@ -2074,10 +2074,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Replaced parts: rear lid and right rear door",
+        "en": "Replaced parts: rear hatch, right rear door",
         "cn": "换件 后盖 右后门",
-        "ru": "Заменённые детали: задняя крышка и правая задняя дверь",
-        "ar": "قطع غيار مستبدلة: الباب الخلفي والباب الخلفي الأيمن"
+        "ru": "Заменены детали: задняя крышка, правая задняя дверь",
+        "ar": "تم استبدال الأجزاء: غطاء خلفي، باب خلفي أيمن"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14325735/00_1778560057222J11347_482089.jpg",
@@ -2098,7 +2098,7 @@
       "emission": "国五",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 12925875,
@@ -2109,10 +2109,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Tiguan 2.0TSI Luxury",
+        "en": "Volkswagen Tiguan 2.0 TSI Luxury",
         "cn": "途欢 途欢 2.0TSI 豪华版",
-        "ru": "Тигуан 2.0TSI Люкс",
-        "ar": "تيغوان 2.0TSI فاخرة"
+        "ru": "Volkswagen Tiguan 2.0 TSI Luxury",
+        "ar": "فولكس فاجن تيجوان 2.0 TSI فاخرة"
       },
       "year": 2012,
       "price": 3231,
@@ -2125,10 +2125,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Front accident, repaired at 4S dealership, good condition",
+        "en": "Front accident, repaired at 4S dealer, good condition",
         "cn": "前面事故 4S修复 品相好",
-        "ru": "Передняя авария, отремонтирована в 4S, хорошее состояние",
-        "ar": "حادث أمامي، إصلاح في الوكيل 4S، حالة جيدة"
+        "ru": "Передняя авария, отремонтирована в дилерском центре 4S, хорошее состояние",
+        "ar": "حادث أمامي، تم إصلاحه في الوكيل 4S، حالة جيدة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12925875/00_1774249434716e628_668400.jpg",
@@ -2149,14 +2149,14 @@
       "emission": "欧四",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 13793612,
       "brand": {
         "en": "Jaguar",
         "ru": "Ягуар",
-        "ar": "جاجوار",
+        "ar": "جاغوار",
         "cn": "捷豹"
       },
       "model": {
@@ -2176,7 +2176,7 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original car, white with white car wrap",
+        "en": "Original car, white with white car cover",
         "cn": "原版车，白色贴白色车衣",
         "ru": "Оригинальный автомобиль, белый с белым чехлом",
         "ar": "سيارة أصلية، بيضاء مع غطاء أبيض"
@@ -2203,7 +2203,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 13597398,
@@ -2214,10 +2214,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Tiguan L 2.0 TSI 330 TSI 2WD Luxury",
+        "en": "Tiguan L 2.0TSI 330TSI Two-Wheel Drive Luxury",
         "cn": "途观L 2.0TSI 330TSI 两驱豪华版",
-        "ru": "Тигун L 2.0 TSI 330 TSI 2WD Люкс",
-        "ar": "تيغوان إل 2.0 TSI 330 TSI دفع ثنائي الرفاهية"
+        "ru": "Тигун L 2.0TSI 330TSI Передний привод Люкс",
+        "ar": "تيجوان L 2.0TSI 330TSI دفع ثنائي"
       },
       "year": 2018,
       "price": 7699,
@@ -2230,10 +2230,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Left front fender and left front headlamp replaced, high mileage",
+        "en": "Left front fender and left front headlight replaced, high mileage",
         "cn": "左前叶 左前灯 换  公里数大",
-        "ru": "Левый передний крыло и левая передняя фара заменены, большой пробег",
-        "ar": "الجناح الأمامي الأيسر والمصباح الأمامي الأيسر تم استبدالهما، مسافة كبيرة"
+        "ru": "Левый передний крыло и левый передний фонарь заменены, большой пробег",
+        "ar": "جناح أمامي يساري ومصباح أمامي يساري تم استبداله، مسافة كبيرة"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13597398/00_1776242158273P3222_616099.jpg",
@@ -2256,7 +2256,7 @@
       "tags": [
         "一手车"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 13849964,
@@ -2267,10 +2267,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Yaris L 1.5 CVT Fengchi Edition",
+        "en": "Yaris FS 1.5 CVT Fengchi Edition",
         "cn": "威驰FS 1.5 无级 锋驰版",
-        "ru": "Ярис L 1.5 CVT Фэнчи",
-        "ar": "يارس إل 1.5 قير متغير مستمر فنغتشي"
+        "ru": "Ярис ФС 1.5 Вариатор Фэнчи",
+        "ar": "ياريس FS 1.5 CVT فنغتشي"
       },
       "year": 2017,
       "price": 5843,
@@ -2283,10 +2283,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original, first hand, over 10,000 km, one side repainted",
+        "en": "Original, first owner, over 10,000 km, one panel repainted",
         "cn": "原版 一手 1万多公里 一面漆",
-        "ru": "Оригинальный, первый владелец, более 10 000 км, одна сторона перекрашена",
-        "ar": "أصلي، المالك الأول، أكثر من 10,000 كم، طلاء جانب واحد"
+        "ru": "Оригинал, первый владелец, более 10 000 км, одна панель перекрашена",
+        "ar": "أصلي، مالك أول، أكثر من 10,000 كم، لوحة واحدة مطلية"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13849964/00_1776996557647K8675_539277.jpg",
@@ -2311,21 +2311,21 @@
         "高性价比",
         "实表里程"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14375056,
       "brand": {
         "en": "BMW",
-        "ru": "BMW",
-        "ar": "BMW",
+        "ru": "БМВ",
+        "ar": "بي إم دبليو",
         "cn": "宝马"
       },
       "model": {
-        "en": "X6 xDrive35i 3.0T Sport",
+        "en": "X6 X6 xDrive35i 3.0T 运动型",
         "cn": "X6 X6 xDrive35i 3.0T 运动型",
-        "ru": "X6 xDrive35i 3.0T Sport",
-        "ar": "X6 xDrive35i 3.0T Sport"
+        "ru": "X6 X6 xDrive35i 3.0T 运动型",
+        "ar": "X6 X6 xDrive35i 3.0T 运动型"
       },
       "year": 2014,
       "price": 10312,
@@ -2338,10 +2338,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Actual odometer, inspected by Cha Bo Shi (S-level).",
+        "en": "实表，查博士S级，",
         "cn": "实表，查博士S级，",
-        "ru": "Реальный пробег, проверен компанией Cha Bo Shi (уровень S).",
-        "ar": "عداد فعلي، تم فحصه بواسطة Cha Bo Shi (مستوى S)."
+        "ru": "实表，查博士S级，",
+        "ar": "实表，查博士S级，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375056/00_1778731966947_096_app_M_333.58K-333.58K_parse.jpeg",
@@ -2366,21 +2366,21 @@
         "全车原版",
         "实表里程"
       ],
-      "listedAt": "2026-05-16"
+      "listedAt": "2026-05-18"
     },
     {
       "id": 14223978,
       "brand": {
         "en": "Lexus",
-        "ru": "Lexus",
-        "ar": "Lexus",
+        "ru": "Лексус",
+        "ar": "لكسوس",
         "cn": "雷克萨斯"
       },
       "model": {
-        "en": "ES200 2.0 CVT Premium",
+        "en": "ES ES200 2.0 无级 臻享版",
         "cn": "ES ES200 2.0 无级 臻享版",
-        "ru": "ES200 2.0 CVT Премиум",
-        "ar": "ES200 2.0 CVT بريميوم"
+        "ru": "ES ES200 2.0 无级 臻享版",
+        "ar": "ES ES200 2.0 无级 臻享版"
       },
       "year": 2025,
       "price": 28600,
@@ -2393,10 +2393,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "First-hand vehicle, no prior transfer, entire car in original paint with protective film, 0 accidents, 0 scratches, 0 doubts! Paid in full, ready for transfer at any time!",
+        "en": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！",
         "cn": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！",
-        "ru": "Автомобиль первого владельца, без переоформления, весь автомобиль в заводской краске с защитной плёнкой, 0 ДТП, 0 царапин, 0 сомнений! Полная оплата, готов к переоформлению в любое время!",
-        "ar": "ملكية أولى، لم يتم نقل الملكية، السيارة بالكامل بالطلاء الأصلي مع فيلم حماية، 0 حوادث، 0 خدوش، 0 شكوك! دفع كامل، جاهز لنقل الملكية في أي وقت!"
+        "ru": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！",
+        "ar": "一手未过户，全车原版原漆➕车衣，0出险，0刮痕，0遐思！ 全款车 随时过户！"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14223978/00_1778240503870N9124_718957.jpg",
@@ -2423,15 +2423,15 @@
       "id": 13472525,
       "brand": {
         "en": "Honda",
-        "ru": "Honda",
-        "ar": "Honda",
+        "ru": "Хонда",
+        "ar": "هوندا",
         "cn": "本田"
       },
       "model": {
-        "en": "Honda Xingge 1.5T CVT 240TURBO Elite",
+        "en": "型格 1.5T 无级 240TURBO 领先版",
         "cn": "型格 1.5T 无级 240TURBO 领先版",
-        "ru": "Honda Xingge 1.5T CVT 240TURBO Элитный",
-        "ar": "Honda Xingge 1.5T CVT 240TURBO إليت"
+        "ru": "型格 1.5T 无级 240TURBO 领先版",
+        "ar": "型格 1.5T 无级 240TURBO 领先版"
       },
       "year": 2023,
       "price": 11412,
@@ -2444,10 +2444,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Excellent condition, passes third-party inspection, whole car repainted.",
+        "en": "精品车况，可过三方，全车喷了一副油漆",
         "cn": "精品车况，可过三方，全车喷了一副油漆",
-        "ru": "Отличное состояние, пройдёт стороннюю проверку, весь автомобиль перекрашен.",
-        "ar": "حالة ممتازة، يمكن اجتياز الفحص من طرف ثالث، تم رش الطلاء على كامل السيارة."
+        "ru": "精品车况，可过三方，全车喷了一副油漆",
+        "ar": "精品车况，可过三方，全车喷了一副油漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13472525/00_1775892110547m12057_546447_parse.jpg",
@@ -2474,15 +2474,15 @@
       "id": 14363265,
       "brand": {
         "en": "Mercedes-Benz",
-        "ru": "Мерседес-Бенц",
-        "ar": "مرسيدس-بنز",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
-        "en": "C-Class C 260 L 48V 1.5T Hao Ye Sport Edition",
+        "en": "C-Class C 260 L 48V 1.5T Haoye Night Sport Edition",
         "cn": "C级 C 260 L 48V 1.5T 皓夜运动版",
-        "ru": "C-класс C 260 L 48V 1.5T Хао Е Спортивная версия",
-        "ar": "فئة C من مرسيدس-بنز C 260 L 48V 1.5T هاو يي سبورت"
+        "ru": "C-класс C 260 L 48V 1.5T Хаое Спортивная версия",
+        "ar": "C-Class C 260 L 48V 1.5T هاوي نايت سبورت إيديشن"
       },
       "year": 2023,
       "price": 28297,
@@ -2495,10 +2495,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Chaboshi S-level, left front fender, right rear door, right rear fender panel paint.",
+        "en": "Tea Doctor S-Class, left front fender, right rear door, right rear fender panel spray painting",
         "cn": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆",
-        "ru": "Чабоши S-класс, левое переднее крыло, правая задняя дверь, правое заднее крыло – покраска кузовных панелей.",
-        "ar": "تشابوشي درجة S، جناح أمامي يسار، باب خلفي يمين، جناح خلفي يمين - طلاء الصفائح المعدنية."
+        "ru": "Чай Доктор S-класс, левое переднее крыло, правая задняя дверь, правое заднее крыло - покраска",
+        "ar": "طبيب الشاي S-كلاس، الجناح الأمامي الأيسر، الباب الخلفي الأيمن، الجناح الخلفي الأيمن طلاء"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/00_1778656539641_578_app_Q_428.93K-428.93K.jpeg",
@@ -2529,8 +2529,8 @@
       "model": {
         "en": "Mondeo 2.0T EcoBoost 245 Luxury",
         "cn": "蒙迪欧 2.0T EcoBoost 245 豪华型",
-        "ru": "Mondeo 2.0T EcoBoost 245 Люкс",
-        "ar": "موندو 2.0T EcoBoost 245 لوكس"
+        "ru": "Мондео 2.0T EcoBoost 245 Люкс",
+        "ar": "مونديو 2.0T إيكوبوست 245 فاخرة"
       },
       "year": 2022,
       "price": 14850,
@@ -2543,10 +2543,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Original paint, 0 accidents, first owner (female).",
+        "en": "Original paint, zero insurance claims, first owner (female)",
         "cn": "原版原漆0出险，女士一手",
-        "ru": "Оригинальная краска, 0 аварий, первый владелец (женщина).",
-        "ar": "دهان أصلي، 0 حوادث، مالك أول (امرأة)."
+        "ru": "Оригинальный лак, 0 страховых случаев, первый владелец — женщина",
+        "ar": "طلاء أصلي بدون مطالبات تأمينية، المالك الأول (سيدة)"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/00_1778572930338_325_app_C_433.07K-433.07K.jpg",
@@ -2579,10 +2579,10 @@
         "cn": "宝马"
       },
       "model": {
-        "en": "3 Series 325i 2.0T M Sport Night Black Package",
+        "en": "3 Series 325i 2.0T M Sport Night Package",
         "cn": "3系 325i 2.0T M运动曜夜套装",
-        "ru": "3-й серии 325i 2.0T M Sport Ночной Чёрный Пакет",
-        "ar": "الفئة الثالثة 325i 2.0T M سبورت حزمة الليل الأسود"
+        "ru": "Серия 3 325i 2.0T M Sport Ночной пакет",
+        "ar": "الفئة 3 325i 2.0T إم سبورت باكيج ليلي"
       },
       "year": 2021,
       "price": 21450,
@@ -2595,10 +2595,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "All genuine modified parts, actual mileage, Chaboshi S-level, full pass,\ntransferred twice, four paint surfaces with accident damage,\nfront bumper almost entirely damaged, original color white.",
+        "en": "Full car genuine modified parts, actual mileage, Cha Bo Shi S-Class full score passed. Two transfers, insurance 4 panels, front bumper mostly expanded damage. Original white color.",
         "cn": "全车正品改件   实表   查博士S级满分过\n过户两次   出险4面漆前杠几乎都是扩损 \n原车白色",
-        "ru": "Все оригинальные тюнинговые детали, реальный пробег, Чабоши S-класс, полный проход,\nдва переоформления, четыре лакокрасочных поверхности с повреждениями,\nпередний бампер почти полностью повреждён, оригинальный цвет белый.",
-        "ar": "جميع القطع المعدلة الأصلية، عداد حقيقي، تشابوشي درجة S ناجح،\nتم نقل الملكية مرتين، أربعة أسطح دهان بحوادث،\nمقدمة السيارة تقريباً تالف بالكامل، اللون الأصلي أبيض."
+        "ru": "Все оригинальные модификации автомобиля, реальный пробег, Чай Бо Ши S-класс 100% пройден. Два переоформления, страховка 4 панели, передний бампер в основном повреждён. Оригинальный белый цвет.",
+        "ar": "جميع القطع المعدلة الأصلية للسيارة، القراءة الفعلية، طبيب تشاي بو شى S-كلاس درجة كاملة. تم نقل الملكية مرتين، تأمين أربعة ألواح، الصدام الأمامي تالف بشكل كبير. اللون الأبيض الأصلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/00_1776329304961_155_app_Q_414.17K-414.17K.jpeg",
@@ -2635,7 +2635,7 @@
         "en": "CT5 2.0T 28T Luxury",
         "cn": "CT5 2.0T 28T 豪华型",
         "ru": "CT5 2.0T 28T Люкс",
-        "ar": "CT5 2.0T 28T لوكس"
+        "ar": "CT5 2.0T 28T فاخرة"
       },
       "year": 2021,
       "price": 17600,
@@ -2648,10 +2648,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "First owner, insurance claim uploaded, actual odometer reading. One door and one fender replaced, no records.",
+        "en": "First-hand owner, accident claim uploaded, actual mileage.\nOne door and one fender replaced, no records.",
         "cn": "一手户  出险已上传 实表 \n换了一个门跟一个叶子板  没有记录",
-        "ru": "Первый владелец, страховой случай загружен, фактический пробег. Заменены одна дверь и одно крыло, записей нет.",
-        "ar": "المالك الأول، تم رفع المطالبة بالتأمين، الأميال الفعلية معروضة. تم استبدال باب واحد وغطاء رفرف واحد، لا توجد سجلات."
+        "ru": "Первый владелец, страховой случай загружен, реальный пробег.\nЗаменены одна дверь и одно крыло, записей нет.",
+        "ar": "المالك الأول، تم رفع مطالبة الحادث، عداد فعلي.\nتم استبدال باب واحد وأجنحة واحدة، لا سجلات."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/00_1778573485119_933_app_D_194.81K-194.81K_parse.jpeg",
@@ -2686,10 +2686,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "CR-V New Energy CR-V e:HEV 2.0 CVT Rui Two-Wheel Drive Smart Enjoy Version",
+        "en": "CR-V New Energy CR-V e:HEV 2.0 CVT Rui Two-Wheel Drive Smart Edition",
         "cn": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版",
-        "ru": "CR-V New Energy CR-V e:HEV 2.0 CVT Rui Двухприводный Умный вариант",
-        "ar": "CR-V طاقة جديدة CR-V e:HEV 2.0 CVT Rui دفع ثنائي نسخة ذكية للتمتع"
+        "ru": "CR-V Новый Энергия CR-V e:HEV 2.0 Вариатор Rui Двухприводный Интеллектуальный",
+        "ar": "CR-V طاقة جديدة CR-V e:HEV 2.0 متغير Rui دفع ثنائي ذكي"
       },
       "year": 2023,
       "price": 18012,
@@ -2702,10 +2702,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Condition: original, actual mileage, inspected by Cha Bo Shi S, Smart Enjoy version, three repaints, 360-degree camera, genuine leather, bulletproof.",
+        "en": "Condition: original, actual mileage, inspected by Chabaishi S, Smart version, three paint jobs, 360-degree camera, leather, bulletproof.",
         "cn": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入",
-        "ru": "Состояние: оригинал, фактический пробег, проверен сервисом Cha Bo Shi S, версия Smart Enjoy, три покраски, камера 360°, натуральная кожа, пуленепробиваемый.",
-        "ar": "الحالة: أصلي، الأميال الفعلية، تم الفحص بواسطة Cha Bo Shi S، النسخة الذكية للتمتع، ثلاث عمليات دهان، كاميرا 360 درجة، جلد طبيعي، مقاوم للرصاص."
+        "ru": "Состояние: оригинал, реальный пробег, проверен Chabaishi S, версия Smart, три покраски, камера 360°, кожа, бронированный.",
+        "ar": "الحالة: أصلي، عداد فعلي، تم الفحص بواسطة تشاباشي إس، نسخة ذكية، ثلاث طلاءات، كاميرا 360 درجة، جلد، مضاد للرصاص."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/00_1768561873654_502_app_R_221.20K-221.20K.jpeg",
@@ -2742,7 +2742,7 @@
         "en": "Tank 300 2.0T Off-Road Version Conqueror",
         "cn": "坦克300 2.0T 越野版 征服者",
         "ru": "Танк 300 2.0T Внедорожная версия Завоеватель",
-        "ar": "تانك 300 2.0T نسخة الطرق الوعرة فاتح"
+        "ar": "تانك 300 2.0T نسخة الطرق الوعرة قاهر"
       },
       "year": 2021,
       "price": 17600,
@@ -2755,10 +2755,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Full vehicle original paint, can pass third-party inspection.",
+        "en": "Full body original paint, can pass third-party inspection.",
         "cn": "全车原漆，可过三方，",
-        "ru": "Весь автомобиль в оригинальной краске, можно пройти стороннюю проверку.",
-        "ar": "طلاء كامل للسيارة أصلي، يمكن اجتياز الفحص من جهة ثالثة."
+        "ru": "Весь кузов оригинальная краска, можно пройти третью сторону осмотра.",
+        "ar": "طلاء كامل للهيكل أصلي، يمكن اجتياز الفحص الثالث."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/00_1777595190850t4555_455187.jpg",
@@ -2788,15 +2788,15 @@
       "id": 13391179,
       "brand": {
         "en": "GAC Aion",
-        "ru": "ГАК Аион",
-        "ar": "غاك أيون",
+        "ru": "GAC Aion",
+        "ar": "جاك أيون",
         "cn": "广汽埃安"
       },
       "model": {
-        "en": "Aion Y Younger Starlight Edition",
+        "en": "Aion Y Younger Starry Edition",
         "cn": "Aion Y Younger 星耀版",
-        "ru": "Aion Y Younger Starlight Edition",
-        "ar": "Aion Y Younger Starlight Edition"
+        "ru": "Aion Y Younger Starry Edition",
+        "ar": "إيون واي يونغر إصدار ستار"
       },
       "year": 2023,
       "price": 9350,
@@ -2809,10 +2809,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint throughout, first owner, passes third-party inspection, diesel heater installed at the 4S dealership",
+        "en": "Original paint throughout, single owner, passes third‑party inspection, 4S dealership installed diesel heater",
         "cn": "全车原漆，一手，可过三方，4S店加装柴暖",
-        "ru": "Оригинальная краска по всему кузову, первый владелец, пройдёт проверку третьей стороной, дизельный отопитель установлен в дилерском центре 4S",
-        "ar": "الطلاء الأصلي على كامل السيارة، المالك الأول، يمكن اجتياز الفحص من قبل طرف ثالث، تدفئة بالديزل مثبتة في الوكيل 4S"
+        "ru": "Оригинальная краска по всему кузову, первый владелец, проходит проверку третьей стороной, установлен дизельный обогреватель в дилерском центре 4S",
+        "ar": "دهان أصلي على كامل السيارة، مالك أول، يمر فحص طرف ثالث، تركيب سخان ديزل من قبل الوكيل المعتمد 4S"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/00_1776558979179C9235_373103_parse.jpg",
@@ -2847,15 +2847,15 @@
       "id": 14375115,
       "brand": {
         "en": "Audi",
-        "ru": "Audi",
+        "ru": "Ауди",
         "ar": "أودي",
         "cn": "奥迪"
       },
       "model": {
-        "en": "A8L A8L 48V 3.0 TFSI 50 TFSI Quattro Comfort",
+        "en": "A8L 48V 3.0 TFSI 50 TFSI Quattro Comfort",
         "cn": "A8L A8L 48V 3.0TFSI 50TFSI Quattro 舒适型",
-        "ru": "A8L A8L 48V 3.0 TFSI 50 TFSI Quattro Comfort",
-        "ar": "A8L A8L 48V 3.0 TFSI 50 TFSI Quattro Comfort"
+        "ru": "A8L 48V 3.0 TFSI 50 TFSI Quattro Комфорт",
+        "ar": "A8L 48V 3.0 TFSI 50 TFSI Quattro راحة"
       },
       "year": 2021,
       "price": 43450,
@@ -2868,10 +2868,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original version, original paint, included car cover, S-level inspection by Cha Bo Shi, optional seat ventilation, Bordeaux red interior, full odometer history, new",
+        "en": "Original paint, with paint protection film, Chabaoshi S‑class inspection, optional seat ventilation, Bordeaux red interior, genuine odometer with full history, new",
         "cn": "原版原漆，带车衣，查博士S级别，选配座椅通风，波尔多红内饰，实表全程记录，新-",
-        "ru": "Оригинальная версия, оригинальная краска, в комплекте автомобильный чехол, проверка уровня S от Ча Бо Ши, опциональная вентиляция сидений, интерьер красного бордо, полная запись одометра, новый",
-        "ar": "النسخة الأصلية، طلاء أصلي، مع غطاء السيارة، فحص مستوى S من تشا بو شي، تهوية مقاعد اختيارية، داخلية باللون الأحمر البوردو، سجل كامل للعداد، جديد"
+        "ru": "Оригинальная краска, с защитной плёнкой, сертификат Chabaoshi класса S, опциональная вентиляция сидений, интерьер бордо красный, реальный пробег с полной историей, новый",
+        "ar": "دهان أصلي، مع فيلم حماية، تصنيف Chabaoshi S، تهوية مقاعد اختيارية، داخلية بلون بوردو أحمر، عداد فعلي مع سجل كامل، جديد"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/00_1778678353067_133_app_F_656.47K-792.30K_parse.jpeg",
@@ -2904,16 +2904,16 @@
     {
       "id": 13346453,
       "brand": {
-        "en": "Xiangjie",
-        "ru": "Сянцзе",
-        "ar": "شيانغجي",
+        "en": "Stelato",
+        "ru": "Стелато",
+        "ar": "ستيلاتو",
         "cn": "享界"
       },
       "model": {
-        "en": "S9 Ultra AWD Flagship Edition",
+        "en": "S9 Ultra AWD Flagship",
         "cn": "S9 Ultra 四驱旗舰版",
-        "ru": "S9 Ultra AWD Flagship Edition",
-        "ar": "S9 Ultra AWD Flagship Edition"
+        "ru": "S9 Ultra полноприводный флагман",
+        "ar": "S9 Ultra دفع رباعي رائد"
       },
       "year": 2024,
       "price": 33687,
@@ -2928,8 +2928,8 @@
       "description": {
         "en": "2024 model Xiangjie S9 Ultra flagship version, two panels repainted",
         "cn": "2024款享界S9 ultra旗舰版，两个面喷漆",
-        "ru": "Модель 2024 года Сянцзе S9 Ultra флагманская версия, перекрашены два элемента кузова",
-        "ar": "موديل 2024 شيانغجي S9 Ultra الإصدار الرائد، دهان على جانبين"
+        "ru": "2024 модель Xiangjie S9 Ultra флагманская версия, перекрашены два элемента кузова",
+        "ar": "طراز 2024 من Xiangjie S9 Ultra الرائد الدفع الرباعي، طلاء على جانبين"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/00_1775548253619Z10820_143611.jpg",
@@ -2956,15 +2956,15 @@
       "id": 14314925,
       "brand": {
         "en": "Mercedes-Benz",
-        "ru": "Мерседес-Бенц",
-        "ar": "مرسيدس بنز",
+        "ru": "Мерседес",
+        "ar": "مرسيدس",
         "cn": "奔驰"
       },
       "model": {
         "en": "C-Class C 260 L 48V 1.5T",
         "cn": "C级 C 260 L 48V 1.5T",
         "ru": "C-класс C 260 L 48V 1.5T",
-        "ar": "الفئة سي C 260 L 48V 1.5T"
+        "ar": "الفئة C 260 L 48V 1.5T"
       },
       "year": 2023,
       "price": 27362,
@@ -2977,10 +2977,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "All original paint, never repainted",
+        "en": "Original paint throughout the vehicle.",
         "cn": "全车原版原漆",
-        "ru": "Весь автомобиль в оригинальной краске",
-        "ar": "طلاء أصلي كامل"
+        "ru": "Оригинальная краска на всём автомобиле.",
+        "ar": "طلاء أصلي على كامل السيارة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/00_1778506445118_787_app_N_571.55K-1.09M.jpeg",
@@ -3021,10 +3021,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "Inspire 1.5T CVT 260TURBO Premium",
+        "en": "Inspire 1.5T CVT 260 TURBO Premium",
         "cn": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
-        "ru": "Инспайр 1.5T CVT 260TURBO Премиум",
-        "ar": "إنسباير 1.5T CVT 260TURBO فاخر"
+        "ru": "Inspire 1.5T CVT 260 TURBO Премиум",
+        "ar": "إنسباير 1.5T متغير باستمرار 260 تيربو بريميوم"
       },
       "year": 2019,
       "price": 10862,
@@ -3037,10 +3037,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Used vehicle, only left front fender replaced, inspection by Cha Bo Shi S",
+        "en": "Used vehicle, only left front fender replaced, inspected by Chazbos S.",
         "cn": "两手车  单换左前叶   查博士S",
-        "ru": "Вторичный автомобиль, заменено только левое переднее крыло, проверка Ча Бо Ши S",
-        "ar": "مركبة مستعملة، تم استبدال الجناح الأمامي الأيسر فقط، فحص تشا بو شى إس"
+        "ru": "Подержанный автомобиль, заменено только левое переднее крыло, проверен компанией Чазбоу С.",
+        "ar": "سيارة مستعملة، تم استبدال الرفراف الأمامي الأيسر فقط، تم فحصها من قبل تشازبو إس."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/00_1778503717509C5821_184498.jpg",
@@ -3064,14 +3064,14 @@
       "brand": {
         "en": "Trumpchi",
         "ru": "Трампчи",
-        "ar": "ترامبشي",
+        "ar": "ترامبتشي",
         "cn": "传祺"
       },
       "model": {
-        "en": "Trumpchi M8 2.0T 390T Leading Series Prestige Edition",
+        "en": "M8 2.0T 390T Leading Series Prestige",
         "cn": "M8 2.0T 390T 领秀系列 尊享版",
-        "ru": "Трампчи M8 2.0T 390T Лидерская серия Престиж",
-        "ar": "ترامبشي M8 2.0T 390T سلسلة ليدر الفاخرة"
+        "ru": "M8 2.0T 390T Лидирующая серия Престиж",
+        "ar": "M8 2.0T 390T سلسلة الرائدة نسخة VIP"
       },
       "year": 2021,
       "price": 14547,
@@ -3084,10 +3084,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, first owner, zero investment, cost 10 months, inspection by Cha Bo Shi S",
+        "en": "Original paint, one owner, zero accidents, cost in October, inspection by Chazbos S.",
         "cn": "原版原漆一手零投资，费用10月，查博士S",
-        "ru": "Оригинальная краска, первый владелец, без вложений, стоимость 10 месяцев, проверка Ча Бо Ши S",
-        "ar": "طلاء أصلي، مالك أول، بدون استثمار، التكلفة 10 أشهر، فحص تشا بو شى إس"
+        "ru": "Оригинальная краска, первый владелец, без аварий, стоимость в октябре, проверен компанией Чазбоу С.",
+        "ar": "طلاء أصلي، مالك أول، بدون حوادث، التكلفة في أكتوبر، تم الفحص من قبل تشازبو إس."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/00_1778681672535_137_app_M_341.28K-341.28K.jpeg",
@@ -3126,7 +3126,7 @@
         "en": "Corolla 1.5 CVT Elite",
         "cn": "卡罗拉 1.5 无级 精英版",
         "ru": "Королла 1.5 CVT Элит",
-        "ar": "كورولا 1.5 CVT إليت"
+        "ar": "كورولا 1.5 متغير إليت"
       },
       "year": 2021,
       "price": 8387,
@@ -3139,10 +3139,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Condition good; hood repainted; otherwise original; one-owner car with actual mileage.",
+        "en": "Good condition. Hood repaired/adjusted. Otherwise original. One-owner car with actual mileage.",
         "cn": "车况良好  头盖动过  其他原版 一手车实表公里数",
-        "ru": "Состояние хорошее; капот перекрашен; остальное оригинальное; автомобиль первого владельца с реальным пробегом.",
-        "ar": "حالة جيدة؛ تم إعادة طلاء غطاء المحرك؛ والأجزاء الأخرى أصلية؛ سيارة مالك أول بقراءة عداد حقيقية."
+        "ru": "Хорошее состояние. Капот был отремонтирован/подправлен. Остальное оригинальное. Одновладельческий автомобиль с реальным пробегом.",
+        "ar": "حالة جيدة. تم إصلاح غطاء المحرك. الباقي أصلي. سيارة بمالك واحد مع الكيلومتر الفعلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/00_1777459552752_757_app_S_545.13K-923.49K.jpeg",
@@ -3177,15 +3177,15 @@
       "id": 13865618,
       "brand": {
         "en": "Changan",
-        "ru": "Чанган",
+        "ru": "Чангань",
         "ar": "تشانغان",
         "cn": "长安"
       },
       "model": {
-        "en": "Yidong PLUS 1.4TGDI Blue Whale NE Premium",
+        "en": "Yidong PLUS 1.4 TGDI Blue Whale NE Prestige",
         "cn": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
-        "ru": "Идун Плюс 1.4TGDI Блю Вейл NE Премиум",
-        "ar": "ييدونغ بلس 1.4TGDI بلو ويل NE فاخرة"
+        "ru": "Идун Плюс 1.4 TGDI Блю Вейл NE Престиж",
+        "ar": "ييدونغ بلس 1.4 TGDI بلو ويل NE فاخرة"
       },
       "year": 2022,
       "price": 5060,
@@ -3198,10 +3198,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "First-owner car, actual mileage, original condition, two panels repainted, slight dent repair on right rear fender, insurance claim 3000 for carpet cleaning.",
+        "en": "One-owner car, actual mileage, original condition, repainted two panels, slight dent repair on the right spare tire area, insurance claim for interior cleaning: 3000.",
         "cn": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000",
-        "ru": "Автомобиль первого владельца, реальный пробег, оригинальное состояние, перекрашены два элемента, небольшой ремонт на заднем правом крыле, страховая выплата 3000 за химчистку.",
-        "ar": "ملكية أولى، عداد فعلي، حالة أصلية، تم دهان طبقتين، إصلاح بسيط في الجناح الخلفي الأيمن، تعويض تأميني 3000 عن تنظيف السجاد."
+        "ru": "Одновладельческий автомобиль, реальный пробег, оригинальное состояние, перекрашены два элемента, незначительный ремонт жестяных деталей в области правого запасного колеса, страховой иск за уборку салона: 3000.",
+        "ar": "سيارة بمالك واحد، الكيلومتر الفعلي، حالة أصلية، تم دهان قطعتين، إصلاح طفيف في صفيحة الجانب الأيمن للإطار الاحتياطي، مطالبة تأمينية لتنظيف المقصورة: 3000."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/00_1777098450478_523_app_B_526.13K-630.63K.jpeg",
@@ -3244,7 +3244,7 @@
         "en": "Granvia Hybrid 2.5 CVT Luxury",
         "cn": "格瑞维亚 HYBRID 2.5 无级 豪华版",
         "ru": "Гранвия Гибрид 2.5 CVT Люкс",
-        "ar": "جرانفيا هايبرد 2.5 CVT فاخرة"
+        "ar": "جرانفيا هجين 2.5 متغير فاخرة"
       },
       "year": 2024,
       "price": 32037,
@@ -3257,10 +3257,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint and body.",
+        "en": "Original paint, original condition.",
         "cn": "原版原漆",
-        "ru": "Оригинальная краска и кузов.",
-        "ar": "دهان وأجزاء الهيكل الأصلية."
+        "ru": "Оригинальная краска, оригинальное состояние.",
+        "ar": "دهان أصلي، حالة أصلية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/00_1778511177030_991_app_R_1.19M-237.51K_parse.jpeg",
@@ -3295,10 +3295,10 @@
         "cn": "别克"
       },
       "model": {
-        "en": "GL8 ES LuZun 48V 2.0T 653T Prestige",
+        "en": "GL8 ES Luzun 48V 2.0T 653T Premium",
         "cn": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
-        "ru": "GL8 ES LuZun 48V 2.0T 653T Престиж",
-        "ar": "GL8 ES لوزون 48V 2.0T 653T بريستيج"
+        "ru": "GL8 ES Luzun 48V 2.0T 653T Премиум",
+        "ar": "GL8 ES Luzun 48V 2.0T 653T فاخرة"
       },
       "year": 2023,
       "price": 28600,
@@ -3311,10 +3311,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "original paint",
+        "en": "Original paint, original body",
         "cn": "原版原漆",
-        "ru": "оригинальная краска",
-        "ar": "دهان أصلي"
+        "ru": "Оригинальный лак, оригинальный кузов",
+        "ar": "دهان أصلي، هيكل أصلي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/00_1773189705080_578_app_C_510.32K-510.32K.jpeg",
@@ -3347,7 +3347,7 @@
       "model": {
         "en": "X3 xDrive25L 2.0T Luxury Package",
         "cn": "X3 xDrive25L 2.0T 豪华套装",
-        "ru": "X3 xDrive25L 2.0T Люкс Пакет",
+        "ru": "X3 xDrive25L 2.0T Люксовый пакет",
         "ar": "X3 xDrive25L 2.0T حزمة فاخرة"
       },
       "year": 2025,
@@ -3361,10 +3361,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "original paint on metal, only the sunroof replaced",
+        "en": "Original paint on iron parts, sunroof replaced only",
         "cn": "铁件原漆，单换天窗",
-        "ru": "оригинальная краска на металле, заменён только люк",
-        "ar": "دهان أصلي على المعدن، تم استبدال السقف الزجاجي فقط"
+        "ru": "Оригинальная краска на железных деталях, заменён только люк",
+        "ar": "دهان أصلي على أجزاء الحديد، تم استبدال السقف الزجاجي فقط"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/00_1777873535188_999_app_B_1.96M-386.61K.jpeg",
@@ -3391,14 +3391,14 @@
       "brand": {
         "en": "Trumpchi",
         "ru": "Трампчи",
-        "ar": "ترومبي",
+        "ar": "ترامبتشي",
         "cn": "传祺"
       },
       "model": {
         "en": "GS4 1.5T 270T Elite Tech Edition",
         "cn": "GS4 1.5T 270T 精英科技版",
-        "ru": "GS4 1.5T 270T Элитная технологичная версия",
-        "ar": "GS4 1.5T 270T نسخة تقنية النخبة"
+        "ru": "GS4 1.5T 270T Элитный технологичный вариант",
+        "ar": "GS4 1.5T 270T نسخة تقنية مميزة"
       },
       "year": 2020,
       "price": 5912,
@@ -3411,10 +3411,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "right side four panels repaired",
+        "en": "Right side four panels bodywork",
         "cn": "右边四个面钣金",
-        "ru": "четыре панели справа отремонтированы",
-        "ar": "الأربع لوحات على الجانب الأيمن تم إصلاحها"
+        "ru": "Правая сторона четыре панели кузова",
+        "ar": "أربعة ألواح على الجانب الأيمن تم إصلاحها"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/00_1778060540998_322_app_V_2.04M-384.08K.jpeg",
@@ -3441,15 +3441,15 @@
       "id": 14161270,
       "brand": {
         "en": "BYD",
-        "ru": "БИД",
+        "ru": "BYD",
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
       "model": {
         "en": "Qin PLUS DM-i 1.5 CVT Flagship 55KM",
         "cn": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
-        "ru": "Цин Плюс DM-i 1.5 CVT Флагман 55 км",
-        "ar": "تشين بلس DM-i 1.5 CVT رائد 55 كم"
+        "ru": "Цин PLUS DM-i 1.5 Бесступенчатый Флагман 55 км",
+        "ar": "تشين بلس DM-i 1.5 بدون تعشيق رائد 55 كم"
       },
       "year": 2021,
       "price": 4812,
@@ -3462,10 +3462,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Right front door panel repair, right rear door repainted; currently needs hood paint; right side two doors.",
+        "en": "Right front door sheet metal, right rear door paint; currently requires investment in hood paint, right side two doors",
         "cn": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门",
-        "ru": "Правая передняя дверь – кузовной ремонт, правая задняя дверь – покраска; в настоящее время требуется покраска капота; двери справа.",
-        "ar": "الباب الأمامي الأيمن يحتاج إصلاح صفيحة، الباب الخلفي الأيمن مطلوب دهان؛ حالياً يحتاج غطاء المحرك دهان؛ الأبواب اليمنى."
+        "ru": "Правая передняя дверь — листовая, правая задняя дверь — покраска; в настоящее время требуются вложения в покраску капота, правая сторона — два дверных",
+        "ar": "الباب الأمامي الأيمن من الصفيح، الباب الخلفي الأيمن مطلية، حالياً يحتاج استثمار في طلاء الغطاء، بابان على الجانب الأيمن"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/00_1778068534586_576_app_F_2.00M-356.77K_parse.jpeg",
@@ -3491,16 +3491,16 @@
     {
       "id": 13668204,
       "brand": {
-        "en": "ARCFOX 2025款 T1 425 PRO",
-        "ru": "ARCFOX 2025款 T1 425 PRO",
-        "ar": "ARCFOX 2025款 T1 425 PRO",
-        "cn": "ARCFOX 2025款 T1 425 PRO"
+        "en": "ARCFOX",
+        "ru": "ARCFOX",
+        "ar": "ARCFOX",
+        "cn": "ARCFOX"
       },
       "model": {
-        "en": "",
-        "cn": "",
-        "ru": "",
-        "ar": ""
+        "en": "T1 425 PRO",
+        "cn": "T1 425 PRO",
+        "ru": "T1 425 PRO",
+        "ar": "T1 425 PRO"
       },
       "year": 2025,
       "price": 8525,
@@ -3513,10 +3513,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Original paint, all original.",
+        "en": "Original paint, original coating",
         "cn": "原版原漆",
-        "ru": "Оригинальная краска, полностью в заводском состоянии.",
-        "ar": "دهان أصلي، بحالته الأصلية."
+        "ru": "Оригинальная краска, оригинальное покрытие",
+        "ar": "طلاء أصلي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13668204/00_1776426221028_065_app_S_1.94M-421.79K_parse.jpeg",
@@ -3547,15 +3547,15 @@
       "id": 13697735,
       "brand": {
         "en": "Roewe",
-        "ru": "Роуви",
-        "ar": "رويو",
+        "ru": "Роуи",
+        "ar": "رووي",
         "cn": "荣威"
       },
       "model": {
-        "en": "Kolei 311km Energy Bubbly Edition",
+        "en": "Kelawei 311km Yuanqi Bobo Edition",
         "cn": "科莱威 311km元气啵啵版",
-        "ru": "Колей 311 км Энергия",
-        "ar": "كولي 311 كم نسخة الطاقة"
+        "ru": "Кэлавей 311 км Юаньци Бобо Edition",
+        "ar": "كليفي 311 كم نسخة يوان تشي بوبو"
       },
       "year": 2022,
       "price": 3300,
@@ -3568,10 +3568,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, all original.",
+        "en": "Original paint, original coating",
         "cn": "原版原漆",
-        "ru": "Оригинальная краска, полностью в заводском состоянии.",
-        "ar": "دهان أصلي، بحالته الأصلية."
+        "ru": "Оригинальная краска, оригинальное покрытие",
+        "ar": "طلاء أصلي"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/00_1776522589863_577_app_U_1.83M-376.50K_parse.jpeg",
@@ -3593,16 +3593,16 @@
     {
       "id": 14321618,
       "brand": {
-        "en": "Fengshen",
-        "ru": "Фэншэнь",
-        "ar": "فينغشن",
+        "en": "Aeolus",
+        "ru": "Эол",
+        "ar": "إيولوس",
         "cn": "风神"
       },
       "model": {
-        "en": "Yixuan MAX 1.5T Super Stylish Dad Edition",
+        "en": "Yixuan MAX 1.5T Super Stylish Dad Version",
         "cn": "奕炫MAX 1.5T 超炫潮爸版",
-        "ru": "Исюань МАКС 1.5Т Супер Стильная Версия для Папы",
-        "ar": "ييكسوان ماكس 1.5تي نسخة الأب الأنيقة الفائقة"
+        "ru": "И Сюань MAX 1.5T Стильный Папа",
+        "ar": "إي شيوآن ماكس 1.5T نسخة الأب الأنيق"
       },
       "year": 2021,
       "price": 0,
@@ -3615,10 +3615,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Left rear fender panel repaired, rest original paint.",
+        "en": "Left rear quarter panel repaired, the rest original paint.",
         "cn": "左后叶钣金，其余原漆",
-        "ru": "Левая задняя панель (крыло) отремонтирована, остальное в оригинальной краске.",
-        "ar": "اللوح الخلفي الأيسر تم إصلاحه، وباقي السيارة بطلاء أصلي."
+        "ru": "Левая задняя четверть отремонтирована, остальное оригинальное лакокрасочное покрытие.",
+        "ar": "الجناح الخلفي الأيسر تم إصلاحه، باقي الطلاء أصلي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/00_1778554764214_581_app_D_1.82M-406.26K.jpeg",
@@ -3643,15 +3643,15 @@
       "id": 13878697,
       "brand": {
         "en": "Buick",
-        "ru": "Буик",
-        "ar": "بوك",
+        "ru": "Бьюик",
+        "ar": "بويك",
         "cn": "别克"
       },
       "model": {
-        "en": "GL8 Land Business Class 48V 2.0T 652T Luxury",
+        "en": "GL8 Business 48V 2.0T 652T Luxury",
         "cn": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
-        "ru": "Джи Эл 8 Наземный Бизнес Класс 48В 2.0Т 652Т Люкс",
-        "ar": "GL8 لاند بيزنس كلاس 48 فولت 2.0 تيربو 652 تيربو فاخرة"
+        "ru": "GL8 Бизнес 48V 2.0T 652T Люкс",
+        "ar": "GL8 درجة رجال الأعمال البرية 48V 2.0T 652T فاخرة"
       },
       "year": 2022,
       "price": 13722,
@@ -3664,10 +3664,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Two panels painted. Left front fender replaced separately. Passed inspection.",
+        "en": "Two panels repainted. Left front fender replaced separately. Passed inspection.",
         "cn": "两个面喷漆。左前叶子板单独更换。已经过检测。",
-        "ru": "Два элемента окрашены. Левый передний крыло заменен отдельно. Прошел проверку.",
-        "ar": "تم رش طبقتين. تم استبدال الرفرف الأمامي الأيسر بشكل منفصل. اجتاز الفحص."
+        "ru": "Два элемента перекрашены. Левое переднее крыло заменено отдельно. Прошёл проверку.",
+        "ar": "تم رشّ طلاء على وجهين. تم استبدال الرفرف الأمامي الأيسر بشكل منفصل. اجتاز الفحص."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/00_1777854974134k2730_90889_parse.jpg",
@@ -3699,10 +3699,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Asia Dragon 2.5 Luxury Edition",
+        "en": "Avalon 2.5 Luxury",
         "cn": "亚洲龙 2.5 豪华版",
-        "ru": "Азиатский Дракон 2.5 Люкс Версия",
-        "ar": "أسيا دراغون 2.5 نسخة فاخرة"
+        "ru": "Авалон 2.5 Люкс",
+        "ar": "تويوتا أفالون 2.5 نسخة فاخرة"
       },
       "year": 2021,
       "price": 13612,
@@ -3715,10 +3715,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Left rear fender repaired, left rear door repaired, left front door painted.",
+        "en": "Left rear quarter panel repaired, left rear door repaired, left front door repainted.",
         "cn": "左后叶钣金，左后门钣金，左前门喷漆",
-        "ru": "Левое заднее крыло отремонтировано, левая задняя дверь отремонтирована, левая передняя дверь окрашена.",
-        "ar": "تم إصلاح اللوح الخلفي الأيسر، تم إصلاح الباب الخلفي الأيسر، تم رش الباب الأمامي الأيسر."
+        "ru": "Левая задняя четверть отремонтирована, левая задняя дверь отремонтирована, левая передняя дверь окрашена.",
+        "ar": "تم إصلاح الجناح الخلفي الأيسر، تم إصلاح الباب الخلفي الأيسر، تم رش الباب الأمامي الأيسر."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/00_1778469367217_014_app_X_2.22M-398.55K.jpeg",
@@ -3744,15 +3744,15 @@
       "id": 13874681,
       "brand": {
         "en": "Volkswagen",
-        "ru": "Volkswagen",
-        "ar": "فولكس فاغن",
+        "ru": "Фольксваген",
+        "ar": "فولكس فاجن",
         "cn": "大众"
       },
       "model": {
         "en": "Passat 1.4TSI 280TSI Business Edition",
         "cn": "帕萨特 1.4TSI 280TSI 商务版",
         "ru": "Passat 1.4TSI 280TSI Business Edition",
-        "ar": "باسات 1.4 TSI 280TSI نسخة أعمال"
+        "ar": "باسات 1.4 TSI 280 TSI نسخة أعمال"
       },
       "year": 2022,
       "price": 7975,
@@ -3765,10 +3765,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Non-operational, basically original paint, rear bumper area collided with a concrete bollard, minor issue, but there is a third-party report.",
+        "en": "Non‑operational, basically original paint, the rear bumper hit a stone pier, a minor issue, but there is a third‑party report.",
         "cn": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告",
-        "ru": "Не эксплуатируется, в основном оригинальное покрытие, задний бампер врезался в бетонный столбик, мелкая проблема, но имеется отчёт третьей стороны.",
-        "ar": "غير مُشَغَّل، بشكل أساسي طلاء أصلي، منطقة المصد الخلفي اصطدمت بعمود خرساني، مشكلة صغيرة، لكن يوجد تقرير من طرف ثالث."
+        "ru": "Не для коммерческой эксплуатации, в основном оригинальная краска, задний бампер врезался в каменный столб, мелкая проблема, но имеется заключение третьей стороны.",
+        "ar": "غير مُخصصة للتشغيل، أساساً طلاء أصلي، ارتطام المصد الخلفي بجسر حجري، مشكلة صغيرة، ولكن هناك تقرير طرف ثالث."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/00_1777606588144u2604_89775_parse.jpg",
@@ -3795,15 +3795,15 @@
       "id": 14130321,
       "brand": {
         "en": "Honda",
-        "ru": "Honda",
+        "ru": "Хонда",
         "ar": "هوندا",
         "cn": "本田"
       },
       "model": {
-        "en": "Accord 11th Generation 1.5T CVT 260TURBO Zhi Xiang Edition",
+        "en": "Eleventh‑generation Accord 1.5T CVT 260TURBO Smart Edition",
         "cn": "第十一代雅阁 1.5T 无级 260TURBO 智享版",
-        "ru": "Accord 11‑го поколения 1.5T CVT 260TURBO Zhi Xiang Edition",
-        "ar": "أكورد الجيل الحادي عشر 1.5T CVT 260TURBO Zhi Xiang"
+        "ru": "Одиннадцатое поколение Accord 1.5T CVT 260TURBO Smart Edition",
+        "ar": "الجيل الحادي عشر من أكورد 1.5 تيربو بنظام CVT إصدار ذكي 260 تيربو"
       },
       "year": 2023,
       "price": 15950,
@@ -3816,10 +3816,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Left front door and left rear door repainted, left rear fender repainted, other parts original paint. Insurance claim of 2,000.",
+        "en": "Left front door and left rear door repainted, left rear fender repaired and repainted, other parts original paint. Insurance claim for 2,000 yuan.",
         "cn": "左前门左后门喷漆左后叶钣金喷漆，其他原版原漆。出险两千块",
-        "ru": "Левая передняя дверь и левая задняя дверь были перекрашены, левое заднее крыло также перекрашено, остальные детали в оригинальном состоянии. Страховая выплата 2000.",
-        "ar": "تم رش الطلاء على الباب الأمامي الأيسر والباب الخلفي الأيسر، والجناح الخلفي الأيسر تم طلاؤه أيضاً، والأجزاء الأخرى طلاء أصلي. تعويض التأمين 2000."
+        "ru": "Левая передняя дверь и левая задняя дверь перекрашены, левое заднее крыло отремонтировано и перекрашено, остальное в оригинальной краске. Страховой случай на 2000 юаней.",
+        "ar": "تم رشّ الباب الأمامي الأيسر والباب الخلفي الأيسر، وتم إصلاح وصبغ الجناح الخلفي الأيسر، والباقي بطلاء أصلي. مطالبة تأمين بقيمة 2000 يوان."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/00_1777978457014Z3898_107192_parse.jpg",
@@ -3846,15 +3846,15 @@
       "id": 14100062,
       "brand": {
         "en": "Lexus",
-        "ru": "Lexus",
-        "ar": "لكزس",
+        "ru": "Лексус",
+        "ar": "لكسوس",
         "cn": "雷克萨斯"
       },
       "model": {
-        "en": "ES200 2.0 CVT Excellence Version",
+        "en": "Lexus ES 200 2.0 CVT Excellence Edition",
         "cn": "ES ES200 2.0 无级 卓越版",
-        "ru": "ES200 2.0 CVT Excellence Version",
-        "ar": "ES200 2.0 CVT نسخة الإتقان"
+        "ru": "Lexus ES 200 2.0 CVT Excellence Edition",
+        "ar": "لكزس ES 200 2.0 CVT نسخة التميز"
       },
       "year": 2022,
       "price": 25025,
@@ -3867,10 +3867,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival in September 2022: Lexus ES200 Excellence version, first-hand car from a retired local senior leader with only 50,000 km, original paint, excellent condition, inspected by Cha Bo Shi S, guaranteed quality with worry‑free warranty. Features: smart key, ventilated and heated seats, panoramic camera, etc., just serviced, four brand‑new Michelin tires, ready to drive.",
+        "en": "New arrival September 2022, Lexus ES200 Excellence Edition, one‑owner car of a retired local leader, only 50,000 km, original paint, top condition, inspected by Cha Bo Shi, exclusive quality with worry‑free warranty period, features: smart key, ventilated and heated seats, panoramic camera, etc., just serviced, four brand‑new Michelin tires, ready to drive.",
         "cn": "新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开",
-        "ru": "Новое поступление в сентябре 2022 года: Lexus ES200 Excellence, первое авто от вышедшего на пенсию местного руководителя, пробег всего 50 000 км, оригинальное покрытие, отличное состояние, проверено Cha Bo Shi S, гарантия без забот. Оснащение: умный ключ, вентилируемые и обогреваемые сиденья, панорамная камера и т.д., только что прошло ТО, четыре новые шины Michelin, готов к поездке.",
-        "ar": "وصول جديد في سبتمبر 2022: لكزس ES200 نسخة الإتقان، سيارة يدوية من قائد متقاعد محلي، قطعت 50,000 كم فقط، طلاء أصلي، حالة ممتازة، تم فحصها بواسطة تشا بو شي S، ضمان الجودة الخالي من القلق. الميزات: مفتاح ذكي، مقاعد مهواة ومدفأة، كاميرا بانورامية وغيرها، تم صيانتها حديثاً، أربع إطارات ميشلان جديدة، جاهزة للقيادة مباشرة."
+        "ru": "Новое поступление сентябрь 2022 г., Lexus ES200 Excellence Edition, первый владелец – бывший руководитель на пенсии, пробег всего 50 000 км, оригинальная краска, отличное состояние, проверено Cha Bo Shi, гарантия без забот, оснащение: умный ключ, вентилируемые и обогреваемые сиденья, панорамная камера и т.д., только что прошло ТО, четыре новые шины Michelin, готов к поездке.",
+        "ar": "جديد الوصول في سبتمبر 2022، لكزس ES200 نسخة التميز، سيارة مالك أول لمدير متقاعد محلي، قطعت 50,000 كم فقط، طلاء أصلي، حالة ممتازة، تم فحصها بواسطة شا بو شي (فاحص سيارات)، جودة فريدة مع ضمان خالٍ من القلق، المواصفات: مفتاح ذكي، مقاعد مهواة ومدفأة، كاميرا بانورامية وغيرها، تم إجراء صيانة للتو، أربعة إطارات ميشلان جديدة تماماً، جاهزة للقيادة مباشرة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/00_1778038282291_285_app_Y_439.84K-439.84K.jpeg",
@@ -3915,14 +3915,14 @@
       "brand": {
         "en": "Buick",
         "ru": "Бьюик",
-        "ar": "بوك",
+        "ar": "بويك",
         "cn": "别克"
       },
       "model": {
         "en": "GL8 Land Business Class 2.0T 652T Luxury",
         "cn": "GL8 陆上公务舱 2.0T 652T 豪华型",
-        "ru": "GL8 Наземный бизнес-класс 2.0T 652T Люкс",
-        "ar": "GL8 كلاس أعمال برية 2.0T 652T فاخرة"
+        "ru": "GL8 Бизнес‑класс 2.0T 652T Люкс",
+        "ar": "GL8 فئة رجال الأعمال 2.0T 652T فاخرة"
       },
       "year": 2021,
       "price": 15125,
@@ -3935,10 +3935,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "652T luxury version, newly fitted interior, very fresh condition, good overall vehicle condition, all original paint, zero accidents, zero records, first corporate owner.",
+        "en": "652T luxury version with newly refitted interior, very fresh condition, excellent overall condition, full original paint, zero insurance claims, zero records, first-hand company vehicle.",
         "cn": "652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户",
-        "ru": "652T Люкс версия, недавно установленный новый интерьер, очень свежее состояние, хорошее состояние автомобиля, полностью оригинальное покрытие, 0 ДТП, 0 записей, первый владелец от компании.",
-        "ar": "إصدار 652T الفاخر، تم تركيب الداخلية حديثاً، حالة جديدة جداً، حالة السيارة جيدة، الطلاء الأصلي بالكامل، بدون حوادث، بدون سجلات، المالك الأول شركة."
+        "ru": "Версия 652T люкс с новым салоном, очень свежее состояние, отличное общее состояние, полностью оригинальная краска, 0 страховых случаев, 0 записей, первое авто компании.",
+        "ar": "النسخة الفاخرة 652T مع تجديد الداخلية، حالة جديدة تماماً، حالة ممتازة، طلاء أصلي بالكامل، بدون مطالبات تأمينية، بدون سجلات، سيارة شركة من الدرجة الأولى."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/00_1777442074377_768_app_L_360.67K-360.67K.jpeg",
@@ -3975,10 +3975,10 @@
         "cn": "福特"
       },
       "model": {
-        "en": "Ford Lingyu 2.0T EcoBoost 225 Prestige 7‑Seat",
+        "en": "Territory 2.0T EcoBoost 225 Premium 7-Seat",
         "cn": "领裕 2.0T EcoBoost 225 尊领型7座",
-        "ru": "Форд Линью 2.0T EcoBoost 225 Престиж 7‑местный",
-        "ar": "فورد لينغيو 2.0T EcoBoost 225 سبع مقاعد فاخرة"
+        "ru": "Territory 2.0T EcoBoost 225 Премиум 7‑местный",
+        "ar": "تيريتوري 2.0T EcoBoost 225 بروسيما 7 مقاعد"
       },
       "year": 2021,
       "price": 10037,
@@ -3991,10 +3991,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "New arrival: 2022 Ford Lingyu EcoBoost 225 Prestige 7‑seater (2/2/3), local first‑hand vehicle with high specs, 2.0L turbo 224 hp, 6‑speed dual‑clutch, features: panoramic sunroof, smart key, front four‑seat electric adjustment, 360° panoramic camera, LED headlights, 12.3‑inch touch LCD screen, etc., excellent condition, ready to drive, high cost‑performance, zero down payment (front bumper assembly had an accident but no record).",
+        "en": "New arrival, 2022 Ford Territory EcoBoost 225 Premium 7-seat (2/2/3 layout), local first-hand high-spec vehicle, 2.0T 224 hp, 6-speed dual-clutch, features: panoramic sunroof, smart key, front four-way power seats, 360-degree panoramic camera, LED headlights, 12.3-inch touchscreen, etc., excellent condition, ready to drive, high cost-performance, zero down payment (front bumper repaired but no insurance claim).",
         "cn": "新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价比高，零首付（车况前嘴一套出险没记录）",
-        "ru": "Новое поступление: 2022 Ford Lingyu EcoBoost 225 Престиж 7‑местный (2/2/3), местный автомобиль первого владельца с высокой комплектацией, 2.0T 224 л.с., 6‑ступенчатая роботизированная коробка передач с двойным сцеплением, оснащение: панорамный люк, умный ключ, электрорегулировка передних четырёх сидений, камера кругового обзора 360°, светодиодные фары, 12,3‑дюймовый сенсорный ЖК‑экран и т.д., отличное состояние, готов к эксплуатации, высокое соотношение цена/качество, без первоначального взноса (передний бампер был повреждён в ДТП, но без записей).",
-        "ar": "قادمة جديدة: فورد لينغيو 2022 EcoBoost 225 سبع مقاعد فاخرة (2/2/3)، سيارة محلية من المالك الأول بمواصفات عالية، محرك تيربو 2.0T بقوة 224 حصان، ناقل حركة أوتوماتيكي مزدوج القابض 6 سرعات، الميزات: سقف زجاجي بانورامي، مفتاح ذكي، مقاعد أمامية كهربائية بأربعة أماكن، كاميرا رؤية محيطية 360 درجة، مصابيح أمامية LED، شاشة LCD تعمل باللمس مقاس 12.3 بوصة، وغيرها، حالة ممتازة، جاهزة للاستخدام، نسبة جودة/سعر عالية، بدون دفعة أولى (تم تضرر مجموعة المصد الأمامي في حادث بدون سجل)."
+        "ru": "Новый поступление, 2022 Ford Territory EcoBoost 225 Премиум 7‑местный (схема 2/2/3), местный первичный автомобиль высокой комплектации, 2.0T 224 л.с., 6‑ступенчатый робот, оснащение: панорамный люк, умный ключ, передние сиденья с электрорегулировкой, камера 360°, светодиодные фары, 12,3‑дюймовый сенсорный экран и т.д., отличное состояние, готов к эксплуатации, высокая стоимость, без первоначального взноса (передний бампер отремонтирован, страховой случай отсутствует).",
+        "ar": "وصول جديد، فورد تيريتوري 2022 EcoBoost 225 بروسيما 7 مقاعد (تخطيط 2/2/3)، سيارة محلية من الدرجة الأولى بمواصفات عالية، 2.0T بقوة 224 حصان، ناقل حركة أوتوماتيكي مزدوج القابض 6 سرعات، الميزات: سقف زجاجي بانورامي، مفتاح ذكي، مقاعد أمامية كهربائية بأربعة اتجاهات، كاميرا بانورامية 360 درجة، مصابيح LED، شاشة لمس 12.3 بوصة، الخ، حالة ممتازة، جاهزة للقيادة، قيمة عالية مقابل السعر، بدون دفعة أولى (الرف الأمامي تم إصلاحه بدون مطالبة تأمينية)."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/00_1772961608934_934_app_F_430.25K-430.25K.jpeg",
@@ -4035,10 +4035,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Volkswagen Beetle 1.4TSI Luxury",
+        "en": "Beetle 1.4 TSI Luxury",
         "cn": "甲壳虫 甲壳虫 1.4TSI 豪华型",
-        "ru": "Фольксваген Жук 1.4TSI Люкс",
-        "ar": "فولكس فاجن بيتل 1.4TSI فاخرة"
+        "ru": "Beetle 1.4 TSI Люкс",
+        "ar": "بيتل 1.4 TSI فاخرة"
       },
       "year": 2014,
       "price": 7562,
@@ -4051,10 +4051,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "15‑year‑old Volkswagen Beetle, 280‑ small high‑spec, excellent condition, inspected by Dr. S. Lady's personal commuter car. Full retro vibe. Tear‑drop headlights, large sunroof, Fender audio system, seat heating. Aftermarket ambient lighting, large screen.",
+        "en": "2015 Volkswagen Beetle, 280- small high-spec, excellent condition, inspected by Chabaoshi. Lady owner’s personal commuter car. Full of retro style, tear‑drop headlights, large sunroof, Fender audio, seat heating. Aftermarket ambient lighting, large screen.",
         "cn": "15年大众甲壳虫，280- 小高配，车况精品，查博士 s。 美女私家代步车。复古风满满。泪眼大灯，大天窗，芬德音响，座椅加热。加装氛围灯，大屏。",
-        "ru": "15‑летний Фольксваген Жук, 280‑ малая высокая комплектация, отличное состояние, проверен (проверка) Dr. S. Личная машина женщины‑владельца. Полный ретро‑стиль. Фары в форме слёз, большой люк, аудиосистема Fender, подогрев сидений. Установлена подсветка салона, большой экран.",
-        "ar": "بيتل فولكس فاجن عمرها 15 سنة، مواصفات صغيرة عالية 280، حالة ممتازة، تم فحصها من قبل د. إس. سيارة خاصة لسيدة. مليئة بالأسلوب الرجعي. مصابيح على شكل دمعة، سقف زجاجي كبير، نظام صوتي Fender، تدفئة المقاعد. إضافة إضاءة محيطية، شاشة كبيرة."
+        "ru": "2015 Volkswagen Beetle, 280- малая высокая комплектация, отличное состояние, проверен компанией Chabaoshi. Личная машина владелицы. В стиле ретро, каплевидные фары, большой люк, аудио Fender, обогрев сидений. Дополнительное освещение интерьера, большой экран.",
+        "ar": "2015 فولكس فاغن بيتل، المواصفات الصغيرة العالية 280-، حالة ممتازة، تم فحصها بواسطة تشاباشي. سيارة شخصية لمالكتها. مليئة بأسلوب الريترو، مصابيح على شكل دمعة، سقف زجاجي كبير، نظام صوت فِندَر، تدفئة المقاعد. إضاءة محيطية مُضافة، شاشة كبيرة."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/00_1778658931042_404_app_J_363.83K-363.83K.jpeg",
@@ -4077,5 +4077,5 @@
       "listedAt": "2026-05-16 07:32:06"
     }
   ],
-  "_version": "20260518184706"
+  "_version": "20260518194210"
 }
