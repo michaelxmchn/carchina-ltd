@@ -571,7 +571,7 @@ ar: {
 }
 };
 
-const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json';
+const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json?_=' + Date.now();
 let vehicles = [];
 let currentLang = localStorage.getItem('lang') || 'en';
 
@@ -779,7 +779,7 @@ function createVehicleCard(v) {
     const tags = (v.tags || []).slice(0, 3);
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
-        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
+        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
         '<div class="absolute top-3 left-3 bg-blue-900/90 text-white px-3 py-1 rounded-full text-xs font-bold backdrop-blur">' + brand + '</div>' +
         (v.featured ? '<div class="absolute top-3 right-3 bg-red-600 text-white px-3 py-1 rounded-full text-xs font-bold">Featured</div>' : '') +
         '</div>' +
@@ -802,7 +802,7 @@ function createVehicleCard(v) {
 }
 
 function showVehicleDetail(id) {
-    const v = vehicles.find(x => x.id === id);
+    const v = vehicles.find(x => String(x.id) === String(id));
     if (!v) return;
     const brand = getText(v.brand, currentLang) || getText(v.brand, 'en');
     const model = getText(v.model, currentLang) || getText(v.model, 'en');
