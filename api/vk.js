@@ -4,7 +4,7 @@
  * GET  /api/vk           → redirect to VK authorization
  * GET  /api/vk?status=1  → check if token is configured
  */
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   if (req.query.status) {
     const hasToken = !!process.env.VK_ACCESS_TOKEN;
     res.setHeader("Access-Control-Allow-Origin", "*");

@@ -22,7 +22,7 @@ function fetchUrl(url) {
   });
 }
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   const { code, error: err, error_description } = req.query;
 
   if (err) {
