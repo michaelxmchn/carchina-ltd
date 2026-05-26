@@ -59,7 +59,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-toyota-2-0-14360573"
     },
     {
@@ -111,7 +111,7 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2023-2023-max-1-5-hi4-105-14170497"
     },
     {
@@ -161,7 +161,7 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2022-volkswagen-1-4tsi-280tsi-12752546"
     },
     {
@@ -173,10 +173,10 @@
         "cn": "传祺"
       },
       "model": {
-        "en": "GS8 Hybrid 2.0TM CVT 2WD Premium 7-Seater",
+        "en": "GS8 混动 2.0TM 无级 两驱尊贵版七座",
         "cn": "GS8 混动 2.0TM 无级 两驱尊贵版七座",
-        "ru": "GS8 Гибрид 2.0TM CVT Передний привод Премиум 7-местный",
-        "ar": "GS8 هايبرد 2.0TM CVT دفع أمامي بريميوم 7 مقاعد"
+        "ru": "GS8 混动 2.0TM 无级 两驱尊贵版七座",
+        "ar": "GS8 混动 2.0TM 无级 两驱尊贵版七座"
       },
       "year": 2022,
       "price": 15125,
@@ -189,10 +189,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle, a pre-owned car for export, has 3-4 panels repainted with no further investment needed. Single owner, passed Dr. Cha inspection – ideal for used car export China.",
+        "en": "3.4个面补漆，不用投资，一手户，已过查博士。",
         "cn": "3.4个面补漆，不用投资，一手户，已过查博士。",
-        "ru": "Кузов имеет окраску на 3-4 панелях, дополнительных вложений не требуется. Один владелец, пройдена проверка Dr. Cha.",
-        "ar": "تم إعادة طلاء 3-4 أجزاء من الهيكل، لا حاجة لاستثمار إضافي، مالك واحد، اجتاز فحص Dr. Cha."
+        "ru": "3.4个面补漆，不用投资，一手户，已过查博士。",
+        "ar": "3.4个面补漆，不用投资，一手户，已过查博士。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14189685/1778303706089D7383_547287.jpg",
@@ -210,7 +210,7 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2022-trumpchi-gs8-2-0tm-14189685"
     },
     {
@@ -222,10 +222,10 @@
         "cn": "比亚迪"
       },
       "model": {
-        "en": "Han DM 2.0T AWD Performance Premium",
+        "en": "汉DM 2.0T 四驱性能版尊贵型",
         "cn": "汉DM 2.0T 四驱性能版尊贵型",
-        "ru": "Han DM 2.0T Полный привод Performance Premium",
-        "ar": "Han DM 2.0T دفع رباعي بريميوم"
+        "ru": "汉DM 2.0T 四驱性能版尊贵型",
+        "ar": "汉DM 2.0T 四驱性能版尊贵型"
       },
       "year": 2020,
       "price": 8731,
@@ -238,10 +238,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "A quality Chinese vehicle for used car export China – original body with extensive respray, retired from autonomous driving fleet. Single corporate owner (tech company), non-commercial, eligible for a loan of up to 90,000 RMB. Excellent pre-owned car for export.",
+        "en": "原版车，喷漆多，无人驾驶车退役，一手科技有限公司户，非营运，贷款能贷9万",
         "cn": "原版车，喷漆多，无人驾驶车退役，一手科技有限公司户，非营运，贷款能贷9万",
-        "ru": "Оригинальный кузов с большим количеством перекрасок, снят с эксплуатации в парке беспилотных автомобилей. Один корпоративный владелец (технологическая компания), некоммерческое использование, доступен кредит до 90 000 юаней.",
-        "ar": "هيكل أصلي مع إعادة طلاء كثيرة، متقاعدة من أسطول السيارات ذاتية القيادة. مالك واحد (شركة تقنية)، غير تجاري، مؤهل للحصول على قرض يصل إلى 90,000 يوان."
+        "ru": "原版车，喷漆多，无人驾驶车退役，一手科技有限公司户，非营运，贷款能贷9万",
+        "ar": "原版车，喷漆多，无人驾驶车退役，一手科技有限公司户，非营运，贷款能贷9万"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13885931/1777094086788k10868_446122_parse.jpg",
@@ -262,7 +262,7 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2020-byd-dm-2-0t-13885931"
     },
     {
@@ -274,10 +274,10 @@
         "cn": "奥迪"
       },
       "model": {
-        "en": "A6L 2.0TFSI 45TFSI Quattro Selection Dynamic",
+        "en": "A6L 2.0TFSI 45TFSI Quattro 臻选动感型",
         "cn": "A6L 2.0TFSI 45TFSI Quattro 臻选动感型",
-        "ru": "A6L 2.0TFSI 45TFSI Quattro Selection Dynamic",
-        "ar": "A6L 2.0TFSI 45TFSI كواترو سيليكشن دايناميك"
+        "ru": "A6L 2.0TFSI 45TFSI Quattro 臻选动感型",
+        "ar": "A6L 2.0TFSI 45TFSI Quattro 臻选动感型"
       },
       "year": 2022,
       "price": 35337,
@@ -290,10 +290,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This pre-owned car for export is in original condition with full original paint, passes third-party inspection, and has one owner. A quality Chinese vehicle ready for used car export China.",
+        "en": "原版车，全车原漆，可过三方，一手，",
         "cn": "原版车，全车原漆，可过三方，一手，",
-        "ru": "Оригинальное состояние, полный заводской окрас, проходит независимую проверку, один владелец.",
-        "ar": "حالة أصلية، طلاء مصنع كامل، يجتاز الفحص الخارجي، مالك واحد."
+        "ru": "原版车，全车原漆，可过三方，一手，",
+        "ar": "原版车，全车原漆，可过三方，一手，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14488757/1779345806782i9906_372830_parse.jpg",
@@ -321,7 +321,7 @@
         "全车原漆",
         "全车原版"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2022-audi-a6l-2-0tfsi-45tfsi-quattro-14488757"
     },
     {
@@ -333,10 +333,10 @@
         "cn": "奥迪"
       },
       "model": {
-        "en": "A6L 2.0TFSI 45TFSI Select Dynamic",
+        "en": "A6L 2.0TFSI 45TFSI 臻选动感型",
         "cn": "A6L 2.0TFSI 45TFSI 臻选动感型",
-        "ru": "A6L 2.0TFSI 45TFSI Select Dynamic",
-        "ar": "A6L 2.0TFSI 45TFSI Select Dynamic"
+        "ru": "A6L 2.0TFSI 45TFSI 臻选动感型",
+        "ar": "A6L 2.0TFSI 45TFSI 臻选动感型"
       },
       "year": 2025,
       "price": 39050,
@@ -349,10 +349,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This nearly new Audi features original paint with protective film and added seat ventilation. With low mileage and excellent condition, it is a prime candidate for used car export China and quality Chinese vehicles. A perfect example of pre-owned cars for export.",
+        "en": "原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价",
         "cn": "原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价",
-        "ru": "Практически новый автомобиль с заводской краской, защитной плёнкой и дополнительной вентиляцией сидений. Низкий пробег, отличное состояние.",
-        "ar": "سيارة شبه جديدة بطلاء أصلي وغلاف حماية، مع إضافة تهوية للمقاعد. مسافة منخفضة وحالة ممتازة."
+        "ru": "原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价",
+        "ar": "原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14629899/1779452335030h12163_686441_parse.jpg",
@@ -381,7 +381,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2025-audi-a6l-2-0tfsi-45tfsi-14629899"
     },
     {
@@ -393,10 +393,10 @@
         "cn": "奇瑞"
       },
       "model": {
-        "en": "Tiggo 7 PLUS 1.6TGDI Premium",
+        "en": "瑞虎7 PLUS 1.6TGDI 尊贵型",
         "cn": "瑞虎7 PLUS 1.6TGDI 尊贵型",
-        "ru": "Tiggo 7 PLUS 1.6TGDI Premium",
-        "ar": "Tiggo 7 PLUS 1.6TGDI Premium"
+        "ru": "瑞虎7 PLUS 1.6TGDI 尊贵型",
+        "ar": "瑞虎7 PLUS 1.6TGDI 尊贵型"
       },
       "year": 2023,
       "price": 7535,
@@ -409,10 +409,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Chery has passed third-party inspection with minor left front repair (replaced fender and headlight). It represents a quality Chinese vehicle with transparent history, suitable for used car export China and pre-owned cars for export.",
+        "en": "左前小顶换叶子板，大灯，已过三方。",
         "cn": "左前小顶换叶子板，大灯，已过三方。",
-        "ru": "Прошёл независимую проверку, имеет незначительный ремонт передней левой части (заменены крыло и фара). Прозрачная история.",
-        "ar": "اجتاز الفحص من طرف ثالث، مع إصلاح طفيف في الجهة الأمامية اليسرى (استبدال الرفرف والمصباح الأمامي). تاريخ شفاف."
+        "ru": "左前小顶换叶子板，大灯，已过三方。",
+        "ar": "左前小顶换叶子板，大灯，已过三方。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13717990/1777907419301m3640_259811.jpg",
@@ -431,7 +431,7 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2023-chery-7-plus-1-6tgdi-13717990"
     },
     {
@@ -443,10 +443,10 @@
         "cn": "坦克"
       },
       "model": {
-        "en": "Tank 300 2.0T CyberTank",
+        "en": "坦克300 2.0T 赛博坦克",
         "cn": "坦克300 2.0T 赛博坦克",
-        "ru": "Tank 300 2.0T CyberTank",
-        "ar": "Tank 300 2.0T CyberTank"
+        "ru": "坦克300 2.0T 赛博坦克",
+        "ar": "坦克300 2.0T 赛博坦克"
       },
       "year": 2021,
       "price": 26812,
@@ -459,10 +459,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This single-owner Tank 300 has original paint throughout and can pass any third-party inspection. It is a top-tier quality Chinese vehicle ideal for used car export China and pre-owned cars for export.",
+        "en": "原版车，一手，可过三方，全车原漆，",
         "cn": "原版车，一手，可过三方，全车原漆，",
-        "ru": "Один владелец, заводская краска по всему кузову, пройдёт любую независимую проверку. Отличное состояние.",
-        "ar": "مالك واحد، طلاء أصلي بالكامل، يمكنه اجتياز أي فحص من طرف ثالث. حالة ممتازة."
+        "ru": "原版车，一手，可过三方，全车原漆，",
+        "ar": "原版车，一手，可过三方，全车原漆，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14616739/1779430426553y12500_586908.jpg",
@@ -486,22 +486,22 @@
         "高保值",
         "0过户"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-tank-300-2-0t-14616739"
     },
     {
       "id": 13911931,
       "brand": {
-        "en": "MG",
-        "ru": "MG",
-        "ar": "MG",
+        "en": "MG 2021款 MG5 1.5TGI 300TGI 青奢旗舰版",
+        "ru": "MG 2021款 MG5 1.5TGI 300TGI 青奢旗舰版",
+        "ar": "MG 2021款 MG5 1.5TGI 300TGI 青奢旗舰版",
         "cn": "MG 2021款 MG5 1.5TGI 300TGI 青奢旗舰版"
       },
       "model": {
-        "en": "2021 MG5 1.5TGI 300TGI QingShe Flagship Edition",
+        "en": "",
         "cn": "",
-        "ru": "2021 MG5 1.5TGI 300TGI QingShe Флагманская версия",
-        "ar": "2021 MG5 1.5TGI 300TGI الإصدار الفاخر QingShe"
+        "ru": "",
+        "ar": ""
       },
       "year": 2021,
       "price": 5197,
@@ -514,10 +514,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2021 MG5 flagship edition has only two panels repainted and a replaced headlight, easily passing third-party inspection. A quality Chinese vehicle ready for used car export China, it represents an excellent option among pre-owned cars for export.",
+        "en": "两面油漆，换个大灯，可过三方",
         "cn": "两面油漆，换个大灯，可过三方",
-        "ru": "Этот MG5 2021 года флагманской комплектации имеет две перекрашенные панели и заменённую фару, что позволяет успешно пройти независимую проверку. Качественный китайский автомобиль, готовый к экспорту подержанных машин из Китая, является отличным вариантом среди предварительно купленных автомобилей на экспорт.",
-        "ar": "سيارة MG5 موديل 2021 الفاخرة تحتوي على لوحين فقط تم إعادة طلائهما ومصباح أمامي مستبدل، مما يجعلها تجتاز الفحص الخارجي بسهولة. إنها مركبة صينية عالية الجودة جاهزة لتصدير السيارات المستعملة من الصين، وتمثل خيارًا ممتازًا بين السيارات المستعملة للتصدير."
+        "ru": "两面油漆，换个大灯，可过三方",
+        "ar": "两面油漆，换个大灯，可过三方"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13911931/1777178473663r6568_750081_parse.jpg",
@@ -537,15 +537,15 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-mg-2021-mg5-1-5tgi-300tgi-13911931"
     },
     {
       "id": 14021311,
       "brand": {
-        "en": "FAW Jiefang Cargo Truck",
-        "ru": "FAW Jiefang Грузовой автомобиль",
-        "ar": "FAW Jiefang شاحنة نقل",
+        "en": "解放 载货车 ",
+        "ru": "解放 载货车 ",
+        "ar": "解放 载货车 ",
         "cn": "解放 载货车 "
       },
       "model": {
@@ -565,10 +565,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This FAW Jiefang Lingtu electric panel van features a CATL 81.1kWh battery with a 240 km range. With only 40,000 actual km and original condition from a single owner, it's a quality Chinese vehicle ideal for used car export China. One of the best pre-owned cars for export with zero accidents.",
+        "en": "解放领途新能源厢式货车，宁德时代81.1度电池，续航240，实表4万公里，原版车况，个人一手",
         "cn": "解放领途新能源厢式货车，宁德时代81.1度电池，续航240，实表4万公里，原版车况，个人一手",
-        "ru": "Этот электрический фургон FAW Jiefang Lingtu оснащен батареей CATL на 81,1 кВт·ч с запасом хода 240 км. С реальным пробегом всего 40 000 км, в оригинальном состоянии от одного владельца — это качественный китайский автомобиль, идеально подходящий для экспорта подержанных машин из Китая. Один из лучших предварительно купленных автомобилей для экспорта.",
-        "ar": "شاحنة FAW Jiefang Lingtu الكهربائية المغلقة مزودة ببطارية CATL بقدرة 81.1 كيلوواط/ساعة ومدى يصل إلى 240 كم. مع 40,000 كم حقيقية فقط وحالة أصلية من مالك واحد، إنها مركبة صينية عالية الجودة مثالية لتصدير السيارات المستعملة من الصين. واحدة من أفضل السيارات المستعملة للتصدير."
+        "ru": "解放领途新能源厢式货车，宁德时代81.1度电池，续航240，实表4万公里，原版车况，个人一手",
+        "ar": "解放领途新能源厢式货车，宁德时代81.1度电池，续航240，实表4万公里，原版车况，个人一手"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14021311/1777521425129f7670_610605_parse.jpg",
@@ -586,7 +586,7 @@
       "emission": "国四",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2020-14021311"
     },
     {
@@ -598,10 +598,10 @@
         "cn": "斯巴鲁"
       },
       "model": {
-        "en": "Forester 2.0i CVT Luxury Edition EyeSight",
+        "en": "森林人 森林人 2.0i 无级 豪华版EyeSight",
         "cn": "森林人 森林人 2.0i 无级 豪华版EyeSight",
-        "ru": "Forester 2.0i CVT Luxury Edition EyeSight",
-        "ar": "Forester 2.0i CVT Luxury Edition EyeSight"
+        "ru": "森林人 森林人 2.0i 无级 豪华版EyeSight",
+        "ar": "森林人 森林人 2.0i 无级 豪华版EyeSight"
       },
       "year": 2022,
       "price": 28187,
@@ -614,10 +614,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This Subaru Forester comes loaded with cruise control, power driver seat, heated seats, sunroof, multifunction steering wheel, alloy wheels, off-road mode, keyless start, hill assist, hill descent control, rearview camera and parking sensors. With 167,689 km on the odometer, it's a well-maintained quality vehicle sourced from China, perfect for used car export China as one of the reliable pre-owned cars for export.",
+        "en": "定速巡航，主驾驶电动座椅，座椅加热，电动天窗，多功能方向盘，铝合金轮毂，越野模式，一键启动，上坡辅助，陡坡缓降，倒车影像，倒车雷达\n167689",
         "cn": "定速巡航，主驾驶电动座椅，座椅加热，电动天窗，多功能方向盘，铝合金轮毂，越野模式，一键启动，上坡辅助，陡坡缓降，倒车影像，倒车雷达\n167689",
-        "ru": "Этот Subaru Forester оснащен круиз-контролем, электроприводом сиденья водителя, подогревом сидений, люком, многофункциональным рулем, литыми дисками, режимом бездорожья, запуском без ключа, помощником при подъеме, системой спуска с горы, камерой заднего вида и парктрониками. С пробегом 167 689 км это хорошо сохранившийся качественный автомобиль из Китая, идеально подходящий для экспорта подержанных машин из Китая и являющийся одним из надежных предварительно купленных автомобилей для экспорта.",
-        "ar": "سيارة Subaru Forester هذه مجهزة بمثبت سرعة، مقعد سائق كهربائي، مقاعد مدفأة، فتحة سقف، عجلة قيادة متعددة الوظائف، جنوط ألمنيوم، وضع القيادة على الطرق الوعرة، تشغيل بدون مفتاح، مساعد صعود المرتفعات، مساعد نزول المنحدرات، كاميرا خلفية وأجهزة استشعار للركن. مع 167,689 كم على عداد المسافات، إنها مركبة عالية الجودة ومحفوظة جيدًا من الصين، مثالية لتصدير السيارات المستعملة من الصين وواحدة من السيارات المستعملة الموثوقة للتصدير."
+        "ru": "定速巡航，主驾驶电动座椅，座椅加热，电动天窗，多功能方向盘，铝合金轮毂，越野模式，一键启动，上坡辅助，陡坡缓降，倒车影像，倒车雷达\n167689",
+        "ar": "定速巡航，主驾驶电动座椅，座椅加热，电动天窗，多功能方向盘，铝合金轮毂，越野模式，一键启动，上坡辅助，陡坡缓降，倒车影像，倒车雷达\n167689"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13956010/1777293236212_504_app_A_226.58K-226.58K_parse.jpeg",
@@ -643,7 +643,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2022-subaru-2-0i-eyesight-13956010"
     },
     {
@@ -655,10 +655,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "T-Cross 1.5 Comfort",
+        "en": "T-Cross 1.5 舒适版",
         "cn": "T-Cross 1.5 舒适版",
-        "ru": "T-Cross 1.5 Comfort",
-        "ar": "T-Cross 1.5 Comfort"
+        "ru": "T-Cross 1.5 舒适版",
+        "ar": "T-Cross 1.5 舒适版"
       },
       "year": 2021,
       "price": 7975,
@@ -671,10 +671,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Hood and right front fender have been repainted; the rest is original paint. This quality Chinese vehicle is ideal for used car export China, representing a pre-owned car for export with well-maintained body.",
+        "en": "机盖，右前叶油漆，其他原漆",
         "cn": "机盖，右前叶油漆，其他原漆",
-        "ru": "Капот и правое переднее крыло перекрашены, остальное — заводская краска. Отличное состояние кузова.",
-        "ar": "تم إعادة طلاء غطاء المحرك والرفرف الأمامي الأيمن، وباقي الأجزاء طلاء أصلي. حالة جيدة."
+        "ru": "机盖，右前叶油漆，其他原漆",
+        "ar": "机盖，右前叶油漆，其他原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13911775/1777178040847F2971_671205_parse.jpg",
@@ -699,7 +699,7 @@
         "低油耗",
         "一手车"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-volkswagen-t-cross-1-5-13911775"
     },
     {
@@ -711,10 +711,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "E-Class E 300 L 2.0T Luxury",
+        "en": "E级 E 300 L 2.0T 豪华型",
         "cn": "E级 E 300 L 2.0T 豪华型",
-        "ru": "E-Class E 300 L 2.0T Luxury",
-        "ar": "E-Class E 300 L 2.0T Luxury"
+        "ru": "E级 E 300 L 2.0T 豪华型",
+        "ar": "E级 E 300 L 2.0T 豪华型"
       },
       "year": 2021,
       "price": 38225,
@@ -727,10 +727,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "All original paint, certified S-grade by Dr. Cha inspection. A top-quality Chinese vehicle suitable for used car export China, this pre-owned car for export offers excellent condition.",
+        "en": "全车原漆，查博士S级。",
         "cn": "全车原漆，查博士S级。",
-        "ru": "Полностью заводская краска, сертифицирован как S-класс по проверке Dr. Cha. Отличное состояние.",
-        "ar": "طلاء أصلي بالكامل، معتمد بدرجة S من فحص Dr. Cha. حالة ممتازة."
+        "ru": "全车原漆，查博士S级。",
+        "ar": "全车原漆，查博士S级。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12838627/1773979170469_573_app_I_280.86K-280.86K.jpeg",
@@ -754,7 +754,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-mercedes-benz-e-e-300-l-2-0t-12838627"
     },
     {
@@ -766,10 +766,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "E-Class E 260 L 2.0T Sport",
+        "en": "E级 E 260 L 2.0T 运动型",
         "cn": "E级 E 260 L 2.0T 运动型",
-        "ru": "E-Class E 260 L 2.0T Sport",
-        "ar": "E-Class E 260 L 2.0T Sport"
+        "ru": "E级 E 260 L 2.0T 运动型",
+        "ar": "E级 E 260 L 2.0T 运动型"
       },
       "year": 2021,
       "price": 27225,
@@ -782,10 +782,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original condition with two panels repainted, actual mileage 130,000 km, S-grade from Dr. Cha inspection, two previous owners. A quality Chinese vehicle perfect for used car export China, as a pre-owned car for export with verified history.",
+        "en": "原版车两件补漆，实表13，茶博士s，大本两名",
         "cn": "原版车两件补漆，实表13，茶博士s，大本两名",
-        "ru": "Оригинальное состояние, две панели перекрашены, реальный пробег 130 000 км, S-класс по проверке Dr. Cha, два владельца в ПТС.",
-        "ar": "حالة أصلية مع إعادة طلاء لوحين، المسافة الفعلية 130,000 كم، درجة S من فحص Dr. Cha، مالكين سابقين."
+        "ru": "原版车两件补漆，实表13，茶博士s，大本两名",
+        "ar": "原版车两件补漆，实表13，茶博士s，大本两名"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14603138/1779403427834z1720_423669_parse.jpg",
@@ -807,7 +807,7 @@
         "实表里程",
         "车况精品"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-mercedes-benz-e-e-260-l-2-0t-14603138"
     },
     {
@@ -819,10 +819,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Tiguan L R-Line 2.0TSI 330TSI 2WD Yuexiang Edition",
+        "en": "途观L R-Line 2.0TSI 330TSI 两驱越享版",
         "cn": "途观L R-Line 2.0TSI 330TSI 两驱越享版",
-        "ru": "Tiguan L R-Line 2.0TSI 330TSI (передний привод, версия Yuexiang)",
-        "ar": "توجان L R-Line 2.0TSI 330TSI دفع ثنائي نسخة Yuexiang"
+        "ru": "途观L R-Line 2.0TSI 330TSI 两驱越享版",
+        "ar": "途观L R-Line 2.0TSI 330TSI 两驱越享版"
       },
       "year": 2021,
       "price": 13612,
@@ -835,10 +835,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Volkswagen Tiguan L R-Line features original factory paint, showcasing top condition. A quality Chinese vehicle, it's an excellent option for used car export China. As one of the pre-owned cars for export, it provides reliable performance and great value.",
+        "en": "原漆",
         "cn": "原漆",
-        "ru": "Этот Volkswagen Tiguan L R-Line имеет заводское лакокрасочное покрытие, состояние отличное. Качественный китайский автомобиль, отличный вариант для экспорта подержанных автомобилей из Китая. Один из лучших подержанных автомобилей для экспорта.",
-        "ar": "سيارة فولكس فاجن توجان L R-Line هذه تتميز بطلاء المصنع الأصلي، بحالة ممتازة. إنها مركبة صينية عالية الجودة، خيار ممتاز لتصدير السيارات المستعملة من الصين. واحدة من أفضل السيارات المستعملة للتصدير."
+        "ru": "原漆",
+        "ar": "原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14686727/1779675925665_796_app_L_329.71K-329.71K.jpg",
@@ -860,22 +860,22 @@
       "emission": "国六",
       "transferCount": "",
       "tags": [],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-volkswagen-l-r-line-2-0tsi-330tsi-14686727"
     },
     {
       "id": 13653692,
       "brand": {
-        "en": "Bestune",
-        "ru": "Бэстун",
-        "ar": "بستيون",
+        "en": "奔腾 2025款 悦意03 565km 乐享版",
+        "ru": "奔腾 2025款 悦意03 565km 乐享版",
+        "ar": "奔腾 2025款 悦意03 565km 乐享版",
         "cn": "奔腾 2025款 悦意03 565km 乐享版"
       },
       "model": {
-        "en": "2025 Yiyi 03 565km Enjoy Edition",
+        "en": "",
         "cn": "",
-        "ru": "2025 Yiyi 03 565km Enjoy Edition",
-        "ar": "2025 Yiyi 03 565km إصدار Enjoy"
+        "ru": "",
+        "ar": ""
       },
       "year": 2025,
       "price": 10147,
@@ -888,10 +888,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "The 2025 Bestune Yiyi 03 565km Enjoy Edition is a one-owner vehicle with original paint and panels. Quality Chinese vehicles like this are ideal for pre-owned cars for export. Consider it for used car export China with confidence – low mileage expected.",
+        "en": "一手 原版原漆",
         "cn": "一手 原版原漆",
-        "ru": "Bestune Yiyi 03 565km Enjoy Edition 2025 года – автомобиль с одним владельцем, оригинальной краской и кузовными панелями. Такие качественные китайские автомобили идеально подходят для экспорта подержанных машин. Отличный вариант для экспорта из Китая – предполагается небольшой пробег.",
-        "ar": "سيارة بستيون Yiyi 03 565km إصدار Enjoy موديل 2025، مملوكة لمالك واحد مع طلاء وألواح أصلية. هذه المركبات الصينية عالية الجودة مثالية لتصدير السيارات المستعملة. خيار ممتاز لتصدير السيارات المستعملة من الصين – منخفضة الأميال المتوقعة."
+        "ru": "一手 原版原漆",
+        "ar": "一手 原版原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13653692/1776406011889_120_app_L_1.88M-392.89K.jpeg",
@@ -919,7 +919,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2025-2025-03-565km-13653692"
     },
     {
@@ -931,10 +931,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Frontlander 2.0 CVT Comfort Edition",
+        "en": "锋兰达 2.0 无级 舒适版",
         "cn": "锋兰达 2.0 无级 舒适版",
-        "ru": "Frontlander 2.0 CVT Comfort Edition",
-        "ar": "فرونتلاندر 2.0 CVT إصدار كومفورت"
+        "ru": "锋兰达 2.0 无级 舒适版",
+        "ar": "锋兰达 2.0 无级 舒适版"
       },
       "year": 2026,
       "price": 11962,
@@ -947,10 +947,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Toyota Frontlander with only 6,000 km actual mileage, original paint, zero accidents, and added 360-degree surround view. This quality Chinese vehicle is ready for pre-owned cars for export. A prime candidate for used car export China, inspected with S-level warranty – guaranteed satisfaction.",
+        "en": "查博士S级承保 原版原漆 0出险 实表6000KM 加装360度包围  包看包满意",
         "cn": "查博士S级承保 原版原漆 0出险 实表6000KM 加装360度包围  包看包满意",
-        "ru": "Toyota Frontlander с реальным пробегом всего 6 000 км, оригинальной краской, без ДТП и с добавленным круговым обзором 360°. Этот качественный китайский автомобиль готов к экспорту подержанных машин. Отличный кандидат для экспорта из Китая, прошедший проверку с гарантией S-уровня – осмотр и полное удовлетворение.",
-        "ar": "سيارة تويوتا فرونتلاندر مع 6,000 كيلومتر فقط من الأميال الفعلية، طلاء أصلي، بدون حوادث، مع إضافة كاميرا محيطية 360 درجة. هذه المركبة الصينية عالية الجودة جاهزة لتصدير السيارات المستعملة. خيار ممتاز للتصدير من الصين، خاضعة للفحص مع ضمان من المستوى S – مضمونة ومرضية."
+        "ru": "查博士S级承保 原版原漆 0出险 实表6000KM 加装360度包围  包看包满意",
+        "ar": "查博士S级承保 原版原漆 0出险 实表6000KM 加装360度包围  包看包满意"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14657961/1779545891814_898_app_J_352.43K-352.43K_parse.jpeg",
@@ -987,7 +987,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2026-toyota-2-0-14657961"
     },
     {
@@ -999,10 +999,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "INSPIRE 1.5T CVT 260TURBO Elegant Edition",
+        "en": "INSPIRE 1.5T 无级 260TURBO 典雅版",
         "cn": "INSPIRE 1.5T 无级 260TURBO 典雅版",
-        "ru": "INSPIRE 1.5T CVT 260TURBO Elegant Edition",
-        "ar": "INSPIRE 1.5T CVT 260TURBO الفاخرة"
+        "ru": "INSPIRE 1.5T 无级 260TURBO 典雅版",
+        "ar": "INSPIRE 1.5T 无级 260TURBO 典雅版"
       },
       "year": 2025,
       "price": 14987,
@@ -1015,10 +1015,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This Honda INSPIRE is a quality Chinese vehicle, certified by Dr. Check with S-grade warranty. It features original paint, zero accidents, and a 360-degree camera system. A perfect used car export China option, this pre-owned car for export comes with full satisfaction guarantee.",
+        "en": "查博士S级承保 原版原漆 0出险 加装360环影 包看包满意",
         "cn": "查博士S级承保 原版原漆 0出险 加装360环影 包看包满意",
-        "ru": "Этот Honda INSPIRE — качественный китайский автомобиль, сертифицированный Dr. Check с гарантией S-класса. Он имеет заводскую окраску, без аварий и систему кругового обзора. Отличный вариант для экспорта подержанных автомобилей из Китая с гарантией полного удовлетворения.",
-        "ar": "سيارة هوندا INSPIRE هذه هي سيارة صينية عالية الجودة، معتمدة من Dr. Check بضمان من الدرجة S. تتميز بطلاء أصلي، بدون حوادث، ونظام كاميرا 360 درجة. خيار ممتاز لتصدير السيارات المستعملة من الصين، هذه السيارة المستعملة للتصدير تأتي مع ضمان الرضا الكامل."
+        "ru": "查博士S级承保 原版原漆 0出险 加装360环影 包看包满意",
+        "ar": "查博士S级承保 原版原漆 0出险 加装360环影 包看包满意"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14657901/1779545374809_386_app_G_356.50K-356.50K_parse.jpeg",
@@ -1053,7 +1053,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2025-honda-inspire-1-5t-260turbo-14657901"
     },
     {
@@ -1065,10 +1065,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "XR-V 1.5 CVT Hot Edition",
+        "en": "XR-V 1.5 无级 热力版",
         "cn": "XR-V 1.5 无级 热力版",
-        "ru": "XR-V 1.5 CVT Hot Edition",
-        "ar": "XR-V 1.5 CVT الإصدار الساخن"
+        "ru": "XR-V 1.5 无级 热力版",
+        "ar": "XR-V 1.5 无级 热力版"
       },
       "year": 2024,
       "price": 11274,
@@ -1081,10 +1081,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2024 Honda XR-V is a practically new quality Chinese vehicle, delivered in April 2024. It has original paint, zero accidents, and is a one-owner car driven by a lady with protective film still intact. Ideal for used car export China, this pre-owned car for export is in mint condition.",
+        "en": "2024年4月出厂，查博士S级承保 原版原漆 0出险 女士一手车 膜都没斯 非常新  本地一手用车 包看包满意",
         "cn": "2024年4月出厂，查博士S级承保 原版原漆 0出险 女士一手车 膜都没斯 非常新  本地一手用车 包看包满意",
-        "ru": "Этот Honda XR-V 2024 года — практически новый качественный китайский автомобиль, выпущенный в апреле 2024 года. Имеет заводскую окраску, без аварий, один владелец (женщина), защитная плёнка ещё не снята. Идеален для экспорта подержанных автомобилей из Китая в отличном состоянии.",
-        "ar": "سيارة هوندا XR-V 2024 هذه هي سيارة صينية عالية الجودة جديدة تقريبًا، تم تسليمها في أبريل 2024. تتميز بطلاء أصلي، بدون حوادث، ومملوكة لمالكة واحدة (سيدة) مع بقاء الغشاء الواقي سليمًا. مثالية لتصدير السيارات المستعملة من الصين، هذه السيارة المستعملة للتصدير بحالة ممتازة."
+        "ru": "2024年4月出厂，查博士S级承保 原版原漆 0出险 女士一手车 膜都没斯 非常新  本地一手用车 包看包满意",
+        "ar": "2024年4月出厂，查博士S级承保 原版原漆 0出险 女士一手车 膜都没斯 非常新  本地一手用车 包看包满意"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14657978/1779546069078_715_app_E_360.59K-360.59K.jpeg",
@@ -1123,22 +1123,22 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2024-honda-xr-v-1-5-14657978"
     },
     {
       "id": 14716664,
       "brand": {
-        "en": "Jeep",
-        "ru": "Jeep",
-        "ar": "جيب",
+        "en": "Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉",
+        "ru": "Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉",
+        "ar": "Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉",
         "cn": "Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉"
       },
       "model": {
-        "en": "Wrangler 4xe 2.0T Sahara (2021)",
+        "en": "",
         "cn": "",
-        "ru": "Wrangler 4xe 2.0T Sahara (2021)",
-        "ar": "رانجلر 4xe 2.0T صحراء (2021)"
+        "ru": "",
+        "ar": ""
       },
       "year": 2021,
       "price": 33000,
@@ -1151,10 +1151,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2021 Jeep Wrangler 4xe is a quality Chinese vehicle (imported) with original paint and invisible paint protection film. It has a single owner, full 4S dealership maintenance history, zero accidents, and zero flaws. A top-tier pre-owned car for export China, perfect for used car export China buyers.",
+        "en": "原版原漆带隐形车衣、纯一手全程4S、纯素车，0出险、0瑕疵，两把钥匙。",
         "cn": "原版原漆带隐形车衣、纯一手全程4S、纯素车，0出险、0瑕疵，两把钥匙。",
-        "ru": "Этот Jeep Wrangler 4xe 2021 года — качественный китайский автомобиль (импортный) с заводской окраской и защитной плёнкой. Один владелец, полное обслуживание у официального дилера, без аварий и дефектов. Превосходный вариант для экспорта подержанных автомобилей из Китая.",
-        "ar": "سيارة جيب رانجلر 4xe موديل 2021 هذه هي سيارة صينية عالية الجودة (مستوردة) مع طلاء أصلي وطبقة حماية غير مرئية. مالك واحد، سجل صيانة كامل لدى الوكيل الرسمي، بدون حوادث أو عيوب. خيار ممتاز لتصدير السيارات المستعملة من الصين."
+        "ru": "原版原漆带隐形车衣、纯一手全程4S、纯素车，0出险、0瑕疵，两把钥匙。",
+        "ar": "原版原漆带隐形车衣、纯一手全程4S、纯素车，0出险、0瑕疵，两把钥匙。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14716664/1779763748755_199_app_A_643.01K-1.22M.jpeg",
@@ -1178,7 +1178,7 @@
         "一手车",
         "实表里程"
       ],
-      "listedAt": "2026-05-26",
+      "listedAt": "2026-05-27",
       "slug": "2021-jeep-2021-4xe-2-0t-14716664"
     },
     {
@@ -1190,10 +1190,10 @@
         "cn": "长安"
       },
       "model": {
-        "en": "CS55 PLUS 1.5T Blue Whale Edition Luxury",
+        "en": "CS55 PLUS 1.5T 蓝鲸版豪华型",
         "cn": "CS55 PLUS 1.5T 蓝鲸版豪华型",
-        "ru": "CS55 PLUS 1.5T Blue Whale Edition Luxury",
-        "ar": "CS55 PLUS 1.5T بلو ويل الفاخرة"
+        "ru": "CS55 PLUS 1.5T 蓝鲸版豪华型",
+        "ar": "CS55 PLUS 1.5T 蓝鲸版豪华型"
       },
       "year": 2021,
       "price": 5486,
@@ -1206,10 +1206,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2021 Changan CS55 PLUS has 35,000 km and is in good condition. The left rear fender and right rear fender have been repainted, and the left headlight and left fog light have been replaced. A quality Chinese vehicle ideal for used car export China, offering reliable performance among pre-owned cars for export.",
+        "en": "左后翼子板喷漆，右后翼子板喷漆，左前大灯左前雾灯更换。",
         "cn": "左后翼子板喷漆，右后翼子板喷漆，左前大灯左前雾灯更换。",
-        "ru": "Этот Чанъань CS55 PLUS 2021 года с пробегом 35 000 км находится в хорошем состоянии. Левое заднее крыло и правое заднее крыло были перекрашены, левая фара и левая противотуманная фара заменены. Качественное китайское транспортное средство для экспорта подержанных автомобилей из Китая.",
-        "ar": "سيارة شانجان CS55 PLUS موديل 2021 بمسافة 35,000 كم بحالة جيدة. تم إعادة دهان الرفرف الخلفي الأيسر والرفرف الخلفي الأيمن، واستبدال المصباح الأمامي الأيسر والضباب الأيسر. مركبة صينية عالية الجودة مناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "左后翼子板喷漆，右后翼子板喷漆，左前大灯左前雾灯更换。",
+        "ar": "左后翼子板喷漆，右后翼子板喷漆，左前大灯左前雾灯更换。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14226309/00_1778249859676_432_app_M_380.17K-380.17K_parse.png",
@@ -1241,10 +1241,10 @@
         "cn": "红旗"
       },
       "model": {
-        "en": "HS5 2.0T Zhilian Qixiang Edition",
+        "en": "HS5 2.0T 智联旗享版",
         "cn": "HS5 2.0T 智联旗享版",
-        "ru": "HS5 2.0T Zhilian Qixiang Edition",
-        "ar": "HS5 2.0T زهليان كيشيانغ"
+        "ru": "HS5 2.0T 智联旗享版",
+        "ar": "HS5 2.0T 智联旗享版"
       },
       "year": 2022,
       "price": 10532,
@@ -1257,10 +1257,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2021 Hongqi HS5 with only 30,000 km has all metal parts in original paint, showing exceptional care. As a pre-owned car for export, it represents the best of quality Chinese vehicles, perfect for used car export China buyers seeking pristine condition.",
+        "en": "金属件原漆",
         "cn": "金属件原漆",
-        "ru": "Этот Хунци HS5 2021 года с пробегом всего 30 000 км имеет оригинальную окраску всех металлических деталей, что свидетельствует о превосходном уходе. Этот подержанный автомобиль для экспорта представляет лучшее из качественных китайских автомобилей и идеально подходит для покупателей, ищущих безупречное состояние.",
-        "ar": "سيارة هونغتشي HS5 موديل 2021 بمسافة 30,000 كم فقط، جميع الأجزاء المعدنية بطلائها الأصلي مما يدل على عناية فائقة. تعتبر سيارة مستعملة للتصدير تمثل أفضل المركبات الصينية عالية الجودة، مثالية لمشتري السيارات المستعملة للتصدير من الصين الباحثين عن حالة نقية."
+        "ru": "金属件原漆",
+        "ar": "金属件原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14257082/00_1778336544849_452_app_T_350.18K-350.18K.png",
@@ -1294,10 +1294,10 @@
         "cn": "领克"
       },
       "model": {
-        "en": "03+ 2.0TD Yufeng Edition",
+        "en": "领克03+ 2.0TD 驭风版",
         "cn": "领克03+ 2.0TD 驭风版",
-        "ru": "03+ 2.0TD Yufeng Edition",
-        "ar": "03+ 2.0TD يوفينغ"
+        "ru": "领克03+ 2.0TD 驭风版",
+        "ar": "领克03+ 2.0TD 驭风版"
       },
       "year": 2020,
       "price": 9886,
@@ -1310,10 +1310,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2021 Lynk & Co 03+ has 40,000 km and is in good running condition. The left front fender and right rear fender have been repaired, while the right front door and left rear door have been repainted. A quality Chinese vehicle perfect for pre-owned cars for export, available through trusted used car export China channels.",
+        "en": "左前翼子板钣金，右后翼子板钣金。\n右前门左后门喷漆。",
         "cn": "左前翼子板钣金，右后翼子板钣金。\n右前门左后门喷漆。",
-        "ru": "Этот Линк & Ко 03+ 2021 года с пробегом 40 000 км находится в хорошем рабочем состоянии. Левое переднее крыло и правое заднее крыло отремонтированы, а правая передняя дверь и левая задняя дверь перекрашены. Качественный китайский автомобиль, идеально подходящий для экспорта подержанных автомобилей.",
-        "ar": "سيارة لينك أند كو 03+ موديل 2021 بمسافة 40,000 كم بحالة تشغيل جيدة. تم إصلاح الرفرف الأمامي الأيسر والرفرف الخلفي الأيمن، وإعادة دهان الباب الأمامي الأيمن والباب الخلفي الأيسر. مركبة صينية عالية الجودة مثالية للسيارات المستعملة للتصدير من الصين."
+        "ru": "左前翼子板钣金，右后翼子板钣金。\n右前门左后门喷漆。",
+        "ar": "左前翼子板钣金，右后翼子板钣金。\n右前门左后门喷漆。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404336/00_1778763671670_703_app_N_300.22K-300.22K.png",
@@ -1345,10 +1345,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "bZ4X 615 PRO Edition",
+        "en": "铂智4X 615 PRO版",
         "cn": "铂智4X 615 PRO版",
-        "ru": "bZ4X 615 PRO Edition",
-        "ar": "bZ4X 615 PRO Edition"
+        "ru": "铂智4X 615 PRO版",
+        "ar": "铂智4X 615 PRO版"
       },
       "year": 2024,
       "price": 14410,
@@ -1361,10 +1361,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "2023 model, only 10,000 km, original paint. This quality Chinese vehicle is ideal for used car export China and represents one of the best pre-owned cars for export.",
+        "en": "原漆",
         "cn": "原漆",
-        "ru": "Модель 2023 года, всего 10 000 км, оригинальная краска. Этот качественный китайский автомобиль подходит для экспорта подержанных автомобилей из Китая.",
-        "ar": "موديل 2023، 10,000 كم فقط، طلاء أصلي. هذه السيارة الصينية عالية الجودة مناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "原漆",
+        "ar": "原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404567/00_1778764837541_216_app_S_283.02K-283.02K_parse.png",
@@ -1397,10 +1397,10 @@
         "cn": "马自达"
       },
       "model": {
-        "en": "3 Axela Sedan 2.0 Zhiya Edition",
+        "en": "3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版",
         "cn": "3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版",
-        "ru": "3 Axela Sedan 2.0 Zhiya Edition",
-        "ar": "3 Axela Sedan 2.0 Zhiya Edition"
+        "ru": "3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版",
+        "ar": "3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版"
       },
       "year": 2023,
       "price": 11660,
@@ -1413,10 +1413,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "2023 model, low mileage at 12,000 km, right front fender repainted. A quality Chinese vehicle suitable for used car export China and a reliable option among pre-owned cars for export.",
+        "en": "右前翼子板喷漆",
         "cn": "右前翼子板喷漆",
-        "ru": "Модель 2023 года, небольшой пробег 12 000 км, окрашено правое переднее крыло. Качественный китайский автомобиль для экспорта подержанных авто.",
-        "ar": "موديل 2023، مسافة منخفضة 12,000 كم، إعادة طلاء للرفرف الأمامي الأيمن. سيارة صينية عالية الجودة مناسبة لتصدير السيارات المستعملة."
+        "ru": "右前翼子板喷漆",
+        "ar": "右前翼子板喷漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404181/00_1778763115816_121_app_B_427.19K-427.19K_parse.png",
@@ -1449,10 +1449,10 @@
         "cn": "奇瑞"
       },
       "model": {
-        "en": "Tiggo 8 PRO 1.6T 290T 2WD Premium Edition",
+        "en": "瑞虎8 PRO 1.6T 290T 两驱尊贵版",
         "cn": "瑞虎8 PRO 1.6T 290T 两驱尊贵版",
-        "ru": "Tiggo 8 PRO 1.6T 290T 2WD Premium Edition",
-        "ar": "Tiggo 8 PRO 1.6T 290T 2WD Premium Edition"
+        "ru": "瑞虎8 PRO 1.6T 290T 两驱尊贵版",
+        "ar": "瑞虎8 PRO 1.6T 290T 两驱尊贵版"
       },
       "year": 2025,
       "price": 12320,
@@ -1465,10 +1465,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "2023 model, only 8,000 km, original paint. A prime example of quality Chinese vehicles for used car export China, perfect for pre-owned cars for export.",
+        "en": "原漆",
         "cn": "原漆",
-        "ru": "Модель 2023 года, всего 8 000 км, оригинальная краска. Отличный образец качественных китайских автомобилей для экспорта подержанных машин.",
-        "ar": "موديل 2023، فقط 8,000 كم، طلاء أصلي. مثال رائع للسيارات الصينية عالية الجودة لتصدير السيارات المستعملة."
+        "ru": "原漆",
+        "ar": "原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14393056/00_1778743159712_501_app_N_426.25K-426.25K_parse.png",
@@ -1501,10 +1501,10 @@
         "cn": "奥迪"
       },
       "model": {
-        "en": "Q7 48V 3.0TFSI 55TFSI Quattro S line Sport",
+        "en": "Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型",
         "cn": "Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型",
-        "ru": "Q7 48V 3.0TFSI 55TFSI Quattro S line Sport",
-        "ar": "Q7 48V 3.0TFSI 55TFSI Quattro S line سبورت"
+        "ru": "Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型",
+        "ar": "Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型"
       },
       "year": 2023,
       "price": 45237,
@@ -1517,10 +1517,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2023 Audi Q7, registered in March 2023 with 71,000 km (44,000 miles), features original paint and panels in pristine condition. A quality Chinese vehicle ideal for used car export China, it offers a powerful 3.0T engine and quattro drive. One of the finest pre-owned cars for export from China.",
+        "en": "新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，",
         "cn": "新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，",
-        "ru": "Этот Audi Q7 2023 года выпуска, зарегистрированный в марте 2023 года, с пробегом 71 000 км, в отличном состоянии с оригинальной краской и панелями кузова. Идеальный вариант для экспорта подержанных автомобилей из Китая, оснащён мощным двигателем 3.0T и полным приводом quattro.",
-        "ar": "سيارة أودي Q7 موديل 2023، تم تسجيلها في مارس 2023، بمسافة 71,000 كم، بحالة ممتازة مع طلاء وألواح أصلية. تعتبر سيارة صينية عالية الجودة مثالية لتصدير السيارات المستعملة من الصين، وتتميز بمحرك 3.0T قوي ودفع رباعي كواترو."
+        "ru": "新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，",
+        "ar": "新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13637838/00_1776926596571W2195_883130.jpg",
@@ -1556,10 +1556,10 @@
         "cn": "AITO"
       },
       "model": {
-        "en": "M9 EV Ultra 100kWh",
+        "en": "问界M9 EV 纯电Ultra版100kWh",
         "cn": "问界M9 EV 纯电Ultra版100kWh",
-        "ru": "M9 EV Ultra 100 кВт·ч",
-        "ar": "M9 EV Ultra 100 كيلوواط ساعة"
+        "ru": "问界M9 EV 纯电Ultra版100kWh",
+        "ar": "问界M9 EV 纯电Ultra版100kWh"
       },
       "year": 2024,
       "price": 50297,
@@ -1572,10 +1572,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This 2024 AITO M9 EV Ultra with a 100 kWh battery, registered in November 2024, has only 21,000 km (13,000 miles). It is a one-owner vehicle with full self-driving capability purchased outright, full paint protection film, and original paint with no accidents. As a quality Chinese vehicle, it is a prime candidate for used car export China. Pre-owned cars for export like this M9 showcase cutting-edge Chinese EV technology.",
+        "en": "24年11月上牌，问界M9，100度纯电，智驾买断，全车隐形车衣，2.1万公里一手车，原版原漆，精品车况",
         "cn": "24年11月上牌，问界M9，100度纯电，智驾买断，全车隐形车衣，2.1万公里一手车，原版原漆，精品车况",
-        "ru": "Этот AITO M9 EV Ultra 2024 года с аккумулятором 100 кВт·ч, зарегистрированный в ноябре 2024 года, имеет пробег всего 21 000 км. Автомобиль с одним владельцем, полным автопилотом, выкупленным полностью, защитной плёнкой на весь кузов и оригинальной краской. Отличный вариант для экспорта подержанных автомобилей из Китая, демонстрирующий передовые китайские электромобильные технологии.",
-        "ar": "سيارة AITO M9 EV Ultra موديل 2024، بسعة بطارية 100 كيلوواط ساعة، تم تسجيلها في نوفمبر 2024، بمسافة 21,000 كم فقط. سيارة مملوكة لمالك واحد، مع نظام قيادة ذاتي كامل مشترى بالكامل، غلاف حماية كامل للطلاء، وطلاء أصلي بدون حوادث. تعتبر سيارة صينية عالية الجودة ومناسبة تماماً لتصدير السيارات المستعملة من الصين، وتظهر أحدث تقنيات السيارات الكهربائية الصينية."
+        "ru": "24年11月上牌，问界M9，100度纯电，智驾买断，全车隐形车衣，2.1万公里一手车，原版原漆，精品车况",
+        "ar": "24年11月上牌，问界M9，100度纯电，智驾买断，全车隐形车衣，2.1万公里一手车，原版原漆，精品车况"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14404502/00_1778764485398p5578_306237_parse.jpg",
@@ -1607,10 +1607,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "C-Class C200L Sport 48V 1.5T",
+        "en": "C级 C 200 L 48V 1.5T 运动版",
         "cn": "C级 C 200 L 48V 1.5T 运动版",
-        "ru": "C-Class C200L Sport 48V 1.5T",
-        "ar": "C-Class C200L سبورت 48V 1.5T"
+        "ru": "C级 C 200 L 48V 1.5T 运动版",
+        "ar": "C级 C 200 L 48V 1.5T 运动版"
       },
       "year": 2022,
       "price": 22962,
@@ -1623,10 +1623,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Mercedes-Benz C200L Sport (1.5T) has a replaced windshield and one door repainted, otherwise in original condition. Fixed price. For year and mileage, please inquire. As a quality Chinese vehicle, it is suitable for used car export China and represents a value option among pre-owned cars for export.",
+        "en": "单换前挡风，原版，一个门补漆。一口价",
         "cn": "单换前挡风，原版，一个门补漆。一口价",
-        "ru": "Этот Mercedes-Benz C200L Sport (1.5T) имеет заменённое лобовое стекло и одну перекрашенную дверь, в остальном в оригинальном состоянии. Фиксированная цена. Год и пробег уточняйте при запросе. Автомобиль подходит для экспорта подержанных автомобилей из Китая.",
-        "ar": "سيارة مرسيدس-بنز C200L سبورت (1.5T) تم استبدال الزجاج الأمامي وإعادة طلاء باب واحد، وبخلاف ذلك بحالة أصلية. سعر ثابت. يرجى الاستفسار عن سنة الصنع والمسافة. تعتبر سيارة صينية عالية الجودة مناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "单换前挡风，原版，一个门补漆。一口价",
+        "ar": "单换前挡风，原版，一个门补漆。一口价"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12396363/00.jpg",
@@ -1675,10 +1675,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2023 model is a one-owner vehicle with original paint and a full-body protective coating. As a quality Chinese vehicle ideal for used car export China, it features premium large seats and the highest luxury trim. The pre-owned car for export requires no additional investment.",
+        "en": "原版原漆，带车衣。一手车，大座椅，高配版",
         "cn": "原版原漆，带车衣。一手车，大座椅，高配版",
-        "ru": "Автомобиль 2023 года с одним владельцем, заводской краской и полной защитной пленкой. Оснащен премиальными большими сиденьями и самой высокой комплектацией. Состояние отличное, без вложений.",
-        "ar": "سيارة موديل 2023 مع مالك واحد، دهان أصلي وطبقة حماية كاملة. مزودة بمقاعد كبيرة فاخرة وأعلى فئة تجهيز. الحالة ممتازة ولا تحتاج إلى أي استثمار."
+        "ru": "原版原漆，带车衣。一手车，大座椅，高配版",
+        "ar": "原版原漆，带车衣。一手车，大座椅，高配版"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13952368/07_1777283832288x9348_425678.jpg"
@@ -1703,10 +1703,10 @@
         "cn": "长安"
       },
       "model": {
-        "en": "Eado 1.5T 500Bar 智享型",
+        "en": "逸动 1.5T 500Bar 智享型",
         "cn": "逸动 1.5T 500Bar 智享型",
-        "ru": "Eado 1.5T 500Bar 智享型",
-        "ar": "إيادو 1.5T 500Bar 智享型"
+        "ru": "逸动 1.5T 500Bar 智享型",
+        "ar": "逸动 1.5T 500Bar 智享型"
       },
       "year": 2026,
       "price": 9487,
@@ -1719,10 +1719,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "A pristine 2023 model with original paint throughout and a single owner. This quality Chinese vehicle is perfect for used car export China, offering the latest 1.5T engine with 500Bar direct injection. A pre-owned car for export with zero defects.",
+        "en": "原版车，全车原漆，一手，",
         "cn": "原版车，全车原漆，一手，",
-        "ru": "Автомобиль 2023 года, полностью заводская краска, один владелец. Оснащен новейшим двигателем 1.5T с непосредственным впрыском 500Bar. Состояние отличное, без дефектов.",
-        "ar": "سيارة موديل 2023، دهان أصلي بالكامل، مالك واحد. مزودة بأحدث محرك 1.5T مع حقن مباشر 500Bar. الحالة ممتازة بدون عيوب."
+        "ru": "原版车，全车原漆，一手，",
+        "ar": "原版车，全车原漆，一手，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13993277/00_1777434091310q4665_107307.jpg",
@@ -1768,10 +1768,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "A firm fixed price with no negotiation, this 2022 model has a verified true mileage and is a one-owner vehicle. Original paint and factory condition with zero required investment make it an outstanding quality Chinese vehicle for used car export China. Another top pre-owned car for export ready to go.",
+        "en": "一口价还价不回，实表一手，原版原漆0投资，",
         "cn": "一口价还价不回，实表一手，原版原漆0投资，",
-        "ru": "Фиксированная цена без торга, подтвержденный реальный пробег, один владелец. Заводская краска и состояние, не требующее вложений. Отличный вариант для экспорта.",
-        "ar": "سعر ثابت بدون مفاوضة، عداد مسافة حقيقي موثق، مالك واحد. دهان أصلي وحالة مصنعية لا تحتاج إلى أي استثمار. خيار ممتاز للتصدير."
+        "ru": "一口价还价不回，实表一手，原版原漆0投资，",
+        "ar": "一口价还价不回，实表一手，原版原漆0投资，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/11989948/00_1769582140718e8342_391778.jpg",
@@ -1804,10 +1804,10 @@
         "cn": "腾势"
       },
       "model": {
-        "en": "Denza D9 DM-i 1.5T CVT 1040 Premium",
+        "en": "腾势D9 DM-i 1.5T 无级 1040 尊贵型",
         "cn": "腾势D9 DM-i 1.5T 无级 1040 尊贵型",
-        "ru": "Denza D9 DM-i 1.5T CVT 1040 Premium",
-        "ar": "Denza D9 DM-i 1.5T CVT 1040 Premium"
+        "ru": "腾势D9 DM-i 1.5T 无级 1040 尊贵型",
+        "ar": "腾势D9 DM-i 1.5T 无级 1040 尊贵型"
       },
       "year": 2022,
       "price": 25987,
@@ -1820,10 +1820,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint, one-owner. A quality Chinese vehicle perfect for used car export China, this pre-owned car for export is in excellent condition.",
+        "en": "原漆一手",
         "cn": "原漆一手",
-        "ru": "Оригинальная краска, один владелец. Отличное состояние.",
-        "ar": "طلاء أصلي، مالك واحد. حالة ممتازة."
+        "ru": "原漆一手",
+        "ar": "原漆一手"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14397335/00_1778748497545w4829_567036.jpg",
@@ -1869,10 +1869,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Right front headlight replaced, two panels repainted, actual mileage. This pre-owned car for export from China is one of the quality Chinese vehicles available for used car export China.",
+        "en": "右前大灯更换，2个面补漆，实表",
         "cn": "右前大灯更换，2个面补漆，实表",
-        "ru": "Замена правой передней фары, два элемента окрашены, реальный пробег.",
-        "ar": "استبدال المصباح الأمامي الأيمن، طلاء وجهين، عداد حقيقي."
+        "ru": "右前大灯更换，2个面补漆，实表",
+        "ar": "右前大灯更换，2个面补漆，实表"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/10244719/00_1761972408973_813_app_C.jpeg",
@@ -1921,10 +1921,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "Original condition, full original paint, one-owner. Features: front seat massage, rear seat heating, driver seat memory, lumbar support (front passenger), 22-inch wheels, semi-aniline leather seats, second-row manual sunshades, 64-color ambient lighting, 4-way adjustable front headrests, surround view camera, head-up display, power tailgate with kick sensor, lane change assist, LED fog lights, power-adjustable steering wheel with memory, front cross-traffic alert, driver monitor camera, Mark Levinson audio, automatic parking, four-door chrome anti-scuff plates, LED illuminated scuff plates, power folding third-row seats. A quality Chinese vehicle for used car export China, this pre-owned car for export offers luxury and reliability.",
+        "en": "原版车，全车原漆，一手，，前排座椅按摩，后排座椅加热，驾驶员座椅记忆，腰部支撑（主副驾），22寸轮毂，半苯胺真皮座椅，二排手动遮阳帘，64色氛围灯，4向可调节前排头枕，环车影像，抬头显示，感应电动尾门，变道辅助，LED雾灯，电动调节方向盘带记忆，前方交叉道路警报，驾驶员监控摄像头，马克莱文森音响，自动泊车，四门镀铬防擦条，LED发光防擦板，电动折叠三排座椅",
         "cn": "原版车，全车原漆，一手，，前排座椅按摩，后排座椅加热，驾驶员座椅记忆，腰部支撑（主副驾），22寸轮毂，半苯胺真皮座椅，二排手动遮阳帘，64色氛围灯，4向可调节前排头枕，环车影像，抬头显示，感应电动尾门，变道辅助，LED雾灯，电动调节方向盘带记忆，前方交叉道路警报，驾驶员监控摄像头，马克莱文森音响，自动泊车，四门镀铬防擦条，LED发光防擦板，电动折叠三排座椅",
-        "ru": "Оригинальное состояние, полная оригинальная краска, один владелец. Функции: массаж передних сидений, подогрев задних сидений, память водительского сиденья, поясничная поддержка (переднее пассажирское), 22-дюймовые колеса, полуанилиновая кожа, ручные шторки второго ряда, 64-цветная атмосферная подсветка, 4-позиционные передние подголовники, камера кругового обзора, проекционный дисплей, электропривод багажника с датчиком движения ноги, помощь при смене полосы, светодиодные противотуманные фары, электрорегулировка рулевого колеса с памятью, предупреждение о перекрестном движении спереди, камера контроля водителя, аудиосистема Mark Levinson, автоматическая парковка, четыре хромированные защитные накладки на двери, светодиодные пороги, электропривод складывания третьего ряда сидений.",
-        "ar": "حالة أصلية، طلاء أصلي كامل، مالك واحد. الميزات: تدليك المقاعد الأمامية، تسخين المقاعد الخلفية، ذاكرة مقعد السائق، دعم قطني (الراكب الأمامي)، عجلات 22 بوصة، مقاعد جلدية شبه أنيلين، ستائر يدوية للصف الثاني، إضاءة محيطة بـ64 لونًا، مساند رأس أمامية قابلة للتعديل بأربع اتجاهات، كاميرا محيطية، عرض أمامي (HUD)، باب خلفي كهربائي مع مستشعر حركة القدم، مساعدة تغيير المسار، مصابيح ضباب LED، عجلة قيادة كهربائية مع ذاكرة، تنبيه حركة المرور الأمامية المتقاطعة، كاميرا مراقبة السائق، نظام صوت مارك ليفينسون، ركن تلقائي، لوحات حماية كروم للأبواب الأربعة، لوحات عتبات مضيئة LED، طي كهربائي للصف الثالث من المقاعد."
+        "ru": "原版车，全车原漆，一手，，前排座椅按摩，后排座椅加热，驾驶员座椅记忆，腰部支撑（主副驾），22寸轮毂，半苯胺真皮座椅，二排手动遮阳帘，64色氛围灯，4向可调节前排头枕，环车影像，抬头显示，感应电动尾门，变道辅助，LED雾灯，电动调节方向盘带记忆，前方交叉道路警报，驾驶员监控摄像头，马克莱文森音响，自动泊车，四门镀铬防擦条，LED发光防擦板，电动折叠三排座椅",
+        "ar": "原版车，全车原漆，一手，，前排座椅按摩，后排座椅加热，驾驶员座椅记忆，腰部支撑（主副驾），22寸轮毂，半苯胺真皮座椅，二排手动遮阳帘，64色氛围灯，4向可调节前排头枕，环车影像，抬头显示，感应电动尾门，变道辅助，LED雾灯，电动调节方向盘带记忆，前方交叉道路警报，驾驶员监控摄像头，马克莱文森音响，自动泊车，四门镀铬防擦条，LED发光防擦板，电动折叠三排座椅"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14393896/00_1778743904300H11070_72157.jpg",
@@ -1972,10 +1972,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This original paint, single-owner quality Chinese vehicle is a prime candidate for used car export China. With a clean history and original body panels, it's one of the best pre-owned cars for export. Ideal for buyers seeking a low-mileage luxury MPV.",
+        "en": "原版车，一手，全车原漆，",
         "cn": "原版车，一手，全车原漆，",
-        "ru": "Оригинальная окраска, один владелец, качественный китайский автомобиль — отличный вариант для экспорта подержанных автомобилей из Китая. Чистая история, кузов без перекраски. Один из лучших подержанных автомобилей для экспорта.",
-        "ar": "سيارة صينية عالية الجودة بطلاء أصلي ومالك واحد، مثالية لتصدير السيارات المستعملة من الصين. بحالة أصلية ونظيفة، وهي من أفضل السيارات المستعملة للتصدير."
+        "ru": "原版车，一手，全车原漆，",
+        "ar": "原版车，一手，全车原漆，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14392873/00_1778742880328J12304_88448.jpg",
@@ -2021,10 +2021,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle features original paint and single ownership, with the M Sport package and minor scratches. As a pre-owned car for export, it offers great value for used car export China. A well-maintained SUV ready for international buyers.",
+        "en": "原漆一手，30M运动，小划痕",
         "cn": "原漆一手，30M运动，小划痕",
-        "ru": "Качественный китайский автомобиль с оригинальной краской, одним владельцем, пакетом M Sport и мелкими царапинами. Отличный вариант для экспорта подержанных автомобилей из Китая. Хорошо обслуживаемый внедорожник для международных покупателей.",
-        "ar": "سيارة صينية عالية الجودة بطلاء أصلي ومالك واحد، مع حزمة M الرياضية وخدوش طفيفة. خيار ممتاز لتصدير السيارات المستعملة من الصين. سيارة دفع رباعي محافظة عليها جيداً للمشترين الدوليين."
+        "ru": "原漆一手，30M运动，小划痕",
+        "ar": "原漆一手，30M运动，小划痕"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12693764/00_1775644503891O4512_895304.jpg",
@@ -2075,10 +2075,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle has only one replaced headlight; all other parts are original with some paintwork as per records. Perfect for used car export China, this pre-owned car for export offers a clean history and premium comfort. A highly recommended option among quality Chinese vehicles.",
+        "en": "单换一个大灯其他原版，做漆多看记录。",
         "cn": "单换一个大灯其他原版，做漆多看记录。",
-        "ru": "Качественный китайский автомобиль с одной заменённой фарой, остальные детали оригинальны, имеется подкраска по записям. Отличный выбор для экспорта подержанных автомобилей из Китая. Чистая история и премиальный комфорт.",
-        "ar": "سيارة صينية عالية الجودة تم استبدال مصباح أمامي واحد فقط، باقي الأجزاء أصلية مع بعض الطلاء حسب السجلات. مثالية لتصدير السيارات المستعملة من الصين. تاريخ نظيف وراحة فاخرة."
+        "ru": "单换一个大灯其他原版，做漆多看记录。",
+        "ar": "单换一个大灯其他原版，做漆多看记录。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13584616/00_1776223364808_649_app_A_423.37K-423.37K.jpeg",
@@ -2112,10 +2112,10 @@
         "cn": "小米"
       },
       "model": {
-        "en": "SU7 800km AWD Ultra-Long Range High-Level Intelligent Driving Max Edition",
+        "en": "SU7 800km 四驱超长续航高阶智驾Max版",
         "cn": "SU7 800km 四驱超长续航高阶智驾Max版",
-        "ru": "SU7 800km полный привод сверхдальний запас хода высокоуровневое интеллектуальное вождение Max Edition",
-        "ar": "SU7 800km دفع رباعي مدى فائق الطويل قيادة ذكية عالية المستوى ماكس إصدار"
+        "ru": "SU7 800km 四驱超长续航高阶智驾Max版",
+        "ar": "SU7 800km 四驱超长续航高阶智驾Max版"
       },
       "year": 2024,
       "price": 31968,
@@ -2128,10 +2128,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This Xiaomi SU7 Max features optional 21-inch wheels. The front bumper has repainted areas and minor scratches. As a quality Chinese vehicle, it is an excellent choice for used car export China and pre-owned cars for export.",
+        "en": "选配21寸大轮毂，前杠有补漆，有小划痕",
         "cn": "选配21寸大轮毂，前杠有补漆，有小划痕",
-        "ru": "Данный Xiaomi SU7 Max оснащен опциональными 21-дюймовыми дисками. Передний бампер подкрашен, есть мелкие царапины. Это качественный китайский автомобиль, идеальный для экспорта подержанных автомобилей из Китая.",
-        "ar": "تحتوي سيارة Xiaomi SU7 Max هذه على عجلات مقاس 21 بوصة اختيارية. يحتوي المصد الأمامي على طلاء تم إصلاحه وخدوش صغيرة. كمركبة صينية عالية الجودة، فهي خيار ممتاز لتصدير السيارات المستعملة من الصين."
+        "ru": "选配21寸大轮毂，前杠有补漆，有小划痕",
+        "ar": "选配21寸大轮毂，前杠有补漆，有小划痕"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375281/00_1778679035323_099_app_G_385.61K-385.61K_parse.jpeg",
@@ -2168,10 +2168,10 @@
         "cn": "奥迪"
       },
       "model": {
-        "en": "A4L 2.0TFSI 40TFSI Fashion Dynamic Edition",
+        "en": "A4L 2.0TFSI 40TFSI 时尚动感型",
         "cn": "A4L 2.0TFSI 40TFSI 时尚动感型",
-        "ru": "A4L 2.0TFSI 40TFSI Fashion Dynamic Edition",
-        "ar": "A4L 2.0TFSI 40TFSI إصدار ديناميكي أنيق"
+        "ru": "A4L 2.0TFSI 40TFSI 时尚动感型",
+        "ar": "A4L 2.0TFSI 40TFSI 时尚动感型"
       },
       "year": 2022,
       "price": 19250,
@@ -2184,10 +2184,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2022 Audi A4L was first registered in July 2022. It has 44,000 km, original paint, and is in excellent condition with single ownership. A perfect candidate for pre-owned cars for export and used car export China.",
+        "en": "22年7月上牌，奥迪A4L，时尚型，4.4万公里一手车，原版原漆，精品车况",
         "cn": "22年7月上牌，奥迪A4L，时尚型，4.4万公里一手车，原版原漆，精品车况",
-        "ru": "Этот Audi A4L 2022 года был зарегистрирован в июле 2022 года. Пробег 44 000 км, оригинальная краска, отличное состояние, один владелец. Отличный вариант для экспорта подержанных автомобилей из Китая.",
-        "ar": "تم تسجيل هذه السيارة أودي A4L موديل 2022 في يوليو 2022. عدد الكيلومترات 44,000 كم، طلاء أصلي، حالة ممتازة، مالك واحد. خيار مثالي لتصدير السيارات المستعملة من الصين."
+        "ru": "22年7月上牌，奥迪A4L，时尚型，4.4万公里一手车，原版原漆，精品车况",
+        "ar": "22年7月上牌，奥迪A4L，时尚型，4.4万公里一手车，原版原漆，精品车况"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14176106/00_1778130473282W8006_356758_parse.jpg",
@@ -2219,10 +2219,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Premium Edition",
+        "en": "埃尔法 埃尔法 2.5 无级 尊贵版",
         "cn": "埃尔法 埃尔法 2.5 无级 尊贵版",
-        "ru": "Alphard 2.5 CVT Premium Edition",
-        "ar": "ألفارد 2.5 CVT بريميوم إصدار"
+        "ru": "埃尔法 埃尔法 2.5 无级 尊贵版",
+        "ar": "埃尔法 埃尔法 2.5 无级 尊贵版"
       },
       "year": 2021,
       "price": 75350,
@@ -2235,10 +2235,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2022 Toyota Alphard was registered in August 2022. It has 58,000 km, full body paint protection film, large seats, JBL audio, heated and ventilated seats, and is in excellent condition with single ownership. Ideal for quality used car export China.",
+        "en": "新到22年8月上牌，丰田埃尔法，尊贵版，大座椅，GBL音响，座椅加热，通风，全车隐形车衣，5.8万公里一手车，精品车况",
         "cn": "新到22年8月上牌，丰田埃尔法，尊贵版，大座椅，GBL音响，座椅加热，通风，全车隐形车衣，5.8万公里一手车，精品车况",
-        "ru": "Этот Toyota Alphard 2022 года зарегистрирован в августе 2022 года. Пробег 58 000 км, полная защитная пленка кузова, большие сиденья, аудиосистема JBL, подогрев и вентиляция сидений, отличное состояние, один владелец. Идеальный вариант для качественного экспорта подержанных автомобилей из Китая.",
-        "ar": "تم تسجيل هذه السيارة تويوتا ألفارد موديل 2022 في أغسطس 2022. عدد الكيلومترات 58,000 كم، طبقة حماية كاملة للجسم، مقاعد كبيرة، نظام صوت JBL، تدفئة وتهوية المقاعد، حالة ممتازة، مالك واحد. خيار مثالي لتصدير السيارات المستعملة عالية الجودة من الصين."
+        "ru": "新到22年8月上牌，丰田埃尔法，尊贵版，大座椅，GBL音响，座椅加热，通风，全车隐形车衣，5.8万公里一手车，精品车况",
+        "ar": "新到22年8月上牌，丰田埃尔法，尊贵版，大座椅，GBL音响，座椅加热，通风，全车隐形车衣，5.8万公里一手车，精品车况"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14215333/00_1778567803327z3556_855962.jpg",
@@ -2274,10 +2274,10 @@
         "cn": "宝马"
       },
       "model": {
-        "en": "6 Series GT 630i 2.0T Luxury Design Package",
+        "en": "6系GT GT 630i 2.0T 豪华设计套装",
         "cn": "6系GT GT 630i 2.0T 豪华设计套装",
-        "ru": "6 серии GT 630i 2.0T Люкс дизайн пакет",
-        "ar": "6-series GT 630i 2.0T حزمة التصميم الفاخر"
+        "ru": "6系GT GT 630i 2.0T 豪华设计套装",
+        "ar": "6系GT GT 630i 2.0T 豪华设计套装"
       },
       "year": 2022,
       "price": 40287,
@@ -2290,10 +2290,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "New arrival: BMW 630GT Luxury, first registered in January 2024, only 15,000 km, original paint and mint condition. A quality Chinese vehicle perfect for used car export China – one of the finest pre-owned cars for export.",
+        "en": "新到24年1上牌，宝马630GT豪华版，1.5万公里，原版原漆",
         "cn": "新到24年1上牌，宝马630GT豪华版，1.5万公里，原版原漆",
-        "ru": "Новое поступление: BMW 630GT Люкс, зарегистрирован в январе 2024, пробег 15 000 км, оригинальная краска, отличное состояние. Качественный китайский автомобиль для экспорта.",
-        "ar": "وصل حديثًا: بي إم دبليو 630GT Luxury، مسجل في يناير 2024، 15,000 كم، طلاء أصلي، حالة ممتازة. سيارة صينية عالية الجودة مثالية لتصدير السيارات المستعملة من الصين."
+        "ru": "新到24年1上牌，宝马630GT豪华版，1.5万公里，原版原漆",
+        "ar": "新到24年1上牌，宝马630GT豪华版，1.5万公里，原版原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14117938/00_1778310448241e3566_731738.jpg",
@@ -2328,10 +2328,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "C 260 48V 1.5T Star Edition",
+        "en": "C级 C 260 48V 1.5T 星耀臻藏版",
         "cn": "C级 C 260 48V 1.5T 星耀臻藏版",
-        "ru": "C 260 48V 1.5T Звездное издание",
-        "ar": "C 260 48V 1.5T إصدار النجوم"
+        "ru": "C级 C 260 48V 1.5T 星耀臻藏版",
+        "ar": "C级 C 260 48V 1.5T 星耀臻藏版"
       },
       "year": 2021,
       "price": 19937,
@@ -2344,10 +2344,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Mercedes-Benz C260 48V 1.5T Star Edition. This pre-owned car has passed a third-party inspection (Dr. Chaboshi) with a 90-day repurchase guarantee. Note: rear panel inner liner and right rear fender inner liner have sheet metal repairs. A quality Chinese vehicle ideal for used car export China.",
+        "en": "查博士三方已过，90天回购s级，后围板内村钣金，右后叶内村钣金。",
         "cn": "查博士三方已过，90天回购s级，后围板内村钣金，右后叶内村钣金。",
-        "ru": "Mercedes-Benz C260 48V 1.5T Звездное издание. Прошел независимую проверку (Dr. Chaboshi) с 90-дневной гарантией обратного выкупа. Задняя панель и внутренняя облицовка правого заднего крыла отремонтированы (листовой металл). Качественный китайский автомобиль для экспорта.",
-        "ar": "مرسيدس بنز C260 48V 1.5T إصدار النجوم. اجتاز الفحص من طرف ثالث (د. تشابوشي) مع ضمان إعادة شراء لمدة 90 يومًا. تم إصلاح البطانة الداخلية للوحة الخلفية والبطانة الداخلية للجناح الخلفي الأيمن (صفائح معدنية). سيارة صينية عالية الجودة مناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "查博士三方已过，90天回购s级，后围板内村钣金，右后叶内村钣金。",
+        "ar": "查博士三方已过，90天回购s级，后围板内村钣金，右后叶内村钣金。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12783438/00_1773811000061_643_app_Q_408.55K-408.55K.jpeg",
@@ -2381,10 +2381,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "C 200 L 48V 1.5T Sport",
+        "en": "C级 C 200 L 48V 1.5T 运动版",
         "cn": "C级 C 200 L 48V 1.5T 运动版",
-        "ru": "C 200 L 48V 1.5T Спорт",
-        "ar": "C 200 L 48V 1.5T سبورت"
+        "ru": "C级 C 200 L 48V 1.5T 运动版",
+        "ar": "C级 C 200 L 48V 1.5T 运动版"
       },
       "year": 2024,
       "price": 26812,
@@ -2397,10 +2397,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "New arrival: Mercedes-Benz C200L, registered June 2024, only 11,000 km, one owner, original paint, excellent condition. A premium quality Chinese vehicle ideal for used car export China. Pre-owned cars for export like this are rare finds.",
+        "en": "新到24年6月上牌，奔驰C200L，1.1万公里一手车，原版原漆，精品车况",
         "cn": "新到24年6月上牌，奔驰C200L，1.1万公里一手车，原版原漆，精品车况",
-        "ru": "Новое поступление: Mercedes-Benz C200L, зарегистрирован в июне 2024, пробег 11 000 км, один владелец, оригинальная краска, отличное состояние. Премиальный качественный китайский автомобиль для экспорта.",
-        "ar": "وصل حديثًا: مرسيدس بنز C200L، مسجل في يونيو 2024، 11,000 كم، مالك واحد، طلاء أصلي، حالة ممتازة. سيارة صينية فاخرة عالية الجودة مثالية لتصدير السيارات المستعملة من الصين."
+        "ru": "新到24年6月上牌，奔驰C200L，1.1万公里一手车，原版原漆，精品车况",
+        "ar": "新到24年6月上牌，奔驰C200L，1.1万公里一手车，原版原漆，精品车况"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12231008/00_1770961005568z10452_792917.jpg",
@@ -2435,10 +2435,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Premium Edition",
+        "en": "埃尔法 埃尔法 2.5 无级 尊贵版",
         "cn": "埃尔法 埃尔法 2.5 无级 尊贵版",
-        "ru": "Alphard 2.5 CVT Premium Edition",
-        "ar": "Alphard 2.5 CVT Premium Edition"
+        "ru": "埃尔法 埃尔法 2.5 无级 尊贵版",
+        "ar": "埃尔法 埃尔法 2.5 无级 尊贵版"
       },
       "year": 2021,
       "price": 79062,
@@ -2451,10 +2451,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2022 Toyota Alphard 2.5 Premium Edition is a quality Chinese vehicle now available for used car export China. With only 67,000 km and one owner, it features JBL audio, heated and ventilated seats, making it an ideal pre-owned car for export in excellent condition.",
+        "en": "新到22年3月上牌，丰田埃尔法，2.5尊贵版，JBL音响，座椅加热，通风，6.7万公里一手车，精品车况",
         "cn": "新到22年3月上牌，丰田埃尔法，2.5尊贵版，JBL音响，座椅加热，通风，6.7万公里一手车，精品车况",
-        "ru": "Этот Toyota Alphard 2.5 Premium Edition 2022 года — качественный китайский автомобиль, доступный для экспорта подержанных автомобилей из Китая. Всего 67 000 км, один владелец, аудиосистема JBL, подогрев и вентиляция сидений. Отличное состояние для экспорта.",
-        "ar": "سيارة تويوتا ألفارد 2.5 بريميوم إديشن 2022، سيارة صينية عالية الجودة متاحة لتصدير السيارات المستعملة من الصين. بمسافة 67,000 كم فقط ومالك واحد، تتميز بنظام JBL الصوتي ومقاعد مدفأة ومهواة. سيارة مملوكة مسبقاً بحالة ممتازة جاهزة للتصدير."
+        "ru": "新到22年3月上牌，丰田埃尔法，2.5尊贵版，JBL音响，座椅加热，通风，6.7万公里一手车，精品车况",
+        "ar": "新到22年3月上牌，丰田埃尔法，2.5尊贵版，JBL音响，座椅加热，通风，6.7万公里一手车，精品车况"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12164297/00_1770441720627F405_927606.jpg",
@@ -2489,10 +2489,10 @@
         "cn": "AITO"
       },
       "model": {
-        "en": "M9 EV Ultra 100kWh 5-Seat",
+        "en": "问界M9 EV 纯电Ultra版100kWh5座版",
         "cn": "问界M9 EV 纯电Ultra版100kWh5座版",
-        "ru": "M9 EV Ultra 100kWh 5-Seat",
-        "ar": "M9 EV Ultra 100kWh 5-Seat"
+        "ru": "问界M9 EV 纯电Ultra版100kWh5座版",
+        "ar": "问界M9 EV 纯电Ultra版100kWh5座版"
       },
       "year": 2025,
       "price": 57557,
@@ -2505,10 +2505,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This 2025 AITO M9 EV Ultra 5-seat with 100kWh battery is a quality Chinese vehicle ready for used car export China. With only 23,900 km, original paint, zero accidents, and one personal owner, it represents a premium pre-owned car for export with top-tier specifications.",
+        "en": "25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车",
         "cn": "25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车",
-        "ru": "Этот AITO M9 EV Ultra 2025 года с батареей 100 кВт·ч — качественный китайский автомобиль, готовый к экспорту подержанных автомобилей из Китая. Всего 23 900 км, оригинальная краска, без аварий, один владелец. Премиальный подержанный автомобиль для экспорта с высокими характеристиками.",
-        "ar": "سيارة AITO M9 EV ألترا 2025 ببطارية 100 كيلوواط/ساعة، سيارة صينية عالية الجودة جاهزة لتصدير السيارات المستعملة من الصين. بمسافة 23,900 كم فقط، طلاء أصلي، بدون حوادث، مالك واحد شخصي. سيارة مملوكة مسبقاً فاخرة للتصدير بمواصفات عالية."
+        "ru": "25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车",
+        "ar": "25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14339733/00_1778578910574_057_app_D_199.70K-199.70K.jpg",
@@ -2547,10 +2547,10 @@
         "cn": "特斯拉"
       },
       "model": {
-        "en": "Model 3 Rear-Wheel Drive",
+        "en": "Model 3 后轮驱动版",
         "cn": "Model 3 后轮驱动版",
-        "ru": "Model 3 Rear-Wheel Drive",
-        "ar": "Model 3 Rear-Wheel Drive"
+        "ru": "Model 3 后轮驱动版",
+        "ar": "Model 3 后轮驱动版"
       },
       "year": 2022,
       "price": 18837,
@@ -2563,10 +2563,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Tesla Model 3 Rear-Wheel Drive is a pre-owned car for export with original paint and single-owner history. Fully maintained with all expenses covered, it represents a quality Chinese vehicle ideal for used car export China.",
+        "en": "原漆一手车，费用足",
         "cn": "原漆一手车，费用足",
-        "ru": "Этот Tesla Model 3 с задним приводом — подержанный автомобиль для экспорта с оригинальной краской и одним владельцем. Полностью обслужен и все расходы покрыты. Качественный китайский автомобиль, идеально подходящий для экспорта подержанных автомобилей из Китая.",
-        "ar": "سيارة تيسلا موديل 3 ذات الدفع الخلفي، سيارة مملوكة مسبقاً للتصدير بطلاء أصلي ومالك واحد. صيانة كاملة وتغطية جميع النفقات. سيارة صينية عالية الجودة مثالية لتصدير السيارات المستعملة من الصين."
+        "ru": "原漆一手车，费用足",
+        "ar": "原漆一手车，费用足"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13913638/00_1777700696933k8287_580865_parse.jpg",
@@ -3102,10 +3102,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Passat 1.4TSI 280TSI Business Edition",
+        "en": "帕萨特 1.4TSI 280TSI 商务版",
         "cn": "帕萨特 1.4TSI 280TSI 商务版",
-        "ru": "Пассат 1.4TSI 280TSI Business Edition",
-        "ar": "باسات 1.4TSI 280TSI بيزنس إديشن"
+        "ru": "帕萨特 1.4TSI 280TSI 商务版",
+        "ar": "帕萨特 1.4TSI 280TSI 商务版"
       },
       "year": 2022,
       "price": 7975,
@@ -3118,10 +3118,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle, a pre-owned car for export, has been in private use with mostly original paint. It has a minor rear bumper impact from hitting a concrete block, and a third-party inspection report is available - perfect for used car export China.",
+        "en": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告",
         "cn": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告",
-        "ru": "Частное использование, в основном заводская краска. Удар заднего бампера о бетонный блок - небольшая проблема, но имеется отчёт сторонней проверки.",
-        "ar": "استخدام خاص، معظم الدهان الأصلي. تأثير بسيط في المصد الخلفي نتيجة الاصطدام بحاجز خرساني، مشكلة صغيرة، مع وجود تقرير فحص من طرف ثالث."
+        "ru": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告",
+        "ar": "非营运，基本原漆，屁股后杠位置撞了一下石墩子，小问题，不过三方有报告"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/00_1777606588144u2604_89775_parse.jpg",
@@ -3154,10 +3154,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Avalon 2.5 Luxury Edition",
+        "en": "亚洲龙 2.5 豪华版",
         "cn": "亚洲龙 2.5 豪华版",
-        "ru": "Авалон 2.5 Luxury Edition",
-        "ar": "أفالون 2.5 لوكس إديشن"
+        "ru": "亚洲龙 2.5 豪华版",
+        "ar": "亚洲龙 2.5 豪华版"
       },
       "year": 2021,
       "price": 13612,
@@ -3170,10 +3170,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle is a pre-owned car for export, ideal for used car export China. It has undergone left rear fender and door repairs, and a left front door respray.",
+        "en": "左后叶钣金，左后门钣金，左前门喷漆",
         "cn": "左后叶钣金，左后门钣金，左前门喷漆",
-        "ru": "Ремонт левого заднего крыла, ремонт левой задней двери, покраска левой передней двери.",
-        "ar": "إصلاح الرفرف الخلفي الأيسر، إصلاح الباب الخلفي الأيسر، دهان الباب الأمامي الأيسر."
+        "ru": "左后叶钣金，左后门钣金，左前门喷漆",
+        "ar": "左后叶钣金，左后门钣金，左前门喷漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/00_1778469367217_014_app_X_2.22M-398.55K.jpeg",
@@ -3205,10 +3205,10 @@
         "cn": "别克"
       },
       "model": {
-        "en": "GL8 Land Business Class 48V 2.0T 652T Luxury",
+        "en": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
         "cn": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
-        "ru": "GL8 Land Business Class 48V 2.0T 652T Luxury",
-        "ar": "GL8 لاند بيزنس كلاس 48V 2.0T 652T لوكس"
+        "ru": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
+        "ar": "GL8 陆上公务舱 48V 2.0T 652T 豪华型"
       },
       "year": 2022,
       "price": 13722,
@@ -3221,10 +3221,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle, one of the pre-owned cars for export, has two resprayed panels and a replaced left front fender. It has been thoroughly inspected, making it an excellent choice for used car export China.",
+        "en": "两个面喷漆。左前叶子板单独更换。已经过检测。",
         "cn": "两个面喷漆。左前叶子板单独更换。已经过检测。",
-        "ru": "Две панели перекрашены. Левое переднее крыло заменено отдельно. Автомобиль прошёл проверку.",
-        "ar": "تم رش سطحين. استبدال الرفرف الأمامي الأيسر بشكل منفصل. تم فحص السيارة."
+        "ru": "两个面喷漆。左前叶子板单独更换。已经过检测。",
+        "ar": "两个面喷漆。左前叶子板单独更换。已经过检测。"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/00_1777854974134k2730_90889_parse.jpg",
@@ -3411,10 +3411,10 @@
         "cn": "比亚迪"
       },
       "model": {
-        "en": "Qin PLUS DM-i 1.5 CVT Flagship 55km",
+        "en": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
         "cn": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
-        "ru": "Qin PLUS DM-i 1.5 CVT Flagship 55km",
-        "ar": "Qin PLUS DM-i 1.5 CVT Flagship 55km"
+        "ru": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
+        "ar": "秦PLUS DM-i 1.5 无级 旗舰型55KM"
       },
       "year": 2021,
       "price": 4812,
@@ -3427,10 +3427,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "The right front door has sheet metal work, the right rear door has been repainted, and the hood requires new paint. Both right-side doors have been repaired, making this a quality Chinese vehicle ideal for used car export China, a perfect pre-owned car for export.",
+        "en": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门",
         "cn": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门",
-        "ru": "Правая передняя дверь прошла кузовной ремонт, правая задняя дверь была перекрашена, а капот требует покраски. Правые двери отремонтированы — это качественный китайский автомобиль, подходящий для экспорта подержанных автомобилей из Китая.",
-        "ar": "الباب الأمامي الأيمن خضع لأعمال الصاج، والباب الخلفي الأيمن تم رشه، وغطاء المحرك يحتاج إلى طلاء جديد. تم إصلاح الأبواب اليمنى، وهذه سيارة صينية عالية الجودة مناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门",
+        "ar": "右前门钣金，右后门喷漆，目前需要投资机盖油漆，右边两个门"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/00_1778068534586_576_app_F_2.00M-356.77K_parse.jpeg",
@@ -3463,10 +3463,10 @@
         "cn": "传祺"
       },
       "model": {
-        "en": "GS4 1.5T 270T Elite Tech Edition",
+        "en": "GS4 1.5T 270T 精英科技版",
         "cn": "GS4 1.5T 270T 精英科技版",
-        "ru": "GS4 1.5T 270T Elite Tech Edition",
-        "ar": "GS4 1.5T 270T Elite Tech Edition"
+        "ru": "GS4 1.5T 270T 精英科技版",
+        "ar": "GS4 1.5T 270T 精英科技版"
       },
       "year": 2020,
       "price": 5912,
@@ -3479,10 +3479,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "The right side has sheet metal work on four panels, indicating previous repairs. This quality Chinese vehicle is a prime candidate for used car export China, representing reliable pre-owned cars for export.",
+        "en": "右边四个面钣金",
         "cn": "右边四个面钣金",
-        "ru": "Правая сторона имеет кузовной ремонт на четырёх панелях, что указывает на предыдущие восстановительные работы. Этот качественный китайский автомобиль — отличный вариант для экспорта подержанных автомобилей из Китая.",
-        "ar": "الجانب الأيمن خضع لأعمال الصاج على أربعة ألواح، مما يدل على إصلاحات سابقة. هذه السيارة الصينية عالية الجودة هي خيار ممتاز لتصدير السيارات المستعملة من الصين."
+        "ru": "右边四个面钣金",
+        "ar": "右边四个面钣金"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/00_1778060540998_322_app_V_2.04M-384.08K.jpeg",
@@ -3515,10 +3515,10 @@
         "cn": "宝马"
       },
       "model": {
-        "en": "X3 xDrive25L 2.0T Luxury Package",
+        "en": "X3 xDrive25L 2.0T 豪华套装",
         "cn": "X3 xDrive25L 2.0T 豪华套装",
-        "ru": "X3 xDrive25L 2.0T Luxury Package",
-        "ar": "X3 xDrive25L 2.0T Luxury Package"
+        "ru": "X3 xDrive25L 2.0T 豪华套装",
+        "ar": "X3 xDrive25L 2.0T 豪华套装"
       },
       "year": 2025,
       "price": 35200,
@@ -3531,10 +3531,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "All metal panels retain original paint, and only the sunroof has been replaced. This well-maintained example exemplifies quality Chinese vehicles ideal for used car export China, perfect as pre-owned cars for export.",
+        "en": "铁件原漆，单换天窗",
         "cn": "铁件原漆，单换天窗",
-        "ru": "Все металлические панели сохранили заводскую окраску, заменён только люк на крыше. Этот хорошо сохранившийся экземпляр представляет качественные китайские автомобили, подходящие для экспорта подержанных машин из Китая.",
-        "ar": "جميع الألواح المعدنية تحتفظ بالطلاء الأصلي، وتم استبدال السقف الزجاجي فقط. هذه السيارة المحفوظة جيداً تمثل السيارات الصينية عالية الجودة المناسبة لتصدير السيارات المستعملة من الصين."
+        "ru": "铁件原漆，单换天窗",
+        "ar": "铁件原漆，单换天窗"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/00_1777873535188_999_app_B_1.96M-386.61K.jpeg",
@@ -3566,10 +3566,10 @@
         "cn": "别克"
       },
       "model": {
-        "en": "GL8 ES 48V 2.0T 653T Zunxiang",
+        "en": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
         "cn": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
-        "ru": "GL8 ES 48V 2.0T 653T Цзуньсян",
-        "ar": "GL8 ES 48V 2.0T 653T زونشيانغ"
+        "ru": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
+        "ar": "GL8 ES 陆尊 48V 2.0T 653T 尊享型"
       },
       "year": 2023,
       "price": 28600,
@@ -3582,10 +3582,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This 2023 Buick GL8 ES features original factory paint and perfect body condition, representing quality Chinese vehicles for export. As a pre-owned car for export China, it offers low mileage and excellent interior. Ideal for used car export China buyers seeking a reliable minivan.",
+        "en": "原版原漆",
         "cn": "原版原漆",
-        "ru": "Этот Buick GL8 ES 2023 года имеет заводскую окраску и идеальное состояние кузова, представляя качественные китайские автомобили для экспорта. Как подержанный автомобиль для экспорта из Китая, он отличается малым пробегом и отличным салоном. Идеальный выбор для покупателей, ищущих надежный минивэн.",
-        "ar": "سيارة بويك GL8 ES موديل 2023 بطلاء المصنع الأصلي وحالة هيكل ممتازة، تمثل السيارات الصينية عالية الجودة للتصدير. كسيارة مستعملة للتصدير من الصين، تتميز بمسافة قطع منخفضة ومقصورة داخلية ممتازة. خيار مثالي للمشترين الباحثين عن سيارة عائلية موثوقة."
+        "ru": "原版原漆",
+        "ar": "原版原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/12584173/00_1773189705080_578_app_C_510.32K-510.32K.jpeg",
@@ -3617,10 +3617,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Granvia Hybrid 2.5 CVT Luxury",
+        "en": "格瑞维亚 HYBRID 2.5 无级 豪华版",
         "cn": "格瑞维亚 HYBRID 2.5 无级 豪华版",
-        "ru": "Granvia Hybrid 2.5 CVT Люкс",
-        "ar": "Granvia Hybrid 2.5 CVT لوكس"
+        "ru": "格瑞维亚 HYBRID 2.5 无级 豪华版",
+        "ar": "格瑞维亚 HYBRID 2.5 无级 豪华版"
       },
       "year": 2024,
       "price": 32037,
@@ -3633,10 +3633,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Toyota Granvia Hybrid 2.5 Luxury is in original paint with no damage, a prime example of quality Chinese vehicles. With genuine low mileage and pristine condition, it’s perfect for pre-owned cars for export. Ideal for used car export China, this hybrid MPV offers fuel efficiency and comfort.",
+        "en": "原版原漆",
         "cn": "原版原漆",
-        "ru": "Этот Toyota Granvia Hybrid 2.5 Люкс имеет заводскую окраску без повреждений, являясь ярким примером качественных китайских автомобилей. С реальным малым пробегом и отличным состоянием, он идеально подходит для экспорта подержанных автомобилей. Отличный выбор для экспорта подержанных авто из Китая, этот гибридный минивэн обеспечивает экономию топлива и комфорт.",
-        "ar": "سيارة تويوتا جرانفيا هايبرد 2.5 لوكس بطلاء المصنع الأصلي دون أي ضرر، وهي مثال رائع للسيارات الصينية عالية الجودة. مع مسافة قطع حقيقية منخفضة وحالة ممتازة، وهي مثالية للسيارات المستعملة للتصدير. خيار ممتاز لتصدير السيارات المستعملة من الصين، توفر هذه السيارة الهجينة كفاءة في استهلاك الوقود وراحة."
+        "ru": "原版原漆",
+        "ar": "原版原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14315798/00_1778511177030_991_app_R_1.19M-237.51K_parse.jpeg",
@@ -3672,10 +3672,10 @@
         "cn": "长安"
       },
       "model": {
-        "en": "Eado Plus 1.4TGDI Blue Whale NE Premium",
+        "en": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
         "cn": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
-        "ru": "Eado Plus 1.4TGDI Blue Whale NE Премиум",
-        "ar": "Eado Plus 1.4TGDI Blue Whale NE بريميوم"
+        "ru": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
+        "ar": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型"
       },
       "year": 2022,
       "price": 5060,
@@ -3688,10 +3688,10 @@
       "status": "Available",
       "featured": true,
       "description": {
-        "en": "This 2022 Chang'an Eado Plus is a one-owner vehicle with verified real mileage and original body condition. Two panels have been resprayed and the right spare tire area has minor sheet metal repair; carpet was removed and cleaned under a $430 insurance claim. As a quality Chinese vehicle, it's an excellent candidate for used car export China, offering good value for pre-owned cars for export.",
+        "en": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000",
         "cn": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000",
-        "ru": "Этот Chang'an Eado Plus 2022 года — автомобиль с одним владельцем, подтверждённым реальным пробегом и оригинальным состоянием кузова. Две панели были перекрашены, а область правого запасного колеса имеет незначительный кузовной ремонт; ковёр был снят и вычищен по страховому случаю на $430. Как качественный китайский автомобиль, он отлично подходит для экспорта подержанных авто из Китая, предлагая хорошую стоимость для экспорта подержанных автомобилей.",
-        "ar": "سيارة تشانغآن إيادو بلس 2022 هي سيارة مملوكة لمالك واحد مع عداد كيلومترات حقيقي وحالة هيكل أصلية. تم إعادة طلاء لوحتين، وهناك إصلاح طفيف للصفائح المعدنية في منطقة العجلة الاحتياطية اليمنى؛ تم إزالة السجاد وتنظيفه بموجب مطالبة تأمين بقيمة 430 دولارًا. كسيارة صينية عالية الجودة، فهي مرشح ممتاز لتصدير السيارات المستعملة من الصين، وتقدم قيمة جيدة للسيارات المستعملة للتصدير."
+        "ru": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000",
+        "ar": "一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13865618/00_1777098450478_523_app_B_526.13K-630.63K.jpeg",
@@ -3732,10 +3732,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Corolla 1.5 CVT Elite Edition",
+        "en": "卡罗拉 1.5 无级 精英版",
         "cn": "卡罗拉 1.5 无级 精英版",
-        "ru": "Corolla 1.5 CVT Elite Edition",
-        "ar": "كورولا 1.5 CVT الفاخرة"
+        "ru": "卡罗拉 1.5 无级 精英版",
+        "ar": "卡罗拉 1.5 无级 精英版"
       },
       "year": 2021,
       "price": 8387,
@@ -3748,10 +3748,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Good condition, hood has been worked on but other panels are original. Single owner with actual mileage on odometer. This well-maintained used car export China option is a great example of quality Chinese vehicles for pre-owned cars for export.",
+        "en": "车况良好  头盖动过  其他原版 一手车实表公里数",
         "cn": "车况良好  头盖动过  其他原版 一手车实表公里数",
-        "ru": "Хорошее состояние, капот был затронут, остальные детали оригинальные. Один владелец, реальный пробег на одометре.",
-        "ar": "حالة جيدة، تم العمل على غطاء المحرك ولكن الأجزاء الأخرى أصلية. مالك واحد، عداد الكيلومترات حقيقي."
+        "ru": "车况良好  头盖动过  其他原版 一手车实表公里数",
+        "ar": "车况良好  头盖动过  其他原版 一手车实表公里数"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/00_1777459552752_757_app_S_545.13K-923.49K.jpeg",
@@ -3792,10 +3792,10 @@
         "cn": "传祺"
       },
       "model": {
-        "en": "M8 2.0T 390T Leader Series Prestige Edition",
+        "en": "M8 2.0T 390T 领秀系列 尊享版",
         "cn": "M8 2.0T 390T 领秀系列 尊享版",
-        "ru": "M8 2.0T 390T Leader Series Prestige Edition",
-        "ar": "M8 2.0T 390T سلسلة القائد الفاخرة"
+        "ru": "M8 2.0T 390T 领秀系列 尊享版",
+        "ar": "M8 2.0T 390T 领秀系列 尊享版"
       },
       "year": 2021,
       "price": 14547,
@@ -3808,10 +3808,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Original paint and panels, single owner, no accident repair. Inspection valid until October, certified by Dr. Chabo S grade. A pristine quality Chinese vehicle ideal for used car export China and pre-owned cars for export.",
+        "en": "原版原漆一手零投资，费用10月，查博士S",
         "cn": "原版原漆一手零投资，费用10月，查博士S",
-        "ru": "Оригинальная краска и кузов, один владелец, без ремонта после ДТП. Техосмотр действителен до октября, сертифицировано Dr. Chabo S класс.",
-        "ar": "طلاء وهيكل أصلي، مالك واحد، بدون إصلاحات حوادث. الفحص الفني ساري حتى أكتوبر، معتمد من Dr. Chabo درجة S."
+        "ru": "原版原漆一手零投资，费用10月，查博士S",
+        "ar": "原版原漆一手零投资，费用10月，查博士S"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/00_1778681672535_137_app_M_341.28K-341.28K.jpeg",
@@ -3848,10 +3848,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "INSPIRE 1.5T CVT 260TURBO Refined Edition",
+        "en": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
         "cn": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
-        "ru": "INSPIRE 1.5T CVT 260TURBO Refined Edition",
-        "ar": "INSPIRE 1.5T CVT 260TURBO الفاخرة"
+        "ru": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
+        "ar": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版"
       },
       "year": 2019,
       "price": 10862,
@@ -3864,10 +3864,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Two owners, left front fender only replaced, certified by Dr. Chabo S grade. A reliable pre-owned car for export with verified condition, part of quality Chinese vehicles for used car export China.",
+        "en": "两手车  单换左前叶   查博士S",
         "cn": "两手车  单换左前叶   查博士S",
-        "ru": "Два владельца, заменено только левое переднее крыло, сертифицировано Dr. Chabo S класс.",
-        "ar": "مالكان، تم استبدال الرفرف الأمامي الأيسر فقط، معتمد من Dr. Chabo درجة S."
+        "ru": "两手车  单换左前叶   查博士S",
+        "ar": "两手车  单换左前叶   查博士S"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/00_1778503717509C5821_184498.jpg",
@@ -4068,10 +4068,10 @@
         "cn": "广汽埃安"
       },
       "model": {
-        "en": "Aion Y Younger Star Edition",
+        "en": "Aion Y Younger 星耀版",
         "cn": "Aion Y Younger 星耀版",
-        "ru": "Aion Y Younger Star Edition",
-        "ar": "Aion Y Younger Star Edition"
+        "ru": "Aion Y Younger 星耀版",
+        "ar": "Aion Y Younger 星耀版"
       },
       "year": 2023,
       "price": 9350,
@@ -4084,10 +4084,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "Offered as a used car export China, this GAC Aion Y Younger Star Edition features full original paint, a single owner history, and passes third-party inspection. Additionally, it has a diesel heater installed by the 4S dealer, making it one of the quality Chinese vehicles available. Ideal for pre-owned cars for export buyers.",
+        "en": "全车原漆，一手，可过三方，4S店加装柴暖",
         "cn": "全车原漆，一手，可过三方，4S店加装柴暖",
-        "ru": "Предлагается как автомобиль для экспорта из Китая (used car export China). Этот GAC Aion Y Younger Star Edition имеет заводскую краску по всему кузову, одного владельца и проходит независимую проверку. Дополнительно установлен дизельный отопитель в дилерском центре. Это один из качественных китайских автомобилей (quality Chinese vehicles), идеально подходящий для экспорта подержанных автомобилей (pre-owned cars for export).",
-        "ar": "هذه السيارة من نوع GAC Aion Y Younger Star Edition معروضة للتصدير كسيارة مستعملة من الصين (used car export China). تتمتع بطلاء أصلي كامل، مالك واحد، وتجتاز الفحص من طرف ثالث. بالإضافة إلى ذلك، تم تركيب سخان ديزل من قبل الوكيل. إنها واحدة من السيارات الصينية عالية الجودة (quality Chinese vehicles) ومناسبة للتصدير كسيارات مستعملة (pre-owned cars for export)."
+        "ru": "全车原漆，一手，可过三方，4S店加装柴暖",
+        "ar": "全车原漆，一手，可过三方，4S店加装柴暖"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/00_1776558979179C9235_373103_parse.jpg",
@@ -4128,10 +4128,10 @@
         "cn": "坦克"
       },
       "model": {
-        "en": "Tank 300 2.0T Off-Road Conqueror",
+        "en": "坦克300 2.0T 越野版 征服者",
         "cn": "坦克300 2.0T 越野版 征服者",
-        "ru": "Tank 300 2.0T Off-Road Conqueror",
-        "ar": "Tank 300 2.0T Off-Road Conqueror"
+        "ru": "坦克300 2.0T 越野版 征服者",
+        "ar": "坦克300 2.0T 越野版 征服者"
       },
       "year": 2021,
       "price": 17600,
@@ -4144,10 +4144,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Tank 300 2.0T Off-Road Conqueror retains full original paint and can pass independent third-party inspection. As a quality Chinese vehicle, it is an ideal candidate for used car export China. Perfect for those seeking pre-owned cars for export with strong off-road capability.",
+        "en": "全车原漆，可过三方，",
         "cn": "全车原漆，可过三方，",
-        "ru": "Этот Tank 300 2.0T Off-Road Conqueror имеет заводскую краску по всему кузову и может пройти независимую проверку. Являясь качественным китайским автомобилем (quality Chinese vehicles), он идеально подходит для экспорта подержанных автомобилей из Китая (used car export China). Отличный выбор для тех, кто ищет подержанные автомобили на экспорт (pre-owned cars for export) с выдающимися внедорожными характеристиками.",
-        "ar": "سيارة Tank 300 2.0T Off-Road Conqueror هذه تحتفظ بالطلاء الأصلي الكامل ويمكنها اجتياز الفحص من طرف ثالث. باعتبارها سيارة صينية عالية الجودة (quality Chinese vehicles)، فهي مرشح مثالي لتصدير السيارات المستعملة من الصين (used car export China). مناسبة لمن يبحثون عن سيارات مستعملة للتصدير (pre-owned cars for export) بقدرات قوية على الطرق الوعرة."
+        "ru": "全车原漆，可过三方，",
+        "ar": "全车原漆，可过三方，"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/00_1777595190850t4555_455187.jpg",
@@ -4183,10 +4183,10 @@
         "cn": "本田"
       },
       "model": {
-        "en": "CR-V e:HEV 2.0 CVT Sharp · Two-Wheel Drive Smart Edition",
+        "en": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版",
         "cn": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版",
-        "ru": "CR-V e:HEV 2.0 CVT Sharp · Two-Wheel Drive Smart Edition",
-        "ar": "CR-V e:HEV 2.0 CVT Sharp · Two-Wheel Drive Smart Edition"
+        "ru": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版",
+        "ar": "CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版"
       },
       "year": 2023,
       "price": 18012,
@@ -4199,10 +4199,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This Honda CR-V e:HEV Smart Edition is in original condition with actual reading mileage, verified by ChaBoshi inspection. It has three repainted panels, 360-degree camera, leather seats, and is in flawless condition. A top-quality Chinese vehicle perfect for used car export China and pre-owned cars for export.",
+        "en": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入",
         "cn": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入",
-        "ru": "Этот Honda CR-V e:HEV Smart Edition в оригинальном состоянии с реальным пробегом, проверен сертификацией ChaBoshi. Имеет три перекрашенных элемента, камеру 360°, кожаный салон и находится в безупречном состоянии. Отличный качественный китайский автомобиль (quality Chinese vehicles) для экспорта подержанных автомобилей из Китая (used car export China) и продажи как подержанного автомобиля на экспорт (pre-owned cars for export).",
-        "ar": "سيارة Honda CR-V e:HEV Smart Edition هذه في حالتها الأصلية مع قراءة عداد حقيقية، ومعتمدة من فحص ChaBoshi. تحتوي على ثلاثة أجزاء معاد طلاؤها، كاميرا 360 درجة، مقاعد جلدية، وفي حالة ممتازة. إنها سيارة صينية عالية الجودة (quality Chinese vehicles) مثالية لتصدير السيارات المستعملة من الصين (used car export China) وللسيارات المستعملة للتصدير (pre-owned cars for export)."
+        "ru": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入",
+        "ar": "车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/00_1768561873654_502_app_R_221.20K-221.20K.jpeg",
@@ -4399,10 +4399,10 @@
         "cn": "奔驰"
       },
       "model": {
-        "en": "C-Class C 260 L 48V 1.5T Night Sport Edition",
+        "en": "C级 C 260 L 48V 1.5T 皓夜运动版",
         "cn": "C级 C 260 L 48V 1.5T 皓夜运动版",
-        "ru": "C-Class C 260 L 48V 1.5T Night Sport Edition",
-        "ar": "C-Class C 260 L 48V 1.5T نايت سبورت إديشن"
+        "ru": "C级 C 260 L 48V 1.5T 皓夜运动版",
+        "ar": "C级 C 260 L 48V 1.5T 皓夜运动版"
       },
       "year": 2023,
       "price": 28297,
@@ -4415,10 +4415,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle is certified by Doctor Tea S-level and has undergone bodywork repairs on the left front fender, right rear door and right rear fender. Ideal for used car export China, this pre-owned car for export offers a well-documented condition.",
+        "en": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆",
         "cn": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆",
-        "ru": "Этот качественный китайский автомобиль сертифицирован по уровню S (Doctor Tea), выполнены кузовные работы: левое переднее крыло, правая задняя дверь и правое заднее крыло. Отличный вариант для экспорта подержанных автомобилей из Китая.",
-        "ar": "هذه السيارة الصينية عالية الجودة معتمدة من Doctor Tea (المستوى S) وخضعت لأعمال هيكلية على الجناح الأمامي الأيسر والباب الخلفي الأيمن والجناح الخلفي الأيمن. مثالية لتصدير السيارات المستعملة من الصين."
+        "ru": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆",
+        "ar": "茶博士S级，左前翼子板，右后门，右后翼子板钣金喷漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/00_1778656539641_578_app_Q_428.93K-428.93K.jpeg",
@@ -4552,10 +4552,10 @@
         "cn": "威马"
       },
       "model": {
-        "en": "W6 520km PRO",
+        "en": "W6 520km PRO全能版",
         "cn": "W6 520km PRO全能版",
-        "ru": "W6 520km PRO",
-        "ar": "W6 520km PRO"
+        "ru": "W6 520km PRO全能版",
+        "ar": "W6 520km PRO全能版"
       },
       "year": 2021,
       "price": 9212,
@@ -4568,10 +4568,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "One-owner 2022 Weima W6 with only 10,000 km, zero accidents, original paint and body panels. This quality Chinese vehicle is perfect for used car export China, representing top pre-owned cars for export.",
+        "en": "一手车，0出险，原版原漆",
         "cn": "一手车，0出险，原版原漆",
-        "ru": "Один владелец, 2022 год, всего 10 000 км, без ДТП, оригинальный окрас и кузов.",
-        "ar": "مالك واحد، موديل 2022، 10,000 كم فقط، بدون حوادث، طلاء وهيكل أصلي."
+        "ru": "一手车，0出险，原版原漆",
+        "ar": "一手车，0出险，原版原漆"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14160771/00_1778066991615Y973_810154.jpg",
@@ -4604,10 +4604,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "Alphard 2.5 CVT Luxury",
+        "en": "埃尔法 埃尔法 2.5 无级 豪华版",
         "cn": "埃尔法 埃尔法 2.5 无级 豪华版",
-        "ru": "Alphard 2.5 CVT Luxury",
-        "ar": "Alphard 2.5 CVT Luxury"
+        "ru": "埃尔法 埃尔法 2.5 无级 豪华版",
+        "ar": "埃尔法 埃尔法 2.5 无级 豪华版"
       },
       "year": 2021,
       "price": 74937,
@@ -4620,10 +4620,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "One-owner 2023 Toyota Alphard 2.5 CVT Luxury, only 5,000 km, original paint with full PPF. This pre-owned car for export is an excellent choice for used car export China.",
+        "en": "一手 原版原漆带车衣",
         "cn": "一手 原版原漆带车衣",
-        "ru": "Один владелец, 2023 год, всего 5 000 км, оригинальный окрас с защитной пленкой.",
-        "ar": "مالك واحد، موديل 2023، 5,000 كم فقط، طلاء أصلي مع طبقة حماية."
+        "ru": "一手 原版原漆带车衣",
+        "ar": "一手 原版原漆带车衣"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14152638/00_1778054457261B6670_686017_parse.jpg",
@@ -4656,10 +4656,10 @@
         "cn": "路虎"
       },
       "model": {
-        "en": "Range Rover 3.0T L6 400PS LWB 7-Seat",
+        "en": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
         "cn": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
-        "ru": "Range Rover 3.0T L6 400PS LWB 7-Seat",
-        "ar": "Range Rover 3.0T L6 400PS LWB 7-Seat"
+        "ru": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
+        "ar": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座"
       },
       "year": 2024,
       "price": 151250,
@@ -4672,10 +4672,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "One-owner 2024 Land Rover Range Rover LWB 7-seat, 3.0T L6 400PS, only 8,000 km, original paint with full PPF. Ideal pre-owned car for export, suitable for used car export China.",
+        "en": "7座原版原漆带车衣",
         "cn": "7座原版原漆带车衣",
-        "ru": "Один владелец, 2024 год, всего 8 000 км, оригинальный окрас с защитной пленкой, 7 мест.",
-        "ar": "مالك واحد، موديل 2024، 8,000 كم فقط، طلاء أصلي مع طبقة حماية، 7 مقاعد."
+        "ru": "7座原版原漆带车衣",
+        "ar": "7座原版原漆带车衣"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14306303/00_1778488956932E10862_752775.jpg",
@@ -4708,10 +4708,10 @@
         "cn": "大众"
       },
       "model": {
-        "en": "Teramont 2.5T 530 V6 4Motion Premium Luxury Edition",
+        "en": "途昂 2.5T 530 V6 四驱尊崇豪华版",
         "cn": "途昂 2.5T 530 V6 四驱尊崇豪华版",
-        "ru": "Терамонт 2.5T 530 V6 4Motion Премиум Люкс",
-        "ar": "تيرامونت 2.5T 530 V6 4Motion بريميوم لوكس إديشن"
+        "ru": "途昂 2.5T 530 V6 四驱尊崇豪华版",
+        "ar": "途昂 2.5T 530 V6 四驱尊崇豪华版"
       },
       "year": 2022,
       "price": 20625,
@@ -4724,10 +4724,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "This quality Chinese vehicle retains its original paint, was first registered under a rental company but is classified as non-operational, and has a virtually brand-new interior. An ideal pre-owned car for export, it exemplifies the reliability of used car export China. Perfect for buyers seeking pre-owned cars for export with excellent condition.",
+        "en": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
         "cn": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
-        "ru": "Это качественное китайское транспортное средство сохранило заводскую окраску, было зарегистрировано на арендную компанию, но имеет некоммерческий статус, а интерьер в идеальном состоянии. Отличный вариант для экспорта подержанных автомобилей из Китая.",
-        "ar": "هذه السيارة الصينية عالية الجودة تحتفظ بطلائها الأصلي، وتم تسجيلها لأول مرة باسم شركة تأجير ولكنها ذات طابع غير تجاري، والمقصورة الداخلية بحالة جديدة تمامًا. خيار ممتاز لتصدير السيارات المستعملة من الصين."
+        "ru": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新",
+        "ar": "原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新"
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14114003/00_1777949636862f769_790461.jpg",
@@ -4756,5 +4756,5 @@
       "slug": "2022-volkswagen-2-5t-530-v6-14114003"
     }
   ],
-  "_version": "20260526143034"
+  "_version": "20260527073501"
 }
