@@ -47,6 +47,37 @@
 }
 </script>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script>
+// SEO: dynamically update meta tags when viewing a vehicle
+function updateSEOMeta(vehicle) {
+  if (!vehicle) {
+    document.title = "CARCHINA.LTD - Premium Chinese Used Vehicles Export";
+    document.querySelector('meta[name="description"]').content = "Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support.";
+    document.querySelector('meta[property="og:title"]').content = "CARCHINA.LTD - Premium Chinese Used Vehicles Export";
+    document.querySelector('meta[property="og:description"]').content = "Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping.";
+    document.querySelector('meta[name="twitter:title"]').content = "CARCHINA.LTD - Premium Chinese Used Vehicles Export";
+    document.querySelector('meta[name="twitter:description"]').content = "Export quality used vehicles from China worldwide.";
+    document.querySelector('link[rel="canonical"]').href = "https://carchina.ltd/";
+    history.replaceState(null, "", window.location.pathname);
+    return;
+  }
+  const brand = getText(vehicle.brand, 'en') || getText(vehicle.brand, 'cn');
+  const model = getText(vehicle.model, 'en') || getText(vehicle.model, 'cn');
+  const title = `${vehicle.year} ${brand} ${model} - $${vehicle.price?.toLocaleString()} | CARCHINA.LTD`;
+  const desc = `${vehicle.year} ${brand} ${model} for export. ${vehicle.mileage?.toLocaleString()} km, $${vehicle.price?.toLocaleString()}. Quality inspected, global shipping available.`;
+  const url = `https://carchina.ltd/?car=${vehicle.id}`;
+  document.title = title;
+  document.querySelector('meta[name="description"]').content = desc;
+  document.querySelector('meta[property="og:title"]').content = title;
+  document.querySelector('meta[property="og:description"]').content = desc;
+  document.querySelector('meta[property="og:url"]').content = url;
+  document.querySelector('meta[property="og:image"]').content = vehicle.image || "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200";
+  document.querySelector('meta[name="twitter:title"]').content = title;
+  document.querySelector('meta[name="twitter:description"]').content = desc;
+  document.querySelector('link[rel="canonical"]').href = url;
+  history.replaceState(null, "", url);
+}
+</script>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
 <style>
@@ -400,7 +431,7 @@ en: {
 "detail.year": "Year", "detail.body": "Body Type", "detail.color": "Color",
 "detail.capacity": "Engine", "detail.plate_date": "Plate Date",
 "detail.location": "Location", "detail.emission": "Emission", "detail.transfer": "Transfer Count",
-"detail.photos": "Photos", "detail.tags": "Tags",
+"detail.photos": "Photos", "detail.tags": "Tags", "detail.photo": "Photo",
 "specs": "Specifications",
 "brand.Toyota": "Toyota", "brand.Honda": "Honda", "brand.BMW": "BMW", "brand.Mercedes-Benz": "Mercedes-Benz",
 "brand.BYD": "BYD", "brand.Volkswagen": "Volkswagen", "brand.Jaguar": "Jaguar", "brand.Lexus": "Lexus",
@@ -454,7 +485,7 @@ cn: {
 "detail.year": "年份", "detail.body": "车型", "detail.color": "颜色",
 "detail.capacity": "排量", "detail.plate_date": "上牌日期",
 "detail.location": "所在地", "detail.emission": "排放标准", "detail.transfer": "过户次数",
-"detail.photos": "照片", "detail.tags": "标签",
+"detail.photos": "照片", "detail.tags": "标签", "detail.photo": "照片",
 "specs": "规格参数",
 "brand.Toyota": "丰田", "brand.Honda": "本田", "brand.BMW": "宝马", "brand.Mercedes-Benz": "奔驰",
 "brand.BYD": "比亚迪", "brand.Volkswagen": "大众", "brand.Jaguar": "捷豹", "brand.Lexus": "雷克萨斯",
@@ -508,7 +539,7 @@ ru: {
 "detail.year": "Год", "detail.body": "Кузов", "detail.color": "Цвет",
 "detail.capacity": "Двигатель", "detail.plate_date": "Регистрация",
 "detail.location": "Место", "detail.emission": "Эко-класс", "detail.transfer": "Владельцев",
-"detail.photos": "Фото", "detail.tags": "Теги",
+"detail.photos": "Фото", "detail.tags": "Теги", "detail.photo": "Фото",
 "specs": "Характеристики",
 "brand.Toyota": "Тойота", "brand.Honda": "Хонда", "brand.BMW": "БМВ", "brand.Mercedes-Benz": "Мерседес",
 "brand.BYD": "BYD", "brand.Volkswagen": "Фольксваген", "brand.Jaguar": "Ягуар", "brand.Lexus": "Лексус",
@@ -562,7 +593,7 @@ ar: {
 "detail.year": "السنة", "detail.body": "نوع الهيكل", "detail.color": "اللون",
 "detail.capacity": "المحرك", "detail.plate_date": "تاريخ اللوحة",
 "detail.location": "الموقع", "detail.emission": "الانبعاثات", "detail.transfer": "عدد المالكين",
-"detail.photos": "الصور", "detail.tags": "الوسوم",
+"detail.photos": "الصور", "detail.tags": "الوسوم", "detail.photo": "صورة",
 "specs": "المواصفات",
 "brand.Toyota": "تويوتا", "brand.Honda": "هوندا", "brand.BMW": "بي إم دبليو", "brand.Mercedes-Benz": "مرسيدس",
 "brand.BYD": "بي واي دي", "brand.Volkswagen": "فولكس فاجن", "brand.Jaguar": "جاغوار", "brand.Lexus": "لكزس",
@@ -601,7 +632,7 @@ function updateVehicleSchema(vehicles) {
     const existing = document.getElementById('vehicle-schema');
     if (existing) existing.remove();
     if (!vehicles.length) return;
-    const items = vehicles.slice(0, 30).map(v => ({
+    const items = vehicles.slice(0, 60).map(v => ({
         "@type": "Product",
         "name": `${v.year} ${getText(v.brand, 'en')} ${getText(v.model, 'en')}`,
         "description": getText(v.description, 'en') || '',
@@ -782,9 +813,10 @@ function createVehicleCard(v) {
     const model = getText(v.model, currentLang) || getText(v.model, 'en');
     const city = v.city || '';
     const tags = (v.tags || []).slice(0, 3);
+    const imgAlt = `${v.year} ${brand} ${model} - ${v.mileage?.toLocaleString()} km, $${v.price?.toLocaleString()}`;
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
-        '<img src="' + v.image + '" alt="' + brand + ' ' + model + '" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
+        '<img src="' + v.image + '" alt="' + imgAlt + '" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
         '<div class="absolute top-3 left-3 bg-blue-900/90 text-white px-3 py-1 rounded-full text-xs font-bold backdrop-blur">' + brand + '</div>' +
         (v.featured ? '<div class="absolute top-3 right-3 bg-red-600 text-white px-3 py-1 rounded-full text-xs font-bold">Featured</div>' : '') +
         '</div>' +
@@ -818,7 +850,7 @@ function showVehicleDetail(id) {
 
     // Build gallery thumbnails
     let thumbs = imgs.map((url, i) =>
-        '<img src="' + url + '" onclick="galleryGoTo(' + v.id + ',' + i + ')" class="gallery-thumb w-16 h-12 rounded-lg object-cover border-2 ' + (i === 0 ? 'active border-blue-600 opacity-100' : 'border-transparent opacity-60') + '" data-index="' + i + '"/>'
+        '<img src="' + url + '" alt="' + brand + ' ' + model + ' photo ' + (i+1) + '" onclick="galleryGoTo(' + v.id + ',' + i + ')" class="gallery-thumb w-16 h-12 rounded-lg object-cover border-2 ' + (i === 0 ? 'active border-blue-600 opacity-100' : 'border-transparent opacity-60') + '" data-index="' + i + '"/>'
     ).join('');
 
     // Build spec rows
@@ -851,7 +883,7 @@ function showVehicleDetail(id) {
             <div class="relative bg-black">
                 <div id="galleryContainer-${v.id}" class="relative aspect-[16/9] md:aspect-[16/8] overflow-hidden">
                     ${imgs.map((url, i) =>
-                        '<img src="' + url + '" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
+                        '<img src="' + url + '" alt="' + brand + ' ' + model + ' - ' + t('detail.photo') + ' ' + (i+1) + '" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
                     ).join('')}
                     ${imgs.length > 1 ? `
                     <button onclick="galleryPrev(${v.id})" class="absolute left-3 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
@@ -904,11 +936,14 @@ function showVehicleDetail(id) {
     // Store gallery state
     window._galleryState = window._galleryState || {};
     window._galleryState[v.id] = { current: 0, total: imgs.length };
+    // SEO: update meta tags for this vehicle
+    updateSEOMeta(v);
 }
 
 function closeVehicleDetail() {
     const modal = document.getElementById('vehicleDetailModal');
     if (modal) modal.remove();
+    updateSEOMeta(null);
 }
 
 function galleryGoTo(id, idx) {
@@ -979,6 +1014,17 @@ const urlLang = new URLSearchParams(window.location.search).get('lang');
 if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) currentLang = urlLang;
 setLanguage(currentLang);
 renderFeaturedVehicles();
+
+// Handle ?car=ID URL parameter for SEO (individual vehicle pages)
+const carParam = new URLSearchParams(window.location.search).get('car');
+if (carParam) {
+  loadVehicles().then(() => {
+    const found = vehicles.find(v => String(v.id) === carParam);
+    if (found) {
+      setTimeout(() => showVehicleDetail(found.id), 500);
+    }
+  });
+}
 
 // Check VK auth status
 async function checkVkStatus() {
