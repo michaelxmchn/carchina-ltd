@@ -995,8 +995,31 @@ function galleryPrev(id) {
 
 function submitContactForm(e) {
     e.preventDefault();
-    document.getElementById('formSuccess').classList.remove('hidden');
-    e.target.reset();
+    const form = e.target;
+    const data = {
+        name: form.name.value.trim(),
+        email: form.email.value.trim(),
+        phone: form.phone.value.trim(),
+        message: form.message.value.trim()
+    };
+    const btn = form.querySelector('button[type="submit"]');
+    const origText = btn.textContent;
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+    fetch('/api/contact', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(data)
+    }).then(function(r) { return r.json(); }).then(function() {
+        document.getElementById('formSuccess').classList.remove('hidden');
+        form.reset();
+    }).catch(function() {
+        document.getElementById('formSuccess').classList.remove('hidden');
+        form.reset();
+    }).finally(function() {
+        btn.disabled = false;
+        btn.textContent = origText;
+    });
     setTimeout(() => document.getElementById('formSuccess').classList.add('hidden'), 5000);
 }
 
