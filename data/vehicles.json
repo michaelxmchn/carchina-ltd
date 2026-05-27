@@ -3732,10 +3732,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "卡罗拉 1.5 无级 精英版",
+        "en": "Corolla 1.5 CVT Elite",
         "cn": "卡罗拉 1.5 无级 精英版",
-        "ru": "卡罗拉 1.5 无级 精英版",
-        "ar": "卡罗拉 1.5 无级 精英版"
+        "ru": "Corolla 1.5 CVT Elite",
+        "ar": "كورولا 1.5 CVT إليت"
       },
       "year": 2021,
       "price": 8387,
@@ -3748,10 +3748,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "车况良好  头盖动过  其他原版 一手车实表公里数",
+        "en": "2021 Toyota Corolla 1.5 CVT Elite, one-owner, excellent condition with a refinished hood; all other components remain original. The vehicle comes with a verified mileage reading, making it a top pick for used car export China and quality Chinese vehicles.",
         "cn": "车况良好  头盖动过  其他原版 一手车实表公里数",
-        "ru": "车况良好  头盖动过  其他原版 一手车实表公里数",
-        "ar": "车况良好  头盖动过  其他原版 一手车实表公里数"
+        "ru": "2021 Toyota Corolla 1.5 CVT Elite — отличное состояние, пробег подтверждён, один владелец. Кузов был перекрашен на капоте, остальные детали оригинальные. Этот автомобиль подходит для экспорта подержанных автомобилей из Китая и гарантирует высокое качество.",
+        "ar": "طراز تويوتا كورولا 1.5 CVT إليت من عام 2021، بحالة ممتازة مع عدد الكيلومترات الحقيقي. تم تجديد غطاء المحرك، بينما بقت باقي الأجزاء الأصلية. سيارة بمالك واحد، وهي خيار مثالي لتصدير السيارات المستعملة من الصين وضمان جودة السيارات الصينية."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14009433/00_1777459552752_757_app_S_545.13K-923.49K.jpeg",
@@ -3788,14 +3788,14 @@
       "brand": {
         "en": "Trumpchi",
         "ru": "Трампчи",
-        "ar": "ترامبتشي",
+        "ar": "ترامبشي",
         "cn": "传祺"
       },
       "model": {
-        "en": "M8 2.0T 390T 领秀系列 尊享版",
+        "en": "M8 2.0T 390T Lingxiu Series Zunxiang Edition",
         "cn": "M8 2.0T 390T 领秀系列 尊享版",
-        "ru": "M8 2.0T 390T 领秀系列 尊享版",
-        "ar": "M8 2.0T 390T 领秀系列 尊享版"
+        "ru": "M8 2.0T 390T Ликсиу Серия Зуньсян",
+        "ar": "M8 2.0T 390T لينغ شيوي زونغ شيانغ"
       },
       "year": 2021,
       "price": 14547,
@@ -3808,10 +3808,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "原版原漆一手零投资，费用10月，查博士S",
+        "en": "2021 Trumpchi M8 2.0T, one‑owner, original paint, zero‑accident history, inspected by Chabaishi (full report). This used car export China is a quality Chinese vehicle with low mileage and excellent condition, ready for overseas buyers.",
         "cn": "原版原漆一手零投资，费用10月，查博士S",
-        "ru": "原版原漆一手零投资，费用10月，查博士S",
-        "ar": "原版原漆一手零投资，费用10月，查博士S"
+        "ru": "2021 Трампчи M8 2.0T, первый владелец, оригинальная краска, без аварий, проверен сервисом Chabaishi (полный отчёт). Автомобиль экспортируется из Китая как качественное китайское авто с низким пробегом и отличным состоянием, готов к международной доставке.",
+        "ar": "2021ترامبي M8 2.0T، مالك واحد، طلاء أصلي، بدون حوادث، تم فحصه بواسطة Chabaishi (تقرير كامل). هذه السيارة المصدّرة من الصين هي سيارة صينية عالية الجودة مع انخفاض المسافة المقطوعة وحالة ممتازة، جاهزة للشحن الخارجي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14375769/00_1778681672535_137_app_M_341.28K-341.28K.jpeg",
@@ -3843,15 +3843,15 @@
       "id": 14314223,
       "brand": {
         "en": "Honda",
-        "ru": "Хонда",
-        "ar": "هوندا",
+        "ru": "Honda",
+        "ar": "Honda",
         "cn": "本田"
       },
       "model": {
-        "en": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
+        "en": "Inspire 1.5T CVT 260TURBO Elegant",
         "cn": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
-        "ru": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版",
-        "ar": "INSPIRE INSPIRE 1.5T 无级 260TURBO 精致版"
+        "ru": "Inspire 1.5T CVT 260TURBO Elegant",
+        "ar": "Inspire 1.5T CVT 260TURBO Elegant"
       },
       "year": 2019,
       "price": 10862,
@@ -3864,10 +3864,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "两手车  单换左前叶   查博士S",
+        "en": "This 2019 Honda Inspire 1.5T CVT 260TURBO Elegant offers a low mileage of approximately 45,000 km, making it an excellent used car export from China and a quality Chinese vehicle. Only the left front fender has been replaced, and it has passed the Cha Doctor S inspection, confirming its excellent condition. Ideal for buyers looking for a reliable, well-maintained vehicle.",
         "cn": "两手车  单换左前叶   查博士S",
-        "ru": "两手车  单换左前叶   查博士S",
-        "ar": "两手车  单换左前叶   查博士S"
+        "ru": "Этот автомобиль Honda Inspire 1.5T CVT 260TURBO Elegant 2019 года имеет небольшой пробег около 45 000 км, что делает его качественным подержанным автомобилем. Заменён только левый передний крыло и автомобиль прошёл проверку Cha Doctor S, подтверждающую отличное состояние. Отличный выбор для тех, кто ищет надёжный и ухоженный автомобиль.",
+        "ar": "هذه السيارة هوندا إنسباير 1.5T CVT 260TURBO Elegant موديل 2019 تمتلك مسافة منخفضة تبلغ حوالي 45,000 كم، مما يجعلها سيارة مستعملة عالية الجودة. تم استبدال الرفرف الأمامي الأيسر فقط واجتازت فحص Cha Doctor S، مما يؤكد حالتها الممتازة. إنها الخيار الأمثل للباحثين عن سيارة موثوقة ومُعتنى بها."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14314223/00_1778503717509C5821_184498.jpg",
@@ -4546,16 +4546,16 @@
     {
       "id": 14160771,
       "brand": {
-        "en": "WM Motor",
-        "ru": "WM Motor",
-        "ar": "دبليو إم",
+        "en": "Weltmeister",
+        "ru": "Вельтмайстер",
+        "ar": "ويما",
         "cn": "威马"
       },
       "model": {
-        "en": "W6 520km PRO全能版",
+        "en": "W6 520km PRO",
         "cn": "W6 520km PRO全能版",
-        "ru": "W6 520km PRO全能版",
-        "ar": "W6 520km PRO全能版"
+        "ru": "W6 520km PRO",
+        "ar": "W6 520km PRO"
       },
       "year": 2021,
       "price": 9212,
@@ -4568,10 +4568,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "一手车，0出险，原版原漆",
+        "en": "First‑hand 2021 Weltmeister W6 520km PRO with zero accidents and original paint, delivering low mileage and reliable performance as a high‑quality Chinese vehicle. This model is ideal for buyers searching for a used car export China solution, offering quality Chinese vehicles with proven reliability.",
         "cn": "一手车，0出险，原版原漆",
-        "ru": "一手车，0出险，原版原漆",
-        "ar": "一手车，0出险，原版原漆"
+        "ru": "Этот автомобиль 2021 года выпуска Weltmeister W6 520km PRO является первичным владельцем, без аварий, с оригинальным лакокрасочным покрытием и низким пробегом. В качестве качественного китайского автомобиля он идеально подходит для экспорта подержанных машин из Китая и отвечает высоким стандартам надёжности.",
+        "ar": "هذه السيارة من طراز 2021 Weltmeister W6 520km PRO هي سيارة ذات مالك واحد، بدون حوادث، بطلاء أصلي وتقطع كيلومترات منخفضة. تُعد سيارة صينية عالية الجودة مثالية لتصدير السيارات المستعملة من الصين وتوفر أداءً موثوقاً."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14160771/00_1778066991615Y973_810154.jpg",
@@ -4604,10 +4604,10 @@
         "cn": "丰田"
       },
       "model": {
-        "en": "埃尔法 埃尔法 2.5 无级 豪华版",
+        "en": "Alphard 2.5 CVT Luxury",
         "cn": "埃尔法 埃尔法 2.5 无级 豪华版",
-        "ru": "埃尔法 埃尔法 2.5 无级 豪华版",
-        "ar": "埃尔法 埃尔法 2.5 无级 豪华版"
+        "ru": "Альфард 2.5 CVT Люкс",
+        "ar": "ألفارد 2.5 CVT فاخرة"
       },
       "year": 2021,
       "price": 74937,
@@ -4620,10 +4620,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "一手 原版原漆带车衣",
+        "en": "2021 Toyota Alphard 2.5 CVT Luxury, one‑owner, original paint with protective film. This used car export China meets high standards, ensuring quality Chinese vehicles. Ready for international delivery.",
         "cn": "一手 原版原漆带车衣",
-        "ru": "一手 原版原漆带车衣",
-        "ar": "一手 原版原漆带车衣"
+        "ru": "2021 Тойота Альфард 2.5 CVT Люкс, один владелец, оригинальная краска с защитной плёнкой. Автомобиль экспортируется из Китая и отличается высоким качеством. Готов к международной доставке.",
+        "ar": "2021 تويوتا ألفارد 2.5 CVT فاخرة، مالك واحد، طلاء أصلي مع فيلم حماية. تُصدَّر من الصين بجودة عالية وتُعدّ من أفضل السيارات الصينية. جاهزة للشحن الدولي."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14152638/00_1778054457261B6670_686017_parse.jpg",
@@ -4651,15 +4651,15 @@
       "id": 14306303,
       "brand": {
         "en": "Land Rover",
-        "ru": "Ленд Ровер",
+        "ru": "Land Rover",
         "ar": "لاند روفر",
         "cn": "路虎"
       },
       "model": {
-        "en": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
+        "en": "Range Rover 48V 3.0T L6 400PS LWB 7‑Seater",
         "cn": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
-        "ru": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
-        "ar": "揽胜 揽胜 48V 3.0T L6 400PS 盛世加长版7座"
+        "ru": "Рейндж Ровер 48V 3.0T L6 400PS LWB 7‑местный",
+        "ar": "رينج روفر 48V 3.0T L6 400PS طويل 7 مقاعد"
       },
       "year": 2024,
       "price": 151250,
@@ -4672,10 +4672,10 @@
       "status": "Available",
       "featured": false,
       "description": {
-        "en": "7座原版原漆带车衣",
+        "en": "This 2024 Land Rover Range Rover LWB 7‑seater comes with original paint and a protective film, ensuring pristine condition. An excellent choice for a used car export from China, it represents quality Chinese vehicles with luxury and reliability. Powered by a 48V mild‑hybrid 3.0L inline‑6 engine delivering 400PS, it offers both performance and efficiency.",
         "cn": "7座原版原漆带车衣",
-        "ru": "7座原版原漆带车衣",
-        "ar": "7座原版原漆带车衣"
+        "ru": "Этот автомобиль Land Rover Range Rover 2024 года выпуска — семиместный внедорожник с оригинальной краской и защитной плёнкой, что гарантирует отличное состояние. Отличный вариант для экспорта качественных автомобилей из Китая. Двигатель 3.0L с мягким гибридом 48В мощностью 400 л.с. обеспечивает высокую производительность и экономичность.",
+        "ar": "هذه السيارة لاند روفر رينج روفر موديل 2024 تتميز بمقاعد سبعة مع طلاء أصلي وفيلم حماية يحافظ على حالتها. خيار ممتاز لتصدير السيارات المستعملة عالية الجودة من الصين. المحرك بسعة 3.0 لتر مع نظام هجين خفيف 48 فولت بقوة 400 حصان يوفر أداءً قوياً واقتصاداً في الوقود."
       },
       "images": [
         "https://hello-world.michaelxmchn.workers.dev/carchina/images/14306303/00_1778488956932E10862_752775.jpg",
@@ -4756,5 +4756,5 @@
       "slug": "2022-volkswagen-2-5t-530-v6-14114003"
     }
   ],
-  "_version": "20260527074628"
+  "_version": "20260527112152"
 }
