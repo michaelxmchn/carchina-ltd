@@ -14,313 +14,613 @@
   </url>
   <url>
     <loc>https://carchina.ltd/</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://carchina.ltd/?car=10560065</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/10560065/1763364827281n7064_750731.jpg</image:loc>
+      <image:title>2022 Audi A5 A5 Sportback 2.0TFSI 40TFSI 时尚动感型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13350929</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13350929/1775608314019M9366_60506.jpg</image:loc>
+      <image:title>2024 Audi A3 Sportback 1.4TFSI 35TFSI 豪华运动型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14283629</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14283629/1778418217328V11214_750225.jpg</image:loc>
+      <image:title>2021 Toyota 汉兰达 2.0T 四驱尊贵版7座</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14439960</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14439960/1778901209870E9913_87205_parse.jpg</image:loc>
+      <image:title>2021 长城 2021款 风骏5 2.0T 两驱精英型大双排 </image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13676968</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13676968/1776483177484F10073_600299.jpg</image:loc>
+      <image:title>2023 Toyota 赛那 2.5 无级 豪华版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=11870849</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/11870849/1769056266413Y6979_694396.jpg</image:loc>
+      <image:title>2021 Toyota 赛那 2.5 无级 尊贵版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14600174</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14600174/1779364387016E7165_683774.jpg</image:loc>
+      <image:title>2023 Toyota 赛那 2.5 无级 舒适版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12569551</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12569551/1773124473979B1388_717644.jpg</image:loc>
+      <image:title>2023 Toyota 汉兰达双擎 2.5 无级 智能电混四驱尊贵版7座</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13942418</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13942418/1777270411207H2482_84164.jpg</image:loc>
+      <image:title>2022 Cadillac CT5 2.0T 28T 豪华型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12727646</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12727646/1773640622597a13_716714.jpg</image:loc>
+      <image:title>2022 Toyota 皇冠陆放 2.5 无级 四驱精英版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13034727</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13034727/1774575372686A12575_648367.jpg</image:loc>
+      <image:title>2023 Toyota 汉兰达双擎 2.5 无级 智能电混两驱精英版5座</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12123990</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12123990/1770204269341c12446_657064.jpg</image:loc>
+      <image:title>2022 Toyota 皇冠陆放 2.5 无级 四驱精英版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12176666</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12176666/1770522894904v670_95861.jpg</image:loc>
+      <image:title>2023 Toyota 卡罗拉双擎 1.8 无级 智能电混精英版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=11963832</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/11963832/1769483107389F12261_705646.jpg</image:loc>
+      <image:title>2021 Toyota 赛那 2.5 无级 至尊版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12371991</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12371991/1772419268080c3788_88969.jpg</image:loc>
+      <image:title>2020 Honda 缤智 1.5 无级 豪华型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13506355</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13506355/1775985679467s12528_662376.jpg</image:loc>
+      <image:title>2021 Toyota 赛那 2.5 无级 舒适版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12491915</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12491915/1772859121329q2228_605182.jpg</image:loc>
+      <image:title>2023 Toyota 汉兰达双擎 2.5 无级 智能电混四驱豪华版7座</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12951778</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12951778/1774328234703w11457_106432.jpg</image:loc>
+      <image:title>2025 Chery 瑞虎8 PRO 2.0T 390T 两驱尊贵版Ⅱ</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=11748625</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/11748625/1768469535594S10981_652203_parse.jpg</image:loc>
+      <image:title>2021 Toyota 赛那 2.5 无级 舒适版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12109316</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12109316/1770169844748X2358_729822.jpg</image:loc>
+      <image:title>2022 Toyota 汉兰达双擎 2.5 无级 四驱尊贵版7座</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14751722</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14751722/1779858382138_352_app_M_1.49M-273.28K.jpeg</image:loc>
+      <image:title>2023 BMW X1 sDrive20Li 1.5T X设计套装</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13676909</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13676909/1776483102968d9888_524381.jpg</image:loc>
+      <image:title>2021 Toyota 赛那 2.5 无级 尊贵版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13270267</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13270267/1775277662156p1517_88984.jpg</image:loc>
+      <image:title>2021 Buick 英朗 48V 1.3T 18T 精英型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=13270382</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13270382/1775277850339f659_109466.jpg</image:loc>
+      <image:title>2022 日产 2022款 轩逸经典 1.6 无级 XE 舒适版 </image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12427018</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12427018/1772613838463w1023_580587_parse.jpg</image:loc>
+      <image:title>2023 Mercedes-Benz E级 E 300 L 2.0T 豪华型</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12883341</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12883341/1774254062586N2909_656437_parse.jpg</image:loc>
+      <image:title>2021 Volkswagen 途观L R-Line 2.0TSI 330TSI 两驱越享版</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=12902021</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12902021/1774168384606q4664_627047.jpg</image:loc>
+      <image:title>2020 五菱 2020款 凯捷 1.5T 无级 旗舰型 </image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14643746</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14643746/1779688464874U9717_707105.jpg</image:loc>
+      <image:title>2022 五菱 2022款 佳辰 1.5T 无级 智享豪华型 </image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14792918</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14792918/1779961972970H8552.jpg</image:loc>
+      <image:title>2020 日产 2020款 天籁 2.0 无级 XL 舒适版(改款) </image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://carchina.ltd/?car=14476036</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14476036/1779003035070_943_app_X_262.10K-262.10K.jpeg</image:loc>
+      <image:title>2022 Audi A6L 2.0TFSI 40TFSI 豪华动感型</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://carchina.ltd/?car=14360573</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14360573/1778652935837Y1125_592616_parse.jpg</image:loc>
-      <image:title>2021 Toyota Yize 2.0 CVT (Xingxing Edition)</image:title>
+      <image:title>2021 Toyota 奕泽 2.0 无级 奕行版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14170497</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14170497/1778123185251F3566_274719.jpg</image:loc>
-      <image:title>2023 Haval 2023 Prowler Max 1.5 Hi4 105 Intelligent Flagship</image:title>
+      <image:title>2023 哈弗 2023款 枭龙MAX 1.5 Hi4 105 智能旗舰版 </image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12752546</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12752546/1773721554301Y998_83978.jpg</image:loc>
-      <image:title>2022 Volkswagen Tayron 1.4TSI 280TSI 2WD Luxury Connect</image:title>
+      <image:title>2022 Volkswagen 探岳 1.4TSI 280TSI 两驱豪华智联版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14189685</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14189685/1778303706089D7383_547287.jpg</image:loc>
-      <image:title>2022 Trumpchi GS8 Hybrid 2.0TM CVT 2WD Prestige 7‑seater</image:title>
+      <image:title>2022 Trumpchi GS8 混动 2.0TM 无级 两驱尊贵版七座</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13885931</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13885931/1777094086788k10868_446122_parse.jpg</image:loc>
-      <image:title>2020 BYD Han DM 2.0T AWD Performance Prestige</image:title>
+      <image:title>2020 BYD 汉DM 2.0T 四驱性能版尊贵型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14488757</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14488757/1779345806782i9906_372830_parse.jpg</image:loc>
-      <image:title>2022 Audi A6L 2.0TFSI 45TFSI Quattro Elite Sport</image:title>
+      <image:title>2022 Audi A6L 2.0TFSI 45TFSI Quattro 臻选动感型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14629899</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14629899/1779452335030h12163_686441_parse.jpg</image:loc>
-      <image:title>2025 Audi A6L 45 TFSI (2.0T)</image:title>
+      <image:title>2025 Audi A6L 2.0TFSI 45TFSI 臻选动感型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13717990</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13717990/1777907419301m3640_259811.jpg</image:loc>
-      <image:title>2023 Chery Tiggo 7 Plus 1.6TGDI (Premium)</image:title>
+      <image:title>2023 Chery 瑞虎7 PLUS 1.6TGDI 尊贵型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14616739</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14616739/1779430426553y12500_586908.jpg</image:loc>
-      <image:title>2021 Tank 300 2.0T Cyber Tank Edition</image:title>
+      <image:title>2021 Tank 坦克300 2.0T 赛博坦克</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13911931</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13911931/1777178473663r6568_750081_parse.jpg</image:loc>
-      <image:title>2021 MG 2021 MG5 1.5TGI 300TGI Qinglux Flagship Edition </image:title>
+      <image:title>2021 MG 2021款 MG5 1.5TGI 300TGI 青奢旗舰版 </image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14021311</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14021311/1777521425129f7670_610605_parse.jpg</image:loc>
-      <image:title>2020 Jiefang (解放) Light‑Duty Electric Van </image:title>
+      <image:title>2020 解放 载货车  </image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13956010</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13956010/1777293236212_504_app_A_226.58K-226.58K_parse.jpeg</image:loc>
-      <image:title>2022 Subaru 森林人 2.0i 无级 豪华版 EyeSight</image:title>
+      <image:title>2022 Subaru 森林人 森林人 2.0i 无级 豪华版EyeSight</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13911775</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13911775/1777178040847F2971_671205_parse.jpg</image:loc>
-      <image:title>2021 Volkswagen T-Cross 1.5 Comfort</image:title>
+      <image:title>2021 Volkswagen T-Cross 1.5 舒适版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12838627</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12838627/1773979170469_573_app_I_280.86K-280.86K.jpeg</image:loc>
-      <image:title>2021 Mercedes-Benz E‑Class E 300 L 2.0T Luxury</image:title>
+      <image:title>2021 Mercedes-Benz E级 E 300 L 2.0T 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14603138</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14603138/1779403427834z1720_423669_parse.jpg</image:loc>
-      <image:title>2021 Mercedes-Benz E‑Class E 260 L 2.0T Sport</image:title>
+      <image:title>2021 Mercedes-Benz E级 E 260 L 2.0T 运动型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14686727</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14686727/1779675925665_796_app_L_329.71K-329.71K.jpg</image:loc>
-      <image:title>2021 Volkswagen Tiguan L R‑Line 2.0TSI 330TSI 2WD</image:title>
+      <image:title>2021 Volkswagen 途观L R-Line 2.0TSI 330TSI 两驱越享版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13653692</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13653692/1776406011889_120_app_L_1.88M-392.89K.jpeg</image:loc>
-      <image:title>2025 Bestune Yiyue 03 565km</image:title>
+      <image:title>2025 奔腾 2025款 悦意03 565km 乐享版 </image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14657961</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14657961/1779545891814_898_app_J_352.43K-352.43K_parse.jpeg</image:loc>
-      <image:title>2026 Toyota Frontlander 2.0 CVT Comfort</image:title>
+      <image:title>2026 Toyota 锋兰达 2.0 无级 舒适版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14657901</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14657901/1779545374809_386_app_G_356.50K-356.50K_parse.jpeg</image:loc>
-      <image:title>2025 Honda INSPIRE 1.5T 260 TURBO</image:title>
+      <image:title>2025 Honda INSPIRE 1.5T 无级 260TURBO 典雅版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14657978</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14657978/1779546069078_715_app_E_360.59K-360.59K.jpeg</image:loc>
-      <image:title>2024 Honda XR-V 1.5</image:title>
+      <image:title>2024 Honda XR-V 1.5 无级 热力版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14716664</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14716664/1779763748755_199_app_A_643.01K-1.22M.jpeg</image:loc>
-      <image:title>2021 Jeep Wrangler 4xe 2.0T Sahara</image:title>
+      <image:title>2021 Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉 </image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14226309</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14226309/00_1778249859676_432_app_M_380.17K-380.17K_parse.png</image:loc>
-      <image:title>2021 Changan CS55 PLUS 1.5T Blue Whale Edition Luxury</image:title>
+      <image:title>2021 Changan CS55 PLUS 1.5T 蓝鲸版豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14257082</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14257082/00_1778336544849_452_app_T_350.18K-350.18K.png</image:loc>
-      <image:title>2022 Hongqi HS5 2.0T Smart Connect Qixiang Edition</image:title>
+      <image:title>2022 Hongqi HS5 2.0T 智联旗享版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14404336</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14404336/00_1778763671670_703_app_N_300.22K-300.22K.png</image:loc>
-      <image:title>2020 Lynk & Co Lynk & Co 03+ 2.0TD Yufeng Edition</image:title>
+      <image:title>2020 Lynk & Co 领克03+ 2.0TD 驭风版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14404567</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14404567/00_1778764837541_216_app_S_283.02K-283.02K_parse.png</image:loc>
-      <image:title>2024 Toyota bZ4X 615 PRO</image:title>
+      <image:title>2024 Toyota 铂智4X 615 PRO版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14404181</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14404181/00_1778763115816_121_app_B_427.19K-427.19K_parse.png</image:loc>
-      <image:title>2023 Mazda 3 Axela 2.0 Zhia</image:title>
+      <image:title>2023 Mazda 3昂克赛拉 马自达3 昂克赛拉-三厢 2.0 质雅版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14393056</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14393056/00_1778743159712_501_app_N_426.25K-426.25K_parse.png</image:loc>
-      <image:title>2025 Chery Tiggo 8 PRO 1.6T 2WD Prestige</image:title>
+      <image:title>2025 Chery 瑞虎8 PRO 1.6T 290T 两驱尊贵版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13637838</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13637838/00_1776926596571W2195_883130.jpg</image:loc>
-      <image:title>2023 Audi Q7 48V 3.0 TFSI 55 TFSI Quattro S line Sport</image:title>
+      <image:title>2023 Audi Q7 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14404502</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14404502/00_1778764485398p5578_306237_parse.jpg</image:loc>
-      <image:title>2024 AITO M9 EV Pure Electric Ultra 100 kWh</image:title>
+      <image:title>2024 AITO 问界M9 EV 纯电Ultra版100kWh</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12396363</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12396363/00.jpg</image:loc>
-      <image:title>2022 Mercedes-Benz C‑Class C 200 L 48V 1.5 T Sport</image:title>
+      <image:title>2022 Mercedes-Benz C级 C 200 L 48V 1.5T 运动版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13952368</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -330,17 +630,17 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13993277</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13993277/00_1777434091310q4665_107307.jpg</image:loc>
-      <image:title>2026 Changan Eado 1.5T 500Bar Zhixiang Edition</image:title>
+      <image:title>2026 Changan 逸动 1.5T 500Bar 智享型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=11989948</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -350,17 +650,17 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14397335</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14397335/00_1778748497545w4829_567036.jpg</image:loc>
-      <image:title>2022 Denza Denza D9 DM-i 1.5T CVT 1040 Premium</image:title>
+      <image:title>2022 Denza 腾势D9 DM-i 1.5T 无级 1040 尊贵型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=10244719</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -370,7 +670,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14393896</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -380,7 +680,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14392873</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -390,7 +690,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12693764</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -400,7 +700,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13584616</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -410,127 +710,127 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14375281</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14375281/00_1778679035323_099_app_G_385.61K-385.61K_parse.jpeg</image:loc>
-      <image:title>2024 Xiaomi SU7 800km AWD Ultra-Long Range High-Level Smart Driving Max Edition</image:title>
+      <image:title>2024 Xiaomi SU7 800km 四驱超长续航高阶智驾Max版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14176106</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14176106/00_1778130473282W8006_356758_parse.jpg</image:loc>
-      <image:title>2022 Audi A4L 2.0TFSI 40TFSI Fashion Sporty Edition</image:title>
+      <image:title>2022 Audi A4L 2.0TFSI 40TFSI 时尚动感型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14215333</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14215333/00_1778567803327z3556_855962.jpg</image:loc>
-      <image:title>2021 Toyota Alphard 2.5 CVT Premium Edition</image:title>
+      <image:title>2021 Toyota 埃尔法 埃尔法 2.5 无级 尊贵版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14117938</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14117938/00_1778310448241e3566_731738.jpg</image:loc>
-      <image:title>2022 BMW 6 Series GT GT 630i 2.0T Luxury Design Package</image:title>
+      <image:title>2022 BMW 6系GT GT 630i 2.0T 豪华设计套装</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12783438</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12783438/00_1773811000061_643_app_Q_408.55K-408.55K.jpeg</image:loc>
-      <image:title>2021 Mercedes-Benz C-Class C 260 48V 1.5T Star Treasure Edition</image:title>
+      <image:title>2021 Mercedes-Benz C级 C 260 48V 1.5T 星耀臻藏版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12231008</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12231008/00_1770961005568z10452_792917.jpg</image:loc>
-      <image:title>2024 Mercedes-Benz C-Class C 200 L 48V 1.5T Sport Edition</image:title>
+      <image:title>2024 Mercedes-Benz C级 C 200 L 48V 1.5T 运动版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12164297</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12164297/00_1770441720627F405_927606.jpg</image:loc>
-      <image:title>2021 Toyota Alphard 2.5 Luxury</image:title>
+      <image:title>2021 Toyota 埃尔法 埃尔法 2.5 无级 尊贵版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14339733</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14339733/00_1778578910574_057_app_D_199.70K-199.70K.jpg</image:loc>
-      <image:title>2025 AITO Wenjie M9 EV Ultra</image:title>
+      <image:title>2025 AITO 问界M9 EV 纯电Ultra版100kWh5座版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13913638</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13913638/00_1777700696933k8287_580865_parse.jpg</image:loc>
-      <image:title>2022 Tesla Model 3 Rear‑Wheel Drive</image:title>
+      <image:title>2022 Tesla Model 3 后轮驱动版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13952704</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13952704/00_1777621870564c291_905614.jpg</image:loc>
-      <image:title>2024 Land Rover Defender 110 48V 3.0T P400 X-Dynamic HSE</image:title>
+      <image:title>2024 Land Rover 卫士 卫士110 48V 3.0T P400 X-DYNAMIC HSE</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12724527</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12724527/00_1773913031906j12201_787018.jpg</image:loc>
-      <image:title>2021 BMW 5 Series 525Li 2.0T M Sport Package</image:title>
+      <image:title>2021 BMW 5系 525Li 2.0T M运动套装</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14337198</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14337198/00_1778575667944_810_app_X_432.50K-432.50K_parse.jpeg</image:loc>
-      <image:title>2021 Hyundai Elantra Sedan 1.5 CVT LUX Premium Edition</image:title>
+      <image:title>2021 Hyundai 伊兰特-三厢 1.5 无级 LUX 尊贵版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14336983</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -540,107 +840,107 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14365384</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14365384/00_1778658931042_404_app_J_363.83K-363.83K.jpeg</image:loc>
-      <image:title>2014 Volkswagen Beetle 1.4TSI Luxury</image:title>
+      <image:title>2014 Volkswagen 甲壳虫 甲壳虫 1.4TSI 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12482395</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/12482395/00_1772961608934_934_app_F_430.25K-430.25K.jpeg</image:loc>
-      <image:title>2021 Ford Territory 2.0T EcoBoost 225尊领型7座</image:title>
+      <image:title>2021 Ford 领裕 2.0T EcoBoost 225 尊领型7座</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13998474</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13998474/00_1777442074377_768_app_L_360.67K-360.67K.jpeg</image:loc>
-      <image:title>2021 Buick GL8 Executive Lounge 2.0T 652T Luxury</image:title>
+      <image:title>2021 Buick GL8 陆上公务舱 2.0T 652T 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14100062</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14100062/00_1778038282291_285_app_Y_439.84K-439.84K.jpeg</image:loc>
-      <image:title>2022 Lexus ES200 2.0 CVT Excellence</image:title>
+      <image:title>2022 Lexus ES ES200 2.0 无级 卓越版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14130321</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14130321/00_1777978457014Z3898_107192_parse.jpg</image:loc>
-      <image:title>2023 Honda Accord 11th Generation 1.5T CVT 260TURBO Zhixiang</image:title>
+      <image:title>2023 Honda 第十一代雅阁 1.5T 无级 260TURBO 智享版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13874681</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13874681/00_1777606588144u2604_89775_parse.jpg</image:loc>
-      <image:title>2022 Volkswagen Passat 1.4TSI 280TSI Business</image:title>
+      <image:title>2022 Volkswagen 帕萨特 1.4TSI 280TSI 商务版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14291477</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14291477/00_1778469367217_014_app_X_2.22M-398.55K.jpeg</image:loc>
-      <image:title>2021 Toyota Avalon 2.5 Luxury</image:title>
+      <image:title>2021 Toyota 亚洲龙 2.5 豪华版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13878697</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13878697/00_1777854974134k2730_90889_parse.jpg</image:loc>
-      <image:title>2022 Buick GL8 Land Business 48V 2.0T 652T Luxury</image:title>
+      <image:title>2022 Buick GL8 陆上公务舱 48V 2.0T 652T 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14321618</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14321618/00_1778554764214_581_app_D_1.82M-406.26K.jpeg</image:loc>
-      <image:title>2021 Aeolus Yixuan MAX 1.5T Super Cool Dad Edition</image:title>
+      <image:title>2021 Aeolus 奕炫MAX 1.5T 超炫潮爸版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13697735</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13697735/00_1776522589863_577_app_U_1.83M-376.50K_parse.jpeg</image:loc>
-      <image:title>2022 Roewe Clever 311km Energy Edition</image:title>
+      <image:title>2022 Roewe 科莱威 311km元气啵啵版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13668204</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -650,37 +950,37 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14161270</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14161270/00_1778068534586_576_app_F_2.00M-356.77K_parse.jpeg</image:loc>
-      <image:title>2021 BYD Qin PLUS DM-i 1.5 CVT Flagship 55KM</image:title>
+      <image:title>2021 BYD 秦PLUS DM-i 1.5 无级 旗舰型55KM</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14157246</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14157246/00_1778060540998_322_app_V_2.04M-384.08K.jpeg</image:loc>
-      <image:title>2020 Trumpchi GS4 1.5T 270T Elite Tech</image:title>
+      <image:title>2020 Trumpchi GS4 1.5T 270T 精英科技版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14099052</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14099052/00_1777873535188_999_app_B_1.96M-386.61K.jpeg</image:loc>
-      <image:title>2025 BMW X3 xDrive25L 2.0T Luxury Package</image:title>
+      <image:title>2025 BMW X3 xDrive25L 2.0T 豪华套装</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=12584173</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -690,7 +990,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14315798</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -700,7 +1000,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13865618</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -710,7 +1010,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14009433</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -720,7 +1020,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14375769</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -730,7 +1030,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14314223</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -740,107 +1040,107 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14314925</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14314925/00_1778506445118_787_app_N_571.55K-1.09M.jpeg</image:loc>
-      <image:title>2023 Mercedes-Benz C-Class C 260 L 48V 1.5T</image:title>
+      <image:title>2023 Mercedes-Benz C级 C 260 L 48V 1.5T</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13346453</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13346453/00_1775548253619Z10820_143611.jpg</image:loc>
-      <image:title>2024 Stelato S9 Ultra AWD Flagship</image:title>
+      <image:title>2024 Stelato S9 Ultra 四驱旗舰版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14375115</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14375115/00_1778678353067_133_app_F_656.47K-792.30K_parse.jpeg</image:loc>
-      <image:title>2021 Audi A8L 48V 3.0 TFSI 50 TFSI Quattro Comfort</image:title>
+      <image:title>2021 Audi A8L A8L 48V 3.0TFSI 50TFSI Quattro 舒适型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13391179</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13391179/00_1776558979179C9235_373103_parse.jpg</image:loc>
-      <image:title>2023 GAC Aion Aion Y Younger Star Edition</image:title>
+      <image:title>2023 GAC Aion Aion Y Younger 星耀版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14039309</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14039309/00_1777595190850t4555_455187.jpg</image:loc>
-      <image:title>2021 Tank Tank 300 2.0T Off-road Conqueror</image:title>
+      <image:title>2021 Tank 坦克300 2.0T 越野版 征服者</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=11770588</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/11770588/00_1768561873654_502_app_R_221.20K-221.20K.jpeg</image:loc>
-      <image:title>2023 Honda CR-V e:HEV 2.0 CVT Sharp Two-wheel Drive Smart Edition</image:title>
+      <image:title>2023 Honda CR-V新能源 CR-V e:HEV 2.0 无级 锐·两驱智享版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14335806</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14335806/00_1778573485119_933_app_D_194.81K-194.81K_parse.jpeg</image:loc>
-      <image:title>2021 Cadillac CT5 2.0T 28T Luxury</image:title>
+      <image:title>2021 Cadillac CT5 2.0T 28T 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13631604</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/13631604/00_1776329304961_155_app_Q_414.17K-414.17K.jpeg</image:loc>
-      <image:title>2021 BMW 3 Series 325i 2.0T M Sport Night Package</image:title>
+      <image:title>2021 BMW 3系 325i 2.0T M运动曜夜套装</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14335106</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14335106/00_1778572930338_325_app_C_433.07K-433.07K.jpg</image:loc>
-      <image:title>2022 Ford Mondeo 2.0T EcoBoost 245 Luxury</image:title>
+      <image:title>2022 Ford 蒙迪欧 2.0T EcoBoost 245 豪华型</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14363265</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14363265/00_1778656539641_578_app_Q_428.93K-428.93K.jpeg</image:loc>
-      <image:title>2023 Mercedes-Benz C‑Class C 260 L 48V 1.5T Night Sport Edition</image:title>
+      <image:title>2023 Mercedes-Benz C级 C 260 L 48V 1.5T 皓夜运动版</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://carchina.ltd/?car=13472525</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -850,7 +1150,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14223978</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -860,7 +1160,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14160771</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -870,7 +1170,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14152638</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -880,7 +1180,7 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14306303</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -890,12 +1190,12 @@
   </url>
   <url>
     <loc>https://carchina.ltd/?car=14114003</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hello-world.michaelxmchn.workers.dev/carchina/images/14114003/00_1777949636862f769_790461.jpg</image:loc>
-      <image:title>2022 Volkswagen Teramont 2.5T 530 V6 4WD Premium Luxury</image:title>
+      <image:title>2022 Volkswagen 途昂 2.5T 530 V6 四驱尊崇豪华版</image:title>
     </image:image>
   </url>
 </urlset>
