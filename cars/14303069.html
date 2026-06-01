@@ -10,7 +10,10 @@
 <meta name="description" content="全车原漆，原版车，全车原漆，全车原漆，"/>
 <meta name="keywords" content="Chinese used cars, vehicle export China, used car export,二手车出口, China vehicle export, used cars for export, Chinese auto export"/>
 <meta name="robots" content="index, follow"/>
-<link rel="canonical" href="https://carchina.ltd/cars/14303069.html"/>
+
+<link rel="prev" href="https://carchina.ltd/cars/14808582.html"/>
+<link rel="next" href="https://carchina.ltd/cars/14755765.html"/>
+    <link rel="canonical" href="https://carchina.ltd/cars/14303069.html"/>
 <link rel="alternate" hreflang="en" href="https://carchina.ltd/"/>
 <link rel="alternate" hreflang="zh" href="https://carchina.ltd/?lang=cn"/>
 <link rel="alternate" hreflang="ru" href="https://carchina.ltd/?lang=ru"/>
@@ -930,6 +933,7 @@ function createVehicleCard(v) {
 }
 
 function showVehicleDetail(id) {
+    closeVehicleDetail();
     const v = vehicles.find(x => String(x.id) === String(id));
     if (!v) return;
     const brand = getText(v.brand, currentLang) || getText(v.brand, 'en');
@@ -937,7 +941,10 @@ function showVehicleDetail(id) {
     const desc = getText(v.description, currentLang) || getText(v.description, 'en');
     const imgs = (v.images && v.images.length > 0) ? v.images : [v.image];
     const tags = v.tags || [];
-    
+    // Find prev/next in global vehicle list
+    const idx = vehicles.findIndex(x => String(x.id) === String(id));
+    const prevV = idx > 0 ? vehicles[idx - 1] : null;
+    const nextV = idx < vehicles.length - 1 ? vehicles[idx + 1] : null;
 
     // Build gallery thumbnails
     let thumbs = imgs.map((url, i) =>
@@ -1015,10 +1022,15 @@ function showVehicleDetail(id) {
                 ${tags.length > 0 ? '<div class="mt-4"><div class="text-xs text-slate-500 mb-2">' + t('detail.tags') + '</div><div class="flex flex-wrap gap-2">' + tags.map(tg => '<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-medium">' + tg + '</span>').join('') + '</div></div>' : ''}
                 <!-- Description -->
                 ${desc ? '<div class="mt-4 p-4 bg-slate-50 rounded-xl"><p class="text-slate-600 text-sm leading-relaxed">' + desc + '</p></div>' : ''}
+                <!-- Prev/Next Navigation -->
+                <div class="flex gap-3 mt-6">
+                    ${prevV ? '<a href="/cars/' + prevV.id + '.html" onclick="event.preventDefault();showVehicleDetail(' + prevV.id + ');" class="flex-1 flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 rounded-xl transition-all text-sm"><span>\u2190</span> ' + (getText(prevV.brand, 'en') || '') + ' ' + (getText(prevV.model, 'en') || '') + '</a>' : '<div class="flex-1"></div>'}
+                    ${nextV ? '<a href="/cars/' + nextV.id + '.html" onclick="event.preventDefault();showVehicleDetail(' + nextV.id + ');" class="flex-1 flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 rounded-xl transition-all text-sm">' + (getText(nextV.brand, 'en') || '') + ' ' + (getText(nextV.model, 'en') || '') + ' <span>\u2192</span></a>' : '<div class="flex-1"></div>'}
+                </div>
                 <!-- Actions -->
-                <div class="flex flex-col sm:flex-row gap-4 mt-6">
+                <div class="flex flex-col sm:flex-row gap-4 mt-4">
                     <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all text-lg">${t('detail.inquire')}</button>
-                                    </div>
+                </div>
             </div>
         </div>
     </div>`;
