@@ -662,7 +662,7 @@ function updateVehicleSchema(vehicles) {
     if (existing) existing.remove();
     if (!vehicles.length) return;
     const items = vehicles.slice(0, 60).map(v => ({
-        "@type": "Product",
+        "@type": "Car",
         "name": `${v.year} ${getText(v.brand, 'en')} ${getText(v.model, 'en')}`,
         "description": getText(v.description, 'en') || '',
         "image": v.image,
