@@ -3,6 +3,7 @@
     { "src": "index.html", "use": "@vercel/static" },
     { "src": "404.html", "use": "@vercel/static" },
     { "src": "cars/*.html", "use": "@vercel/static" },
+    { "src": "sitemap.xml", "use": "@vercel/static" },
     { "src": "data/**", "use": "@vercel/static" }
   ],
   "routes": [
