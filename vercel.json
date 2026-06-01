@@ -3,7 +3,8 @@
     { "src": "index.html", "use": "@vercel/static" },
     { "src": "data/**", "use": "@vercel/static" },
     { "src": "sitemap.xml", "use": "@vercel/static" },
-    { "src": "robots.txt", "use": "@vercel/static" }
+    { "src": "robots.txt", "use": "@vercel/static" },
+    { "src": "cars/**", "use": "@vercel/static" }
   ],
   "routes": [
     { "handle": "filesystem" },
