@@ -1,17 +1,10 @@
 {
   "builds": [
     { "src": "index.html", "use": "@vercel/static" },
-    { "src": "404.html", "use": "@vercel/static" },
-    { "src": "data/**", "use": "@vercel/static" },
-    { "src": "sitemap.xml", "use": "@vercel/static" },
-    { "src": "robots.txt", "use": "@vercel/static" },
-    { "src": "cars/**", "use": "@vercel/static" }
+    { "src": "data/**", "use": "@vercel/static" }
   ],
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/sitemap.xml", "dest": "sitemap.xml" },
-    { "src": "/robots.txt", "dest": "robots.txt" },
-    { "src": "/404", "dest": "404.html" },
     { "src": "/(.*)", "dest": "index.html" }
   ]
 }
