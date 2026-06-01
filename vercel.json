@@ -1,10 +1,13 @@
 {
   "builds": [
     { "src": "index.html", "use": "@vercel/static" },
+    { "src": "404.html", "use": "@vercel/static" },
+    { "src": "cars/*.html", "use": "@vercel/static" },
     { "src": "data/**", "use": "@vercel/static" }
   ],
   "routes": [
     { "handle": "filesystem" },
+    { "src": "/cars/(.*)", "dest": "/cars/$1" },
     { "src": "/(.*)", "dest": "index.html" }
   ]
 }
