@@ -878,6 +878,11 @@ function showVehicleDetail(id) {
     const desc = getText(v.description, currentLang) || getText(v.description, 'en');
     const imgs = (v.images && v.images.length > 0) ? v.images : [v.image];
     const tags = v.tags || [];
+    // Update URL without reload
+    if (window.history.replaceState) {
+        window.history.replaceState({ vehicleId: id }, '', '/cars/' + id + '.html');
+    }
+
     // Find prev/next in global vehicle list
     const idx = vehicles.findIndex(x => String(x.id) === String(id));
     const prevV = idx > 0 ? vehicles[idx - 1] : null;
@@ -984,6 +989,10 @@ function closeVehicleDetail() {
     const modal = document.getElementById('vehicleDetailModal');
     if (modal) modal.remove();
     updateSEOMeta(null);
+    // Restore URL to home
+    if (window.history.replaceState) {
+        window.history.replaceState({ vehicleId: null }, '', '/');
+    }
 }
 
 function galleryGoTo(id, idx) {
@@ -1084,6 +1093,18 @@ if (carParam) {
   loadVehicles().then(() => {
     const found = vehicles.find(v => String(v.id) === carParam);
     if (found) {
+      setTimeout(() => showVehicleDetail(found.id), 500);
+    }
+  });
+}
+
+// Handle /cars/ID.html path (from prev/next navigation or direct visit to SPA)
+const carPathMatch = window.location.pathname.match(/^\/cars\/(\d+)\.html$/);
+if (carPathMatch) {
+  const carId = carPathMatch[1];
+  loadVehicles().then(() => {
+    const found = vehicles.find(v => String(v.id) === carId);
+    if (found && !carParam) {
       setTimeout(() => showVehicleDetail(found.id), 500);
     }
   });
