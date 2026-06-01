@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="google-site-verification" content="FZbx_oqUW4W9jHyBvEHV22ZxC-vCvD81kFn2VEi0IqM" />
+<meta name="yandex-verification" content="2172f07e61eb282d" />
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>CARCHINA.LTD - Premium Chinese Used Vehicles Export</title>
 <meta name="description" content="Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support."/>
@@ -662,7 +663,7 @@ function updateVehicleSchema(vehicles) {
     if (existing) existing.remove();
     if (!vehicles.length) return;
     const items = vehicles.slice(0, 60).map(v => ({
-        "@type": "Car",
+        "@type": "Product",
         "name": `${v.year} ${getText(v.brand, 'en')} ${getText(v.model, 'en')}`,
         "description": getText(v.description, 'en') || '',
         "image": v.image,
