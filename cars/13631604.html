@@ -910,7 +910,7 @@ function createVehicleCard(v) {
     const model = getText(v.model, currentLang) || getText(v.model, 'en');
     const city = v.city || '';
     const tags = (v.tags || []).slice(0, 3);
-    const imgAlt = `${v.year} ${brand} ${model} - ${v.mileage?.toLocaleString()} km, $${v.price?.toLocaleString()}`;
+    const imgAlt = `${v.year} ${brand} ${model}${v.bodyType ? ' ' + v.bodyType : ''}${v.color ? ' ' + v.color : ''} - ${v.mileage?.toLocaleString()} km, ${v.transmission || ''}, ${v.fuel || ''}, $${v.price?.toLocaleString()}${v.city ? ', ' + v.city : ''} | CARCHINA.LTD`;
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
         '<img src="' + v.image + '" alt="' + imgAlt + '" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
@@ -947,7 +947,7 @@ function showVehicleDetail(id) {
 
     // Build gallery thumbnails
     let thumbs = imgs.map((url, i) =>
-        '<img src="' + url + '" alt="' + brand + ' ' + model + ' photo ' + (i+1) + '" onclick="galleryGoTo(' + v.id + ',' + i + ')" class="gallery-thumb w-16 h-12 rounded-lg object-cover border-2 ' + (i === 0 ? 'active border-blue-600 opacity-100' : 'border-transparent opacity-60') + '" data-index="' + i + '"/>'
+        '<img src="' + url + '" alt="' + brand + ' ' + model + ' thumbnail ' + (i+1) + '" onclick="galleryGoTo(' + v.id + ',' + i + ')" class="gallery-thumb w-16 h-12 rounded-lg object-cover border-2 ' + (i === 0 ? 'active border-blue-600 opacity-100' : 'border-transparent opacity-60') + '" data-index="' + i + '"/>'
     ).join('');
 
     // Build spec rows
@@ -980,7 +980,7 @@ function showVehicleDetail(id) {
             <div class="relative bg-black">
                 <div id="galleryContainer-${v.id}" class="relative aspect-[16/9] md:aspect-[16/8] overflow-hidden">
                     ${imgs.map((url, i) =>
-                        '<img src="' + url + '" alt="' + brand + ' ' + model + ' - ' + t('detail.photo') + ' ' + (i+1) + '" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
+                        '<img src="' + url + '" alt="' + brand + ' ' + model + ' - ' + t('detail.photo') + ' ' + (i+1) + ' | CARCHINA.LTD" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
                     ).join('')}
                     ${imgs.length > 1 ? `
                     <button onclick="galleryPrev(${v.id})" class="absolute left-3 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
