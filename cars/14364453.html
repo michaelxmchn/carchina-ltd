@@ -6,6 +6,10 @@
 <meta name="yandex-verification" content="2172f07e61eb282d" />
 <meta name="msvalidate.01" content="C0BF7D554753EF30F3D067548F729C9B" />
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin/>
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600&display=swap"/>
 <title>2021 BYD 宋PLUS新能源 宋PLUS EV 旗舰型 - $10,312 | CARCHINA.LTD</title>
 <meta name="description" content="2021款比亚迪宋plus EV旗舰
 指导价18.68万
@@ -19,11 +23,11 @@
 <link rel="prev" href="https://carchina.ltd/cars/14851603.html"/>
 <link rel="next" href="https://carchina.ltd/cars/12350859.html"/>
     <link rel="canonical" href="https://carchina.ltd/cars/14364453.html"/>
-<link rel="alternate" hreflang="en" href="https://carchina.ltd/"/>
-<link rel="alternate" hreflang="zh" href="https://carchina.ltd/?lang=cn"/>
-<link rel="alternate" hreflang="ru" href="https://carchina.ltd/?lang=ru"/>
-<link rel="alternate" hreflang="ar" href="https://carchina.ltd/?lang=ar"/>
-<link rel="alternate" hreflang="x-default" href="https://carchina.ltd/"/>
+<link rel="alternate" hreflang="en" href="https://carchina.ltd/cars/14364453.html"/>
+<link rel="alternate" hreflang="zh" href="https://carchina.ltd/cars/14364453.html?lang=cn"/>
+<link rel="alternate" hreflang="ru" href="https://carchina.ltd/cars/14364453.html?lang=ru"/>
+<link rel="alternate" hreflang="ar" href="https://carchina.ltd/cars/14364453.html?lang=ar"/>
+<link rel="alternate" hreflang="x-default" href="https://carchina.ltd/cars/14364453.html"/>
 <!-- Open Graph -->
 <meta property="og:title" content="2021 BYD 宋PLUS新能源 宋PLUS EV 旗舰型 - $10,312 | CARCHINA.LTD"/>
 <meta property="og:description" content="2021款比亚迪宋plus EV旗舰
@@ -127,7 +131,7 @@
   "url": "https://carchina.ltd/cars/14364453.html"
 }
 </script>
-<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries" defer></script>
 <script>
 // SEO: dynamically update meta tags when viewing a vehicle
 function updateSEOMeta(vehicle) {
@@ -146,7 +150,7 @@ function updateSEOMeta(vehicle) {
   const model = getText(vehicle.model, 'en') || getText(vehicle.model, 'cn');
   const title = `${vehicle.year} ${brand} ${model} - $${vehicle.price?.toLocaleString()} | CARCHINA.LTD`;
   const desc = `${vehicle.year} ${brand} ${model} for export. ${vehicle.mileage?.toLocaleString()} km, $${vehicle.price?.toLocaleString()}. Quality inspected, global shipping available.`;
-  const url = `https://carchina.ltd/?car=${vehicle.id}`;
+  const url = `https://carchina.ltd/cars/${vehicle.id}.html`;
   document.title = title;
   document.querySelector('meta[name="description"]').content = desc;
   document.querySelector('meta[property="og:title"]').content = title;
@@ -156,6 +160,12 @@ function updateSEOMeta(vehicle) {
   document.querySelector('meta[name="twitter:title"]').content = title;
   document.querySelector('meta[name="twitter:description"]').content = desc;
   document.querySelector('link[rel="canonical"]').href = url;
+  // Update hreflang alternates for this vehicle page
+  document.querySelector('link[hreflang="en"]').href = url;
+  document.querySelector('link[hreflang="zh"]').href = url + '?lang=cn';
+  document.querySelector('link[hreflang="ru"]').href = url + '?lang=ru';
+  document.querySelector('link[hreflang="ar"]').href = url + '?lang=ar';
+  document.querySelector('link[hreflang="x-default"]').href = url;
   history.replaceState(null, "", url);
 }
 </script>
@@ -956,6 +966,11 @@ function showVehicleDetail(id) {
     const desc = getText(v.description, currentLang) || getText(v.description, 'en');
     const imgs = (v.images && v.images.length > 0) ? v.images : [v.image];
     const tags = v.tags || [];
+    // Update URL without reload
+    if (window.history.replaceState) {
+        window.history.replaceState({ vehicleId: id }, '', '/cars/' + id + '.html');
+    }
+
     // Find prev/next in global vehicle list
     const idx = vehicles.findIndex(x => String(x.id) === String(id));
     const prevV = idx > 0 ? vehicles[idx - 1] : null;
@@ -1062,6 +1077,10 @@ function closeVehicleDetail() {
     const modal = document.getElementById('vehicleDetailModal');
     if (modal) modal.remove();
     updateSEOMeta(null);
+    // Restore URL to home
+    if (window.history.replaceState) {
+        window.history.replaceState({ vehicleId: null }, '', '/');
+    }
 }
 
 function galleryGoTo(id, idx) {
@@ -1162,6 +1181,18 @@ if (carParam) {
   loadVehicles().then(() => {
     const found = vehicles.find(v => String(v.id) === carParam);
     if (found) {
+      setTimeout(() => showVehicleDetail(found.id), 500);
+    }
+  });
+}
+
+// Handle /cars/ID.html path (from prev/next navigation or direct visit to SPA)
+const carPathMatch = window.location.pathname.match(/^\/cars\/(\d+)\.html$/);
+if (carPathMatch) {
+  const carId = carPathMatch[1];
+  loadVehicles().then(() => {
+    const found = vehicles.find(v => String(v.id) === carId);
+    if (found && !carParam) {
       setTimeout(() => showVehicleDetail(found.id), 500);
     }
   });

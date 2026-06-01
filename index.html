@@ -6,6 +6,10 @@
 <meta name="yandex-verification" content="2172f07e61eb282d" />
 <meta name="msvalidate.01" content="C0BF7D554753EF30F3D067548F729C9B" />
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin/>
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600&display=swap"/>
 <title>CARCHINA.LTD - Premium Chinese Used Vehicles Export</title>
 <meta name="description" content="Export quality used vehicles from China to Russia, Middle East, Africa and Southeast Asia. 150-point inspection, global shipping, full documentation support."/>
 <meta name="keywords" content="Chinese used cars, vehicle export China, used car export,二手车出口, China vehicle export, used cars for export, Chinese auto export"/>
@@ -49,7 +53,7 @@
   }
 }
 </script>
-<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries" defer></script>
 <script>
 // SEO: dynamically update meta tags when viewing a vehicle
 function updateSEOMeta(vehicle) {
@@ -68,7 +72,7 @@ function updateSEOMeta(vehicle) {
   const model = getText(vehicle.model, 'en') || getText(vehicle.model, 'cn');
   const title = `${vehicle.year} ${brand} ${model} - $${vehicle.price?.toLocaleString()} | CARCHINA.LTD`;
   const desc = `${vehicle.year} ${brand} ${model} for export. ${vehicle.mileage?.toLocaleString()} km, $${vehicle.price?.toLocaleString()}. Quality inspected, global shipping available.`;
-  const url = `https://carchina.ltd/?car=${vehicle.id}`;
+  const url = `https://carchina.ltd/cars/${vehicle.id}.html`;
   document.title = title;
   document.querySelector('meta[name="description"]').content = desc;
   document.querySelector('meta[property="og:title"]').content = title;
@@ -78,6 +82,12 @@ function updateSEOMeta(vehicle) {
   document.querySelector('meta[name="twitter:title"]').content = title;
   document.querySelector('meta[name="twitter:description"]').content = desc;
   document.querySelector('link[rel="canonical"]').href = url;
+  // Update hreflang alternates for this vehicle page
+  document.querySelector('link[hreflang="en"]').href = url;
+  document.querySelector('link[hreflang="zh"]').href = url + '?lang=cn';
+  document.querySelector('link[hreflang="ru"]').href = url + '?lang=ru';
+  document.querySelector('link[hreflang="ar"]').href = url + '?lang=ar';
+  document.querySelector('link[hreflang="x-default"]').href = url;
   history.replaceState(null, "", url);
 }
 </script>
