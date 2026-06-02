@@ -11,6 +11,8 @@
   "routes": [
     { "handle": "filesystem" },
     { "src": "/cars/(.*)", "dest": "/cars/$1" },
+    { "src": "/(en|cn|ru|ar)/cars/(.*)", "dest": "/cars/$2" },
+    { "src": "/(en|cn|ru|ar)(/?)", "dest": "/index.html" },
     { "src": "/(.*)", "dest": "index.html" }
   ]
 }

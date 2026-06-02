@@ -24,9 +24,9 @@
 <meta name="robots" content="index, follow"/>
 <link rel="canonical" href="https://carchina.ltd/"/>
 <link rel="alternate" hreflang="en" href="https://carchina.ltd/"/>
-<link rel="alternate" hreflang="zh" href="https://carchina.ltd/?lang=cn"/>
-<link rel="alternate" hreflang="ru" href="https://carchina.ltd/?lang=ru"/>
-<link rel="alternate" hreflang="ar" href="https://carchina.ltd/?lang=ar"/>
+<link rel="alternate" hreflang="zh" href="https://carchina.ltd/cn/"/>
+<link rel="alternate" hreflang="ru" href="https://carchina.ltd/ru/"/>
+<link rel="alternate" hreflang="ar" href="https://carchina.ltd/ar/"/>
 <link rel="alternate" hreflang="x-default" href="https://carchina.ltd/"/>
 <!-- Open Graph -->
 <meta property="og:title" content="CARCHINA.LTD - Premium Chinese Used Vehicles Export"/>
@@ -146,11 +146,11 @@ function updateSEOMeta(vehicle) {
   document.querySelector('meta[name="twitter:title"]').content = title;
   document.querySelector('meta[name="twitter:description"]').content = desc;
   document.querySelector('link[rel="canonical"]').href = url;
-  // Update hreflang alternates for this vehicle page
+  // Update hreflang alternates for this vehicle page (path-based)
   document.querySelector('link[hreflang="en"]').href = url;
-  document.querySelector('link[hreflang="zh"]').href = url + '?lang=cn';
-  document.querySelector('link[hreflang="ru"]').href = url + '?lang=ru';
-  document.querySelector('link[hreflang="ar"]').href = url + '?lang=ar';
+  document.querySelector('link[hreflang="zh"]').href = 'https://carchina.ltd/cn/cars/' + vehicle.id + '.html';
+  document.querySelector('link[hreflang="ru"]').href = 'https://carchina.ltd/ru/cars/' + vehicle.id + '.html';
+  document.querySelector('link[hreflang="ar"]').href = 'https://carchina.ltd/ar/cars/' + vehicle.id + '.html';
   document.querySelector('link[hreflang="x-default"]').href = url;
   history.replaceState(null, "", url);
 }
@@ -1289,9 +1289,24 @@ document.addEventListener('click', (e) => {
     }
 });
 
-// Read ?lang= from URL
-const urlLang = new URLSearchParams(window.location.search).get('lang');
-if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) currentLang = urlLang;
+// Read language from URL: /en/, /cn/, /ru/, /ar/ path prefix OR ?lang= query param
+function detectLangFromURL() {
+    // 1. Path prefix: /en/, /cn/, /ru/, /ar/
+    const pathMatch = window.location.pathname.match(/^\/(en|cn|ru|ar)(\/|$)/);
+    if (pathMatch) return pathMatch[1];
+    // 2. Query param: ?lang=en
+    const urlLang = new URLSearchParams(window.location.search).get('lang');
+    if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) return urlLang;
+    return null;
+}
+
+const detectedLang = detectLangFromURL();
+if (detectedLang) {
+    currentLang = detectedLang;
+} else {
+    const urlLang = new URLSearchParams(window.location.search).get('lang');
+    if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) currentLang = urlLang;
+}
 setLanguage(currentLang);
 renderFeaturedVehicles();
 
