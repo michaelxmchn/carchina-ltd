@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npx serve -l 3000",
     "seo": "node src/seo-api.js",
-    "build": "echo 'Static site - no build required'"
+    "build": "echo 'Static site - assets pre-built'"
   },
   "keywords": [
     "used-car",

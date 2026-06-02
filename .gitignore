@@ -2,7 +2,8 @@ node_modules/
 .DS_Store
 *.log
 .env
-data/
+data/*
+!data/vehicles.json
 test*.js
 cn_replacement.txt
 test_syntax.js
