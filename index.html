@@ -554,6 +554,7 @@ en: {
 "detail.location": "Location", "detail.emission": "Emission", "detail.transfer": "Transfer Count",
 "detail.photos": "Photos", "detail.tags": "Tags", "detail.photo": "Photo",
 "specs": "Specifications",
+"related": "Related Vehicles",
 "brand.Toyota": "Toyota", "brand.Honda": "Honda", "brand.BMW": "BMW", "brand.Mercedes-Benz": "Mercedes-Benz",
 "brand.BYD": "BYD", "brand.Volkswagen": "Volkswagen", "brand.Jaguar": "Jaguar", "brand.Lexus": "Lexus",
 "brand.Land Rover": "Land Rover", "brand.Peugeot": "Peugeot", "brand.Audi": "Audi", "brand.Geely": "Geely",
@@ -625,6 +626,7 @@ cn: {
 "detail.location": "所在地", "detail.emission": "排放标准", "detail.transfer": "过户次数",
 "detail.photos": "照片", "detail.tags": "标签", "detail.photo": "照片",
 "specs": "规格参数",
+"related": "相关推荐",
 "brand.Toyota": "丰田", "brand.Honda": "本田", "brand.BMW": "宝马", "brand.Mercedes-Benz": "奔驰",
 "brand.BYD": "比亚迪", "brand.Volkswagen": "大众", "brand.Jaguar": "捷豹", "brand.Lexus": "雷克萨斯",
 "brand.Land Rover": "路虎", "brand.Peugeot": "标致", "brand.Audi": "奥迪", "brand.Geely": "吉利",
@@ -696,6 +698,7 @@ ru: {
 "detail.location": "Место", "detail.emission": "Эко-класс", "detail.transfer": "Владельцев",
 "detail.photos": "Фото", "detail.tags": "Теги", "detail.photo": "Фото",
 "specs": "Характеристики",
+"related": "Похожие автомобили",
 "brand.Toyota": "Тойота", "brand.Honda": "Хонда", "brand.BMW": "БМВ", "brand.Mercedes-Benz": "Мерседес",
 "brand.BYD": "BYD", "brand.Volkswagen": "Фольксваген", "brand.Jaguar": "Ягуар", "brand.Lexus": "Лексус",
 "brand.Land Rover": "Ленд Ровер", "brand.Peugeot": "Пежо", "brand.Audi": "Ауди", "brand.Geely": "Джили",
@@ -767,6 +770,7 @@ ar: {
 "detail.location": "الموقع", "detail.emission": "الانبعاثات", "detail.transfer": "عدد المالكين",
 "detail.photos": "الصور", "detail.tags": "الوسوم", "detail.photo": "صورة",
 "specs": "المواصفات",
+"related": "سيارات مشابهة",
 "brand.Toyota": "تويوتا", "brand.Honda": "هوندا", "brand.BMW": "بي إم دبليو", "brand.Mercedes-Benz": "مرسيدس",
 "brand.BYD": "بي واي دي", "brand.Volkswagen": "فولكس فاجن", "brand.Jaguar": "جاغوار", "brand.Lexus": "لكزس",
 "brand.Land Rover": "لاند روفر", "brand.Peugeot": "بيجو", "brand.Audi": "أودي", "brand.Geely": "جيكلي",
@@ -1032,7 +1036,7 @@ function createVehicleCard(v) {
     const imgAlt = `${v.year} ${brand} ${model}${v.bodyType ? ' ' + v.bodyType : ''}${v.color ? ' ' + v.color : ''} - ${v.mileage?.toLocaleString()} km, ${v.transmission || ''}, ${v.fuel || ''}, $${v.price?.toLocaleString()}${v.city ? ', ' + v.city : ''} | CARCHINA.LTD`;
     return '<div class="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 cursor-pointer" onclick="showVehicleDetail(' + v.id + ')">' +
         '<div class="relative aspect-[16/10] overflow-hidden">' +
-        '<img src="' + v.image + '" alt="' + imgAlt + '" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
+        '<img src="' + v.image + '" alt="' + imgAlt + '" width="400" height="250" loading="lazy" decoding="async" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
         '<div class="absolute top-3 left-3 bg-blue-900/90 text-white px-3 py-1 rounded-full text-xs font-bold backdrop-blur">' + brand + '</div>' +
         (v.featured ? '<div class="absolute top-3 right-3 bg-red-600 text-white px-3 py-1 rounded-full text-xs font-bold">Featured</div>' : '') +
         '</div>' +
@@ -1052,6 +1056,23 @@ function createVehicleCard(v) {
         '</div>' +
         '<button class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-sm font-bold transition-all" onclick="event.stopPropagation(); showVehicleDetail(' + v.id + ')">' + t('detail.inquire') + '</button>' +
         '</div></div></div>';
+}
+
+// ── Related Vehicles (same brand, max 4) ──
+function buildRelatedVehicles(v) {
+    const brandEn = getText(v.brand, 'en');
+    if (!brandEn || vehicles.length < 2) return '';
+    const sameBrand = vehicles.filter(x => String(x.id) !== String(v.id) && getText(x.brand, 'en') === brandEn);
+    const related = sameBrand.slice(0, 4);
+    if (!related.length) return '';
+    return '<div class="mt-8"><h3 class="text-lg font-bold text-blue-900 mb-4">' + t('related') + '</h3><div class="grid grid-cols-2 md:grid-cols-4 gap-3">' +
+        related.map(x => '<div class="bg-white rounded-xl overflow-hidden shadow hover:shadow-md transition-all cursor-pointer border border-slate-100" onclick="showVehicleDetail(' + x.id + ')">' +
+            '<div class="aspect-[16/10] overflow-hidden bg-slate-100">' +
+            '<img src="' + x.image + '" alt="' + x.year + ' ' + getText(x.brand, 'en') + ' ' + getText(x.model, 'en') + '" loading="lazy" decoding="async" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"/>' +
+            '</div>' +
+            '<div class="p-3"><div class="text-xs text-slate-500 truncate">' + x.year + ' ' + getText(x.brand, 'en') + '</div>' +
+            '<div class="text-sm font-bold text-blue-900">$' + x.price.toLocaleString() + '</div></div></div>').join('') +
+        '</div></div>';
 }
 
 function showVehicleDetail(id) {
@@ -1108,7 +1129,7 @@ function showVehicleDetail(id) {
             <div class="relative bg-black">
                 <div id="galleryContainer-${v.id}" class="relative aspect-[16/9] md:aspect-[16/8] overflow-hidden">
                     ${imgs.map((url, i) =>
-                        '<img src="' + url + '" alt="' + brand + ' ' + model + ' - ' + t('detail.photo') + ' ' + (i+1) + ' | CARCHINA.LTD" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
+                        '<img src="' + url + '" alt="' + brand + ' ' + model + ' - ' + t('detail.photo') + ' ' + (i+1) + ' | CARCHINA.LTD" width="800" height="450" decoding="async" class="gallery-slide w-full h-full object-contain absolute inset-0 transition-opacity duration-300 ' + (i === 0 ? 'opacity-100' : 'opacity-0') + '" data-index="' + i + '"/>'
                     ).join('')}
                     ${imgs.length > 1 ? `
                     <button onclick="galleryPrev(${v.id})" class="absolute left-3 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg z-10">
@@ -1154,6 +1175,8 @@ function showVehicleDetail(id) {
                     ${prevV ? '<a href="/cars/' + prevV.id + '.html" onclick="event.preventDefault();showVehicleDetail(' + prevV.id + ');" class="flex-1 flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 rounded-xl transition-all text-sm"><span>\u2190</span> ' + (getText(prevV.brand, 'en') || '') + ' ' + (getText(prevV.model, 'en') || '') + '</a>' : '<div class="flex-1"></div>'}
                     ${nextV ? '<a href="/cars/' + nextV.id + '.html" onclick="event.preventDefault();showVehicleDetail(' + nextV.id + ');" class="flex-1 flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold py-3 rounded-xl transition-all text-sm">' + (getText(nextV.brand, 'en') || '') + ' ' + (getText(nextV.model, 'en') || '') + ' <span>\u2192</span></a>' : '<div class="flex-1"></div>'}
                 </div>
+                <!-- Related Vehicles -->
+                ${buildRelatedVehicles(v)}
                 <!-- Actions -->
                 <div class="flex flex-col sm:flex-row gap-4 mt-4">
                     <button onclick="showPage('contact'); closeVehicleDetail();" class="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition-all text-lg">${t('detail.inquire')}</button>
