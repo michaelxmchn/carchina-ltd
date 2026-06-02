@@ -565,7 +565,7 @@ en: {
 "footer.links": "Quick Links", "footer.services": "Services", "footer.contact": "Contact",
 "footer.s1": "Vehicle Sourcing", "footer.s2": "Quality Inspection", "footer.s3": "Global Shipping", "footer.s4": "Export Documentation",
 "footer.copyright": "© 2024 CARCHINA.LTD. All rights reserved.",
-"detail.inquire": "Inquire Now", "detail.guide_price": "Guide Price",
+"common.na": "N/A", "detail.inquire": "Inquire Now", "detail.guide_price": "Guide Price",
 "detail.mileage": "Mileage", "detail.fuel": "Fuel", "detail.transmission": "Transmission",
 "detail.year": "Year", "detail.body": "Body Type", "detail.color": "Color",
 "detail.capacity": "Engine", "detail.plate_date": "Plate Date",
@@ -637,7 +637,7 @@ cn: {
 "footer.links": "快速链接", "footer.services": "服务", "footer.contact": "联系方式",
 "footer.s1": "车辆采购", "footer.s2": "质量检测", "footer.s3": "全球物流", "footer.s4": "出口文件",
 "footer.copyright": "© 2024 CARCHINA.LTD. 版权所有",
-"detail.inquire": "立即询价", "detail.guide_price": "指导价",
+"common.na": "N/A", "detail.inquire": "立即询价", "detail.guide_price": "指导价",
 "detail.mileage": "里程", "detail.fuel": "燃油", "detail.transmission": "变速箱",
 "detail.year": "年份", "detail.body": "车型", "detail.color": "颜色",
 "detail.capacity": "排量", "detail.plate_date": "上牌日期",
@@ -709,7 +709,7 @@ ru: {
 "footer.links": "Ссылки", "footer.services": "Услуги", "footer.contact": "Контакты",
 "footer.s1": "Поиск авто", "footer.s2": "Проверка", "footer.s3": "Доставка", "footer.s4": "Документы",
 "footer.copyright": "© 2024 CARCHINA.LTD. Все права защищены.",
-"detail.inquire": "Запросить", "detail.guide_price": "Рек. цена",
+"common.na": "N/A", "detail.inquire": "Запросить", "detail.guide_price": "Рек. цена",
 "detail.mileage": "Пробег", "detail.fuel": "Топливо", "detail.transmission": "КПП",
 "detail.year": "Год", "detail.body": "Кузов", "detail.color": "Цвет",
 "detail.capacity": "Двигатель", "detail.plate_date": "Регистрация",
@@ -781,7 +781,7 @@ ar: {
 "footer.links": "روابط سريعة", "footer.services": "الخدمات", "footer.contact": "اتصل بنا",
 "footer.s1": "البحث عن المركبات", "footer.s2": "فحص الجودة", "footer.s3": "الشحن العالمي", "footer.s4": "الوثائق",
 "footer.copyright": "© 2024 CARCHINA.LTD. جميع الحقوق محفوظة.",
-"detail.inquire": "استفسر الآن", "detail.guide_price": "السعر الإرشادي",
+"common.na": "N/A", "detail.inquire": "استفسر الآن", "detail.guide_price": "السعر الإرشادي",
 "detail.mileage": "المسافة", "detail.fuel": "الوقود", "detail.transmission": "ناقل الحركة",
 "detail.year": "السنة", "detail.body": "نوع الهيكل", "detail.color": "اللون",
 "detail.capacity": "المحرك", "detail.plate_date": "تاريخ اللوحة",
@@ -1062,9 +1062,9 @@ function createVehicleCard(v) {
         '<h3 class="text-lg font-bold text-blue-900 mb-2 leading-tight">' + v.year + ' ' + brand + ' ' + model + '</h3>' +
         '<div class="flex flex-wrap gap-1.5 mb-3">' +
         '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium">' + v.mileage.toLocaleString() + ' km</span>' +
-        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + t('fuel.' + v.fuel) + '</span>' +
-        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + (v.transmission || 'Auto') + '</span>' +
-        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + t('body.' + v.bodyType) + '</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + (v.fuel_en || '') + '</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + (v.transmission_en || v.transmission || 'Auto') + '</span>' +
+        '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium capitalize">' + t('body.' + (v.bodyType_en || v.bodyType || '')) + '</span>' +
         (city ? '<span class="bg-slate-100 px-2.5 py-1 rounded-full text-xs font-medium">📍 ' + city + '</span>' : '') +
         '</div>' +
         (tags.length > 0 ? '<div class="flex flex-wrap gap-1 mb-3">' + tags.map(tg => '<span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-xs">' + tg + '</span>').join('') + '</div>' : '') +
@@ -1121,10 +1121,10 @@ function showVehicleDetail(id) {
     const specs = [
         { label: 'detail.year', value: v.year },
         { label: 'detail.mileage', value: v.mileage.toLocaleString() + ' km' },
-        { label: 'detail.fuel', value: t('fuel.' + v.fuel) },
-        { label: 'detail.transmission', value: v.transmission || 'Automatic' },
-        { label: 'detail.body', value: t('body.' + v.bodyType) },
-        { label: 'detail.color', value: v.color || '-' },
+        { label: 'detail.fuel', value: v.fuel_en || t('common.na') },
+        { label: 'detail.transmission', value: v.transmission_en || v.transmission || 'Automatic' },
+        { label: 'detail.body', value: t('body.' + (v.bodyType_en || v.bodyType || '')) },
+        { label: 'detail.color', value: v.color_en || v.color || '-' },
         { label: 'detail.capacity', value: v.capacity || '-' },
         { label: 'detail.plate_date', value: v.plateDate || '-' },
         { label: 'detail.location', value: [v.city, v.province].filter(Boolean).join(', ') || '-' },
