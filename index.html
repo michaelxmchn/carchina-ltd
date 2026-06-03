@@ -924,6 +924,9 @@ function setLanguage(lang) {
         if (t[key]) el.textContent = t[key];
     });
     document.getElementById('langDropdown').classList.add('hidden');
+    // Update URL to reflect language
+    const newPath = lang === 'en' ? '/' : '/' + lang + '/';
+    window.history.replaceState({}, '', newPath);
     // Re-fetch data for the new language
     loadVehicles();
     renderVehicles();
@@ -1329,9 +1332,6 @@ function detectLangFromURL() {
 const detectedLang = detectLangFromURL();
 if (detectedLang) {
     currentLang = detectedLang;
-} else {
-    const urlLang = new URLSearchParams(window.location.search).get('lang');
-    if (urlLang && ['en','cn','ru','ar'].includes(urlLang)) currentLang = urlLang;
 }
 setLanguage(currentLang);
 renderFeaturedVehicles();
