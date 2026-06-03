@@ -817,13 +817,13 @@ ar: {
 }
 };
 
-const GITHUB_RAW = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data/vehicles.json?_=' + Date.now();
+const GITHUB = 'https://raw.githubusercontent.com/michaelxmchn/carchina-ltd/master/data';
 let vehicles = [];
 let currentLang = localStorage.getItem('lang') || 'en';
 
 async function loadVehicles() {
-    // If full data already loaded, skip
-    if (window._fullDataLoaded) return;
+    // If full data already loaded for current language, skip
+    if (window._fullDataLoadedFor === currentLang) return;
     // Load inline data first (instant, first ~20 cars)
     if (!window._inlineLoaded) {
         window._inlineLoaded = true;
@@ -840,31 +840,33 @@ async function loadVehicles() {
     if (!window._fullDataLoading) {
         window._fullDataLoading = true;
         try {
-            const res = await fetch('/data/vehicles.json?_=' + Date.now(), { priority: 'low' });
+            const res = await fetch(`/data/${currentLang}/vehicles.json?_=` + Date.now(), { priority: 'low' });
             if (res.ok) {
                 const data = await res.json();
-                if (data.vehicles && data.vehicles.length > vehicles.length) {
+                if (data.vehicles && data.vehicles.length > 0) {
                     vehicles = data.vehicles;
-                    window._fullDataLoaded = true;
+                    window._fullDataLoadedFor = currentLang;
                     updateVehicleSchema(vehicles);
                     dispatchEvent(new CustomEvent('vehicles-loaded'));
                 }
             }
         } catch (e) {
-            // Fallback: try GitHub raw
+            // Fallback: try GitHub raw per-language
             try {
-                const res = await fetch(GITHUB_RAW, { priority: 'low' });
+                const fallbackUrl = GITHUB + `/${currentLang}/vehicles.json?_=` + Date.now();
+                const res = await fetch(fallbackUrl, { priority: 'low' });
                 if (res.ok) {
                     const data = await res.json();
                     if (data.vehicles) {
                         vehicles = data.vehicles;
-                        window._fullDataLoaded = true;
+                        window._fullDataLoadedFor = currentLang;
                         updateVehicleSchema(vehicles);
                         dispatchEvent(new CustomEvent('vehicles-loaded'));
                     }
                 }
             } catch (e2) {}
         }
+        window._fullDataLoading = false;
     }
 }
 
@@ -931,6 +933,8 @@ function setLanguage(lang) {
         if (t[key]) el.textContent = t[key];
     });
     document.getElementById('langDropdown').classList.add('hidden');
+    // Re-fetch data for the new language
+    loadVehicles();
     renderVehicles();
     renderFeaturedVehicles();
 }
