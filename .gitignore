@@ -4,6 +4,10 @@ node_modules/
 .env
 data/*
 !data/vehicles.json
+!data/en/
+!data/cn/
+!data/ru/
+!data/ar/
 test*.js
 cn_replacement.txt
 test_syntax.js
