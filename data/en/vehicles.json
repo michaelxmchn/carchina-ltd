@@ -8,7 +8,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "Qin L DM-i 1.5 CVT 120KM超越型",
+      "model": "Qin L DM-i 1.5 CVT 120KM Surpass Edition",
       "year": 2024,
       "price": 10395.0,
       "mileage": 18000,
@@ -35,7 +35,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Corolla 1.2T CVT 先锋版",
+      "model": "Corolla 1.2T CVT Pioneer Edition",
       "year": 2024,
       "price": 9432.0,
       "mileage": 8100,
@@ -62,7 +62,7 @@
         "ar": "نيسان",
         "cn": "日产"
       },
-      "model": "X-Trail 1.5T CVT VC-Turbo 300 两驱豪华版",
+      "model": "X-Trail 1.5T CVT VC-Turbo 300 FWD Luxury Edition",
       "year": 2021,
       "price": 12925.0,
       "mileage": 60000,
@@ -89,7 +89,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "T-Roc 1.4TSI 280TSI 两驱舒适智联版",
+      "model": "T-Roc 1.4TSI 280TSI FWD Comfort Connectivity Edition",
       "year": 2021,
       "price": 10285.0,
       "mileage": 38500,
@@ -116,7 +116,7 @@
         "ar": "مازدا",
         "cn": "马自达"
       },
-      "model": "3 Axela 2020 модель Mazda 3 Axela Sedan 2.0 质尊版",
+      "model": "Mazda 3 Axela Sedan 2.0 2020 Supreme Edition",
       "year": 2020,
       "price": 9350.0,
       "mileage": 29400,
@@ -143,7 +143,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A3 Sportback 1.4TFSI 35TFSI 时尚致雅型",
+      "model": "A3 Sportback 1.4TFSI 35TFSI Fashion Elegance Edition",
       "year": 2021,
       "price": 12237.0,
       "mileage": 51100,
@@ -170,7 +170,7 @@
         "ar": "هونغتشي",
         "cn": "红旗"
       },
-      "model": "HS5 2.0T 旗享Pro版",
+      "model": "HS5 2.0T Premium Pro Edition",
       "year": 2023,
       "price": 13200.0,
       "mileage": 44500,
@@ -197,7 +197,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Corolla Hybrid 1.8 CVT 精英版",
+      "model": "Corolla Hybrid 1.8 CVT Elite Edition",
       "year": 2021,
       "price": 6806.0,
       "mileage": 202000,
@@ -212,10 +212,10 @@
       "status": "Listed",
       "description": "2021 Toyota 卡罗拉双擎 1.8 无级 精英版 with 202,000 km. White exterior. Sedan, Petrol, 1.8L, Automatic. 一手车，原版车况，已过三方。. Located in 汕头, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "汕头",
       "province": "广东",
@@ -229,7 +229,7 @@
         "ar": "نيسان",
         "cn": "日产"
       },
-      "model": "Sylphy Classic 1.6 CVT XL豪华版",
+      "model": "Sylphy Classic 1.6 CVT XL Luxury Edition",
       "year": 2022,
       "price": 6324.0,
       "mileage": 70000,
@@ -256,7 +256,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Levin Hybrid 1.8 CVT 智能电混豪华版",
+      "model": "Levin Hybrid 1.8 CVT Intelligent Hybrid Luxury Edition",
       "year": 2023,
       "price": 9460.0,
       "mileage": 130000,
@@ -271,9 +271,9 @@
       "status": "Listed",
       "description": "2023 Toyota 雷凌双擎 1.8 无级 智能电混豪华版 with 130,000 km. White exterior. Sedan, Petrol, 1.8L, Automatic. 原版，两个面做漆. Located in 汕头, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "汕头",
       "province": "广东",
@@ -287,7 +287,7 @@
         "ar": "جيلي جالاكسي",
         "cn": "吉利银河"
       },
-      "model": "A7 EM-i 1.5 70km 豪享版",
+      "model": "A7 EM-i 1.5 70km Luxury Enjoy Edition",
       "year": 2025,
       "price": 8360.0,
       "mileage": 36000,
@@ -302,11 +302,11 @@
       "status": "Listed",
       "description": "2025 Geely Galaxy A7 EM-i 1.5 70km 豪享版 with 36,000 km. Blue exterior. Sedan, Petrol, 1.5L, Automatic. 原版车况，费用同步，过手不用投资. Located in 汕头, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "低油耗",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "Low Fuel Consumption",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "汕头",
       "province": "广东",
@@ -320,7 +320,7 @@
         "ar": "فورد",
         "cn": "福特"
       },
-      "model": "Focus хэтчбек 1.5T EcoBoost 180 锋潮型",
+      "model": "Focus Hatchback 1.5T EcoBoost 180 Sport Trend Edition",
       "year": 2021,
       "price": 7975.0,
       "mileage": 30000,
@@ -347,7 +347,7 @@
         "ar": "جيتور",
         "cn": "捷途"
       },
-      "model": "X70 PRO 1.6T 悦享PRO5座",
+      "model": "X70 PRO 1.6T Joy Enjoy PRO 5-Seat Edition",
       "year": 2023,
       "price": 10862.0,
       "mileage": 10000,
@@ -389,13 +389,13 @@
       "status": "Listed",
       "description": "2024 Land Rover 发现(进口) 2024款 发现5 48V 3.0T 360PS S with 39,000 km. Black exterior. SUV, Electric, 3.0T, Automatic. 一手0过户，原版原漆带车衣，实表，电动踏板，车况极品！. Located in 潍坊, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆",
-        "0过户",
-        "高性价比",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original Paint",
+        "0 Transfers",
+        "Great Value",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "潍坊",
       "province": "山东",
@@ -409,7 +409,7 @@
         "ar": "مازدا",
         "cn": "马自达"
       },
-      "model": "CX-30 2.0 质悦型",
+      "model": "CX-30 2.0 Premium Joy Edition",
       "year": 2022,
       "price": 13475.0,
       "mileage": 38000,
@@ -463,7 +463,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "XR-V 1.5 CVT 舒适版",
+      "model": "XR-V 1.5 CVT Comfort Edition",
       "year": 2021,
       "price": 12787.0,
       "mileage": 47000,
@@ -478,9 +478,9 @@
       "status": "Listed",
       "description": "2021 Honda XR-V 1.5 无级 舒适版 with 47,000 km. White exterior. SUV, Petrol, 1.5L, Automatic. 全车原版原漆实表，一键启动无钥匙进入，全景天窗. Located in 长春, 吉林, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "实表里程",
-        "一手车"
+        "All Original Paint",
+        "Actual Mileage",
+        "One-owner"
       ],
       "city": "长春",
       "province": "吉林",
@@ -494,7 +494,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A3 Sportback 1.4 TFSI 35 TFSI 进取运动型",
+      "model": "A3 Sportback 1.4 TFSI 35 TFSI Progressive Sport",
       "year": 2022,
       "price": 16362.0,
       "mileage": 32000,
@@ -521,7 +521,7 @@
         "ar": "مازدا",
         "cn": "马自达"
       },
-      "model": "CX-5 2.0 两驱舒适型",
+      "model": "CX-5 2.0 2WD Comfort Type",
       "year": 2024,
       "price": 15056.0,
       "mileage": 28000,
@@ -548,7 +548,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "T-Cross (Tu Kai) 1.5 舒适版",
+      "model": "T-Cross 1.5 Comfort Edition",
       "year": 2022,
       "price": 9900.0,
       "mileage": 66000,
@@ -575,7 +575,7 @@
         "ar": "تشانجان",
         "cn": "长安"
       },
-      "model": "Lumin 宝藏版 205km 酷爱米宁德",
+      "model": "Lumin Treasure Edition 205km Kuaimi Ningde",
       "year": 2026,
       "price": 5775.0,
       "mileage": 100,
@@ -602,7 +602,7 @@
         "ar": "تشانجان",
         "cn": "长安"
       },
-      "model": "Lumin 210km 香甜款",
+      "model": "Lumin 210km Sweet Edition",
       "year": 2022,
       "price": 4056.0,
       "mileage": 9000,
@@ -629,7 +629,7 @@
         "ar": "فولفو",
         "cn": "沃尔沃"
       },
-      "model": "XC60 48V 2.0T B5 四驱智远豪华版",
+      "model": "XC60 48V 2.0T B5 AWD Inscription Luxury Edition",
       "year": 2025,
       "price": 28462.0,
       "mileage": 3000,
@@ -656,7 +656,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "元 UP 301KM 领航型",
+      "model": "Yuan UP 301KM Pilot Type",
       "year": 2025,
       "price": 8868.0,
       "mileage": 100,
@@ -683,7 +683,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "星愿 310km 梦想版",
+      "model": "Star Wish 310km Dream Edition",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -710,7 +710,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "星愿 310km 梦想版",
+      "model": "Star Wish 310km Dream Edition",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -737,7 +737,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "星愿 310km 梦想版",
+      "model": "Star Wish 310km Dream Edition",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -764,7 +764,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "星愿 310km 梦想版",
+      "model": "Star Wish 310km Dream Edition",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -791,7 +791,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "星愿 310km 梦想版",
+      "model": "Star Wish 310km Dream Edition",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -818,7 +818,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "C级 2024款 C 260 L 48V 1.5T 运动版",
+      "model": "C-Class 2024 C 260 L 48V 1.5T Sport Edition",
       "year": 2024,
       "price": 27885.0,
       "mileage": 14000,
@@ -833,12 +833,12 @@
       "status": "Listed",
       "description": "2024 Mercedes-Benz C级 2024款 C 260 L 48V 1.5T 运动版 with 14,000 km. White exterior. Sedan, Petrol, 1.5T, Automatic. 原版原漆. Located in 合肥, 安徽, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "全车原漆",
-        "0过户",
-        "高性价比",
-        "一手车",
-        "实表里程"
+        "High Resale Value",
+        "All Original Paint",
+        "0 Transfers",
+        "Great Value",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "合肥",
       "province": "安徽",
@@ -852,7 +852,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "型格 1.5T 无级 240TURBO 幻夜·豪华版",
+      "model": "Integra 1.5T CVT 240TURBO Phantom Night Luxury Edition",
       "year": 2023,
       "price": 12512.0,
       "mileage": 4000,
@@ -867,8 +867,8 @@
       "status": "Listed",
       "description": "2023 Honda 型格 1.5T 无级 240TURBO 幻夜·豪华版 with 4,000 km. Black exterior. Sedan, Petrol, 1.5T, Automatic. 一手车，原版原漆，准新车. Located in 潍坊, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆"
+        "Like New",
+        "All Original Paint"
       ],
       "city": "潍坊",
       "province": "山东",
@@ -882,7 +882,7 @@
         "ar": "كاما",
         "cn": "凯马"
       },
-      "model": "骏航V2 2.0",
+      "model": "Junhang V2 2.0",
       "year": 2022,
       "price": 17600.0,
       "mileage": 50000,
@@ -909,7 +909,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "缤智 1.5T 无级 220TURBO 精英版",
+      "model": "Vezel 1.5T CVT 220TURBO Elite Edition",
       "year": 2020,
       "price": 9350.0,
       "mileage": 34000,
@@ -936,7 +936,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "S4(进口) 2020款 S4 Limousine 3.0TFSI",
+      "model": "S4 (Imported) 2020 S4 Limousine 3.0TFSI",
       "year": 2020,
       "price": 32312.0,
       "mileage": 65000,
@@ -963,7 +963,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "S4(进口) 2020款 S4 Limousine 3.0TFSI",
+      "model": "S4 (Imported) 2020 S4 Limousine 3.0TFSI",
       "year": 2020,
       "price": 28187.0,
       "mileage": 65000,
@@ -978,9 +978,9 @@
       "status": "Listed",
       "description": "2020 Audi S4(进口) 2020款 S4 Limousine 3.0TFSI with 65,000 km. Gray exterior. Sedan, Petrol, 3.0T, Automatic. 车况精品，公里数实际，查博士检测已通过，喜欢的抓紧……. Located in 宁波, 浙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "车况精品",
-        "高性价比",
-        "实表里程"
+        "Excellent Condition",
+        "Great Value",
+        "Actual Mileage"
       ],
       "city": "宁波",
       "province": "浙江",
@@ -994,7 +994,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "赛那 2.5 无级 舒适版",
+      "model": "Sienna 2.5 CVT Comfort Edition",
       "year": 2021,
       "price": 27225.0,
       "mileage": 54000,
@@ -1021,7 +1021,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A4L 2.0TFSI 40TFSI 豪华动感型",
+      "model": "A4L 2.0TFSI 40TFSI Luxury Dynamic Type",
       "year": 2022,
       "price": 21312.0,
       "mileage": 63000,
@@ -1036,12 +1036,12 @@
       "status": "Listed",
       "description": "2022 Audi A4L 2.0TFSI 40TFSI 豪华动感型 with 63,000 km. White exterior. Sedan, Petrol, 2.0T, Automatic. 个人纯一手未过户，车况原版，公里数实际 保险出险理赔2000，支持任何检测，喜欢的不要错过……. Located in 宁波, 浙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "实表里程",
-        "全车原版",
-        "0过户",
-        "代步车",
-        "高性价比"
+        "One-owner",
+        "Actual Mileage",
+        "All Original",
+        "0 Transfers",
+        "Daily Commuter",
+        "Great Value"
       ],
       "city": "宁波",
       "province": "浙江",
@@ -1055,7 +1055,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "唐L DM 1.5T 无级 175KM 无人机玩家版",
+      "model": "Tang L DM 1.5T CVT 175km Drone Player Edition",
       "year": 2025,
       "price": 29975.0,
       "mileage": 2000,
@@ -1082,7 +1082,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "S级(进口) 2022款 S 400 L 48V 2.5T 商务型",
+      "model": "S-Class (Imported) 2022 S 400 L 48V 2.5T Business",
       "year": 2022,
       "price": 62562.0,
       "mileage": 171000,
@@ -1109,7 +1109,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "汉 DM-i 1.5T 无级 荣耀版 121KM 精英型",
+      "model": "Han DM-i 1.5T CVT Glory Edition 121km Elite",
       "year": 2024,
       "price": 15125.0,
       "mileage": 60000,
@@ -1136,7 +1136,7 @@
         "ar": "ترامبتشي",
         "cn": "传祺"
       },
-      "model": "M8 2.0T 390T 领秀系列 豪华版",
+      "model": "M8 2.0T 390T Leader Series Luxury",
       "year": 2023,
       "price": 15812.0,
       "mileage": 39800,
@@ -1163,7 +1163,7 @@
         "ar": "شيري",
         "cn": "奇瑞"
       },
-      "model": "瑞虎8 PLUS 2.0TGDI 390TGDI 鲲鹏版 豪情版",
+      "model": "Tiggo 8 Plus 2.0TGDI 390TGDI Kunpeng Edition Gallant",
       "year": 2022,
       "price": 7810.0,
       "mileage": 36000,
@@ -1178,10 +1178,10 @@
       "status": "Listed",
       "description": "2022 Chery 瑞虎8 PLUS 2.0TGDI 390TGDI 鲲鹏版 豪情版 with 36,000 km. Black exterior. SUV, Petrol, 2.0T, Automatic. 2022款 瑞虎8 PLUS 鲲鹏版 390TGDI DCT豪情版，2.0T，非营运私家车一手户，实表3.6万公里，原版原漆，批发价格便宜. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1195,7 +1195,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "E级 2021款 E 300 L 2.0T 运动时尚型",
+      "model": "E-Class 2021 E 300 L 2.0T Sport Fashion",
       "year": 2021,
       "price": 28600.0,
       "mileage": 80000,
@@ -1222,7 +1222,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "熊猫MINI 200km 小黄鸭限定版 开心吖",
+      "model": "Panda Mini 200km Little Yellow Duck Limited Edition Happy Ya",
       "year": 2023,
       "price": 0,
       "mileage": 26000,
@@ -1237,11 +1237,11 @@
       "status": "Listed",
       "description": "2023 Geely 熊猫MINI 200km 小黄鸭限定版 开心吖 with 26,000 km. Green exterior. Sedan, Petrol, 新能源, Automatic. 23年11月份上牌，个人私家车非营运，吉利熊猫mini  ，骑士版，续航210公里，宁德时代电池，实测续航200公里左右，原版原漆，实表2万多公里，带商业险，批发价格便宜2万多. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "代步车",
-        "全车原漆",
-        "低油耗",
-        "高性价比",
-        "实表里程"
+        "Daily Commuter",
+        "All Original Paint",
+        "Low Fuel Consumption",
+        "Great Value",
+        "Actual Mileage"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1255,7 +1255,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "秦EV 2021款 秦 EV 出行版",
+      "model": "Qin EV 2021 Qin EV Travel Edition",
       "year": 2021,
       "price": 5995.0,
       "mileage": 180000,
@@ -1282,7 +1282,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "探岳 2.0TSI 380TSI 四驱豪华智联版Pro",
+      "model": "Tayron 2.0TSI 380TSI 4WD Luxury Smart Connectivity Edition Pro",
       "year": 2022,
       "price": 18975.0,
       "mileage": 39000,
@@ -1309,7 +1309,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "宋PLUS新能源 2021款 宋PLUS EV 旗舰型",
+      "model": "Song Plus New Energy 2021 Song Plus EV Flagship",
       "year": 2021,
       "price": 10312.0,
       "mileage": 101000,
@@ -1336,7 +1336,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "GLB 200 1.3T 时尚型",
+      "model": "GLB 200 1.3T Fashion",
       "year": 2021,
       "price": 19937.0,
       "mileage": 42000,
@@ -1363,7 +1363,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "X7 (импорт) 2021款 X7 xDrive40i 3.0T 尊享型 M运动套装",
+      "model": "X7 (Import) 2021 X7 xDrive40i 3.0T Prestige M Sport Package",
       "year": 2021,
       "price": 58437.0,
       "mileage": 140000,
@@ -1390,7 +1390,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "秦PLUS EV 500KM 豪华型",
+      "model": "Qin Plus EV 500km Luxury",
       "year": 2021,
       "price": 5431.0,
       "mileage": 110000,
@@ -1417,7 +1417,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "思域 1.5T 无级 220TURBO 劲动版",
+      "model": "Civic 1.5T CVT 220TURBO Sport",
       "year": 2019,
       "price": 8662.0,
       "mileage": 85000,
@@ -1444,7 +1444,7 @@
         "ar": "سيتروين",
         "cn": "雪铁龙"
       },
-      "model": "C5 X 1.6T 享不凡",
+      "model": "C5 X 1.6T Extraordinary",
       "year": 2023,
       "price": 8525.0,
       "mileage": 108000,
@@ -1471,7 +1471,7 @@
         "ar": "نيتا",
         "cn": "哪吒"
       },
-      "model": "哪吒U Pro 400 畅行网约版 磷酸铁锂(рестайлинг)",
+      "model": "Neta U Pro 400 LFP Smooth Ride Ride-hailing Edition (Facelift)",
       "year": 2022,
       "price": 6118.0,
       "mileage": 150000,
@@ -1486,7 +1486,7 @@
       "status": "Listed",
       "description": "2022 Neta 哪吒U Pro 400 畅行网约版 磷酸铁锂(改款) with 150,000 km. White exterior. SUV, Electric, 新能源, Automatic. 22年12月份上牌，哪吒U400，续航400公里，高配带双电动座椅，天窗，个人一手车非营运，实表十几万公里，车况原版，实跑350以上，批发价格便宜4万多. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "实表里程"
+        "Actual Mileage"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1500,7 +1500,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "帝豪L 雷神Hi·P 1.5TD 100 км 出行版Pro",
+      "model": "Emgrand L Leishen Hi·P 1.5TD 100 km Travel Edition Pro",
       "year": 2022,
       "price": 4812.0,
       "mileage": 120000,
@@ -1515,8 +1515,8 @@
       "status": "Listed",
       "description": "2022 Geely 帝豪L 雷神Hi·P 1.5TD 100KM 出行版Pro with 120,000 km. White exterior. Sedan, Hybrid, 1.5T, Automatic. 23年4月份上牌、吉利雷神 混动 续航 100 公里、满油满电一千多公里，一公里只有2毛钱，保险年检一整年. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原版",
-        "营转非"
+        "All Original",
+        "Rental Retired"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1530,7 +1530,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "普拉多 HEV 2.4T 穿越BX版5座",
+      "model": "Prado HEV 2.4T Cross-country BX Edition 5-Seat",
       "year": 2024,
       "price": 44000.0,
       "mileage": 13000,
@@ -1557,7 +1557,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "艾力绅混动 2.0 无级 豪华先享版",
+      "model": "Elysion Hybrid 2.0 CVT Luxury Pioneer Edition",
       "year": 2022,
       "price": 23375.0,
       "mileage": 100000,
@@ -1584,7 +1584,7 @@
         "ar": "رويلان",
         "cn": "睿蓝"
       },
-      "model": "睿蓝7 605 км 逐风",
+      "model": "Ruilan 7 605 km Wind Chaser Edition",
       "year": 2023,
       "price": 13200.0,
       "mileage": 1000,
@@ -1599,10 +1599,10 @@
       "status": "Listed",
       "description": "2023 RuiLan 睿蓝7 605km 逐风 with 1,000 km. White exterior. SUV, Petrol, 新能源, Automatic. 睿蓝7，指导价149800，逐风版，续航605公里，全新裸车，增值普票都可以，上一手户，能拿各项补贴，价格便宜，低于市场行情价好几万. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "增值税发票",
-        "全车原版",
-        "车况精品"
+        "All Original Paint",
+        "VAT Invoice Available",
+        "All Original",
+        "Excellent Condition"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1616,7 +1616,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "ID.3 出众版",
+      "model": "Volkswagen ID.3 Outstanding Edition",
       "year": 2024,
       "price": 8525.0,
       "mileage": 30000,
@@ -1631,11 +1631,11 @@
       "status": "Listed",
       "description": "2024 Volkswagen ID.3 出众版 with 30,000 km. White exterior. Sedan, Petrol, 新能源, Automatic. 24年7月份上牌，大众ID3，续航450公里，非营运私家车，3万公里实表，左前事故全损，批发价格便宜6万多点. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "代步车",
-        "低油耗",
-        "高性价比",
-        "实表里程",
-        "事故车"
+        "Daily Commuter",
+        "Low Fuel Consumption",
+        "Great Value",
+        "Actual Mileage",
+        "Accident Car"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1649,7 +1649,7 @@
         "ar": "ليبموتور",
         "cn": "零跑"
       },
-      "model": "C10 210 悦享版",
+      "model": "C10 210 Joy Edition",
       "year": 2026,
       "price": 10312.0,
       "mileage": 6000,
@@ -1664,9 +1664,9 @@
       "status": "Listed",
       "description": "2026 Leapmotor C10 210 悦享版 with 6,000 km. Gray exterior. SUV, Hybrid, 1.5L, Automatic. 25年上牌零跑C10，不到一年，开9千多公里，铁原版原漆，混动续航210，前面事故全损，批发价格便宜8万多. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "实表里程",
-        "事故车"
+        "All Original Paint",
+        "Actual Mileage",
+        "Accident Car"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1680,7 +1680,7 @@
         "ar": "بويك",
         "cn": "别克"
       },
-      "model": "微蓝6 (VELITE 6) 430 км, версия 出行版 (рестайлинг)",
+      "model": "Buick Velite 6 430 km Travel Edition (Facelift)",
       "year": 2023,
       "price": 6531.0,
       "mileage": 120000,
@@ -1695,9 +1695,9 @@
       "status": "Listed",
       "description": "2023 Buick 微蓝6(VELITE 6) 430km 出行版(改款) with 120,000 km. White exterior. Sedan, Petrol, 新能源, Automatic. 24年6月 430微蓝6 高配 实表12万公里 个人一手非营运不能过检测，理赔几千块钱， 批发4万多. Located in 襄阳, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "襄阳",
       "province": "湖北",
@@ -1738,7 +1738,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Frontlander 2.0 вариатор豪华版",
+      "model": "Toyota Frontlander 2.0 CVT Luxury Edition",
       "year": 2023,
       "price": 9350.0,
       "mileage": 38000,
@@ -1765,7 +1765,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Corolla Hybrid 1.8 вариатор智能电混精英版",
+      "model": "Toyota Corolla Hybrid 1.8 CVT Intelligent Hybrid Elite Edition",
       "year": 2024,
       "price": 12237.0,
       "mileage": 20000,
@@ -1780,9 +1780,9 @@
       "status": "Listed",
       "description": "2024 Toyota 卡罗拉双擎 1.8 无级 智能电混精英版 with 20,000 km. White exterior. Sedan, Petrol, 1.8L, Automatic. 女士一手，全车原漆带车衣，可过三方，准新车，实表2万公里。. Located in 哈尔滨, 黑龙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "高性价比",
-        "准新车"
+        "0 Transfers",
+        "Great Value",
+        "Like New"
       ],
       "city": "哈尔滨",
       "province": "黑龙江",
@@ -1823,7 +1823,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "Xingrui 2.0T尊贵型 (рестайлинг)",
+      "model": "Geely Xingrui 2.0T Premium Edition (Facelift)",
       "year": 2021,
       "price": 8525.0,
       "mileage": 39000,
@@ -1838,7 +1838,7 @@
       "status": "Listed",
       "description": "2021 Geely 星瑞 2.0T 尊贵型(改款) with 39,000 km. Gray exterior. Sedan, Petrol, 2.0T, Automatic. 全车原漆，可过三方，准新车一台，高颜值。. Located in 哈尔滨, 黑龙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车"
+        "Like New"
       ],
       "city": "哈尔滨",
       "province": "黑龙江",
@@ -1852,7 +1852,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "CR-V 1.5T вариатор 240TURBO 两驱风尚版",
+      "model": "Honda CR-V 1.5T CVT 240TURBO 2WD Style Edition",
       "year": 2021,
       "price": 14575.0,
       "mileage": 80000,
@@ -1879,7 +1879,7 @@
         "ar": "شياومي",
         "cn": "小米"
       },
-      "model": "SU7 700 км задний привод, длинный запас хода,智驾版",
+      "model": "Xiaomi SU7 700 km RWD Long Range Smart Driving Edition",
       "year": 2024,
       "price": 22687.0,
       "mileage": 20000,
@@ -1906,7 +1906,7 @@
         "ar": "نيو",
         "cn": "蔚来"
       },
-      "model": "ES6 75kWh 运动版",
+      "model": "NIO ES6 75kWh Sport Edition",
       "year": 2022,
       "price": 18837.0,
       "mileage": 120000,
@@ -1960,7 +1960,7 @@
         "ar": "فوياه",
         "cn": "岚图"
       },
-      "model": "Dreamer 四驱旗舰鲲鹏版",
+      "model": "Voyah Dreamer 4WD Flagship Kunpeng Edition",
       "year": 2025,
       "price": 31487.0,
       "mileage": 19000,
@@ -1987,7 +1987,7 @@
         "ar": "فوياه",
         "cn": "岚图"
       },
-      "model": "梦想家 1.5T 低碳版 梦+智享包",
+      "model": "Voyah Dreamer 1.5T Low Carbon Edition Dream+ Smart Enjoy Package",
       "year": 2022,
       "price": 20212.0,
       "mileage": 70000,
@@ -2014,7 +2014,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "亚洲龙 2.0 无级 进取版",
+      "model": "Avalon 2.0 CVT Advance Edition",
       "year": 2022,
       "price": 13997.0,
       "mileage": 100000,
@@ -2041,7 +2041,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "艾力绅混动 2.0 无级 豪华版",
+      "model": "Elysion Hybrid 2.0 CVT Luxury Edition",
       "year": 2019,
       "price": 23237.0,
       "mileage": 39000,
@@ -2056,12 +2056,12 @@
       "status": "Listed",
       "description": "2019 Honda 艾力绅混动 2.0 无级 豪华版 with 39,000 km. White exterior. MPV, Hybrid, 2.0L, Automatic. 原版原漆一手 零投资. Located in 新乡, 河南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "高性价比",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "Great Value",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "新乡",
       "province": "河南",
@@ -2075,7 +2075,7 @@
         "ar": "نيو",
         "cn": "蔚来"
       },
-      "model": "ES8 换电版 7座 500KM",
+      "model": "NIO ES8 Battery Swap Edition 7-Seater 500km",
       "year": 2020,
       "price": 14437.0,
       "mileage": 150000,
@@ -2102,7 +2102,7 @@
         "ar": "شياومي",
         "cn": "小米"
       },
-      "model": "SU7 700km 后驱长续航智驾版",
+      "model": "Xiaomi SU7 700km Rear-Wheel Drive Long Range Smart Driving Edition",
       "year": 2024,
       "price": 25712.0,
       "mileage": 7000,
@@ -2129,7 +2129,7 @@
         "ar": "هونغتشي",
         "cn": "红旗"
       },
-      "model": "H5 2.0T 旗享50万辆纪念版",
+      "model": "Hongqi H5 2.0T Flag Enjoy 500,000 Vehicles Commemorative Edition",
       "year": 2025,
       "price": 12512.0,
       "mileage": 1000,
@@ -2156,7 +2156,7 @@
         "ar": "ترامبتشي",
         "cn": "传祺"
       },
-      "model": "M8 双擎 2.0T 无级 宗师系列 旗舰",
+      "model": "Trumpchi M8 Dual Engine 2.0T CVT Master Series Flagship",
       "year": 2023,
       "price": 22907.0,
       "mileage": 90000,
@@ -2183,7 +2183,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "5系 2023款 530Li 2.0T 领先型 豪华套装",
+      "model": "BMW 5 Series 2023 Model 530Li 2.0T Leading Type Luxury Package",
       "year": 2023,
       "price": 32587.0,
       "mileage": 85000,
@@ -2210,7 +2210,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "朗逸新锐 1.5 出众新愿版",
+      "model": "Lavida XR 1.5 Outstanding New Wish Edition",
       "year": 2025,
       "price": 7562.0,
       "mileage": 30000,
@@ -2237,7 +2237,7 @@
         "ar": "تسلا",
         "cn": "特斯拉"
       },
-      "model": "Model Y 长续航全轮驱动版",
+      "model": "Tesla Model Y Long Range All-Wheel Drive",
       "year": 2021,
       "price": 18012.0,
       "mileage": 90000,
@@ -2264,7 +2264,7 @@
         "ar": "جاك",
         "cn": "江淮"
       },
-      "model": "恺达X6 1.6 120马力 2.75米双排栏板",
+      "model": "JAC KaiDa X6 1.6 120hp 2.75m Double Row Flatbed",
       "year": 2020,
       "price": 4400.0,
       "mileage": 25000,
@@ -2291,7 +2291,7 @@
         "ar": "دونغفنغ",
         "cn": "东风"
       },
-      "model": "纳米BOX 冠军款 轻风版 201KM 标准型",
+      "model": "Dongfeng Nano Box Champion Edition Light Breeze Version 201km Standard Type",
       "year": 2022,
       "price": 3231.0,
       "mileage": 40000,
@@ -2318,7 +2318,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "探影 1.5 悦智联版",
+      "model": "Volkswagen T-Cross 1.5 Joy Smart Connect Edition",
       "year": 2021,
       "price": 9872.0,
       "mileage": 52000,
@@ -2345,7 +2345,7 @@
         "ar": "تشانجان",
         "cn": "长安"
       },
-      "model": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
+      "model": "Changan Eado Plus 1.4TGDI Blue Whale NE Prestige Type",
       "year": 2022,
       "price": 7260.0,
       "mileage": 46000,
@@ -2372,7 +2372,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "第十代雅阁 1.5T 无级 260TURBO 豪华版",
+      "model": "10th Generation Accord 1.5T CVT 260TURBO Luxury Edition",
       "year": 2022,
       "price": 14024.0,
       "mileage": 30000,
@@ -2387,10 +2387,10 @@
       "status": "Listed",
       "description": "2022 Honda 第十代雅阁 1.5T 无级 260TURBO 豪华版 with 30,000 km. Black exterior. Sedan, Petrol, 1.5T, Automatic. 本地私家一手车没过户，保险12月，实表3万公里，全车原版没换件，右侧两门补漆，支持三方检测. Located in 济南, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "济南",
       "province": "山东",
@@ -2404,7 +2404,7 @@
         "ar": "جيلي",
         "cn": "吉利"
       },
-      "model": "远景X3 PRO 1.5 精英型",
+      "model": "Vision X3 PRO 1.5 Elite",
       "year": 2021,
       "price": 3025.0,
       "mileage": 35000,
@@ -2431,7 +2431,7 @@
         "ar": "إكس بانج",
         "cn": "小鹏"
       },
-      "model": "Mona M03 620 超长续航 Plus",
+      "model": "Mona M03 620 Extended Range Plus",
       "year": 2025,
       "price": 12237.0,
       "mileage": 1200,
@@ -2458,7 +2458,7 @@
         "ar": "ليبموتور",
         "cn": "零跑"
       },
-      "model": "C10 605 悦享版",
+      "model": "C10 605 Joy Edition",
       "year": 2026,
       "price": 12512.0,
       "mileage": 5000,
@@ -2485,7 +2485,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "卡罗拉锐放 2.0 无级 先锋版",
+      "model": "Corolla Cross 2.0 CVT Pioneer Edition",
       "year": 2023,
       "price": 10725.0,
       "mileage": 25000,
@@ -2500,9 +2500,9 @@
       "status": "Listed",
       "description": "2023 Toyota 卡罗拉锐放 2.0 无级 先锋版 with 25,000 km. White exterior. SUV, Petrol, 2.0L, Automatic. 哈牌一手车 全车原版原漆 实表. Located in 哈尔滨, 黑龙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "准新车",
-        "全车原漆"
+        "High Resale Value",
+        "Like New",
+        "All Original Paint"
       ],
       "city": "哈尔滨",
       "province": "黑龙江",
@@ -2516,7 +2516,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "X1 sDrive20Li 1.5T 尊享型",
+      "model": "X1 sDrive20Li 1.5T Exclusive",
       "year": 2022,
       "price": 23650.0,
       "mileage": 28500,
@@ -2597,7 +2597,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A5 (импорт) 2022 модельного года A5 Sportback 2.0TFSI 40TFSI в комплектации «Стиль и динамика», пробег 72 000 км. Белый кузов. Седан, бензин, 2.0T, автоматическая КПП. Автомобиль в оригинальном состоянии, возможна передача третьей стороне, металлические детали",
+      "model": "A5 (импорт) 2022 модельного года A5 Sportback 2.0TFSI 40TFSI в комплектации «Стиль и динамика», пробег 72 000 км. Белый кузов. Седан, бензин",
       "year": 2022,
       "price": 22797.0,
       "mileage": 72000,
@@ -2612,9 +2612,9 @@
       "status": "Listed",
       "description": "2022 Audi A5(进口) 2022款 A5 Sportback 2.0TFSI 40TFSI 时尚动感型 with 72,000 km. White exterior. Sedan, Petrol, 2.0T, Automatic. 原版车，可过三方，铁件原漆，. Located in 南充, 四川, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "车况精品",
-        "实表里程",
-        "全车原版"
+        "Excellent Condition",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "南充",
       "province": "四川",
@@ -2628,7 +2628,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Highlander 2.0T полный привод, премиум-версия на 7 мест, пробег 100 000 км. Черный кузов. Внедорожник, бензин, 2.0T, автоматическая КПП. Автомобиль в оригинальном состоянии, металлические детали",
+      "model": "Highlander 2.0T полный привод, премиум-версия на 7 мест, пробег 100 000 км. Черный кузов. Внедорожник, бензин",
       "year": 2021,
       "price": 19085.0,
       "mileage": 100000,
@@ -2643,9 +2643,9 @@
       "status": "Listed",
       "description": "2021 Toyota 汉兰达 2.0T 四驱尊贵版7座 with 100,000 km. Black exterior. SUV, Petrol, 2.0T, Automatic. 原版车，铁件原漆，一手，可过三方，有喷漆，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2659,7 +2659,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A3 Sportback 1.4TFSI 35TFSI в спортивной люксовой комплектации, пробег 47 000 км. Белый кузов. Седан, бензин, 1.4T, автоматическая КПП. Автомобиль в оригинальном состоянии, металлические детали",
+      "model": "A3 Sportback 1.4TFSI 35TFSI в спортивной люксовой комплектации, пробег 47 000 км. Белый кузов. Седан, бензин",
       "year": 2024,
       "price": 17022.0,
       "mileage": 47000,
@@ -2728,10 +2728,10 @@
       "status": "Listed",
       "description": "2021 Toyota 赛那 2.5 无级 尊贵版 with 98,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 有喷漆，一手，可过三方，原版车，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2745,7 +2745,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Sienna 2.5 вариатор, люкс-версия, пробег 50 000 км. Белый кузов. Минивэн, бензин, 2.5L, автоматическая КПП (вариатор). Имеются окрашенные детали, автомобиль в оригинальном состоянии, металлические детали – 2 участка",
+      "model": "Sienna 2.5 вариатор, люкс-версия, пробег 50 000 км. Белый кузов. Минивэн, бензин",
       "year": 2023,
       "price": 28710.0,
       "mileage": 50000,
@@ -2760,9 +2760,9 @@
       "status": "Listed",
       "description": "2023 Toyota 赛那 2.5 无级 豪华版 with 50,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 有喷漆，原版车，铁件2个面原漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2791,9 +2791,9 @@
       "status": "Listed",
       "description": "2023 Toyota 赛那 2.5 无级 舒适版 with 80,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 可过三方，一手，原版车，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2807,7 +2807,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Highlander Hybrid 2.5 вариатор, интеллектуальный гибрид, полный привод, премиум-версия на 7 мест, пробег 80 000 км. Черный кузов. Внедорожник, бензин, 2.5L, автоматическая КПП (вариатор). Металлические детали",
+      "model": "Highlander Hybrid 2.5 вариатор, интеллектуальный гибрид, полный привод, премиум-версия на 7 мест, пробег 80 000 км. Черный кузов. Внедорожник, бензин",
       "year": 2023,
       "price": 27060.0,
       "mileage": 80000,
@@ -2822,9 +2822,9 @@
       "status": "Listed",
       "description": "2023 Toyota 汉兰达双擎 2.5 无级 智能电混四驱尊贵版7座 with 80,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 铁件原漆，一手，可过三方，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "全车原漆"
+        "0 Transfers",
+        "One-owner",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2838,7 +2838,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Хуангуань Луфан 2.5 бесступенчатая, полный привод, элитная версия, 100 000 км. Черный кузов. Внедорожник, бензин, 2.5 л, автоматическая коробка. Оригинальная краска на металлических деталях, проверен тремя сторонами, один владелец. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Хуангуань Луфан 2.5 бесступенчатая, полный привод, элитная версия",
       "year": 2022,
       "price": 23237.0,
       "mileage": 100000,
@@ -2853,10 +2853,10 @@
       "status": "Listed",
       "description": "2022 Toyota 皇冠陆放 2.5 无级 四驱精英版 with 100,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 铁件原漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "0过户",
-        "实表里程",
-        "全车原漆"
+        "One-owner",
+        "0 Transfers",
+        "Actual Mileage",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2870,7 +2870,7 @@
         "ar": "كاديلاك",
         "cn": "凯迪拉克"
       },
-      "model": "CT5 2.0T 28T豪华型, 50 000 км. Белый кузов. Седан, бензин, 2.0T, автоматическая коробка. Оригинальное состояние, один владелец. Находится в Синьян, Хэнань, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "CT5 2.0T 28T Luxury",
       "year": 2022,
       "price": 19112.0,
       "mileage": 50000,
@@ -2897,7 +2897,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Ханланда Шуанцин 2.5 бесступенчатая, интеллектуальный гибрид, передний привод, элитная версия на 5 мест, 70 000 км. Черный кузов. Внедорожник, бензин, 2.5 л, автоматическая коробка. Полностью оригинальная краска, оригинальная краска на металлических деталях, один владелец, проверен тремя сторонами. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Ханланда Шуанцин 2.5 бесступенчатая, интеллектуальный гибрид, передний привод, элитная версия на 5 мест",
       "year": 2023,
       "price": 23210.0,
       "mileage": 70000,
@@ -2912,11 +2912,11 @@
       "status": "Listed",
       "description": "2023 Toyota 汉兰达双擎 2.5 无级 智能电混两驱精英版5座 with 70,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 全车原漆，铁件原漆，一手，可过三方，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原漆",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original Paint",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2930,7 +2930,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Хуангуань Луфан 2.5 бесступенчатая, полный привод, элитная версия, 80 000 км. Черный кузов. Внедорожник, бензин, 2.5 л, автоматическая коробка. Оригинальное состояние, один владелец, проверен тремя сторонами, есть подкраска. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Хуангуань Луфан 2.5 бесступенчатая, полный привод, элитная версия",
       "year": 2022,
       "price": 23237.0,
       "mileage": 80000,
@@ -2945,10 +2945,10 @@
       "status": "Listed",
       "description": "2022 Toyota 皇冠陆放 2.5 无级 四驱精英版 with 80,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 原版车，一手，可过三方，有喷漆，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2962,7 +2962,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Сайна 2.5 бесступенчатая, версия Supreme, 100 000 км. Белый кузов. MPV, бензин, 2.5 л, автоматическая коробка. Оригинальное состояние, есть подкраска, проверен тремя сторонами, один владелец. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Сайна 2.5 бесступенчатая, версия Supreme",
       "year": 2021,
       "price": 28875.0,
       "mileage": 100000,
@@ -2977,10 +2977,10 @@
       "status": "Listed",
       "description": "2021 Toyota 赛那 2.5 无级 至尊版 with 100,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 原版车，有喷漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -2994,7 +2994,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Карора Шуанцин 1.8 бесступенчатая, интеллектуальный гибрид, элитная версия, 60 000 км. Белый кузов. Седан, бензин, 1.8 л, автоматическая коробка. Один владелец. Находится в Синьян, Хэнань, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Карора Шуанцин 1.8 бесступенчатая, интеллектуальный гибрид, элитная версия",
       "year": 2023,
       "price": 10862.0,
       "mileage": 60000,
@@ -3021,7 +3021,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "Бинчжи 1.5 бесступенчатая, роскошная версия, 70 000 км. Белый кузов. Внедорожник, бензин, 1.5 л, автоматическая коробка. Один владелец. Находится в Синьян, Хэнань, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Бинчжи 1.5 бесступенчатая, роскошная версия",
       "year": 2020,
       "price": 9487.0,
       "mileage": 70000,
@@ -3048,7 +3048,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Сайна 2.5 бесступенчатая, комфортная версия, 100 000 км. Черный кузов. MPV, бензин, 2.5 л, автоматическая коробка. Один владелец, проверен тремя сторонами, полностью оригинальная краска. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Сайна 2.5 бесступенчатая, комфортная версия",
       "year": 2021,
       "price": 25850.0,
       "mileage": 100000,
@@ -3063,11 +3063,11 @@
       "status": "Listed",
       "description": "2021 Toyota 赛那 2.5 无级 舒适版 with 100,000 km. Black exterior. MPV, Petrol, 2.5L, Automatic. 一手，可过三方，全车原漆，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版",
-        "全车原漆"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -3081,7 +3081,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Ханланда Шуанцин 2.5 бесступенчатая, интеллектуальный гибрид, полный привод, роскошная версия на 7 мест, 50 000 км. Черный кузов. Внедорожник, бензин, 2.5 л, автоматическая коробка. Оригинальное состояние, полностью оригинальная краска, оригинальная краска на металлических деталях, проверен тремя сторонами, один владелец. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Ханланда Шуанцин 2.5 бесступенчатая, интеллектуальный гибрид, полный привод, роскошная версия на 7 мест",
       "year": 2023,
       "price": 26950.0,
       "mileage": 50000,
@@ -3096,11 +3096,11 @@
       "status": "Listed",
       "description": "2023 Toyota 汉兰达双擎 2.5 无级 智能电混四驱豪华版7座 with 50,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 原版车，全车原漆，铁件原漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版",
-        "全车原漆"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -3114,7 +3114,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Сайна 2.5 бесступенчатая, комфортная версия, 90 000 км. Белый кузов. MPV, бензин, 2.5 л, автоматическая коробка. Оригинальная краска на металлических деталях, проверен тремя сторонами, один владелец. Находится в Наньнин, Гуанси, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Сайна 2.5 бесступенчатая, комфортная версия",
       "year": 2021,
       "price": 28435.0,
       "mileage": 90000,
@@ -3129,10 +3129,10 @@
       "status": "Listed",
       "description": "2021 Toyota 赛那 2.5 无级 舒适版 with 90,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 铁件原漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "0过户",
-        "实表里程",
-        "全车原版"
+        "One-owner",
+        "0 Transfers",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "南宁",
       "province": "广西",
@@ -3146,7 +3146,7 @@
         "ar": "شيري",
         "cn": "奇瑞"
       },
-      "model": "瑞虎8 PRO 2.0T 390T 两驱尊贵版Ⅱ",
+      "model": "Tiggo 8 PRO 2.0T 390T 2WD Premium II",
       "year": 2025,
       "price": 11412.0,
       "mileage": 19000,
@@ -3173,7 +3173,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "汉兰达双擎 2.5 无级 四驱尊贵版7座",
+      "model": "Highlander Hybrid 2.5 CVT AWD Premium 7-Seat",
       "year": 2022,
       "price": 24475.0,
       "mileage": 60000,
@@ -3188,10 +3188,10 @@
       "status": "Listed",
       "description": "2022 Toyota 汉兰达双擎 2.5 无级 四驱尊贵版7座 with 60,000 km. Black exterior. SUV, Petrol, 2.5L, Automatic. 全车原漆，一手，可过三方，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原漆"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -3205,7 +3205,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "X1 sDrive20Li 1.5T X设计套装",
+      "model": "X1 sDrive20Li 1.5T X Design Package",
       "year": 2023,
       "price": 17600.0,
       "mileage": 30000,
@@ -3220,13 +3220,13 @@
       "status": "Listed",
       "description": "2023 BMW X1 sDrive20Li 1.5T X设计套装 with 30,000 km. White exterior. SUV, Petrol, 1.5T, Automatic. 记录扩损 单存换一个叶子板. Located in 长春, 吉林, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "0过户",
-        "低油耗",
-        "高性价比",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "0 Transfers",
+        "Low Fuel Consumption",
+        "Great Value",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "长春",
       "province": "吉林",
@@ -3240,7 +3240,7 @@
         "ar": "بويك",
         "cn": "别克"
       },
-      "model": "英朗 48V 1.3T 18T 精英型(改款)",
+      "model": "Excelle 48V 1.3T 18T Elite (Facelift)",
       "year": 2021,
       "price": 6737.0,
       "mileage": 40000,
@@ -3267,7 +3267,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "赛那 2.5 无级 尊贵版",
+      "model": "Sienna 2.5 CVT Premium",
       "year": 2021,
       "price": 28600.0,
       "mileage": 90000,
@@ -3282,11 +3282,11 @@
       "status": "Listed",
       "description": "2021 Toyota 赛那 2.5 无级 尊贵版 with 90,000 km. White exterior. MPV, Petrol, 2.5L, Automatic. 原版车，有喷漆，可过三方，一手，. Located in 南宁, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "全车原版",
-        "全车原漆"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "All Original",
+        "All Original Paint"
       ],
       "city": "南宁",
       "province": "广西",
@@ -3300,7 +3300,7 @@
         "ar": "نيسان",
         "cn": "日产"
       },
-      "model": "轩逸经典 1.6 无级 XE 舒适版",
+      "model": "Sylphy Classic 1.6 CVT XE Comfort",
       "year": 2022,
       "price": 7975.0,
       "mileage": 10000,
@@ -3327,7 +3327,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "E级 2023款 E 300 L 2.0T 豪华型",
+      "model": "E-Class 2023 E 300 L 2.0T Luxury",
       "year": 2023,
       "price": 41937.0,
       "mileage": 52000,
@@ -3354,7 +3354,7 @@
         "ar": "وولينج",
         "cn": "五菱"
       },
-      "model": "凯捷 1.5T 无级 旗舰型",
+      "model": "Capgemini 1.5T CVT Flagship",
       "year": 2020,
       "price": 6297.0,
       "mileage": 45900,
@@ -3369,8 +3369,8 @@
       "status": "Listed",
       "description": "2020 Wuling 凯捷 1.5T 无级 旗舰型 with 45,900 km. Gray exterior. MPV, Electric, 1.5T, Automatic. 拿下21年五菱凯捷自动1.5T旗舰版，一手私家车，车况精品，费用到5月  电动座椅 全景天窗，多功能方向盘  360度全景影像  首付8000元贷走. Located in 东莞, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车"
+        "0 Transfers",
+        "One-owner"
       ],
       "city": "东莞",
       "province": "广东",
@@ -3384,7 +3384,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "途观L R-Line 2.0TSI 330TSI 两驱越享版",
+      "model": "Tiguan L R-Line 2.0TSI 330TSI 2WD Joy Edition",
       "year": 2021,
       "price": 13337.0,
       "mileage": 98000,
@@ -3399,9 +3399,9 @@
       "status": "Listed",
       "description": "2021 Volkswagen 途观L R-Line 2.0TSI 330TSI 两驱越享版 with 98,000 km. White exterior. SUV, Electric, 2.0T, Automatic. 售价10.98万\n21年大众途观L 330TSI 自动两驱R -Line。本地小姐姐一手私家车，车况极品，费用齐全 双电动座椅加热功能，全景天窗 首付2万，此车享受查博士90天回购保障. Located in 东莞, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "营转非"
+        "0 Transfers",
+        "One-owner",
+        "Rental Retired"
       ],
       "city": "东莞",
       "province": "广东",
@@ -3415,7 +3415,7 @@
         "ar": "وولينج",
         "cn": "五菱"
       },
-      "model": "佳辰 1.5T 无级 智享豪华型",
+      "model": "Jiachen 1.5T CVT Intelligent Luxury",
       "year": 2022,
       "price": 6435.0,
       "mileage": 47000,
@@ -3442,7 +3442,7 @@
         "ar": "نيسان",
         "cn": "日产"
       },
-      "model": "天籁 2.0 无级 XL 舒适版(改款), 47 000 км. Белый кузов. Седан, бензин, 2.0L, автомат. 茶博士S 全车原版 三处补漆 一手实表. Местонахождение: 阜阳, 安徽, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "Teana 2.0 CVT XL Comfort Edition (Facelift)",
       "year": 2020,
       "price": 9075.0,
       "mileage": 47000,
@@ -3457,11 +3457,11 @@
       "status": "Listed",
       "description": "2020 Nissan 天籁 2.0 无级 XL 舒适版(改款) with 47,000 km. White exterior. Sedan, Petrol, 2.0L, Automatic. 茶博士S 全车原版 三处补漆 一手实表. Located in 阜阳, 安徽, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "车况精品",
-        "一手车",
-        "实表里程",
-        "全车原版"
+        "0 Transfers",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "阜阳",
       "province": "安徽",
@@ -3475,7 +3475,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A6L 2.0TFSI 40TFSI 豪华动感型, 60 000 км. Серый кузов. Седан, бензин, 2.0T, автомат. 单纯换前档玻璃  A柱上边梁被停车杆砸了一下   三方没做     其他原漆. Местонахождение: 安阳, 河南, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "A6L 2.0TFSI 40TFSI Luxury Dynamic",
       "year": 2022,
       "price": 29961.0,
       "mileage": 60000,
@@ -3502,7 +3502,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "奕泽 2.0 无级 奕行版, 36 000 км. Белый кузов. Внедорожник, бензин, 2.0L, автомат. 原版原漆，个人一手，保实表。. Местонахождение: 武汉, 湖北, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "IZOA 2.0 CVT Yixing Edition",
       "year": 2021,
       "price": 9281.0,
       "mileage": 36000,
@@ -3517,13 +3517,13 @@
       "status": "Listed",
       "description": "2021 Toyota 奕泽 2.0 无级 奕行版 with 36,000 km. White exterior. SUV, Petrol, 2.0L, Automatic. 原版原漆，个人一手，保实表。. Located in 武汉, 湖北, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "低油耗",
-        "高性价比",
-        "全车原版",
-        "车况精品",
-        "全车原漆",
-        "一手车",
-        "实表里程"
+        "Low Fuel Consumption",
+        "Great Value",
+        "All Original",
+        "Excellent Condition",
+        "All Original Paint",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "武汉",
       "province": "湖北",
@@ -3537,7 +3537,7 @@
         "ar": "هافال",
         "cn": "哈弗"
       },
-      "model": "枭龙MAX 1.5 Hi4 105 智能旗舰版, 57 000 км. Серый кузов. Внедорожник, бензин, 1.5L, автомат. 原版，两个面喷漆。. Местонахождение: 深圳, 广东, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "Xiaolong MAX 1.5 Hi4 105 Intelligent Flagship",
       "year": 2023,
       "price": 11274.0,
       "mileage": 57000,
@@ -3564,7 +3564,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "探岳 1.4TSI 280TSI 两驱豪华智联版, 48 000 км. Белый кузов. Внедорожник, бензин, 1.4T, автомат. 原版原漆，可过三方，出口. Местонахождение: 景德镇, 江西, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "Tayron 1.4TSI 280TSI 2WD Luxury Smart Connectivity",
       "year": 2022,
       "price": 18837.0,
       "mileage": 48000,
@@ -3591,7 +3591,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "汉DM 2.0T 四驱性能版尊贵型, 90 000 км. Белый кузов. Седан, бензин, 2.0T, автомат. 原版车，喷漆多，无人驾驶车退役，一手科技有限公司户，非营运，贷款能贷9万. Местонахождение: 鹤壁, 河南, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "Han DM 2.0T 4WD Performance Premium",
       "year": 2020,
       "price": 8731.0,
       "mileage": 90000,
@@ -3618,7 +3618,7 @@
         "ar": "ترامبتشي",
         "cn": "传祺"
       },
-      "model": "GS8 混动 2.0TM 无级 两驱尊贵版七座, 53 000 км. Зеленый кузов. Внедорожник, гибрид, 2.0T, автомат. 3.4个面补漆，不用投资，一手户，已过查博士。. Местонахождение: 深圳, 广东, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "GS8 Hybrid 2.0TM CVT 2WD Premium 7-Seat",
       "year": 2022,
       "price": 15125.0,
       "mileage": 53000,
@@ -3645,7 +3645,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A6L 2.0TFSI 45TFSI Quattro 臻选动感型, 30 000 км. Черный кузов. Седан, бензин, 2.0T, автомат. 原版车，全车原漆，可过三方，一手，. Местонахождение: 济南, 山东, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "A6L 2.0TFSI 45TFSI Quattro Select Dynamic",
       "year": 2022,
       "price": 35337.0,
       "mileage": 30000,
@@ -3660,12 +3660,12 @@
       "status": "Listed",
       "description": "2022 Audi A6L 2.0TFSI 45TFSI Quattro 臻选动感型 with 30,000 km. Black exterior. Sedan, Petrol, 2.0T, Automatic. 原版车，全车原漆，可过三方，一手，. Located in 济南, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "实表里程",
-        "0过户",
-        "一手车",
-        "高保值",
-        "全车原漆",
-        "全车原版"
+        "Actual Mileage",
+        "0 Transfers",
+        "One-owner",
+        "High Resale Value",
+        "All Original Paint",
+        "All Original"
       ],
       "city": "济南",
       "province": "山东",
@@ -3679,7 +3679,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A6L 2.0TFSI 45TFSI 臻选动感型, 8 000 км. Черный кузов. Седан, бензин, 2.0T, автомат. 原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价. Местонахождение: 鹤壁, 河南, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "A6L 2.0TFSI 45TFSI Select Dynamic",
       "year": 2025,
       "price": 39050.0,
       "mileage": 8000,
@@ -3694,13 +3694,13 @@
       "status": "Listed",
       "description": "2025 Audi A6L 2.0TFSI 45TFSI 臻选动感型 with 8,000 km. Black exterior. Sedan, Petrol, 2.0T, Automatic. 原版原漆带车衣加了个座椅通风，准新车一台，能转账的出价. Located in 鹤壁, 河南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "准新车",
-        "全车原漆",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "Like New",
+        "All Original Paint",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "鹤壁",
       "province": "河南",
@@ -3714,7 +3714,7 @@
         "ar": "شيري",
         "cn": "奇瑞"
       },
-      "model": "瑞虎7 PLUS 1.6TGDI 尊贵型, 57 000 км. Белый кузов. Внедорожник, бензин, 1.6T, автомат. 左前小顶换叶子板，大灯，已过三方。. Местонахождение: 深圳, 广东, Китай. Проверено качество, готово к глобальному экспорту. Конкурентоспособная цена",
+      "model": "Tiggo 7 PLUS 1.6TGDI Premium",
       "year": 2023,
       "price": 7535.0,
       "mileage": 57000,
@@ -3741,7 +3741,7 @@
         "ar": "تانك",
         "cn": "坦克"
       },
-      "model": "坦克300 2.0T 赛博坦克",
+      "model": "Tank 300 2.0T Cyber Tank",
       "year": 2021,
       "price": 26812.0,
       "mileage": 48000,
@@ -3756,12 +3756,12 @@
       "status": "Listed",
       "description": "2021 Tank 坦克300 2.0T 赛博坦克 with 48,000 km. Gray exterior. SUV, Petrol, 2.0T, Automatic. 原版车，一手，可过三方，全车原漆，. Located in 济南, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "全车原版",
-        "实表里程",
-        "一手车",
-        "高保值",
-        "0过户"
+        "All Original Paint",
+        "All Original",
+        "Actual Mileage",
+        "One-owner",
+        "High Resale Value",
+        "0 Transfers"
       ],
       "city": "济南",
       "province": "山东",
@@ -3775,7 +3775,7 @@
         "ar": "جيفانغ",
         "cn": "解放"
       },
-      "model": "载货车",
+      "model": "Cargo Truck",
       "year": 0,
       "price": 10312.0,
       "mileage": 40000,
@@ -3802,7 +3802,7 @@
         "ar": "إم جي",
         "cn": "MG"
       },
-      "model": "MG5 1.5TGI 300TGI 青奢旗舰版",
+      "model": "MG5 1.5TGI 300TGI Youth Luxury Flagship",
       "year": 2021,
       "price": 5197.0,
       "mileage": 90000,
@@ -3829,7 +3829,7 @@
         "ar": "سوبارو",
         "cn": "斯巴鲁"
       },
-      "model": "森林人(进口) 2022款 森林人 2.0i 无级 豪华版EyeSight",
+      "model": "Forester (Imported) 2022 Forester 2.0i CVT Luxury Edition EyeSight",
       "year": 2022,
       "price": 28187.0,
       "mileage": 28000,
@@ -3844,11 +3844,11 @@
       "status": "Listed",
       "description": "2022 Subaru 森林人(进口) 2022款 森林人 2.0i 无级 豪华版EyeSight with 28,000 km. White exterior. SUV, Electric, 2.0L, Automatic. 定速巡航，主驾驶电动座椅，座椅加热，电动天窗，多功能方向盘，铝合金轮毂，越野模式，一键启动，上坡辅助，陡坡缓降，倒车影像，倒车雷达\n167689. Located in 苏州, 江苏, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "苏州",
       "province": "江苏",
@@ -3862,7 +3862,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "T-Cross(途铠) 1.5 舒适版",
+      "model": "T-Cross 1.5 Comfort Edition",
       "year": 2021,
       "price": 7975.0,
       "mileage": 66000,
@@ -3877,10 +3877,10 @@
       "status": "Listed",
       "description": "2021 Volkswagen T-Cross(途铠) 1.5 舒适版 with 66,000 km. White exterior. SUV, Petrol, 1.5L, Automatic. 机盖，右前叶油漆，其他原漆. Located in 上饶, 江西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "代步车",
-        "准新车",
-        "低油耗",
-        "一手车"
+        "Daily Commuter",
+        "Like New",
+        "Low Fuel Consumption",
+        "One-owner"
       ],
       "city": "上饶",
       "province": "江西",
@@ -3894,7 +3894,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "E级 2021款 E 300 L 2.0T 豪华型",
+      "model": "E-Class 2021 Model E 300 L 2.0T Luxury Edition",
       "year": 2021,
       "price": 38225.0,
       "mileage": 57000,
@@ -3909,10 +3909,10 @@
       "status": "Listed",
       "description": "2021 Mercedes-Benz E级 2021款 E 300 L 2.0T 豪华型 with 57,000 km. Black exterior. Sedan, Petrol, 2.0T, Automatic. 全车原漆，查博士S级。. Located in 长春, 吉林, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original Paint",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "长春",
       "province": "吉林",
@@ -3926,7 +3926,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "途观L R-Line 2.0TSI 330TSI 两驱越享版",
+      "model": "Tiguan L R-Line 2.0TSI 330TSI 2WD Joy Edition",
       "year": 2021,
       "price": 13612.0,
       "mileage": 28000,
@@ -3953,7 +3953,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "E级 2021款 E 260 L 2.0T 运动型(改款)",
+      "model": "E-Class 2021 Model E 260 L 2.0T Sport Edition (Facelift)",
       "year": 2021,
       "price": 27225.0,
       "mileage": 130000,
@@ -3968,8 +3968,8 @@
       "status": "Listed",
       "description": "2021 Mercedes-Benz E级 2021款 E 260 L 2.0T 运动型(改款) with 130,000 km. Brown exterior. Sedan, Petrol, 2.0T, Automatic. 原版车两件补漆，实表13，茶博士s，大本两名. Located in 长春, 吉林, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "实表里程",
-        "车况精品"
+        "Actual Mileage",
+        "Excellent Condition"
       ],
       "city": "长春",
       "province": "吉林",
@@ -3983,7 +3983,7 @@
         "ar": "بيستون",
         "cn": "奔腾"
       },
-      "model": "悦意03 565km 乐享版",
+      "model": "Yueyi 03 565km Joy Edition",
       "year": 2025,
       "price": 10147.0,
       "mileage": 3000,
@@ -3998,12 +3998,12 @@
       "status": "Listed",
       "description": "2025 Bestune 悦意03 565km 乐享版 with 3,000 km. Beige exterior. SUV, Petrol, 新能源, Automatic. 一手 原版原漆. Located in 贵港, 广西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆",
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original Paint",
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "贵港",
       "province": "广西",
@@ -4017,7 +4017,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "锋兰达 2.0 无级 舒适版",
+      "model": "Frontlander 2.0 CVT Comfort Edition",
       "year": 2026,
       "price": 11962.0,
       "mileage": 6000,
@@ -4032,11 +4032,11 @@
       "status": "Listed",
       "description": "2026 Toyota 锋兰达 2.0 无级 舒适版 with 6,000 km. Gray exterior. SUV, Petrol, 2.0L, Automatic. 查博士S级承保 原版原漆 0出险 实表6000KM 加装360度包围  包看包满意. Located in 福州, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "福州",
       "province": "福建",
@@ -4065,12 +4065,12 @@
       "status": "Listed",
       "description": "2024 Honda XR-V 1.5 无级 热力版 with 47,000 km. White exterior. SUV, Petrol, 1.5L, Automatic. 2024年4月出厂，查博士S级承保 原版原漆 0出险 女士一手车 膜都没斯 非常新  本地一手用车 包看包满意. Located in 福州, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "高性价比",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "Great Value",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "福州",
       "province": "福建",
@@ -4084,7 +4084,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "INSPIRE (英仕派) 1.5T CVT 260TURBO Elegance Edition, пробег 20 000 км",
+      "model": "INSPIRE (Yingshipai) 1.5T CVT 260TURBO Elegance Edition, mileage 20,000 km",
       "year": 2025,
       "price": 14987.0,
       "mileage": 20000,
@@ -4099,10 +4099,10 @@
       "status": "Listed",
       "description": "2025 Honda INSPIRE(英仕派) 1.5T 无级 260TURBO 典雅版 with 20,000 km. White exterior. Sedan, Petrol, 1.5T, Automatic. 查博士S级承保 原版原漆 0出险 加装360环影 包看包满意. Located in 福州, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "福州",
       "province": "福建",
@@ -4116,7 +4116,7 @@
         "ar": "جيب",
         "cn": "Jeep"
       },
-      "model": "Wrangler 4xe (импортный) 2.0T Sahara Edition, пробег 75 000 км. Серый кузов. Внедорожник, бензин, 2.0T, автоматическая КПП. Заводская краска",
+      "model": "Wrangler 4xe (импортный) 2.0T Sahara Edition, пробег 75 000 км. Серый кузов. Внедорожник, бензин",
       "year": 2021,
       "price": 33000.0,
       "mileage": 75000,
@@ -4131,9 +4131,9 @@
       "status": "Listed",
       "description": "2021 Jeep 牧马人 新能源(进口) 2021款 牧马人 4xe 2.0T 撒哈拉 with 75,000 km. Gray exterior. SUV, Petrol, 2.0T, Automatic. 原版原漆带隐形车衣、纯一手全程4S、纯素车，0出险、0瑕疵，两把钥匙。. Located in 济南, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "济南",
       "province": "山东",
@@ -4336,7 +4336,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "Q7 (импортный) 2023 модельный год Q7 48V 3.0TFSI 55TFSI Quattro S line Sport, пробег 71 000 км. Черный цвет кузова. Внедорожник, бензин, 3.0 л",
+      "model": "Q7 (импортный) 2023 модельный год Q7 48V 3.0TFSI 55TFSI Quattro S line Sport, пробег 71 000 км. Черный цвет кузова. Внедорожник, бензин",
       "year": 2023,
       "price": 45237.0,
       "mileage": 71000,
@@ -4351,7 +4351,7 @@
       "status": "Listed",
       "description": "2023 Audi Q7(进口) 2023款 Q7 48V 3.0TFSI 55TFSI Quattro S line运动型 with 71,000 km. Black exterior. SUV, Petrol, 3.0T, Automatic. 新到23年3月上牌，奥迪Q7，3.0T，7.1万公里，原版原漆，精品车况，. Located in 杭州, 浙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "火烧车"
+        "Fire Damaged"
       ],
       "city": "杭州",
       "province": "浙江",
@@ -4365,7 +4365,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "C-класс 2022 модельный год C 200 L 48V 1.5T спортивная версия (рестайлинг), пробег 48 000 км. Красный цвет кузова. Седан, бензин, 1.5 л",
+      "model": "C-класс 2022 модельный год C 200 L 48V 1.5T спортивная версия (рестайлинг), пробег 48 000 км. Красный цвет кузова. Седан, бензин",
       "year": 2022,
       "price": 22962.0,
       "mileage": 48000,
@@ -4392,7 +4392,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Vellfire (импортный) 2024 модельный год Crown Vellfire 2.5 вариатор Executive Supreme, пробег 63 000 км. Черный цвет кузова. Минивэн, бензин, 2.5 л, автоматическая КПП (вариатор). Оригинальная краска, защитная пленка. Один владелец, большие сиденья, топ-комплектация. Местонахождение: Ханчжоу, Чжэцзян, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Vellfire (импортный) 2024 модельный год Crown Vellfire 2.5 вариатор Executive Supreme, пробег 63 000 км. Черный цвет кузова. Минивэн, бензин",
       "year": 2024,
       "price": 101475.0,
       "mileage": 63000,
@@ -4419,7 +4419,7 @@
         "ar": "تشانجان",
         "cn": "长安"
       },
-      "model": "Eado 1.5T 500Bar Smart, пробег 2 000 км. Коричневый цвет кузова. Седан, бензин, 1.5 л",
+      "model": "Eado 1.5T 500Bar Smart, пробег 2 000 км. Коричневый цвет кузова. Седан, бензин",
       "year": 2026,
       "price": 9487.0,
       "mileage": 2000,
@@ -4446,7 +4446,7 @@
         "ar": "دينزا",
         "cn": "腾势"
       },
-      "model": "D9 DM-i 1.5T вариатор 1040 Premium, пробег 68 000 км. Черный цвет кузова. Минивэн, бензин, 1.5 л",
+      "model": "D9 DM-i 1.5T вариатор 1040 Premium, пробег 68 000 км. Черный цвет кузова. Минивэн, бензин",
       "year": 2022,
       "price": 25987.0,
       "mileage": 68000,
@@ -4473,7 +4473,7 @@
         "ar": "كاديلاك",
         "cn": "凯迪拉克"
       },
-      "model": "XT4 2.0T 28T передний привод Tech, пробег 70 000 км. Черный цвет кузова. Внедорожник, бензин, 2.0 л",
+      "model": "XT4 2.0T 28T передний привод Tech, пробег 70 000 км. Черный цвет кузова. Внедорожник, бензин",
       "year": 2021,
       "price": 13062.0,
       "mileage": 70000,
@@ -4500,7 +4500,7 @@
         "ar": "لاند روفر",
         "cn": "路虎"
       },
-      "model": "Range Rover Velar (импортный) 2020 модельный год Velar 2.0T P250, пробег 50 000 км. Серый цвет кузова. Внедорожник, бензин, 2.0 л",
+      "model": "Range Rover Velar (импортный) 2020 модельный год Velar 2.0T P250, пробег 50 000 км. Серый цвет кузова. Внедорожник, бензин",
       "year": 2020,
       "price": 28462.0,
       "mileage": 50000,
@@ -4527,7 +4527,7 @@
         "ar": "لكزس",
         "cn": "雷克萨斯"
       },
-      "model": "GX (импортный) 2024 модельный год GX550 3.5T LUXURY+, пробег 4 400 км. Белый цвет кузова. Внедорожник, электрический (гибридный?), 3.5 л",
+      "model": "GX (импортный) 2024 модельный год GX550 3.5T LUXURY+, пробег 4 400 км. Белый цвет кузова. Внедорожник, электрический (гибридный?)",
       "year": 2024,
       "price": 130074.0,
       "mileage": 4400,
@@ -4554,7 +4554,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Vellfire (импортный) 2024 модельный год Crown Vellfire 2.5 вариатор Executive Supreme, пробег 35 000 км. Белый цвет кузова. Минивэн, бензин, 2.5 л, автоматическая КПП (вариатор). Оригинальное состояние, один владелец, полный оригинальный окрас. Местонахождение: Пекин, Пекин, Китай. Проверено качество, готов к международному экспорту. Конкурентоспособная цена",
+      "model": "Vellfire (импортный) 2024 модельный год Crown Vellfire 2.5 вариатор Executive Supreme, пробег 35 000 км. Белый цвет кузова. Минивэн, бензин",
       "year": 2024,
       "price": 106975.0,
       "mileage": 35000,
@@ -4581,7 +4581,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A6L 2.0TFSI 40TFSI Luxury Elegance, пробег 118 000 км. Белый цвет кузова. Седан, бензин, 2.0 л",
+      "model": "A6L 2.0TFSI 40TFSI Luxury Elegance, пробег 118 000 км. Белый цвет кузова. Седан, бензин",
       "year": 2020,
       "price": 22962.0,
       "mileage": 118000,
@@ -4650,11 +4650,11 @@
       "status": "Listed",
       "description": "2024 Xiaomi SU7 800km 四驱超长续航高阶智驾Max版 with 8,500 km. Green exterior. Sedan, Petrol, 新能源, Automatic. 选配21寸大轮毂，前杠有补漆，有小划痕. Located in 潍坊, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "潍坊",
       "province": "山东",
@@ -4857,7 +4857,7 @@
         "ar": "آيتو",
         "cn": "AITO"
       },
-      "model": "Вэньцзе M9 EV Электрическая Ultra версия 100 кВт·ч, 5 мест",
+      "model": "Вэньцзе M9 EV Электрическая Ultra версия 100 кВт·ч",
       "year": 2025,
       "price": 57557.0,
       "mileage": 23900,
@@ -4872,13 +4872,13 @@
       "status": "Listed",
       "description": "2025 AITO 问界M9 EV 纯电Ultra版100kWh5座版 with 23,900 km. Purple exterior. SUV, Electric, 新能源, Automatic. 25年10月上牌问界M9纯电ULTRA五座指导价54.98万配置单到63.68万原版原漆零出险23900公里个人一手车. Located in 绍兴, 浙江, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "全车原漆",
-        "0过户",
-        "高性价比",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "High Resale Value",
+        "All Original Paint",
+        "0 Transfers",
+        "Great Value",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "绍兴",
       "province": "浙江",
@@ -4892,7 +4892,7 @@
         "ar": "لاند روفر",
         "cn": "路虎"
       },
-      "model": "卫士 (импорт) 2024 года, модель 卫士110 48V 3.0T P400 X-DYNAMIC HSE",
+      "model": "Defender (imported) 2024 model, Defender 110 48V 3.0T P400 X-DYNAMIC HSE",
       "year": 2024,
       "price": 87037.0,
       "mileage": 27000,
@@ -4919,7 +4919,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "5 серии 2021 года 525Li 2.0T M运动套装",
+      "model": "5 Series 2021 525Li 2.0T M Sport Package",
       "year": 2021,
       "price": 25850.0,
       "mileage": 87000,
@@ -4946,7 +4946,7 @@
         "ar": "هيونداي",
         "cn": "现代"
       },
-      "model": "伊兰特-三厢 1.5 无级 LUX 尊贵版",
+      "model": "Elantra Sedan 1.5 CVT LUX Premium Edition",
       "year": 2021,
       "price": 7081.0,
       "mileage": 57000,
@@ -4961,9 +4961,9 @@
       "status": "Listed",
       "description": "2021 Hyundai 伊兰特-三厢 1.5 无级 LUX 尊贵版 with 57,000 km. Blue exterior. Sedan, Petrol, 1.5L, Automatic. 一手车，实表，原版4件喷漆. Located in 郑州, 河南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "郑州",
       "province": "河南",
@@ -4992,10 +4992,10 @@
       "status": "Listed",
       "description": "0 Changan CS75 with 57,000 km. White exterior. SUV, Petrol, 2.8L, Manual. 一手车，实表，原版4件喷漆. Located in 郑州, 河南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "郑州",
       "province": "河南",
@@ -5009,7 +5009,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "途昂 2.5T 530 V6 四驱尊崇豪华版",
+      "model": "Teramont 2.5T 530 V6 4WD Premium Luxury Edition",
       "year": 2022,
       "price": 20625.0,
       "mileage": 122000,
@@ -5024,9 +5024,9 @@
       "status": "Listed",
       "description": "2022 Volkswagen 途昂 2.5T 530 V6 四驱尊崇豪华版 with 122,000 km. Silver exterior. SUV, Petrol, 2.5T, Automatic. 原版基本原漆  一手挂租赁公司名下 但是是非营运的性质车子   内饰成色嘎嘎新. Located in 厦门, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "实表里程",
-        "全车原版"
+        "One-owner",
+        "Actual Mileage",
+        "All Original"
       ],
       "city": "厦门",
       "province": "福建",
@@ -5040,7 +5040,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "E-класс 2020 года E 300 L 2.0T 时尚型",
+      "model": "E-Class 2020 E 300 L 2.0T Fashion Edition",
       "year": 2020,
       "price": 30937.0,
       "mileage": 80000,
@@ -5055,11 +5055,11 @@
       "status": "Listed",
       "description": "2020 Mercedes-Benz E级 2020款 E 300 L 2.0T 时尚型 with 80,000 km. Black exterior. Sedan, Petrol, 2.0T, Automatic. 一手原版实表  几乎原漆  三方S级. Located in 莆田, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "High Resale Value",
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "莆田",
       "province": "福建",
@@ -5073,7 +5073,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "帕萨特 1.8TSI 尊雅版",
+      "model": "Passat 1.8TSI Elegance Edition",
       "year": 2014,
       "price": 3918.0,
       "mileage": 190000,
@@ -5100,7 +5100,7 @@
         "ar": "بيجو",
         "cn": "标致"
       },
-      "model": "308 1.6 豪华版",
+      "model": "Peugeot 308 1.6 Luxury Edition",
       "year": 2018,
       "price": 3272.0,
       "mileage": 97000,
@@ -5115,10 +5115,10 @@
       "status": "Listed",
       "description": "2018 Peugeot 308 1.6 豪华版 with 97,000 km. White exterior. Sedan, Petrol, 1.6L, Automatic. 1.6四缸机  一手实表9.7万  整车动态品况/里外卖相及新  尾部小追尾（无切割）记录扩损. Located in 莆田, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程",
-        "瑕疵车"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage",
+        "Imperfect Condition"
       ],
       "city": "莆田",
       "province": "福建",
@@ -5132,7 +5132,7 @@
         "ar": "لاند روفر",
         "cn": "路虎"
       },
-      "model": "揽胜 (импорт) 2024 года, модель 揽胜 48V 3.0T L6 400PS 盛世加长版7座",
+      "model": "Range Rover (imported) 2024 model, Range Rover 48V 3.0T L6 400PS Prosperity Long Wheelbase Edition 7-Seat",
       "year": 2024,
       "price": 151250.0,
       "mileage": 81000,
@@ -5159,7 +5159,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "歌诗图 2.4 尊享版",
+      "model": "Crosstour 2.4 Premium Edition",
       "year": 2012,
       "price": 4537.0,
       "mileage": 168000,
@@ -5174,10 +5174,10 @@
       "status": "Listed",
       "description": "2012 Honda 歌诗图 2.4 尊享版 with 168,000 km. Black exterior. Sedan, Petrol, 2.4L, Automatic. 一手原版  保实表精品  养护工况一流  极品车况  到手0投资. Located in 莆田, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "High Resale Value",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "莆田",
       "province": "福建",
@@ -5191,7 +5191,7 @@
         "ar": "رووي",
         "cn": "荣威"
       },
-      "model": "RX5 1.5T 20T 两驱旗舰版",
+      "model": "RX5 1.5T 20T 2WD Flagship Edition",
       "year": 2018,
       "price": 3300.0,
       "mileage": 70000,
@@ -5245,7 +5245,7 @@
         "ar": "دبليو إم موتور",
         "cn": "威马"
       },
-      "model": "W6 520 км PRO全能版",
+      "model": "W6 520 km PRO All-Round Edition",
       "year": 2021,
       "price": 9212.0,
       "mileage": 60000,
@@ -5272,7 +5272,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "Vezel 1.8 вариатор 两驱先锋型",
+      "model": "Vezel 1.8 CVT 2WD Pioneer",
       "year": 2017,
       "price": 6462.0,
       "mileage": 90000,
@@ -5341,8 +5341,8 @@
       "status": "Listed",
       "description": "2018 Jaguar E-PACE 2.0T P200 with 110,000 km. White exterior. SUV, Petrol, 2.0T, Automatic. 原版车，白色贴白色车衣. Located in 厦门, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "实表里程"
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "厦门",
       "province": "福建",
@@ -5356,7 +5356,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "Tiguan L 2.0TSI 330TSI 两驱豪华版",
+      "model": "Tiguan L 2.0TSI 330TSI 2WD Luxury Edition",
       "year": 2018,
       "price": 7699.0,
       "mileage": 230000,
@@ -5371,7 +5371,7 @@
       "status": "Listed",
       "description": "2018 Volkswagen 途观L 2.0TSI 330TSI 两驱豪华版 with 230,000 km. Gold exterior. SUV, Petrol, 2.0T, Automatic. 左前叶 左前灯 换  公里数大. Located in 厦门, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车"
+        "One-owner"
       ],
       "city": "厦门",
       "province": "福建",
@@ -5385,7 +5385,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "Vios FS 1.5 вариатор 锋驰版",
+      "model": "Vios FS 1.5 CVT Fengchi Edition",
       "year": 2017,
       "price": 5843.0,
       "mileage": 19000,
@@ -5400,9 +5400,9 @@
       "status": "Listed",
       "description": "2017 Toyota 威驰FS 1.5 无级 锋驰版 with 19,000 km. White exterior. Sedan, Petrol, 1.5L, Automatic. 原版 一手 1万多公里 一面漆. Located in 厦门, 福建, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "一手车",
-        "高性价比",
-        "实表里程"
+        "One-owner",
+        "Great Value",
+        "Actual Mileage"
       ],
       "city": "厦门",
       "province": "福建",
@@ -5431,9 +5431,9 @@
       "status": "Listed",
       "description": "2014 BMW X6(进口) 2014款 X6 xDrive35i 3.0T 运动型 with 130,000 km. Black exterior. SUV, Petrol, 3.0T, Automatic. 实表，查博士S级，. Located in 昆明, 云南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高性价比",
-        "全车原版",
-        "实表里程"
+        "Great Value",
+        "All Original",
+        "Actual Mileage"
       ],
       "city": "昆明",
       "province": "云南",
@@ -5447,7 +5447,7 @@
         "ar": "لكزس",
         "cn": "雷克萨斯"
       },
-      "model": "ES (импорт) 2025 модельного года ES200 2.0 вариатор 臻享版",
+      "model": "ES (Imported) 2025 Model Year ES200 2.0 CVT Premium Edition",
       "year": 2025,
       "price": 28600.0,
       "mileage": 12000,
@@ -5474,7 +5474,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "型格 1.5T 无级 240TURBO 领先版",
+      "model": "Integra 1.5T CVT 240TURBO Leading Edition",
       "year": 2023,
       "price": 11412.0,
       "mileage": 13000,
@@ -5501,7 +5501,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "C级 2023款 C 260 L 48V 1.5T 皓夜运动版",
+      "model": "C-Class 2023 Model C 260 L 48V 1.5T Night Sports Edition",
       "year": 2023,
       "price": 28297.0,
       "mileage": 52000,
@@ -5528,7 +5528,7 @@
         "ar": "فورد",
         "cn": "福特"
       },
-      "model": "蒙迪欧 2.0T EcoBoost 245 豪华型(改款)",
+      "model": "Mondeo 2.0T EcoBoost 245 Luxury Type (Facelift)",
       "year": 2022,
       "price": 14850.0,
       "mileage": 16000,
@@ -5555,7 +5555,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "3系 2021款 325i 2.0T M运动曜夜套装(改款)",
+      "model": "3 Series 2021 Model 325i 2.0T M Sport Night Edition (Facelift)",
       "year": 2021,
       "price": 21450.0,
       "mileage": 63000,
@@ -5582,7 +5582,7 @@
         "ar": "كاديلاك",
         "cn": "凯迪拉克"
       },
-      "model": "CT5 2.0T 28T 豪华型",
+      "model": "CT5 2.0T 28T Luxury Type",
       "year": 2021,
       "price": 17600.0,
       "mileage": 60000,
@@ -5597,9 +5597,9 @@
       "status": "Listed",
       "description": "2021 Cadillac CT5 2.0T 28T 豪华型 with 60,000 km. Gray exterior. Sedan, Petrol, 2.0T, Automatic. 一手户  出险已上传 实表 \n换了一个门跟一个叶子板  没有记录. Located in 重庆, 重庆, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "重庆",
       "province": "重庆",
@@ -5613,7 +5613,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "CR-V新能源 2023款 CR-V e:HEV 2.0 无级 锐·两驱智享版",
+      "model": "CR-V New Energy 2023 Model CR-V e:HEV 2.0 CVT Rui 2WD Smart Enjoyment Edition",
       "year": 2023,
       "price": 18012.0,
       "mileage": 40000,
@@ -5628,10 +5628,10 @@
       "status": "Listed",
       "description": "2023 Honda CR-V新能源 2023款 CR-V e:HEV 2.0 无级 锐·两驱智享版 with 40,000 km. Black exterior. SUV, Electric, 2.0L, Automatic. 车况：原版，实表，查博士s，智享版，三处喷漆，360影像，真皮  刀枪不入. Located in 日照, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "低油耗",
-        "高性价比",
-        "全车原版",
-        "实表里程"
+        "Low Fuel Consumption",
+        "Great Value",
+        "All Original",
+        "Actual Mileage"
       ],
       "city": "日照",
       "province": "山东",
@@ -5645,7 +5645,7 @@
         "ar": "تانك",
         "cn": "坦克"
       },
-      "model": "坦克300 2.0T 越野版 征服者",
+      "model": "Tank 300 2.0T Off-Road Edition Conqueror",
       "year": 2021,
       "price": 17600.0,
       "mileage": 90000,
@@ -5660,8 +5660,8 @@
       "status": "Listed",
       "description": "2021 Tank 坦克300 2.0T 越野版 征服者 with 90,000 km. Black exterior. SUV, Petrol, 2.0T, Automatic. 全车原漆，可过三方，. Located in 大同, 山西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "实表里程"
+        "All Original Paint",
+        "Actual Mileage"
       ],
       "city": "大同",
       "province": "山西",
@@ -5675,7 +5675,7 @@
         "ar": "أيون",
         "cn": "广汽埃安"
       },
-      "model": "Aion Y Younger 星耀版",
+      "model": "Aion Y Younger Star Glory Edition",
       "year": 2023,
       "price": 9350.0,
       "mileage": 32000,
@@ -5690,13 +5690,13 @@
       "status": "Listed",
       "description": "2023 Aion Aion Y Younger 星耀版 with 32,000 km. Beige exterior. SUV, Petrol, 新能源, Automatic. 全车原漆，一手，可过三方，4S店加装柴暖. Located in 大同, 山西, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "车况精品",
-        "全车原漆",
-        "一手车",
-        "实表里程",
-        "代步车",
-        "低油耗"
+        "0 Transfers",
+        "Excellent Condition",
+        "All Original Paint",
+        "One-owner",
+        "Actual Mileage",
+        "Daily Commuter",
+        "Low Fuel Consumption"
       ],
       "city": "大同",
       "province": "山西",
@@ -5710,7 +5710,7 @@
         "ar": "أودي",
         "cn": "奥迪"
       },
-      "model": "A8L(进口) 2021款 A8L 48V 3.0TFSI 50TFSI Quattro 舒适型",
+      "model": "A8L (Imported) 2021 Model A8L 48V 3.0TFSI 50TFSI Quattro Comfort Type",
       "year": 2021,
       "price": 43450.0,
       "mileage": 130000,
@@ -5725,9 +5725,9 @@
       "status": "Listed",
       "description": "2021 Audi A8L(进口) 2021款 A8L 48V 3.0TFSI 50TFSI Quattro 舒适型 with 130,000 km. Black exterior. Sedan, Petrol, 3.0T, Automatic. 原版原漆，带车衣，查博士S级别，选配座椅通风，波尔多红内饰，实表全程记录，新-. Located in 济南, 山东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "高性价比",
-        "实表里程"
+        "All Original Paint",
+        "Great Value",
+        "Actual Mileage"
       ],
       "city": "济南",
       "province": "山东",
@@ -5741,7 +5741,7 @@
         "ar": "شيانغجي",
         "cn": "享界"
       },
-      "model": "S9 Ultra 四驱旗舰版",
+      "model": "S9 Ultra AWD Flagship Edition",
       "year": 2024,
       "price": 33687.0,
       "mileage": 40000,
@@ -5768,7 +5768,7 @@
         "ar": "مرسيدس بنز",
         "cn": "奔驰"
       },
-      "model": "C-класс 2023款 C 260 L 48V 1.5T (рестайлинг)",
+      "model": "C-Class 2023 C 260 L 48V 1.5T (Facelift)",
       "year": 2023,
       "price": 27362.0,
       "mileage": 28000,
@@ -5783,13 +5783,13 @@
       "status": "Listed",
       "description": "2023 Mercedes-Benz C级 2023款 C 260 L 48V 1.5T(改款) with 28,000 km. White exterior. Sedan, Petrol, 1.5T, Automatic. 全车原版原漆. Located in 六安, 安徽, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆",
-        "0过户",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original Paint",
+        "0 Transfers",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "六安",
       "province": "安徽",
@@ -5803,7 +5803,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "INSPIRE (英仕派) 2019款 INSPIRE 1.5T 无级 260TURBO 精致版",
+      "model": "INSPIRE 2019 1.5T CVT 260TURBO Refined Edition",
       "year": 2019,
       "price": 10862.0,
       "mileage": 74000,
@@ -5830,7 +5830,7 @@
         "ar": "ترامبتشي",
         "cn": "传祺"
       },
-      "model": "M8 2.0T 390T 领秀系列 尊享版",
+      "model": "M8 2.0T 390T Leader Series Honor Edition",
       "year": 2021,
       "price": 14547.0,
       "mileage": 55000,
@@ -5845,11 +5845,11 @@
       "status": "Listed",
       "description": "2021 Trumpchi M8 2.0T 390T 领秀系列 尊享版 with 55,000 km. White exterior. MPV, Petrol, 2.0T, Automatic. 原版原漆一手零投资，费用10月，查博士S. Located in 遵义, 贵州, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "All Original Paint",
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "遵义",
       "province": "贵州",
@@ -5863,7 +5863,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "卡罗拉 1.5 无级 精英版",
+      "model": "Corolla 1.5 CVT Elite Edition",
       "year": 2021,
       "price": 8387.0,
       "mileage": 61000,
@@ -5878,12 +5878,12 @@
       "status": "Listed",
       "description": "2021 Toyota 卡罗拉 1.5 无级 精英版 with 61,000 km. Gray exterior. Sedan, Petrol, 1.5L, Automatic. 车况良好  头盖动过  其他原版 一手车实表公里数. Located in 东莞, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "0过户",
-        "低油耗",
-        "全车原版",
-        "车况精品",
-        "一手车",
-        "实表里程"
+        "0 Transfers",
+        "Low Fuel Consumption",
+        "All Original",
+        "Excellent Condition",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "东莞",
       "province": "广东",
@@ -5897,7 +5897,7 @@
         "ar": "تشانجان",
         "cn": "长安"
       },
-      "model": "逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型",
+      "model": "Changan Eado Plus 1.4TGDI Blue Whale NE Prestige Type",
       "year": 2022,
       "price": 5060.0,
       "mileage": 4200,
@@ -5912,12 +5912,12 @@
       "status": "Listed",
       "description": "2022 Changan 逸动PLUS 1.4TGDI 蓝鲸NE 尊贵型 with 4,200 km. White exterior. Sedan, Petrol, 1.4T, Automatic. 一手车 实表公里数  车况原版  做了2个面油漆   右后备胎有一点点钣金修复  保险拆洗地毯理赔3000. Located in 东莞, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "准新车",
-        "全车原漆",
-        "0过户",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "Like New",
+        "All Original Paint",
+        "0 Transfers",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "东莞",
       "province": "广东",
@@ -5931,7 +5931,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "格瑞维亚 HYBRID 2.5 无级 豪华版",
+      "model": "Granvia Hybrid 2.5 CVT Luxury Edition",
       "year": 2024,
       "price": 32037.0,
       "mileage": 50000,
@@ -5958,7 +5958,7 @@
         "ar": "بويك",
         "cn": "别克"
       },
-      "model": "GL8 ES 陆尊 48V 2.0T 653T 尊享型",
+      "model": "GL8 ES Land Zun 48V 2.0T 653T Honor Edition",
       "year": 2023,
       "price": 28600.0,
       "mileage": 30000,
@@ -5985,7 +5985,7 @@
         "ar": "بي إم دبليو",
         "cn": "宝马"
       },
-      "model": "X3 xDrive25L 2.0T 豪华套装",
+      "model": "X3 xDrive25L 2.0T Luxury Package",
       "year": 2025,
       "price": 35200.0,
       "mileage": 17000,
@@ -6012,7 +6012,7 @@
         "ar": "ترامبتشي",
         "cn": "传祺"
       },
-      "model": "GS4 1.5T 270T 精英科技版",
+      "model": "GS4 1.5T 270T Elite Tech Edition",
       "year": 2020,
       "price": 5912.0,
       "mileage": 70000,
@@ -6039,7 +6039,7 @@
         "ar": "بي واي دي",
         "cn": "比亚迪"
       },
-      "model": "秦PLUS DM-i 1.5 无级 旗舰型55KM",
+      "model": "Qin PLUS DM-i 1.5 CVT Flagship 55KM",
       "year": 2021,
       "price": 4812.0,
       "mileage": 86000,
@@ -6081,8 +6081,8 @@
       "status": "Listed",
       "description": "2025 Arcfox T1 425 PRO with 3,000 km. Blue exterior. Sedan, Petrol, 新能源, Automatic. 原版原漆. Located in 怀化, 湖南, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原版",
-        "实表里程"
+        "All Original",
+        "Actual Mileage"
       ],
       "city": "怀化",
       "province": "湖南",
@@ -6096,7 +6096,7 @@
         "ar": "رووي",
         "cn": "荣威"
       },
-      "model": "科莱威 311km元气啵啵版",
+      "model": "Clever 311km Vitality Bobo Edition",
       "year": 2022,
       "price": 3300.0,
       "mileage": 30000,
@@ -6123,7 +6123,7 @@
         "ar": "إيولوس",
         "cn": "风神"
       },
-      "model": "奕炫MAX 1.5T 超炫潮爸版",
+      "model": "Yixuan MAX 1.5T Super Cool Trendy Dad Edition",
       "year": 2021,
       "price": 0,
       "mileage": 40000,
@@ -6150,7 +6150,7 @@
         "ar": "بويك",
         "cn": "别克"
       },
-      "model": "GL8 陆上公务舱 48V 2.0T 652T 豪华型",
+      "model": "GL8 Land Business Class 48V 2.0T 652T Luxury Edition",
       "year": 2022,
       "price": 13722.0,
       "mileage": 57000,
@@ -6177,7 +6177,7 @@
         "ar": "تويوتا",
         "cn": "丰田"
       },
-      "model": "亚洲龙 2.5 豪华版",
+      "model": "Avalon 2.5 Luxury Edition",
       "year": 2021,
       "price": 13612.0,
       "mileage": 69000,
@@ -6204,7 +6204,7 @@
         "ar": "فولكس فاجن",
         "cn": "大众"
       },
-      "model": "帕萨特 1.4TSI 280TSI 商务版",
+      "model": "Passat 1.4TSI 280TSI Business Edition",
       "year": 2022,
       "price": 7975.0,
       "mileage": 90000,
@@ -6231,7 +6231,7 @@
         "ar": "هوندا",
         "cn": "本田"
       },
-      "model": "第十一代雅阁 1.5T 无级 260TURBO 智享版",
+      "model": "11th Generation Accord 1.5T CVT 260TURBO Smart Edition",
       "year": 2023,
       "price": 15950.0,
       "mileage": 23700,
@@ -6258,7 +6258,7 @@
         "ar": "لكزس",
         "cn": "雷克萨斯"
       },
-      "model": "ES (импорт) 2022款 ES200 2.0 无级 卓越版",
+      "model": "ES (Import) 2022 Model Year ES200 2.0 CVT Luxury Edition",
       "year": 2022,
       "price": 25025.0,
       "mileage": 50000,
@@ -6273,12 +6273,12 @@
       "status": "Listed",
       "description": "2022 Lexus ES(进口) 2022款 ES200 2.0 无级 卓越版 with 50,000 km. Gray exterior. Sedan, Petrol, 2.0L, Automatic. 新到店22年9月雷克萨斯ES200卓越版，本地退休老领导一手车仅行驶5万公里，原版原漆极品车况，查博士S，绝版品质无忧质保期，配置：智能钥匙，通风加热座椅，全景摄像头等等，刚做保养，四条全新米其林轮胎，到手直接开. Located in 深圳, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "准新车",
-        "全车原漆",
-        "全车原版",
-        "一手车",
-        "实表里程"
+        "High Resale Value",
+        "Like New",
+        "All Original Paint",
+        "All Original",
+        "One-owner",
+        "Actual Mileage"
       ],
       "city": "深圳",
       "province": "广东",
@@ -6292,7 +6292,7 @@
         "ar": "بويك",
         "cn": "别克"
       },
-      "model": "GL8 陆上公务舱 2.0T 652T 豪华型",
+      "model": "GL8 Land Business Class 2.0T 652T Luxury Edition",
       "year": 2021,
       "price": 15125.0,
       "mileage": 78000,
@@ -6307,10 +6307,10 @@
       "status": "Listed",
       "description": "2021 Buick GL8 陆上公务舱 2.0T 652T 豪华型 with 78,000 km. Gray exterior. MPV, Petrol, 2.0T, Automatic. 652T豪华版 才改装内饰 ，成色非常新，车况好，全车原版原漆，0出险，0记录，公司一手户. Located in 成都, 四川, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "全车原漆",
-        "0过户",
-        "增值税发票",
-        "全车原版"
+        "All Original Paint",
+        "0 Transfers",
+        "VAT Invoice Available",
+        "All Original"
       ],
       "city": "成都",
       "province": "四川",
@@ -6324,7 +6324,7 @@
         "ar": "فورد",
         "cn": "福特"
       },
-      "model": "领裕 2.0T EcoBoost 225 尊领型7座",
+      "model": "Ford Equator 2.0T EcoBoost 225 Premium Edition 7-Seater",
       "year": 2021,
       "price": 10037.0,
       "mileage": 100000,
@@ -6339,9 +6339,9 @@
       "status": "Listed",
       "description": "2021 Ford 领裕 2.0T EcoBoost 225 尊领型7座 with 100,000 km. Black exterior. SUV, Electric, 2.0T, Automatic. 新到店22年福特领裕EcoBoost 225尊领型7座（2/2/3），本地一手车高配置，2.0T 224马力，6挡双离合，配置：全景天窗，智能钥匙，前四座电动座椅，360度全景影像，LED大灯，12.3英寸触控液晶屏等等，车况靓到手即用性价. Located in 深圳, 广东, China. Quality inspected, ready for global export. Competitive pricing with full documentation support..",
       "tags": [
-        "高保值",
-        "车况精品",
-        "一手车"
+        "High Resale Value",
+        "Excellent Condition",
+        "One-owner"
       ],
       "city": "深圳",
       "province": "广东",
