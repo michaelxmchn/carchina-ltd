@@ -813,9 +813,7 @@ let vehicles = [];
 let currentLang = localStorage.getItem('lang') || 'en';
 
 async function loadVehicles() {
-    // If full data already loaded for current language, skip
     if (window._fullDataLoadedFor === currentLang) return;
-    // Load inline data first (instant, first ~20 cars)
     if (!window._inlineLoaded) {
         window._inlineLoaded = true;
         const inlineEl = document.getElementById('vehicles-data');
@@ -827,37 +825,31 @@ async function loadVehicles() {
             } catch (e) {}
         }
     }
-    // Fetch full data in background (only once)
-    if (!window._fullDataLoading) {
-        window._fullDataLoading = true;
+    try {
+        const res = await fetch(`/data/${currentLang}/vehicles.json?_=` + Date.now());
+        if (res.ok) {
+            const data = await res.json();
+            if (data.vehicles && data.vehicles.length > 0) {
+                vehicles = data.vehicles;
+                window._fullDataLoadedFor = currentLang;
+                updateVehicleSchema(vehicles);
+                dispatchEvent(new CustomEvent('vehicles-loaded'));
+            }
+        }
+    } catch (e) {
         try {
-            const res = await fetch(`/data/${currentLang}/vehicles.json?_=` + Date.now(), { priority: 'low' });
+            const fallbackUrl = GITHUB + `/${currentLang}/vehicles.json?_=` + Date.now();
+            const res = await fetch(fallbackUrl);
             if (res.ok) {
                 const data = await res.json();
-                if (data.vehicles && data.vehicles.length > 0) {
+                if (data.vehicles) {
                     vehicles = data.vehicles;
                     window._fullDataLoadedFor = currentLang;
                     updateVehicleSchema(vehicles);
                     dispatchEvent(new CustomEvent('vehicles-loaded'));
                 }
             }
-        } catch (e) {
-            // Fallback: try GitHub raw per-language
-            try {
-                const fallbackUrl = GITHUB + `/${currentLang}/vehicles.json?_=` + Date.now();
-                const res = await fetch(fallbackUrl, { priority: 'low' });
-                if (res.ok) {
-                    const data = await res.json();
-                    if (data.vehicles) {
-                        vehicles = data.vehicles;
-                        window._fullDataLoadedFor = currentLang;
-                        updateVehicleSchema(vehicles);
-                        dispatchEvent(new CustomEvent('vehicles-loaded'));
-                    }
-                }
-            } catch (e2) {}
-        }
-        window._fullDataLoading = false;
+        } catch (e2) {}
     }
 }
 
@@ -912,7 +904,7 @@ function toggleMobileMenu() {
     m.classList.toggle('hidden'); m.classList.toggle('flex');
 }
 
-function setLanguage(lang) {
+async function setLanguage(lang) {
     currentLang = lang;
     localStorage.setItem('lang', lang);
     document.getElementById('currentLang').textContent = lang.toUpperCase();
@@ -924,11 +916,10 @@ function setLanguage(lang) {
         if (t[key]) el.textContent = t[key];
     });
     document.getElementById('langDropdown').classList.add('hidden');
-    // Update URL to reflect language
     const newPath = lang === 'en' ? '/' : '/' + lang + '/';
     window.history.replaceState({}, '', newPath);
-    // Re-fetch data for the new language
-    loadVehicles();
+    // Re-fetch data for the new language, then render
+    await loadVehicles();
     renderVehicles();
     renderFeaturedVehicles();
 }
