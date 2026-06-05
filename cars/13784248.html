@@ -935,8 +935,11 @@ function setLanguage(lang) {
     window.history.replaceState({}, '', newPath);
     // Re-fetch data for the new language
     loadVehicles();
+    initFilters();
     renderVehicles();
     renderFeaturedVehicles();
+    // Re-init filters when full data loads
+    window.addEventListener('vehicles-loaded', () => { initFilters(); }, { once: true });
 }
 
 function getText(obj, lang) {
