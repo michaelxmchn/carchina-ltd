@@ -3,7 +3,7 @@
     {
       "id": 14805590,
       "brand": "ليبموتور",
-      "model": "Leapmotor B10 600 Yuexiang Zhijia Edition",
+      "model": "B10 600 Yuexiang Zhijia",
       "year": 2025,
       "price": 12237.0,
       "mileage": 25000,
@@ -40,7 +40,7 @@
     {
       "id": 13556418,
       "brand": "أيون",
-      "model": "GAC Aion Aion S MAX 80 Xingchen Edition",
+      "model": "GAC Aion Aion S MAX 80 Xingchen",
       "year": 2024,
       "price": 10450.0,
       "mileage": 150000,
@@ -117,7 +117,7 @@
     {
       "id": 14349677,
       "brand": "إم جي",
-      "model": "MG5 1.5 CVT 180DVVT Youth Luxury Edition",
+      "model": "5 1.5 CVT 180DVVT Youth Luxury",
       "year": 2021,
       "price": 5472.0,
       "mileage": 83000,
@@ -157,7 +157,7 @@
     {
       "id": 14554569,
       "brand": "بي واي دي",
-      "model": "Tang DM-i 1.5T CVT Glory Edition 112km Premium",
+      "model": "Tang DM-i 1.5T CVT Glory 112KM Zungui",
       "year": 2024,
       "price": 14850.0,
       "mileage": 48000,
@@ -190,7 +190,7 @@
     {
       "id": 14697956,
       "brand": "بي واي دي",
-      "model": "Han DM-i 1.5T CVT Smart Drive Edition 125km LiDAR Flagship",
+      "model": "Han DM-i 1.5T CVT Zhijia 125KM Lidar Flagship",
       "year": 2025,
       "price": 20350.0,
       "mileage": 2000,
@@ -233,7 +233,7 @@
     {
       "id": 14545037,
       "brand": "iCAR",
-      "model": "iCAR 03 472km AWD Long Range Edition",
+      "model": "03 472km AWD Long Range",
       "year": 2024,
       "price": 11825.0,
       "mileage": 28000,
@@ -270,7 +270,7 @@
     {
       "id": 14755513,
       "brand": "بويك",
-      "model": "VELITE 6 PHEV 1.5 CVT Connect Smart Edition",
+      "model": "VELITE 6 PHEV 1.5 CVT Hulián Zhixiang",
       "year": 2020,
       "price": 0,
       "mileage": 190000,
@@ -299,7 +299,7 @@
     {
       "id": 14545002,
       "brand": "iCAR",
-      "model": "iCAR 03 501km AWD Long Range Advanced Edition",
+      "model": "03 501km AWD Long Range Advanced",
       "year": 2024,
       "price": 12100.0,
       "mileage": 31000,
@@ -328,7 +328,7 @@
     {
       "id": 14102431,
       "brand": "جيلي جالاكسي",
-      "model": "Geely Galaxy A7 EM-i 1.5 150km Starship Edition",
+      "model": "A7 EM-i 1.5 150km Xingjian",
       "year": 2025,
       "price": 13200.0,
       "mileage": 6000,
@@ -371,7 +371,7 @@
     {
       "id": 14072216,
       "brand": "فولكس فاجن",
-      "model": "Talagon 2.0TSI 380TSI AWD Luxury Plus Pro",
+      "model": "Lan Jing 2.0TSI 380TSI AWD Luxury Jiajing Pro",
       "year": 2021,
       "price": 18287.0,
       "mileage": 110000,
@@ -410,7 +410,7 @@
     {
       "id": 14121023,
       "brand": "ليبموتور",
-      "model": "Leapmotor C01 316 Smart Edition",
+      "model": "C01 316 Zhixiang",
       "year": 2023,
       "price": 11962.0,
       "mileage": 44000,
@@ -447,7 +447,7 @@
     {
       "id": 14642179,
       "brand": "大通",
-      "model": "G10 2.0 Mid Travel Edition CNG 9-Seat",
+      "model": "G10 2.0 Mid Travel CNG 9-Seat",
       "year": 2025,
       "price": 13997.0,
       "mileage": 31000,
@@ -488,7 +488,7 @@
     {
       "id": 14068294,
       "brand": "وولينج",
-      "model": "Wuling Hongguang MINI EV 215km Youth Edition",
+      "model": "Hongguang MINI EV 215km Youth",
       "year": 2024,
       "price": 3849.0,
       "mileage": 26000,
@@ -526,7 +526,7 @@
     {
       "id": 14619684,
       "brand": "تشانجان",
-      "model": "UNI-T 1.5T Premium",
+      "model": "UNI-T 1.5T Zungui",
       "year": 2023,
       "price": 10312.0,
       "mileage": 53000,
@@ -567,7 +567,7 @@
     {
       "id": 14950833,
       "brand": "ليبموتور",
-      "model": "Leapmotor C11 Luxury Edition",
+      "model": "C11 Luxury",
       "year": 2021,
       "price": 11274.0,
       "mileage": 77000,
@@ -603,7 +603,7 @@
     {
       "id": 14492093,
       "brand": "金杯",
-      "model": "Xiaohaishi X30 1.5 Super Enjoy Edition",
+      "model": "Xiaohaishi X30 1.5 Chaoxiang",
       "year": 2020,
       "price": 2062.0,
       "mileage": 60000,
@@ -642,7 +642,7 @@
     {
       "id": 14476465,
       "brand": "وولينج",
-      "model": "Wuling Hongguang MINI EV Comfort Edition LFP",
+      "model": "Hongguang MINI EV Zizai LFP",
       "year": 2022,
       "price": 2378.0,
       "mileage": 28000,
@@ -682,7 +682,7 @@
     {
       "id": 14685626,
       "brand": "وولينج",
-      "model": "Wuling Binguo 203km Light Enjoy Edition",
+      "model": "Bingo 203km Qingxiang",
       "year": 2024,
       "price": 5362.0,
       "mileage": 14000,
@@ -721,7 +721,7 @@
     {
       "id": 14227842,
       "brand": "بويك",
-      "model": "Regal 1.5T 552T Smart Edition",
+      "model": "Regal 1.5T 552T Zhixiang",
       "year": 2022,
       "price": 11825.0,
       "mileage": 6500,
@@ -761,7 +761,7 @@
     {
       "id": 14549708,
       "brand": "وولينج",
-      "model": "Wuling Hongguang MINI EV Macaron Sandwich Edition 170km NMC",
+      "model": "Hongguang MINI EV Macaron Sandwich 170km NMC",
       "year": 2021,
       "price": 2241.0,
       "mileage": 61000,
@@ -800,7 +800,7 @@
     {
       "id": 14697621,
       "brand": "بي إم دبليو",
-      "model": "الفئة الخامسة 530Li 2.0T领先 M运动套装",
+      "model": "الفئة الخامسة 530Li 2.0T领先 M Sport",
       "year": 2023,
       "price": 36575.0,
       "mileage": 49000,
@@ -832,7 +832,7 @@
     {
       "id": 14897128,
       "brand": "思皓",
-      "model": "2021 سيهو E10X 302km فاخر 31.4kWh",
+      "model": "2021 E10X 302km فاخر 31.4kWh",
       "year": 2021,
       "price": 3134.0,
       "mileage": 110000,
@@ -896,7 +896,7 @@
     {
       "id": 14375396,
       "brand": "وولينج",
-      "model": "وولينغ 2022 هونغقوانغ MINI EV ماكارون ساندويتش 170km NMC",
+      "model": "2022 Hongguang MINI EV Macaron 170km NMC",
       "year": 2022,
       "price": 2475.0,
       "mileage": 49000,
@@ -925,7 +925,7 @@
     {
       "id": 14278212,
       "brand": "شيري",
-      "model": "QQ آيس كريم 170km ميلك شيك",
+      "model": "QQ Ice Cream 170km ميلك شيك",
       "year": 2024,
       "price": 2585.0,
       "mileage": 30000,
@@ -985,7 +985,7 @@
     {
       "id": 14800299,
       "brand": "أيون",
-      "model": "GAC Aion Aion Y PLUS 610 ذكي NMC",
+      "model": "GAC Aion Y PLUS 610 ذكي NMC",
       "year": 2024,
       "price": 7810.0,
       "mileage": 90000,
@@ -1088,7 +1088,7 @@
     {
       "id": 14236796,
       "brand": "几何",
-      "model": "2024 جيometri A 410KM سفر",
+      "model": "2024 Geometry A 410KM سفر",
       "year": 2024,
       "price": 8635.0,
       "mileage": 27500,
@@ -1128,7 +1128,7 @@
     {
       "id": 14929829,
       "brand": "مرسيدس بنز",
-      "model": "الفئة S S 450 L 4MATIC 48V 2.5T",
+      "model": "الفئة S S450 L 4MATIC 48V 2.5T",
       "year": 2023,
       "price": 101172.0,
       "mileage": 12000,
@@ -1176,7 +1176,7 @@
     {
       "id": 14536707,
       "brand": "تسلا",
-      "model": "تسلا 2021 موديل Y قياسي المدى دفع خلفي",
+      "model": "2021 Model Y قياسي خلفي",
       "year": 2021,
       "price": 17325.0,
       "mileage": 90000,
@@ -1209,7 +1209,7 @@
     {
       "id": 14891572,
       "brand": "مرسيدس بنز",
-      "model": "الفئة S S 450 L 4MATIC 48V 2.5T",
+      "model": "الفئة S S450 L 4MATIC 48V 2.5T",
       "year": 2024,
       "price": 126225.0,
       "mileage": 12000,
@@ -1258,7 +1258,7 @@
     {
       "id": 14930393,
       "brand": "مرسيدس بنز",
-      "model": "الفئة S S 400 L 48V 2.5T فاخر",
+      "model": "الفئة S S400 L 48V 2.5T فاخر",
       "year": 2022,
       "price": 78100.0,
       "mileage": 137000,
@@ -1307,7 +1307,7 @@
     {
       "id": 13012387,
       "brand": "بي إم دبليو",
-      "model": "الفئة الثالثة 325Li 2.0T M运动套装",
+      "model": "الفئة الثالثة 325Li 2.0T M Sport",
       "year": 2021,
       "price": 19937.0,
       "mileage": 86000,
@@ -1337,7 +1337,7 @@
     {
       "id": 14931218,
       "brand": "مرسيدس بنز",
-      "model": "الفئة S S 450 L 4MATIC 48V 2.5T",
+      "model": "الفئة S S450 L 4MATIC 48V 2.5T",
       "year": 2022,
       "price": 87725.0,
       "mileage": 111000,
@@ -1386,7 +1386,7 @@
     {
       "id": 13784248,
       "brand": "تانك",
-      "model": "تانك 300 2.0T على الطرق الوعرة فاتح",
+      "model": "300 2.0T على الطرق الوعرة فاتح",
       "year": 2021,
       "price": 19662.0,
       "mileage": 46000,
@@ -1419,7 +1419,7 @@
     {
       "id": 12793806,
       "brand": "أيون",
-      "model": "GAC Aion Aion S شوان 580",
+      "model": "GAC Aion S 580",
       "year": 2020,
       "price": 7672.0,
       "mileage": 300000,
@@ -1490,7 +1490,7 @@
     {
       "id": 14491565,
       "brand": "بي واي دي",
-      "model": "تشين PLUS DM-i 1.5 CVT بطل متجاوز 55km",
+      "model": "Qin PLUS DM-i 1.5 CVT بطل متجاوز 55km",
       "year": 2023,
       "price": 6462.0,
       "mileage": 34000,
@@ -1563,7 +1563,7 @@
     {
       "id": 14613626,
       "brand": "فولكس فاجن",
-      "model": "توارق 2.0TSI رويشانغ",
+      "model": "Touareg 2.0TSI حاد أنيق",
       "year": 2022,
       "price": 22000.0,
       "mileage": 60000,
@@ -1596,7 +1596,7 @@
     {
       "id": 13338497,
       "brand": "تويوتا",
-      "model": "كامري 2.5S حاد",
+      "model": "Camry 2.5S حاد أنيق",
       "year": 2021,
       "price": 14987.0,
       "mileage": 66000,
@@ -1709,7 +1709,7 @@
     {
       "id": 13112780,
       "brand": "تويوتا",
-      "model": "كامري 2.5S حاد",
+      "model": "Camry 2.5S حاد أنيق",
       "year": 2021,
       "price": 17325.0,
       "mileage": 58000,
@@ -1817,7 +1817,7 @@
     {
       "id": 13684641,
       "brand": "لكزس",
-      "model": "RX RX300 2.0T AWD Elegant",
+      "model": "RX RX300 2.0T AWD Elegance",
       "year": 2020,
       "price": 27775.0,
       "mileage": 80000,
@@ -1856,7 +1856,7 @@
     {
       "id": 12451910,
       "brand": "بورش",
-      "model": "Porsche Cayenne 2018 3.0T US Spec",
+      "model": "Cayenne 2018 3.0T US Spec",
       "year": 2018,
       "price": 50875.0,
       "mileage": 120000,
@@ -2046,7 +2046,7 @@
     {
       "id": 14811515,
       "brand": "ترامبتشي",
-      "model": "M8 2.0T 390T Master Series Prestige",
+      "model": "M8 2.0T 390T Master Series Premium",
       "year": 2024,
       "price": 23237.0,
       "mileage": 13000,
@@ -2087,7 +2087,7 @@
     {
       "id": 14407678,
       "brand": "تويوتا",
-      "model": "RAV4 2.0 CVT FWD Trend",
+      "model": "RAV4 2.0 CVT FWD Style",
       "year": 2022,
       "price": 14575.0,
       "mileage": 48000,
@@ -2194,7 +2194,7 @@
     {
       "id": 14895430,
       "brand": "تشانجان",
-      "model": "CS75 PLUS 1.5T New Blue Whale Premium",
+      "model": "CS75 PLUS 1.5T New Blue Whale Exclusive",
       "year": 2025,
       "price": 11660.0,
       "mileage": 12000,
@@ -2352,7 +2352,7 @@
     {
       "id": 14545834,
       "brand": "فولكس فاجن",
-      "model": "T-Roc 1.4TSI 280TSI FWD Comfort Connected",
+      "model": "T-Roc 1.4TSI 280TSI FWD Comfort Connect",
       "year": 2021,
       "price": 10285.0,
       "mileage": 38500,
@@ -2410,7 +2410,7 @@
     {
       "id": 14517741,
       "brand": "مازدا",
-      "model": "Mazda3 Sedan 2.0 Premium",
+      "model": "3 Sedan 2.0 Premium",
       "year": 2020,
       "price": 9350.0,
       "mileage": 29400,
@@ -2577,7 +2577,7 @@
     {
       "id": 13609541,
       "brand": "فورد",
-      "model": "Focus Hatchback 1.5T EcoBoost 180 Edge Tide",
+      "model": "Focus Hatchback 1.5T EcoBoost 180 Sharp Tide",
       "year": 2021,
       "price": 7975.0,
       "mileage": 30000,
@@ -2648,7 +2648,7 @@
     {
       "id": 13670729,
       "brand": "جيتور",
-      "model": "X70 PRO 1.6T Joy Enjoy PRO 5-Seat",
+      "model": "X70 PRO 1.6T Enjoy PRO 5-Seat",
       "year": 2023,
       "price": 10862.0,
       "mileage": 10000,
@@ -2725,7 +2725,7 @@
     {
       "id": 11152088,
       "brand": "لينك آند كو",
-      "model": "Lynk & Co 06 PHEV 1.5TD 84km Range Pro",
+      "model": "06 PHEV 1.5TD 84km Range Pro",
       "year": 2022,
       "price": 10450.0,
       "mileage": 60000,
@@ -3025,7 +3025,7 @@
     {
       "id": 11942429,
       "brand": "جيلي",
-      "model": "Star Wish 310km Dream Edition",
+      "model": "Star Wish 310km Dream",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3088,7 +3088,7 @@
     {
       "id": 11982764,
       "brand": "جيلي",
-      "model": "Star Wish 310km Dream Edition",
+      "model": "Star Wish 310km Dream",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3119,7 +3119,7 @@
     {
       "id": 13640417,
       "brand": "جيلي",
-      "model": "Star Wish 310km Dream Edition",
+      "model": "Star Wish 310km Dream",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3150,7 +3150,7 @@
     {
       "id": 8669487,
       "brand": "جيلي",
-      "model": "Star Wish 310km Dream Edition",
+      "model": "Star Wish 310km Dream",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3180,7 +3180,7 @@
     {
       "id": 14407234,
       "brand": "مرسيدس بنز",
-      "model": "C-Class 2024 C 260 L 48V 1.5T Sport",
+      "model": "C 2024 C 260 L 48V 1.5T Sport",
       "year": 2024,
       "price": 27885.0,
       "mileage": 14000,
@@ -3219,7 +3219,7 @@
     {
       "id": 8323540,
       "brand": "جيلي",
-      "model": "Star Wish 310km Dream Edition",
+      "model": "Star Wish 310km Dream",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3901,7 +3901,7 @@
     {
       "id": 14369799,
       "brand": "بي إم دبليو",
-      "model": "X7 2021 X7 xDrive40i 3.0T Executive M Sport",
+      "model": "X7 2021 X7 xDrive40i 3.0T尊享 M Sport",
       "year": 2021,
       "price": 58437.0,
       "mileage": 140000,
@@ -4040,7 +4040,7 @@
     {
       "id": 13904645,
       "brand": "نيتا",
-      "model": "نيتا U Pro 400 LFP رايدشير",
+      "model": "U Pro 400 LFP ركوب الشبكة",
       "year": 2022,
       "price": 6118.0,
       "mileage": 150000,
@@ -4111,7 +4111,7 @@
     {
       "id": 14413138,
       "brand": "هوندا",
-      "model": "إليسون هايبرد 2.0 CVT بريميوم",
+      "model": "إليشين هايبرد 2.0 CVT بريميوم",
       "year": 2022,
       "price": 23375.0,
       "mileage": 100000,
@@ -4144,7 +4144,7 @@
     {
       "id": 14411629,
       "brand": "تويوتا",
-      "model": "لاند كروزر برادو HEV 2.4T BX 5 مقاعد",
+      "model": "برادو HEV 2.4T BX 5 مقاعد",
       "year": 2024,
       "price": 44000.0,
       "mileage": 13000,
@@ -4178,7 +4178,7 @@
     {
       "id": 13631625,
       "brand": "رويلان",
-      "model": "رويلاند 7 605كم ويند",
+      "model": "د 7 605كم ويند",
       "year": 2023,
       "price": 13200.0,
       "mileage": 1000,
@@ -4218,7 +4218,7 @@
     {
       "id": 14710629,
       "brand": "فولكس فاجن",
-      "model": "ID.3 إكسلنس",
+      "model": "ID.3 المتميز",
       "year": 2024,
       "price": 8525.0,
       "mileage": 30000,
@@ -4263,7 +4263,7 @@
     {
       "id": 14710656,
       "brand": "ليبموتور",
-      "model": "C10 210 جوي",
+      "model": "C10 210 لاونج",
       "year": 2026,
       "price": 10312.0,
       "mileage": 6000,
@@ -4299,7 +4299,7 @@
     {
       "id": 14850299,
       "brand": "بويك",
-      "model": "فيلايت 6 430كم تاكسي",
+      "model": "فيلايت 6 430كم ركوب",
       "year": 2023,
       "price": 6531.0,
       "mileage": 120000,
@@ -4399,7 +4399,7 @@
     {
       "id": 14808582,
       "brand": "تويوتا",
-      "model": "كورولا هايبرد 1.8 CVT إليت",
+      "model": "كورولا هايبرد 1.8 CVT إيليت",
       "year": 2024,
       "price": 12237.0,
       "mileage": 20000,
@@ -4537,7 +4537,7 @@
     {
       "id": 14683540,
       "brand": "شياومي",
-      "model": "SU7 700كم RWD لونغ رينج أوبيلوت",
+      "model": "SU7 700كم RWD المدى الطويل القيادة الذكية",
       "year": 2024,
       "price": 22687.0,
       "mileage": 20000,
@@ -4621,7 +4621,7 @@
     {
       "id": 14588318,
       "brand": "فوياه",
-      "model": "فوياجر AWD فلاجشيب بينغ",
+      "model": "فوييجر AWD فلاجشيب بينغ",
       "year": 2025,
       "price": 31487.0,
       "mileage": 19000,
@@ -4713,7 +4713,7 @@
     {
       "id": 14573794,
       "brand": "فوياه",
-      "model": "فوياجر 1.5T إيكو دريم+ باك",
+      "model": "فوييجر 1.5T منخفض الكربون دريم+ حزمة ذكية",
       "year": 2022,
       "price": 20212.0,
       "mileage": 70000,
@@ -4755,7 +4755,7 @@
     {
       "id": 14502143,
       "brand": "تويوتا",
-      "model": "أفيالون 2.0 CVT إنترا",
+      "model": "أفيالون 2.0 CVT إنتراي",
       "year": 2022,
       "price": 13997.0,
       "mileage": 100000,
@@ -4785,7 +4785,7 @@
     {
       "id": 14505503,
       "brand": "نيو",
-      "model": "ES8 تبديل البطارية 7 مقاعد 500 كم",
+      "model": "ES8 7 مقاعد 500 كيلومتر",
       "year": 2020,
       "price": 14437.0,
       "mileage": 150000,
@@ -4826,7 +4826,7 @@
     {
       "id": 12237432,
       "brand": "هوندا",
-      "model": "إليشين هايبرد 2.0 CVT فاخر",
+      "model": "إليشون هايبرد 2.0 CVT فاخر",
       "year": 2019,
       "price": 23237.0,
       "mileage": 39000,
@@ -4866,7 +4866,7 @@
     {
       "id": 14257900,
       "brand": "شياومي",
-      "model": "SU7 700كم RWD لونغ رينج أوبيلوت",
+      "model": "SU7 700كم RWD المدى الطويل القيادة الذكية",
       "year": 2024,
       "price": 25712.0,
       "mileage": 7000,
@@ -4950,7 +4950,7 @@
     {
       "id": 13891773,
       "brand": "بي إم دبليو",
-      "model": "الفئة الخامسة 2023 530Li 2.0T领先 حزمة فاخرة",
+      "model": "الفئة الخامسة 2023 530Li 2.0T حزمة فاخرة",
       "year": 2023,
       "price": 32587.0,
       "mileage": 85000,
@@ -4992,7 +4992,7 @@
     {
       "id": 13903342,
       "brand": "ترامبتشي",
-      "model": "M8 هايبرد مزدوج 2.0T CVT سلسلة ماستر رائد",
+      "model": "M8 هايبرد 2.0T CVT سلسلة ماستر رائد",
       "year": 2023,
       "price": 22907.0,
       "mileage": 90000,
@@ -5117,7 +5117,7 @@
     {
       "id": 13283009,
       "brand": "دونغفنغ",
-      "model": "نانو بوكس إصدار البطل نسيم خفيف 201 كم قياسي",
+      "model": "نانو بوكس إصدار البطل 201 كيلومتر قياسي",
       "year": 2022,
       "price": 3231.0,
       "mileage": 40000,
@@ -5150,7 +5150,7 @@
     {
       "id": 11571096,
       "brand": "جاك",
-      "model": "كايدا X6 1.6 120 حصان 2.75م صف مزدوج لوح جانبي",
+      "model": "كايدا X6 1.6 120 حصان 2.75 متر صف مزدوج",
       "year": 2020,
       "price": 4400.0,
       "mileage": 25000,
@@ -5183,7 +5183,7 @@
     {
       "id": 13462031,
       "brand": "فولكس فاجن",
-      "model": "تانيينغ 1.5 يويه تشي ليان",
+      "model": "تانيغ 1.5 إصدار الاتصال الذكي",
       "year": 2021,
       "price": 9872.0,
       "mileage": 52000,
@@ -5249,7 +5249,7 @@
     {
       "id": 11962748,
       "brand": "جيلي",
-      "model": "يوان جينغ X3 PRO 1.5 نخبة",
+      "model": "فيجن X3 PRO 1.5 نخبة",
       "year": 2021,
       "price": 3025.0,
       "mileage": 35000,
@@ -5353,7 +5353,7 @@
     {
       "id": 14826099,
       "brand": "ليبموتور",
-      "model": "C10 605 يويه شيانغ",
+      "model": "C10 605 إصدار المتعة",
       "year": 2026,
       "price": 12512.0,
       "mileage": 5000,
@@ -5519,7 +5519,7 @@
     {
       "id": 10560065,
       "brand": "أودي",
-      "model": "A5 2022 A5 Sportback 2.0TFSI 40TFSI عصري ديناميكي",
+      "model": "A5 2022 A5 Sportback 2.0TFSI 40TFSI ديناميكي أنيق",
       "year": 2022,
       "price": 22797.0,
       "mileage": 72000,
@@ -5626,7 +5626,7 @@
     {
       "id": 14439960,
       "brand": "جريت وول",
-      "model": "فنجون 5 2.0T دفع ثنائي نخبة مزدوجة الكابينة",
+      "model": "فنجون 5 2.0T دفع خلفي نخبة مزدوجة الكابينة",
       "year": 2021,
       "price": 7287.0,
       "mileage": 50000,
@@ -5694,7 +5694,7 @@
     {
       "id": 11870849,
       "brand": "تويوتا",
-      "model": "سينا 2.5 CVT فاخرة فائقة",
+      "model": "سينا 2.5 CVT ممتازة",
       "year": 2021,
       "price": 28600.0,
       "mileage": 98000,
@@ -5769,7 +5769,7 @@
     {
       "id": 12569551,
       "brand": "تويوتا",
-      "model": "هايلاندر هايبرد 2.5 CVT دفع رباعي هجين ذكي فاخرة فائقة 7 مقاعد",
+      "model": "هايلاندر هايبرد 2.5 CVT دفع رباعي هجين ذكي ممتازة 7 مقاعد",
       "year": 2023,
       "price": 27060.0,
       "mileage": 80000,
@@ -5877,7 +5877,7 @@
     {
       "id": 13034727,
       "brand": "تويوتا",
-      "model": "هايلاندر هايبرد 2.5 CVT دفع ثنائي هجين ذكي نخبة 5 مقاعد",
+      "model": "هايلاندر هايبرد 2.5 CVT دفع أمامي هجين ذكي نخبة 5 مقاعد",
       "year": 2023,
       "price": 23210.0,
       "mileage": 70000,
@@ -5954,7 +5954,7 @@
     {
       "id": 12176666,
       "brand": "تويوتا",
-      "model": "كورولا هايبرد 1.8 CVT إليت",
+      "model": "كورولا هايبرد 1.8 CVT إيليت",
       "year": 2023,
       "price": 10862.0,
       "mileage": 60000,
@@ -5987,7 +5987,7 @@
     {
       "id": 11963832,
       "brand": "تويوتا",
-      "model": "سينا 2.5 CVT أقصى",
+      "model": "سينا 2.5 CVT فائقة",
       "year": 2021,
       "price": 28875.0,
       "mileage": 100000,
@@ -6136,7 +6136,7 @@
     {
       "id": 12951778,
       "brand": "شيري",
-      "model": "تايغو 8 برو 2.0T 390T دفع ثنائي فاخرة فائقة II",
+      "model": "تيجو 8 برو 2.0T 390T دفع أمامي ممتازة II",
       "year": 2025,
       "price": 11412.0,
       "mileage": 19000,
@@ -6207,7 +6207,7 @@
     {
       "id": 12109316,
       "brand": "تويوتا",
-      "model": "هايلاندر هايبرد 2.5 CVT دفع رباعي فاخرة فائقة 7 مقاعد",
+      "model": "هايلاندر هايبرد 2.5 CVT دفع رباعي ممتازة 7 مقاعد",
       "year": 2022,
       "price": 24475.0,
       "mileage": 60000,
@@ -6286,7 +6286,7 @@
     {
       "id": 13676909,
       "brand": "تويوتا",
-      "model": "سينا 2.5 CVT فاخرة فائقة",
+      "model": "سينا 2.5 CVT ممتازة",
       "year": 2021,
       "price": 28600.0,
       "mileage": 90000,
@@ -6424,7 +6424,7 @@
     {
       "id": 12883341,
       "brand": "فولكس فاجن",
-      "model": "تيجوان L R-Line 2.0TSI 330TSI دفع ثنائي فاخرة فائقة",
+      "model": "تيغوان L R-Line 2.0TSI 330TSI دفع أمامي فاخرة",
       "year": 2021,
       "price": 13337.0,
       "mileage": 98000,
@@ -6509,7 +6509,7 @@
     {
       "id": 14643746,
       "brand": "وولينج",
-      "model": "جياشين 1.5T CVT ذكية فاخرة",
+      "model": "جيا تشن 1.5T CVT ذكية فاخرة",
       "year": 2022,
       "price": 6435.0,
       "mileage": 47000,
@@ -6617,7 +6617,7 @@
     {
       "id": 14360573,
       "brand": "تويوتا",
-      "model": "IZOA 2.0 CVT إصدار ييشينغ",
+      "model": "IZOA 2.0 CVT Yixing",
       "year": 2021,
       "price": 9281.0,
       "mileage": 36000,
@@ -6660,7 +6660,7 @@
     {
       "id": 14170497,
       "brand": "هافال",
-      "model": "Xiaolong MAX 1.5 Hi4 105 ذكي رائد",
+      "model": "Xiaolong MAX 1.5 Hi4 105 ذكي旗舰",
       "year": 2023,
       "price": 11274.0,
       "mileage": 57000,
@@ -6899,7 +6899,7 @@
     {
       "id": 14616739,
       "brand": "تانك",
-      "model": "Tank 300 2.0T Cyber Tank",
+      "model": "300 2.0T Cyber Tank",
       "year": 2021,
       "price": 26812.0,
       "mileage": 48000,
@@ -6935,7 +6935,7 @@
     {
       "id": 13911931,
       "brand": "إم جي",
-      "model": "MG5 1.5TGI 300TGI رياضي رائد",
+      "model": "5 1.5TGI 300TGI فاخر旗舰",
       "year": 2021,
       "price": 5197.0,
       "mileage": 90000,
@@ -6967,7 +6967,7 @@
     {
       "id": 14021311,
       "brand": "جيفانغ",
-      "model": "شاحنة نقل",
+      "model": "شاحنة بضائع",
       "year": 0,
       "price": 10312.0,
       "mileage": 40000,
@@ -7142,7 +7142,7 @@
     {
       "id": 14686727,
       "brand": "فولكس فاجن",
-      "model": "تيجوان L R-Line 2.0TSI 330TSI دفع ثنائي فاخرة فائقة",
+      "model": "تيغوان L R-Line 2.0TSI 330TSI دفع أمامي فاخرة",
       "year": 2021,
       "price": 13612.0,
       "mileage": 28000,
@@ -7176,7 +7176,7 @@
     {
       "id": 13653692,
       "brand": "بيستون",
-      "model": "Yueyi 03 565km ممتع",
+      "model": "Yueyi 03 565km مريح",
       "year": 2025,
       "price": 10147.0,
       "mileage": 3000,
@@ -7431,7 +7431,7 @@
     {
       "id": 14257082,
       "brand": "هونغتشي",
-      "model": "HS5 2.0T Smart Connect Flagship Enjoy",
+      "model": "HS5 2.0T Smart Connect Flag Enjoy",
       "year": 2022,
       "price": 10532.0,
       "mileage": 46000,
@@ -7465,7 +7465,7 @@
     {
       "id": 14404336,
       "brand": "لينك آند كو",
-      "model": "Lynk & Co 03+ 2.0TD Wind Master",
+      "model": "03+ 2.0TD Wind Rider",
       "year": 2020,
       "price": 9886.0,
       "mileage": 110000,
@@ -7530,7 +7530,7 @@
     {
       "id": 14404181,
       "brand": "مازدا",
-      "model": "Mazda3 Axela Sedan 2.0 Elegant",
+      "model": "3 Axela Sedan 2.0 Elegant",
       "year": 2023,
       "price": 11660.0,
       "mileage": 12300,
@@ -7563,7 +7563,7 @@
     {
       "id": 14393056,
       "brand": "شيري",
-      "model": "Tiggo 8 PRO 1.6T 290T 2WD Premium",
+      "model": "Tiggo 8 PRO 1.6T 290T 2WD Prestige",
       "year": 2025,
       "price": 12320.0,
       "mileage": 6600,
@@ -7632,7 +7632,7 @@
     {
       "id": 14404502,
       "brand": "آيتو",
-      "model": "AITO M9 EV Ultra 100kWh",
+      "model": "M9 EV Ultra 100kWh",
       "year": 2024,
       "price": 50297.0,
       "mileage": 21000,
@@ -7785,7 +7785,7 @@
     {
       "id": 14397335,
       "brand": "دينزا",
-      "model": "Denza D9 DM-i 1.5T CVT 1040 Premium",
+      "model": "D9 DM-i 1.5T CVT 1040 Prestige",
       "year": 2022,
       "price": 25987.0,
       "mileage": 68000,
@@ -8016,7 +8016,7 @@
     {
       "id": 14176106,
       "brand": "أودي",
-      "model": "A4L 2.0TFSI 40TFSI Sporty Dynamic",
+      "model": "A4L 2.0TFSI 40TFSI Fashion Dynamic",
       "year": 2022,
       "price": 19250.0,
       "mileage": 44000,
@@ -8048,7 +8048,7 @@
     {
       "id": 14215333,
       "brand": "تويوتا",
-      "model": "Alphard 2021 2.5 CVT Premium",
+      "model": "Alphard 2021 2.5 CVT Prestige",
       "year": 2021,
       "price": 75350.0,
       "mileage": 58000,
@@ -8119,7 +8119,7 @@
     {
       "id": 12783438,
       "brand": "مرسيدس بنز",
-      "model": "C-Class 2021 C 260 48V 1.5T Starlight Collection",
+      "model": "C-Class 2021 C 260 48V 1.5T Star Collection",
       "year": 2021,
       "price": 19937.0,
       "mileage": 90000,
@@ -8188,7 +8188,7 @@
     {
       "id": 12164297,
       "brand": "تويوتا",
-      "model": "Alphard 2021 2.5 CVT Premium",
+      "model": "Alphard 2021 2.5 CVT Prestige",
       "year": 2021,
       "price": 79062.0,
       "mileage": 67000,
@@ -8223,7 +8223,7 @@
     {
       "id": 14339733,
       "brand": "آيتو",
-      "model": "AITO M9 EV Ultra 100kWh 5-Seater",
+      "model": "M9 EV Ultra 100kWh 5-Seater",
       "year": 2025,
       "price": 57557.0,
       "mileage": 23900,
@@ -8464,7 +8464,7 @@
     {
       "id": 12482395,
       "brand": "فورد",
-      "model": "Equator 2.0T EcoBoost 225 Premium 7-Seater",
+      "model": "Lingyu 2.0T EcoBoost 225 Premium 7-Seater",
       "year": 2021,
       "price": 10037.0,
       "mileage": 100000,
@@ -8756,7 +8756,7 @@
     {
       "id": 13697735,
       "brand": "رووي",
-      "model": "CLEVER 311km Vitality Bobo Edition",
+      "model": "Clever 311km Energy Bobo Edition",
       "year": 2022,
       "price": 3300.0,
       "mileage": 30000,
@@ -8952,7 +8952,7 @@
     {
       "id": 14315798,
       "brand": "تويوتا",
-      "model": "غرانفيا هايبرد 2.5 CVT ديلوكس",
+      "model": "غريفيّا هايبرد 2.5 CVT ديلوكس",
       "year": 2024,
       "price": 32037.0,
       "mileage": 50000,
@@ -9211,7 +9211,7 @@
     {
       "id": 14375115,
       "brand": "أودي",
-      "model": "A8L 2021 48V 3.0TFSI 50TFSI كواترو كومفورت",
+      "model": "A8L 2021 48V 3.0 TFSI 50 TFSI كواترو كومفورت",
       "year": 2021,
       "price": 43450.0,
       "mileage": 130000,
@@ -9251,7 +9251,7 @@
     {
       "id": 13391179,
       "brand": "أيون",
-      "model": "إيون Y يونغر ستارلايت",
+      "model": "Y يونغر ستارلايت",
       "year": 2023,
       "price": 9350.0,
       "mileage": 32000,
@@ -9292,7 +9292,7 @@
     {
       "id": 14039309,
       "brand": "تانك",
-      "model": "تانك 300 2.0T على الطرق الوعرة فاتح",
+      "model": "300 2.0T على الطرق الوعرة فاتح",
       "year": 2021,
       "price": 17600.0,
       "mileage": 90000,
@@ -9399,7 +9399,7 @@
     {
       "id": 13631604,
       "brand": "بي إم دبليو",
-      "model": "3-سيريز 2021 325i 2.0T M سبورت نايت",
+      "model": "الفئة الثالثة 2021 325i 2.0T M سبورت نايت",
       "year": 2021,
       "price": 21450.0,
       "mileage": 63000,
@@ -9531,7 +9531,7 @@
     {
       "id": 14223978,
       "brand": "لكزس",
-      "model": "إي إس 2025 ES200 2.0 CVT بريميوم",
+      "model": "إي إس 2025 ES200 2.0 CVT بريميير",
       "year": 2025,
       "price": 28600.0,
       "mileage": 12000,
@@ -9564,7 +9564,7 @@
     {
       "id": 14160771,
       "brand": "دبليو إم موتور",
-      "model": "W6 520كم PRO أول-راوند",
+      "model": "W6 520 كم PRO أول-راوند",
       "year": 2021,
       "price": 9212.0,
       "mileage": 60000,
@@ -9630,7 +9630,7 @@
     {
       "id": 14306303,
       "brand": "لاند روفر",
-      "model": "رينج روفر 2024 48V 3.0T L6 400PS شينغشي لونغ 7 مقاعد",
+      "model": "رينج روفر 2024 48V 3.0T L6 400PS شينغشي ليموزين 7 مقاعد",
       "year": 2024,
       "price": 151250.0,
       "mileage": 81000,

@@ -3,7 +3,7 @@
     {
       "id": 14805590,
       "brand": "Липмор",
-      "model": "Leapmotor B10 600 Yuexiang Zhijia Edition",
+      "model": "B10 600 Yuexiang Zhijia Edition",
       "year": 2025,
       "price": 12237.0,
       "mileage": 25000,
@@ -117,7 +117,7 @@
     {
       "id": 14349677,
       "brand": "ЭмДжи",
-      "model": "MG5 1.5 CVT 180DVVT Qingchun Haohua Edition",
+      "model": "5 1.5 CVT 180DVVT Youth Luxury Edition",
       "year": 2021,
       "price": 5472.0,
       "mileage": 83000,
@@ -157,7 +157,7 @@
     {
       "id": 14554569,
       "brand": "БИД",
-      "model": "Tang DM-i 1.5T CVT Rongyao Edition 112km Zungui",
+      "model": "Tang DM-i 1.5T CVT Glory Edition 112km Premium",
       "year": 2024,
       "price": 14850.0,
       "mileage": 48000,
@@ -190,7 +190,7 @@
     {
       "id": 14697956,
       "brand": "БИД",
-      "model": "Han DM-i 1.5T CVT Zhijia Edition 125km Lidar Qijian",
+      "model": "Han DM-i 1.5T CVT Zhijia Edition 125km LiDAR Flagship",
       "year": 2025,
       "price": 20350.0,
       "mileage": 2000,
@@ -233,7 +233,7 @@
     {
       "id": 14545037,
       "brand": "iCAR",
-      "model": "iCAR 03 472km 4WD Changxuhang Edition",
+      "model": "03 472km AWD Long Range Edition",
       "year": 2024,
       "price": 11825.0,
       "mileage": 28000,
@@ -270,7 +270,7 @@
     {
       "id": 14755513,
       "brand": "Бьюик",
-      "model": "VELITE 6 PHEV 1.5 CVT Hulian Zhixiang",
+      "model": "VELITE 6 PHEV 1.5 CVT Connect Zhixiang Edition",
       "year": 2020,
       "price": 0,
       "mileage": 190000,
@@ -299,7 +299,7 @@
     {
       "id": 14545002,
       "brand": "iCAR",
-      "model": "iCAR 03 501km 4WD Changxuhang Jinjie Edition",
+      "model": "03 501km AWD Long Range Advanced Edition",
       "year": 2024,
       "price": 12100.0,
       "mileage": 31000,
@@ -328,7 +328,7 @@
     {
       "id": 14102431,
       "brand": "Джили Галакси",
-      "model": "Geely Yinhe A7 EM-i 1.5 150km Xingjian Edition",
+      "model": "A7 EM-i 1.5 150km Starship Edition",
       "year": 2025,
       "price": 13200.0,
       "mileage": 6000,
@@ -371,7 +371,7 @@
     {
       "id": 14072216,
       "brand": "Фольксваген",
-      "model": "Lan Jing 2.0TSI 380TSI 4WD Haohua Jiajing Pro",
+      "model": "VW Talagon 2.0TSI 380TSI AWD Luxury Jiajing Pro",
       "year": 2021,
       "price": 18287.0,
       "mileage": 110000,
@@ -410,7 +410,7 @@
     {
       "id": 14121023,
       "brand": "Липмор",
-      "model": "Leapmotor C01 316 Zhixiang Edition",
+      "model": "C01 316 Zhixiang Edition",
       "year": 2023,
       "price": 11962.0,
       "mileage": 44000,
@@ -447,7 +447,7 @@
     {
       "id": 14642179,
       "brand": "大通",
-      "model": "G10 2.0 Zhongji Luxing CNG 9-seat",
+      "model": "Maxus G10 2.0 Mid Travel Edition CNG 9-Seat",
       "year": 2025,
       "price": 13997.0,
       "mileage": 31000,
@@ -488,7 +488,7 @@
     {
       "id": 14068294,
       "brand": "Вулинг",
-      "model": "Wuling Hongguang MINI EV 215km Qingchun Edition",
+      "model": "Hongguang MINI EV 215km Youth Edition",
       "year": 2024,
       "price": 3849.0,
       "mileage": 26000,
@@ -526,7 +526,7 @@
     {
       "id": 14619684,
       "brand": "Чанган",
-      "model": "UNI-T 1.5T Zungui",
+      "model": "UNI-T 1.5T Premium",
       "year": 2023,
       "price": 10312.0,
       "mileage": 53000,
@@ -567,7 +567,7 @@
     {
       "id": 14950833,
       "brand": "Липмор",
-      "model": "Leapmotor C11 Haohua Edition",
+      "model": "C11 Luxury Edition",
       "year": 2021,
       "price": 11274.0,
       "mileage": 77000,
@@ -603,7 +603,7 @@
     {
       "id": 14492093,
       "brand": "金杯",
-      "model": "Xiaohaishi X30 1.5 Chaoxiang",
+      "model": "Xinhaishi X30 1.5 Chaoxiang Edition",
       "year": 2020,
       "price": 2062.0,
       "mileage": 60000,
@@ -642,7 +642,7 @@
     {
       "id": 14476465,
       "brand": "Вулинг",
-      "model": "Wuling Hongguang MINI EV Zizai LFP",
+      "model": "Hongguang MINI EV Zizai Edition LFP",
       "year": 2022,
       "price": 2378.0,
       "mileage": 28000,
@@ -682,7 +682,7 @@
     {
       "id": 14685626,
       "brand": "Вулинг",
-      "model": "Wuling Bingo 203km Qingxiang",
+      "model": "Bingo 203km Qingxiang Edition",
       "year": 2024,
       "price": 5362.0,
       "mileage": 14000,
@@ -721,7 +721,7 @@
     {
       "id": 14227842,
       "brand": "Бьюик",
-      "model": "Regal 1.5T 552T Zhixiang",
+      "model": "Regal 1.5T 552T Zhixiang Edition",
       "year": 2022,
       "price": 11825.0,
       "mileage": 6500,
@@ -761,7 +761,7 @@
     {
       "id": 14549708,
       "brand": "Вулинг",
-      "model": "Wuling Hongguang MINI EV Macaron Jiaxin 170km NMC",
+      "model": "Hongguang MINI EV Macaron Sandwich Edition 170km NMC",
       "year": 2021,
       "price": 2241.0,
       "mileage": 61000,
@@ -832,7 +832,7 @@
     {
       "id": 14897128,
       "brand": "思皓",
-      "model": "思皓 E10X 302km Luxury 31.4kWh",
+      "model": "Sehol E10X 302km Luxury 31.4kWh",
       "year": 2021,
       "price": 3134.0,
       "mileage": 110000,
@@ -896,7 +896,7 @@
     {
       "id": 14375396,
       "brand": "Вулинг",
-      "model": "Wuling 宏光MINI EV Macaron 170km NMC",
+      "model": "Hongguang MINI EV Macaron 170km NMC",
       "year": 2022,
       "price": 2475.0,
       "mileage": 49000,
@@ -925,7 +925,7 @@
     {
       "id": 14278212,
       "brand": "Чери",
-      "model": "QQ冰淇淋 170km Milkshake",
+      "model": "QQ Ice Cream 170km Milkshake",
       "year": 2024,
       "price": 2585.0,
       "mileage": 30000,
@@ -985,7 +985,7 @@
     {
       "id": 14800299,
       "brand": "Айон",
-      "model": "GAC Aion Aion Y PLUS 610 Intelligent Driving NMC",
+      "model": "GAC Aion Aion Y PLUS 610 Smart Drive NMC",
       "year": 2024,
       "price": 7810.0,
       "mileage": 90000,
@@ -1088,7 +1088,7 @@
     {
       "id": 14236796,
       "brand": "几何",
-      "model": "几何A 410KM Travel",
+      "model": "Geometry A 410KM Travel",
       "year": 2024,
       "price": 8635.0,
       "mileage": 27500,
@@ -1128,7 +1128,7 @@
     {
       "id": 14929829,
       "brand": "Мерседес-Бенц",
-      "model": "S-класс S 450 L 4MATIC 48V 2.5T",
+      "model": "S-класса S 450 L 4MATIC 48V 2.5T",
       "year": 2023,
       "price": 101172.0,
       "mileage": 12000,
@@ -1176,7 +1176,7 @@
     {
       "id": 14536707,
       "brand": "Тесла",
-      "model": "Tesla Model Y Standard Range RWD",
+      "model": "Model Y Standard Range RWD",
       "year": 2021,
       "price": 17325.0,
       "mileage": 90000,
@@ -1209,7 +1209,7 @@
     {
       "id": 14891572,
       "brand": "Мерседес-Бенц",
-      "model": "S-класс S 450 L 4MATIC 48V 2.5T",
+      "model": "S-класса S 450 L 4MATIC 48V 2.5T",
       "year": 2024,
       "price": 126225.0,
       "mileage": 12000,
@@ -1258,7 +1258,7 @@
     {
       "id": 14930393,
       "brand": "Мерседес-Бенц",
-      "model": "S-класс S 400 L 48V 2.5T Luxury",
+      "model": "S-класса S 400 L 48V 2.5T Luxury",
       "year": 2022,
       "price": 78100.0,
       "mileage": 137000,
@@ -1337,7 +1337,7 @@
     {
       "id": 14931218,
       "brand": "Мерседес-Бенц",
-      "model": "S-класс S 450 L 4MATIC 48V 2.5T",
+      "model": "S-класса S 450 L 4MATIC 48V 2.5T",
       "year": 2022,
       "price": 87725.0,
       "mileage": 111000,
@@ -1386,7 +1386,7 @@
     {
       "id": 13784248,
       "brand": "Танк",
-      "model": "坦克300 2.0T Off-Road Conqueror",
+      "model": "300 2.0T Off-Road Conqueror",
       "year": 2021,
       "price": 19662.0,
       "mileage": 46000,
@@ -1419,7 +1419,7 @@
     {
       "id": 12793806,
       "brand": "Айон",
-      "model": "GAC Aion Aion S Xuan 580",
+      "model": "GAC Aion Aion S炫580",
       "year": 2020,
       "price": 7672.0,
       "mileage": 300000,
@@ -1490,7 +1490,7 @@
     {
       "id": 14491565,
       "brand": "БИД",
-      "model": "秦PLUS DM-i 1.5 CVT Champion Beyond 55km",
+      "model": "Qin PLUS DM-i 1.5 CVT Champion Beyond 55KM",
       "year": 2023,
       "price": 6462.0,
       "mileage": 34000,
@@ -1530,7 +1530,7 @@
     {
       "id": 14220207,
       "brand": "ЭмДжи",
-      "model": "MG5 1.5 CVT 180DVVT Youth Flagship",
+      "model": "5 1.5 CVT 180DVVT Youth Flagship",
       "year": 2022,
       "price": 6435.0,
       "mileage": 11000,
@@ -1563,7 +1563,7 @@
     {
       "id": 14613626,
       "brand": "Фольксваген",
-      "model": "途锐 2.0TSI R-Line",
+      "model": "Touareg 2.0TSI锐尚",
       "year": 2022,
       "price": 22000.0,
       "mileage": 60000,
@@ -1596,7 +1596,7 @@
     {
       "id": 13338497,
       "brand": "Тойота",
-      "model": "凯美瑞 2.5S Sport",
+      "model": "Camry 2.5S锋尚",
       "year": 2021,
       "price": 14987.0,
       "mileage": 66000,
@@ -1709,7 +1709,7 @@
     {
       "id": 13112780,
       "brand": "Тойота",
-      "model": "凯美瑞 2.5S Sport",
+      "model": "Camry 2.5S锋尚",
       "year": 2021,
       "price": 17325.0,
       "mileage": 58000,
@@ -1817,7 +1817,7 @@
     {
       "id": 13684641,
       "brand": "Лексус",
-      "model": "RX RX300 2.0T 4WD Элегант",
+      "model": "RX RX300 2.0T Полный привод Элегант",
       "year": 2020,
       "price": 27775.0,
       "mileage": 80000,
@@ -1856,7 +1856,7 @@
     {
       "id": 12451910,
       "brand": "Порше",
-      "model": "Porsche Cayenne 2018 Cayenne 3.0T Американская версия",
+      "model": "Cayenne 2018 Cayenne 3.0T Американская версия",
       "year": 2018,
       "price": 50875.0,
       "mileage": 120000,
@@ -2046,7 +2046,7 @@
     {
       "id": 14811515,
       "brand": "Трампчи",
-      "model": "M8 2.0T 390T Мастер Престиж",
+      "model": "M8 2.0T 390T Мастер-серия Престиж",
       "year": 2024,
       "price": 23237.0,
       "mileage": 13000,
@@ -2087,7 +2087,7 @@
     {
       "id": 14407678,
       "brand": "Тойота",
-      "model": "RAV4 2.0 CVT 2WD Стиль",
+      "model": "RAV4 2.0 CVT Передний привод Стиль",
       "year": 2022,
       "price": 14575.0,
       "mileage": 48000,
@@ -2124,7 +2124,7 @@
     {
       "id": 14583715,
       "brand": "三一",
-      "model": "Бетономешалка",
+      "model": "Автобетоносмеситель",
       "year": 0,
       "price": 41937.0,
       "mileage": 150000,
@@ -2224,7 +2224,7 @@
     {
       "id": 12980097,
       "brand": "Хонда",
-      "model": "Accord 10-го поколения 1.5T CVT 260TURBO Люкс Star Limited",
+      "model": "Accord 10-го поколения 1.5T CVT 260TURBO Люкс Starlight Limited",
       "year": 2021,
       "price": 12787.0,
       "mileage": 70000,
@@ -2294,7 +2294,7 @@
     {
       "id": 14633291,
       "brand": "БИД",
-      "model": "Qin L DM-i 1.5 CVT 120KM Превышение",
+      "model": "Qin L DM-i 1.5 CVT 120KM Преодоление",
       "year": 2024,
       "price": 10395.0,
       "mileage": 18000,
@@ -2323,7 +2323,7 @@
     {
       "id": 14527295,
       "brand": "Ниссан",
-      "model": "X-Trail 1.5T CVT VC-Turbo 300 2WD Люкс",
+      "model": "X-Trail 1.5T CVT VC-Turbo 300 Передний привод Люкс",
       "year": 2021,
       "price": 12925.0,
       "mileage": 60000,
@@ -2352,7 +2352,7 @@
     {
       "id": 14545834,
       "brand": "Фольксваген",
-      "model": "T-Roc 1.4TSI 280TSI 2WD Комфорт Connect",
+      "model": "T-Roc 1.4TSI 280TSI Передний привод Комфорт Connect",
       "year": 2021,
       "price": 10285.0,
       "mileage": 38500,
@@ -2381,7 +2381,7 @@
     {
       "id": 14520138,
       "brand": "Ауди",
-      "model": "A3 Sportback 1.4TFSI 35TFSI Fashion Elegance",
+      "model": "A3 Sportback 1.4TFSI 35TFSI",
       "year": 2021,
       "price": 12237.0,
       "mileage": 51100,
@@ -2410,7 +2410,7 @@
     {
       "id": 14517741,
       "brand": "Мазда",
-      "model": "Mazda3 Axela Sedan 2.0 Premium",
+      "model": "3 昂克赛拉 2020 2.0",
       "year": 2020,
       "price": 9350.0,
       "mileage": 29400,
@@ -2439,7 +2439,7 @@
     {
       "id": 14506184,
       "brand": "Хунци",
-      "model": "HS5 2.0T Qixiang Pro",
+      "model": "HS5 2.0T",
       "year": 2023,
       "price": 13200.0,
       "mileage": 44500,
@@ -2469,7 +2469,7 @@
     {
       "id": 14766640,
       "brand": "Тойота",
-      "model": "Corolla Hybrid 1.8 CVT Elite",
+      "model": "Corolla Hybrid 1.8 CVT",
       "year": 2021,
       "price": 6806.0,
       "mileage": 202000,
@@ -2507,7 +2507,7 @@
     {
       "id": 14632298,
       "brand": "Ниссан",
-      "model": "Sylphy Classic 1.6 CVT XL Luxury",
+      "model": "Sylphy Classic 1.6 CVT XL",
       "year": 2022,
       "price": 6324.0,
       "mileage": 70000,
@@ -2540,7 +2540,7 @@
     {
       "id": 14356084,
       "brand": "Тойота",
-      "model": "Levin Hybrid 1.8 CVT Smart Hybrid Luxury",
+      "model": "Levin Hybrid 1.8 CVT",
       "year": 2023,
       "price": 9460.0,
       "mileage": 130000,
@@ -2577,7 +2577,7 @@
     {
       "id": 13609541,
       "brand": "Форд",
-      "model": "Focus Hatchback 1.5T EcoBoost 180 Sharp Tide",
+      "model": "Focus Hatchback 1.5T EcoBoost 180",
       "year": 2021,
       "price": 7975.0,
       "mileage": 30000,
@@ -2609,7 +2609,7 @@
     {
       "id": 14841619,
       "brand": "Джили Галакси",
-      "model": "A7 EM-i 1.5 70km Haoxiang",
+      "model": "A7 EM-i 1.5 70km",
       "year": 2025,
       "price": 8360.0,
       "mileage": 36000,
@@ -2648,7 +2648,7 @@
     {
       "id": 13670729,
       "brand": "Джетур",
-      "model": "X70 PRO 1.6T Yuexiang PRO 5-Seat",
+      "model": "X70 PRO 1.6T 5-мест",
       "year": 2023,
       "price": 10862.0,
       "mileage": 10000,
@@ -2681,7 +2681,7 @@
     {
       "id": 14731338,
       "brand": "Ленд Ровер",
-      "model": "Discovery 5 48V 3.0T 360PS S",
+      "model": "Discovery 5 2024 48V 3.0T 360PS S",
       "year": 2024,
       "price": 56375.0,
       "mileage": 39000,
@@ -2725,7 +2725,7 @@
     {
       "id": 11152088,
       "brand": "Линк & Ко",
-      "model": "Lynk & Co 06 PHEV 1.5TD 84km Range Pro",
+      "model": "06 PHEV 2022 1.5TD 84km Pro",
       "year": 2022,
       "price": 10450.0,
       "mileage": 60000,
@@ -2757,7 +2757,7 @@
     {
       "id": 14760435,
       "brand": "Мазда",
-      "model": "CX-30 2.0 Zhiyue",
+      "model": "CX-30 2.0",
       "year": 2022,
       "price": 13475.0,
       "mileage": 38000,
@@ -2828,7 +2828,7 @@
     {
       "id": 14658725,
       "brand": "Ауди",
-      "model": "A3 Sportback 1.4TFSI 35TFSI Progressive Sport",
+      "model": "A3 Sportback 1.4TFSI 35TFSI",
       "year": 2022,
       "price": 16362.0,
       "mileage": 32000,
@@ -2863,7 +2863,7 @@
     {
       "id": 14513185,
       "brand": "Мазда",
-      "model": "CX-5 2.0 FWD Comfort",
+      "model": "CX-5 2.0 2WD",
       "year": 2024,
       "price": 15056.0,
       "mileage": 28000,
@@ -2897,7 +2897,7 @@
     {
       "id": 13700933,
       "brand": "Чанган",
-      "model": "Lumin Treasure Edition 205km Cool Love Mi Ningde",
+      "model": "Lumin 205km",
       "year": 2026,
       "price": 5775.0,
       "mileage": 100,
@@ -2928,7 +2928,7 @@
     {
       "id": 14768979,
       "brand": "Фольксваген",
-      "model": "T-Cross 1.5 Comfort",
+      "model": "T-Cross 1.5",
       "year": 2022,
       "price": 9900.0,
       "mileage": 66000,
@@ -2961,7 +2961,7 @@
     {
       "id": 14673683,
       "brand": "Чанган",
-      "model": "Lumin 210km Sweet",
+      "model": "Lumin 210km",
       "year": 2022,
       "price": 4056.0,
       "mileage": 9000,
@@ -2992,7 +2992,7 @@
     {
       "id": 14738564,
       "brand": "Вольво",
-      "model": "XC60 48V 2.0T B5 AWD Zhiyuan Luxury",
+      "model": "XC60 48V 2.0T B5 AWD",
       "year": 2025,
       "price": 28462.0,
       "mileage": 3000,
@@ -3025,7 +3025,7 @@
     {
       "id": 11942429,
       "brand": "Джили",
-      "model": "Xingyuan 310km Dream",
+      "model": "Xingyuan 310km",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3057,7 +3057,7 @@
     {
       "id": 13681631,
       "brand": "БИД",
-      "model": "Yuan UP 301km Leading",
+      "model": "Yuan UP 301km",
       "year": 2025,
       "price": 8868.0,
       "mileage": 100,
@@ -3088,7 +3088,7 @@
     {
       "id": 11982764,
       "brand": "Джили",
-      "model": "Xingyuan 310km Dream",
+      "model": "Xingyuan 310km",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3119,7 +3119,7 @@
     {
       "id": 13640417,
       "brand": "Джили",
-      "model": "Xingyuan 310km Dream",
+      "model": "Xingyuan 310km",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3150,7 +3150,7 @@
     {
       "id": 8669487,
       "brand": "Джили",
-      "model": "Xingyuan 310km Dream",
+      "model": "Xingyuan 310km",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3219,7 +3219,7 @@
     {
       "id": 8323540,
       "brand": "Джили",
-      "model": "Xingyuan 310km Dream",
+      "model": "Xingyuan 310km",
       "year": 2026,
       "price": 8662.0,
       "mileage": 100,
@@ -3362,7 +3362,7 @@
     {
       "id": 12770216,
       "brand": "Ауди",
-      "model": "S4 2020 S4 Limousine 3.0TFSI",
+      "model": "S4 2020 S4 Limousine 3.0 TFSI",
       "year": 2020,
       "price": 28187.0,
       "mileage": 65000,
@@ -3399,7 +3399,7 @@
     {
       "id": 8982729,
       "brand": "Ауди",
-      "model": "S4 2020 S4 Limousine 3.0TFSI",
+      "model": "S4 2020 S4 Limousine 3.0 TFSI",
       "year": 2020,
       "price": 32312.0,
       "mileage": 65000,
@@ -3540,7 +3540,7 @@
     {
       "id": 14147156,
       "brand": "БИД",
-      "model": "Tang L DM 1.5T CVT 175KM Drone Edition",
+      "model": "Tang L DM 1.5T CVT 175 км Drone Edition",
       "year": 2025,
       "price": 29975.0,
       "mileage": 2000,
@@ -3580,7 +3580,7 @@
     {
       "id": 14250751,
       "brand": "БИД",
-      "model": "Han DM-i 1.5T CVT Glory 121KM Elite",
+      "model": "Han DM-i 1.5T CVT Glory 121 км Elite",
       "year": 2024,
       "price": 15125.0,
       "mileage": 60000,
@@ -3683,7 +3683,7 @@
     {
       "id": 14517333,
       "brand": "Чери",
-      "model": "Tiggo 8 PLUS 2.0TGDI 390TGDI Kunpeng Haoqing",
+      "model": "Tiggo 8 Plus 2.0 TGDI 390 TGDI Kunpeng Haoqing",
       "year": 2022,
       "price": 7810.0,
       "mileage": 36000,
@@ -3725,7 +3725,7 @@
     {
       "id": 14574173,
       "brand": "Джили",
-      "model": "Panda MINI 200km Yellow Duck Limited Happy",
+      "model": "Panda Mini 200 км Yellow Duck Limited Happy",
       "year": 2023,
       "price": 0,
       "mileage": 26000,
@@ -3798,7 +3798,7 @@
     {
       "id": 14364453,
       "brand": "БИД",
-      "model": "Song PLUS EV 2021 Song PLUS EV Flagship",
+      "model": "Song Plus EV 2021 Song Plus EV Flagship",
       "year": 2021,
       "price": 10312.0,
       "mileage": 101000,
@@ -3835,7 +3835,7 @@
     {
       "id": 12350859,
       "brand": "Фольксваген",
-      "model": "Tayron 2.0TSI 380TSI 4WD Luxury Connect Pro",
+      "model": "Tayron 2.0 TSI 380 TSI 4Matic Luxury Connect Pro",
       "year": 2022,
       "price": 18975.0,
       "mileage": 39000,
@@ -3937,7 +3937,7 @@
     {
       "id": 14851589,
       "brand": "БИД",
-      "model": "Qin PLUS EV 500KM Luxury",
+      "model": "Qin Plus EV 500 км Luxury",
       "year": 2021,
       "price": 5431.0,
       "mileage": 110000,
@@ -4040,7 +4040,7 @@
     {
       "id": 13904645,
       "brand": "Нета",
-      "model": "Neta U Pro 400 LFP",
+      "model": "U Pro 400 LFP",
       "year": 2022,
       "price": 6118.0,
       "mileage": 150000,
@@ -4785,7 +4785,7 @@
     {
       "id": 14505503,
       "brand": "НИО",
-      "model": "ES8 7-местный 500 км",
+      "model": "ES8 7-местный 500KM",
       "year": 2020,
       "price": 14437.0,
       "mileage": 150000,
@@ -4917,7 +4917,7 @@
     {
       "id": 14085687,
       "brand": "Хунци",
-      "model": "H5 2.0T Юбилейная 500 000",
+      "model": "H5 2.0T Юбилейная версия 500 000",
       "year": 2025,
       "price": 12512.0,
       "mileage": 1000,
@@ -4950,7 +4950,7 @@
     {
       "id": 13891773,
       "brand": "БМВ",
-      "model": "5 серия 2023 530Li 2.0T Лидер Люкс",
+      "model": "5 серии 2023 530Li 2.0T Лидирующая Люкс пакет",
       "year": 2023,
       "price": 32587.0,
       "mileage": 85000,
@@ -4992,7 +4992,7 @@
     {
       "id": 13903342,
       "brand": "Трампчи",
-      "model": "M8 Twin Engine 2.0T CVT Флагман",
+      "model": "M8 Hybrid 2.0T CVT Флагман",
       "year": 2023,
       "price": 22907.0,
       "mileage": 90000,
@@ -5034,7 +5034,7 @@
     {
       "id": 13817118,
       "brand": "Фольксваген",
-      "model": "Lavida New 1.5 Особое желание",
+      "model": "Lavida New 1.5 Выдающаяся",
       "year": 2025,
       "price": 7562.0,
       "mileage": 30000,
@@ -5117,7 +5117,7 @@
     {
       "id": 13283009,
       "brand": "Дунфэн",
-      "model": "Nano BOX Чемпион Лёгкий ветер 201 км Стандарт",
+      "model": "Nano BOX Чемпион 201KM Стандарт",
       "year": 2022,
       "price": 3231.0,
       "mileage": 40000,
@@ -5183,7 +5183,7 @@
     {
       "id": 13462031,
       "brand": "Фольксваген",
-      "model": "Tacqua 1.5 Умная связь",
+      "model": "Tacqua 1.5 Smart Connect",
       "year": 2021,
       "price": 9872.0,
       "mileage": 52000,
@@ -5216,7 +5216,7 @@
     {
       "id": 13465626,
       "brand": "Чанган",
-      "model": "Eado PLUS 1.4TGDI Blue Whale NE Престиж",
+      "model": "Eado PLUS 1.4TGDI Blue Core NE Престиж",
       "year": 2022,
       "price": 7260.0,
       "mileage": 46000,
@@ -5324,7 +5324,7 @@
     {
       "id": 14826113,
       "brand": "ИксПэн",
-      "model": "Mona M03 620 Сверхдальний Plus",
+      "model": "Mona M03 620 Ultra Long Range Plus",
       "year": 2025,
       "price": 12237.0,
       "mileage": 1200,
@@ -5382,7 +5382,7 @@
     {
       "id": 13145092,
       "brand": "БМВ",
-      "model": "X1 sDrive20Li 1.5T Престиж",
+      "model": "X1 sDrive20Li 1.5T Премиум",
       "year": 2022,
       "price": 23650.0,
       "mileage": 28500,
@@ -5486,7 +5486,7 @@
     {
       "id": 14056976,
       "brand": "БМВ",
-      "model": "3 серия 2022 325Li 2.0T M Sport",
+      "model": "3 серии 2022 325Li 2.0T M Sport пакет",
       "year": 2022,
       "price": 24062.0,
       "mileage": 17000,
@@ -5519,7 +5519,7 @@
     {
       "id": 10560065,
       "brand": "Ауди",
-      "model": "A5 Sportback 2022 2.0TFSI 40TFSI Динамичная мода",
+      "model": "A5 Sportback 2022 2.0TFSI 40TFSI Стильный динамичный",
       "year": 2022,
       "price": 22797.0,
       "mileage": 72000,
@@ -5987,7 +5987,7 @@
     {
       "id": 11963832,
       "brand": "Тойота",
-      "model": "Sienna 2.5 CVT Ultimate",
+      "model": "Sienna 2.5 CVT至尊",
       "year": 2021,
       "price": 28875.0,
       "mileage": 100000,
@@ -6245,7 +6245,7 @@
     {
       "id": 14751722,
       "brand": "БМВ",
-      "model": "X1 sDrive20Li 1.5T X Design Package",
+      "model": "X1 sDrive20Li 1.5T X Line",
       "year": 2023,
       "price": 17600.0,
       "mileage": 30000,
@@ -6424,7 +6424,7 @@
     {
       "id": 12883341,
       "brand": "Фольксваген",
-      "model": "Tiguan L R-Line 2.0TSI 330TSI FWD Enjoyment",
+      "model": "Tiguan L R-Line 2.0TSI 330TSI FWD越享",
       "year": 2021,
       "price": 13337.0,
       "mileage": 98000,
@@ -6693,7 +6693,7 @@
     {
       "id": 12752546,
       "brand": "Фольксваген",
-      "model": "Tayron 1.4TSI 280TSI FWD Luxury Connect",
+      "model": "Tayron 1.4TSI 280TSI 2WD Luxury Connect",
       "year": 2022,
       "price": 18837.0,
       "mileage": 48000,
@@ -6724,7 +6724,7 @@
     {
       "id": 14189685,
       "brand": "Трампчи",
-      "model": "GS8 Hybrid 2.0TM CVT FWD Premium 7-Seat",
+      "model": "GS8 Hybrid 2.0TM CVT 2WD Premium 7-Seat",
       "year": 2022,
       "price": 15125.0,
       "mileage": 53000,
@@ -6899,7 +6899,7 @@
     {
       "id": 14616739,
       "brand": "Танк",
-      "model": "Tank 300 2.0T Cyber Tank",
+      "model": "300 2.0T Cyber Tank",
       "year": 2021,
       "price": 26812.0,
       "mileage": 48000,
@@ -6935,7 +6935,7 @@
     {
       "id": 13911931,
       "brand": "ЭмДжи",
-      "model": "MG5 1.5TGI 300TGI Luxury Flagship",
+      "model": "5 1.5TGI 300TGI Luxury Flagship",
       "year": 2021,
       "price": 5197.0,
       "mileage": 90000,
@@ -7035,7 +7035,7 @@
     {
       "id": 13911775,
       "brand": "Фольксваген",
-      "model": "T-Cross 1.5 Comfort",
+      "model": "T-Cross 1.5",
       "year": 2021,
       "price": 7975.0,
       "mileage": 66000,
@@ -7142,7 +7142,7 @@
     {
       "id": 14686727,
       "brand": "Фольксваген",
-      "model": "Tiguan L R-Line 2.0TSI 330TSI FWD Enjoyment",
+      "model": "Tiguan L R-Line 2.0TSI 330TSI FWD越享",
       "year": 2021,
       "price": 13612.0,
       "mileage": 28000,
@@ -7176,7 +7176,7 @@
     {
       "id": 13653692,
       "brand": "Бестун",
-      "model": "Yueyi 03 565km Joy Edition",
+      "model": "Yueyi 03 565km Joy",
       "year": 2025,
       "price": 10147.0,
       "mileage": 3000,
@@ -7312,7 +7312,7 @@
     {
       "id": 14657978,
       "brand": "Хонда",
-      "model": "XR-V 1.5 CVT Hot",
+      "model": "XR-V 1.5 CVT Heat",
       "year": 2024,
       "price": 11274.0,
       "mileage": 47000,
@@ -7431,7 +7431,7 @@
     {
       "id": 14257082,
       "brand": "Хунци",
-      "model": "HS5 2.0T Smart Connect Flagship",
+      "model": "HS5 2.0T Smart Connect Flagship Enjoy",
       "year": 2022,
       "price": 10532.0,
       "mileage": 46000,
@@ -7465,7 +7465,7 @@
     {
       "id": 14404336,
       "brand": "Линк & Ко",
-      "model": "Lynk & Co 03+ 2.0TD Wind Rider",
+      "model": "03+ 2.0TD Wind Master",
       "year": 2020,
       "price": 9886.0,
       "mileage": 110000,
@@ -7530,7 +7530,7 @@
     {
       "id": 14404181,
       "brand": "Мазда",
-      "model": "Mazda3 Axela Sedan 2.0 Elegance 2023",
+      "model": "3 Axela Sedan 2.0 Elegance 2023",
       "year": 2023,
       "price": 11660.0,
       "mileage": 12300,
@@ -7563,7 +7563,7 @@
     {
       "id": 14393056,
       "brand": "Чери",
-      "model": "Tiggo 8 PRO 1.6T 290T FWD Premium",
+      "model": "Tiggo 8 PRO 1.6T 290T 2WD Premium",
       "year": 2025,
       "price": 12320.0,
       "mileage": 6600,
@@ -7596,7 +7596,7 @@
     {
       "id": 13637838,
       "brand": "Ауди",
-      "model": "Q7 48V 3.0TFSI 55TFSI Quattro S line 2023",
+      "model": "Q7 48V 3.0TFSI 55TFSI Quattro S line Sport 2023",
       "year": 2023,
       "price": 45237.0,
       "mileage": 71000,
@@ -7632,7 +7632,7 @@
     {
       "id": 14404502,
       "brand": "АЙТО",
-      "model": "AITO M9 EV Ultra 100kWh",
+      "model": "M9 EV Ultra 100kWh",
       "year": 2024,
       "price": 50297.0,
       "mileage": 21000,
@@ -7697,7 +7697,7 @@
     {
       "id": 13952368,
       "brand": "Тойота",
-      "model": "Crown Vellfire 2.5 CVT Executive 2024",
+      "model": "Crown Vellfire 2.5 CVT Supreme Executive 2024",
       "year": 2024,
       "price": 101475.0,
       "mileage": 63000,
@@ -7722,7 +7722,7 @@
     {
       "id": 13993277,
       "brand": "Чанган",
-      "model": "Eado 1.5T 500Bar Smart",
+      "model": "Eado 1.5T 500Bar Smart Enjoy",
       "year": 2026,
       "price": 9487.0,
       "mileage": 2000,
@@ -7752,7 +7752,7 @@
     {
       "id": 11989948,
       "brand": "Кадиллак",
-      "model": "XT4 2.0T 28T FWD Tech",
+      "model": "XT4 2.0T 28T 2WD Tech",
       "year": 2021,
       "price": 13062.0,
       "mileage": 70000,
@@ -7785,7 +7785,7 @@
     {
       "id": 14397335,
       "brand": "Денза",
-      "model": "Denza D9 DM-i 1.5T CVT 1040 Premium",
+      "model": "D9 DM-i 1.5T CVT 1040 Premium",
       "year": 2022,
       "price": 25987.0,
       "mileage": 68000,
@@ -7880,7 +7880,7 @@
     {
       "id": 14392873,
       "brand": "Тойота",
-      "model": "Crown Vellfire 2.5 CVT Executive 2024",
+      "model": "Crown Vellfire 2.5 CVT Supreme Executive 2024",
       "year": 2024,
       "price": 106975.0,
       "mileage": 35000,
@@ -7979,7 +7979,7 @@
     {
       "id": 14375281,
       "brand": "Сяоми",
-      "model": "SU7 800km AWD Long Range Max",
+      "model": "SU7 800km AWD Ultra Range Smart Drive Max",
       "year": 2024,
       "price": 31968.0,
       "mileage": 8500,
@@ -8016,7 +8016,7 @@
     {
       "id": 14176106,
       "brand": "Ауди",
-      "model": "A4L 2.0TFSI 40TFSI Sport Dynamic",
+      "model": "A4L 2.0TFSI 40TFSI Fashion Dynamic",
       "year": 2022,
       "price": 19250.0,
       "mileage": 44000,
@@ -8084,7 +8084,7 @@
     {
       "id": 14117938,
       "brand": "БМВ",
-      "model": "6 Series GT 630i 2.0T Luxury Design 2022",
+      "model": "6 Series GT 630i 2.0T Luxury Design Package 2022",
       "year": 2022,
       "price": 40287.0,
       "mileage": 15000,
@@ -8119,7 +8119,7 @@
     {
       "id": 12783438,
       "brand": "Мерседес-Бенц",
-      "model": "C-Class C 260 48V 1.5T Starlight Edition 2021",
+      "model": "C-Class C 260 48V 1.5T Star Collection 2021",
       "year": 2021,
       "price": 19937.0,
       "mileage": 90000,
@@ -8223,7 +8223,7 @@
     {
       "id": 14339733,
       "brand": "АЙТО",
-      "model": "AITO M9 EV Ultra 100kWh 5-местный",
+      "model": "M9 EV Ultra 100kWh 5-местный",
       "year": 2025,
       "price": 57557.0,
       "mileage": 23900,
@@ -8363,7 +8363,7 @@
     {
       "id": 14337198,
       "brand": "Хёндэ",
-      "model": "Elantra Седан 1.5 CVT LUX Premium",
+      "model": "Elantra Седан 1.5 CVT LUX Престиж",
       "year": 2021,
       "price": 7081.0,
       "mileage": 57000,
@@ -8432,7 +8432,7 @@
     {
       "id": 14365384,
       "brand": "Фольксваген",
-      "model": "Beetle 2014 Beetle 1.4TSI Luxury",
+      "model": "Beetle 2014 Beetle 1.4TSI Люкс",
       "year": 2014,
       "price": 7562.0,
       "mileage": 138000,
@@ -8464,7 +8464,7 @@
     {
       "id": 12482395,
       "brand": "Форд",
-      "model": "Lingyu 2.0T EcoBoost 225 Premium 7-местный",
+      "model": "Equator 2.0T EcoBoost 225 7-местный",
       "year": 2021,
       "price": 10037.0,
       "mileage": 100000,
@@ -8506,7 +8506,7 @@
     {
       "id": 13998474,
       "brand": "Бьюик",
-      "model": "GL8 Land Business Cabin 2.0T 652T Luxury",
+      "model": "GL8 Land Business Class 2.0T 652T Люкс",
       "year": 2021,
       "price": 15125.0,
       "mileage": 78000,
@@ -8544,7 +8544,7 @@
     {
       "id": 14100062,
       "brand": "Лексус",
-      "model": "ES 2022 ES200 2.0 CVT Excellence",
+      "model": "ES 2022 ES200 2.0 CVT Превосходный",
       "year": 2022,
       "price": 25025.0,
       "mileage": 50000,
@@ -8627,7 +8627,7 @@
     {
       "id": 13874681,
       "brand": "Фольксваген",
-      "model": "Passat 1.4TSI 280TSI Business",
+      "model": "Passat 1.4TSI 280TSI Бизнес",
       "year": 2022,
       "price": 7975.0,
       "mileage": 90000,
@@ -8660,7 +8660,7 @@
     {
       "id": 14291477,
       "brand": "Тойота",
-      "model": "Avalon 2.5 Luxury",
+      "model": "Avalon 2.5 Люкс",
       "year": 2021,
       "price": 13612.0,
       "mileage": 69000,
@@ -8692,7 +8692,7 @@
     {
       "id": 13878697,
       "brand": "Бьюик",
-      "model": "GL8 Land Business Cabin 48V 2.0T 652T Luxury",
+      "model": "GL8 Land Business Class 48V 2.0T 652T Люкс",
       "year": 2022,
       "price": 13722.0,
       "mileage": 57000,
@@ -8725,7 +8725,7 @@
     {
       "id": 14321618,
       "brand": "Эол",
-      "model": "Yixuan MAX 1.5T Super Cool Dad",
+      "model": "Yixuan MAX 1.5T Super Cool",
       "year": 2021,
       "price": 0,
       "mileage": 40000,
@@ -8756,7 +8756,7 @@
     {
       "id": 13697735,
       "brand": "Роуи",
-      "model": "Clever 311km Energy Bobo",
+      "model": "CLEVER 311km Energy Pop",
       "year": 2022,
       "price": 3300.0,
       "mileage": 30000,
@@ -8822,7 +8822,7 @@
     {
       "id": 14161270,
       "brand": "БИД",
-      "model": "Qin PLUS DM-i 1.5 CVT Flagship 55km",
+      "model": "Qin PLUS DM-i 1.5 CVT Флагман 55KM",
       "year": 2021,
       "price": 4812.0,
       "mileage": 86000,
@@ -8888,7 +8888,7 @@
     {
       "id": 14099052,
       "brand": "БМВ",
-      "model": "X3 xDrive25L 2.0T Luxury Package",
+      "model": "X3 xDrive25L 2.0T Luxury",
       "year": 2025,
       "price": 35200.0,
       "mileage": 17000,
@@ -8920,7 +8920,7 @@
     {
       "id": 12584173,
       "brand": "Бьюик",
-      "model": "GL8 ES Land Zun 48V 2.0T 653T Premium",
+      "model": "GL8 ES Land Zun 48V 2.0T 653T Премиум",
       "year": 2023,
       "price": 28600.0,
       "mileage": 30000,
@@ -8988,7 +8988,7 @@
     {
       "id": 13865618,
       "brand": "Чанган",
-      "model": "Eado PLUS 1.4TGDI Blue Whale NE Престиж",
+      "model": "Eado PLUS 1.4TGDI Blue Core NE Престиж",
       "year": 2022,
       "price": 5060.0,
       "mileage": 4200,
@@ -9251,7 +9251,7 @@
     {
       "id": 13391179,
       "brand": "Айон",
-      "model": "Aion Y Younger Starlight",
+      "model": "Y Younger Starlight",
       "year": 2023,
       "price": 9350.0,
       "mileage": 32000,
@@ -9292,7 +9292,7 @@
     {
       "id": 14039309,
       "brand": "Танк",
-      "model": "坦克300 2.0T Off-Road Conqueror",
+      "model": "300 2.0T Off-Road Conqueror",
       "year": 2021,
       "price": 17600.0,
       "mileage": 90000,
@@ -9399,7 +9399,7 @@
     {
       "id": 13631604,
       "brand": "БМВ",
-      "model": "3 Series 2021 325i 2.0T M Sport Night",
+      "model": "3 Series 2021 325i 2.0T M Sport Night Package",
       "year": 2021,
       "price": 21450.0,
       "mileage": 63000,
@@ -9564,7 +9564,7 @@
     {
       "id": 14160771,
       "brand": "ВМ Мотор",
-      "model": "W6 520km PRO All-Round",
+      "model": "W6 520 km PRO All-Round",
       "year": 2021,
       "price": 9212.0,
       "mileage": 60000,
@@ -9630,7 +9630,7 @@
     {
       "id": 14306303,
       "brand": "Ленд Ровер",
-      "model": "Range Rover 2024 48V 3.0T L6 400PS盛世 Long Wheelbase 7-Seat",
+      "model": "Range Rover 2024 48V 3.0T L6 400 PS盛世 Long Wheelbase 7-Seat",
       "year": 2024,
       "price": 151250.0,
       "mileage": 81000,
